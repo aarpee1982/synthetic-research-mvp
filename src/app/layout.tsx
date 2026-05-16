@@ -5,11 +5,17 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),
-  title: "Synthetic Market Research — Human-Anchored Market Research",
-  description: "Market research built on real human decisions, then extended by AI at scale."
+  title: "Synthetic Market Research - Human-Anchored AI Research",
+  description:
+    "A premium AI market research platform built around human behavioral signal, global synthetic agents, and fast executive-ready insight.",
+  alternates: {
+    canonical: "/"
+  }
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <body>
