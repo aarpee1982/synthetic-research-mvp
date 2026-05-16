@@ -8,8 +8,9 @@ export const metadata: Metadata = {
   title: "Synthetic Market Research - Human-Anchored AI Research",
   description:
     "A premium AI market research platform built around human behavioral signal, global synthetic agents, and fast executive-ready insight.",
-  alternates: {
-    canonical: "/"
+  robots: {
+    index: true,
+    follow: true
   }
 };
 
