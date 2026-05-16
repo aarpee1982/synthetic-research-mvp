@@ -188,11 +188,23 @@ function Hero() {
           Research built on what people actually <em>do</em>.
         </h1>
         <p className="hero-lede">
-          We replace legacy panels and biased questionnaires with hyper-realistic
-          AI agents calibrated by real behavioral signal.
+          We replace legacy panels and biased questionnaires with hyper-realistic AI
+          agents that mirror real consumer behavior.
         </p>
         <button className="text-button" onClick={() => scrollToSection("platform")}>
-          Learn How <span aria-hidden="true">-&gt;</span>
+          Learn How
+          <svg
+            aria-hidden="true"
+            className="text-button-icon"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.5"
+          >
+            <path d="M5 12h14M12 5l7 7-7 7" />
+          </svg>
         </button>
       </div>
       <div className="hero-sphere" aria-hidden="true">
