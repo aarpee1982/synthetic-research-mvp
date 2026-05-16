@@ -182,6 +182,16 @@ function Hero() {
 
   return (
     <section id="hero" className="hero-section">
+      <style>
+        {`
+          #text-sphere .sphere-layer {
+            width: auto;
+            height: auto;
+            min-width: max-content;
+            transform-origin: center center;
+          }
+        `}
+      </style>
       <div className="hero-copy">
         <p className="eyebrow">( AI-POWERED MARKET RESEARCH )</p>
         <h1>
