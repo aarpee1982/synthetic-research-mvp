@@ -11,7 +11,7 @@ export default function Nav() {
           <Link href="/methodology">Methodology</Link>
           <Link href="/blog">Insights</Link>
           <Link href="/privacy">Privacy</Link>
-          <a className="button secondary" href="/#video-footer">
+          <a className="button secondary" href="/#cta">
             Scope a Study
           </a>
         </nav>
