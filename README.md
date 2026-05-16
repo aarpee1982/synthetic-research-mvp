@@ -11,6 +11,8 @@ npm run dev
 
 ## Deployment
 
-This repo is intended to be connected to the Vercel project:
+This repo is connected to the Vercel project:
 
 `rahulpanditamarketing-2088s-projects/synthetic-market-research`
+
+Git pushes to `main` should create Vercel deployments.
