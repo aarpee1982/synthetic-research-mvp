@@ -231,6 +231,7 @@ p {
 
 .sphere-ring {
   position: absolute;
+  inset: 0;
 }
 
 .sphere-layer {
@@ -251,33 +252,33 @@ p {
 }
 
 @keyframes ring-spin-1 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-360deg) translateZ(250px); }
+  from { transform: rotateY(0deg); }
+  to { transform: rotateY(-360deg); }
 }
 
 @keyframes ring-spin-2 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-720deg) translateZ(250px); }
+  from { transform: rotateX(10deg) rotateY(0deg); }
+  to { transform: rotateX(10deg) rotateY(-720deg); }
 }
 
 @keyframes ring-spin-3 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-1080deg) translateZ(250px); }
+  from { transform: rotateX(-10deg) rotateY(0deg); }
+  to { transform: rotateX(-10deg) rotateY(-1080deg); }
 }
 
 @keyframes ring-spin-4 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-1440deg) translateZ(250px); }
+  from { transform: rotateX(18deg) rotateY(0deg); }
+  to { transform: rotateX(18deg) rotateY(-1440deg); }
 }
 
 @keyframes ring-spin-5 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-1800deg) translateZ(250px); }
+  from { transform: rotateX(-18deg) rotateY(0deg); }
+  to { transform: rotateX(-18deg) rotateY(-1800deg); }
 }
 
 @keyframes ring-spin-6 {
-  from { transform: translate3d(-50%, -50%, 0) rotateY(0deg) translateZ(250px); }
-  to { transform: translate3d(-50%, -50%, 0) rotateY(-2160deg) translateZ(250px); }
+  from { transform: rotateX(26deg) rotateY(0deg); }
+  to { transform: rotateX(26deg) rotateY(-2160deg); }
 }
 
 .platform-section,
