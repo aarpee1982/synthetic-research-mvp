@@ -51,7 +51,7 @@ function createRing(ringIndex: number) {
     const word = sphereWords[(ringIndex + i) % sphereWords.length];
     const color = sphereColors[i % sphereColors.length];
     const angle = (360 / layersPerRing) * i;
-    const baseTransform = `translate3d(-50%, -50%, 0) rotateY(${angle}deg) translateZ(250px)`;
+    const baseTransform = `translate3d(-50%, -50%, 0) rotateY(${angle}deg) translateZ(165px)`;
 
     if (i === 0) {
       const clone = document.createElement("span");
@@ -137,7 +137,7 @@ function Hero() {
       );
       const layerIndex = siblings.indexOf(layer);
       const theta = (layerIndex / layersPerRing) * Math.PI * 2;
-      const z = Math.cos(theta) * 120 * (ringIndex % 2 === 0 ? 1 : -1);
+      const z = Math.cos(theta) * 52 * (ringIndex % 2 === 0 ? 1 : -1);
       const element = layer as HTMLElement;
       element.style.transform = `${element.style.transform} translateZ(${z}px)`;
     });
