@@ -1,427 +1,361 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
-import gsap from "gsap";
-import ScrollTrigger from "gsap/dist/ScrollTrigger";
+import { useMemo, useState } from "react";
 
-gsap.registerPlugin(ScrollTrigger);
-
-const sphereWords = [
-  "SYNTHETIC",
-  "AI",
-  "RESEARCH",
-  "MODELS",
+const words = [
+  "SIGNAL",
+  "INSIGHT",
   "SCALE",
   "PREDICT",
-  "INSIGHT",
-  "GLOBAL",
-  "AGENTS",
-  "DATA"
-];
-const sphereColors = ["#374151", "#A3837B", "#1F2937", "#6B7280"];
-const layersPerRing = 30;
-const ringCount = 6;
-const allImages = Array.from(
-  { length: 30 },
-  (_, i) => `https://picsum.photos/seed/synthetic-market-research-${i + 1}/900/650`
-);
-const platformChips: Array<{
-  top: string;
-  left?: string;
-  right?: string;
-  text: string;
-  sub: string;
-}> = [
-  { top: "8%", left: "5%", text: "360,000", sub: "Hyper-Realistic Agents" },
-  { top: "42%", right: "8%", text: "Real-Time", sub: "Dashboards" },
-  { top: "78%", left: "12%", text: "Global", sub: "Market Coverage" }
+  "AGENT",
+  "MODEL",
+  "DATA",
+  "RESEARCH",
+  "SYNTHETIC",
+  "PANEL",
+  "BEHAVIOR",
+  "VALIDATE"
 ];
 
-const processText =
-  "We begin with a deep understanding of your research objectives. Our team works with you to define the key questions, target demographics, and behavioral signals that matter most. Every engagement is scoped to your specific decision context. We deploy hyper-realistic AI agents across our global simulation network. These agents mirror real consumer behavior by training on actual behavioral data points. They compare, hesitate, choose, and explain the way real buyers do. As agents interact within our simulated marketplace, we capture every signal: every comparison, constraint, trade-off, and decision trigger. Our models analyze the behavioral data, identify patterns, segment audiences, and surface executive-ready insights you can act on.";
+const capabilities = [
+  ["Market Research", "Market Research & Audiences", "Identify market opportunities, validate concepts, and understand customer needs with fast synthetic and human-calibrated signal.", "/methodology"],
+  ["Brand Research", "Brand & Communication Research", "Track brand health, test creative, and validate messaging before your team invests behind the wrong story.", "#features"],
+  ["UX Research", "User Experience Research", "Catch usability issues before launch through moderated, unmoderated, and AI-assisted feedback loops.", "#features"],
+  ["Product Research", "Product & Innovation Research", "Pressure-test concepts, features, pricing, and launch assumptions with realistic alternatives and trade-offs.", "/blog/why-stated-preference-research-can-misread-launch-demand"],
+  ["AI Panels", "AI Synthetic Panels", "Research-grade synthetic respondents trained against real behavioural data and validated against human response patterns.", "/blog/ai-market-research-future"],
+  ["Automation", "Agentic Research", "AI helps shape the study, synthesize the results, and surface the decisions your team can act on next.", "#cta"]
+] as const;
 
-function scrollToSection(id: string) {
-  document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
-}
-
-function createRing(ringIndex: number) {
-  const fragment = document.createDocumentFragment();
-
-  for (let i = 0; i < layersPerRing; i += 1) {
-    const word = sphereWords[(ringIndex + i) % sphereWords.length];
-    const color = sphereColors[i % sphereColors.length];
-    const angle = (360 / layersPerRing) * i;
-    const baseTransform = `translate3d(-50%, -50%, 0) rotateY(${angle}deg) translateZ(210px)`;
-
-    if (i === 0) {
-      const clone = document.createElement("span");
-      clone.textContent = word;
-      clone.className = "sphere-layer sphere-layer-clone";
-      clone.style.color = "transparent";
-      clone.style.transform = baseTransform;
-      fragment.appendChild(clone);
-    }
-
-    const span = document.createElement("span");
-    span.textContent = word;
-    span.className = "sphere-layer";
-    span.style.color = color;
-    span.style.transform = baseTransform;
-    fragment.appendChild(span);
+const tabs = [
+  {
+    label: "Listen",
+    image: "/images/slide-07.jpg",
+    title: "Capture what matters, when it matters",
+    body: "Run studies across your own customers, global respondents, or AI synthetic panels. Recruitment delays shrink and decision context stays intact.",
+    bullets: ["Customer research communities", "Global panels and synthetic respondents", "Quantitative, qualitative, and hybrid studies"]
+  },
+  {
+    label: "Analyze",
+    image: "/images/slide-17.jpg",
+    title: "AI-powered analysis at the speed of thought",
+    body: "Surface patterns across thousands of responses quickly, from open-text coding to statistical modelling and cross-study trend detection.",
+    bullets: ["Automated theme extraction", "Statistical checks and segmentation", "Cross-study pattern detection"]
+  },
+  {
+    label: "Act",
+    image: "/images/slide-28.jpg",
+    title: "Insights that drive action",
+    body: "Move from evidence to stakeholder-ready action with executive summaries, research repositories, and clear next steps.",
+    bullets: ["Decision-ready summaries", "CRM and dashboard-ready outputs", "A searchable insight repository"]
   }
+];
 
-  return fragment;
+const resources = [
+  ["/images/slide-03.jpg", "Report", "AI market research is useful only when it is grounded in humans.", "/blog/ai-market-research-future"],
+  ["/images/slide-11.jpg", "Analysis", "GLP-1, obesity, and the global cost curve.", "/blog/glp1-obesity-cost-global-analysis"],
+  ["/images/slide-20.jpg", "Guide", "Why stated preference research can misread launch demand.", "/blog/why-stated-preference-research-can-misread-launch-demand"]
+] as const;
+
+const faqs = [
+  ["What makes Synthetic different from traditional research tools?", "We combine AI-synthetic respondents with human validation in one research workflow, so early-stage questions move quickly while high-stakes decisions still have evidence behind them."],
+  ["How do synthetic AI respondents work?", "Synthetic respondents are calibrated against real behavioural and survey data. The useful part is not generic AI opinion; it is pattern extension from validated human signal."],
+  ["Can we use our own customer data?", "Yes. First-party data can be blended with human panels and synthetic respondents so your research reflects your actual category, customers, and constraints."],
+  ["What methodologies can we run?", "The platform supports surveys, concept tests, conjoint, MaxDiff, UX feedback, brand tracking, pricing research, segmentation, and hybrid studies."],
+  ["How is quality protected?", "Every study is designed around calibration, consistency checks, outlier detection, and human review where the decision risk justifies it."],
+  ["What happens to our research data?", "Your data remains your data. Proprietary studies are not used to train models for other customers."]
+] as const;
+
+function ArrowIcon() {
+  return (
+    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
+      <path d="M5 12h14M12 5l7 7-7 7" />
+    </svg>
+  );
 }
 
-function Navigation() {
-  const [scrolled, setScrolled] = useState(false);
+function Sphere() {
+  const nodes = useMemo(() => {
+    const goldenAngle = Math.PI * (3 - Math.sqrt(5));
 
-  useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener("scroll", handleScroll, { passive: true });
-    handleScroll();
-    return () => window.removeEventListener("scroll", handleScroll);
+    return Array.from({ length: 84 }, (_, index) => {
+      const y = 1 - (index / 83) * 2;
+      const radiusAtY = Math.sqrt(1 - y * y);
+      const theta = goldenAngle * index;
+      const x = Math.cos(theta) * radiusAtY;
+      const z = Math.sin(theta) * radiusAtY;
+      const azimuth = (Math.atan2(x, z) * 180) / Math.PI;
+      const elevation = (Math.asin(y) * 180) / Math.PI;
+
+      return {
+        word: words[index % words.length],
+        tone: index % 4,
+        transform: `translate3d(-50%, -50%, 0) rotateY(${azimuth}deg) rotateX(${elevation}deg) translateZ(210px)`
+      };
+    });
   }, []);
 
   return (
-    <nav className={`site-nav ${scrolled ? "site-nav-scrolled" : ""}`}>
-      <button className="brand-mark" onClick={() => scrollToSection("hero")}>
-        Synthetic
-      </button>
-      <div className="nav-menu" aria-label="Homepage sections">
-        {[
-          ["Platform", "platform"],
-          ["Process", "process"],
-          ["Global Scale", "global-scale"],
-          ["Contact", "video-footer"]
-        ].map(([label, target]) => (
-          <button className="nav-link" key={target} onClick={() => scrollToSection(target)}>
-            {label}
-          </button>
+    <div className="smr2-sphere-wrap" aria-hidden="true">
+      <div className="smr2-sphere">
+        {nodes.map((node, index) => (
+          <span className={`smr2-sphere-word tone-${node.tone}`} key={`${node.word}-${index}`} style={{ transform: node.transform }}>
+            {node.word}
+          </span>
         ))}
       </div>
-      <button className="nav-cta" onClick={() => scrollToSection("video-footer")}>
-        Request a Demo
+    </div>
+  );
+}
+
+function Navigation() {
+  const [open, setOpen] = useState(false);
+  const links = [
+    ["Platform", "#capabilities"],
+    ["Methodology", "/methodology"],
+    ["Insights", "/blog"],
+    ["Resources", "#resources"]
+  ] as const;
+
+  return (
+    <header className="smr2-nav">
+      <a className="smr2-brand" href="/">Synthetic</a>
+      <nav className="smr2-nav-links" aria-label="Main navigation">
+        {links.map(([label, href]) => (
+          <a key={href} href={href}>{label}</a>
+        ))}
+      </nav>
+      <a className="smr2-nav-cta" href="#cta">Book a Call</a>
+      <button className="smr2-menu-button" type="button" aria-expanded={open} aria-label="Open menu" onClick={() => setOpen(!open)}>
+        <span />
+        <span />
+        <span />
       </button>
-    </nav>
+      {open ? (
+        <div className="smr2-mobile-panel">
+          {links.map(([label, href]) => (
+            <a key={href} href={href} onClick={() => setOpen(false)}>{label}</a>
+          ))}
+          <a href="#cta" onClick={() => setOpen(false)}>Book a Call</a>
+        </div>
+      ) : null}
+    </header>
   );
 }
 
 function Hero() {
-  const timeRef = useRef({ prevTime: 0, prevScrollY: 0, scrollVelocity: 0 });
-
-  useEffect(() => {
-    const sphere = document.getElementById("text-sphere");
-    if (!sphere) return;
-
-    timeRef.current.prevTime = performance.now();
-    sphere.innerHTML = "";
-    const ringsData: Array<{ ring: HTMLDivElement; baseSpeed: number }> = [];
-
-    for (let ringIndex = 0; ringIndex < ringCount; ringIndex += 1) {
-      const ring = document.createElement("div");
-      ring.className = "sphere-ring";
-      ring.style.animation = `ring-spin-${ringIndex + 1} ${10 + ringIndex * 4}s linear infinite`;
-      ring.appendChild(createRing(ringIndex));
-      sphere.appendChild(ring);
-      ringsData.push({ ring, baseSpeed: 10 + ringIndex * 4 });
-    }
-
-    const allLayers = sphere.querySelectorAll(".sphere-layer:not(.sphere-layer-clone)");
-    allLayers.forEach((layer) => {
-      const parent = layer.parentElement;
-      if (!parent) return;
-      const ringIndex = Array.from(sphere.children).indexOf(parent);
-      const siblings = Array.from(parent.children).filter(
-        (child) => !child.classList.contains("sphere-layer-clone")
-      );
-      const layerIndex = siblings.indexOf(layer);
-      const theta = (layerIndex / layersPerRing) * Math.PI * 2;
-      const z = Math.cos(theta) * 78 * (ringIndex % 2 === 0 ? 1 : -1);
-      const element = layer as HTMLElement;
-      element.style.transform = `${element.style.transform} translateZ(${z}px)`;
-    });
-
-    sphere.querySelectorAll(".sphere-ring").forEach((ring) => {
-      const clone = ring.querySelector(".sphere-layer-clone") as HTMLElement | null;
-      const visibleLayers = Array.from(
-        ring.querySelectorAll(".sphere-layer:not(.sphere-layer-clone)")
-      );
-      const lastLayer = visibleLayers.at(-1) as HTMLElement | undefined;
-      if (clone && lastLayer) clone.style.transform = lastLayer.style.transform;
-    });
-
-    const handleScroll = () => {
-      const scrollY = window.scrollY || window.pageYOffset;
-      const delta = scrollY - timeRef.current.prevScrollY;
-      timeRef.current.prevScrollY = scrollY;
-      timeRef.current.scrollVelocity = Math.abs(delta) > 1 ? delta * 0.05 : 0;
-    };
-
-    let rafId = 0;
-    const tick = () => {
-      const now = performance.now();
-      const dt = Math.min((now - timeRef.current.prevTime) / 1000, 0.1);
-      timeRef.current.prevTime = now;
-      timeRef.current.scrollVelocity *= Math.pow(0.95, dt * 60);
-      const currentSpeed = Math.max(0.25, 1 + timeRef.current.scrollVelocity * 0.05);
-      ringsData.forEach(({ ring, baseSpeed }) => {
-        ring.style.animationDuration = `${baseSpeed / currentSpeed}s`;
-      });
-      rafId = requestAnimationFrame(tick);
-    };
-
-    window.addEventListener("scroll", handleScroll, { passive: true });
-    rafId = requestAnimationFrame(tick);
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-      cancelAnimationFrame(rafId);
-    };
-  }, []);
-
   return (
-    <section id="hero" className="hero-section">
-      <style>
-        {`
-          #text-sphere .sphere-layer {
-            width: auto;
-            height: auto;
-            min-width: max-content;
-            transform-origin: center center;
-          }
-        `}
-      </style>
-      <div className="hero-copy">
-        <p className="eyebrow">( AI-POWERED MARKET RESEARCH )</p>
-        <h1>
-          Research built on what people actually <em>do</em>.
-        </h1>
-        <p className="hero-lede">
-          We replace legacy panels and biased questionnaires with hyper-realistic AI
-          agents that mirror real consumer behavior.
-        </p>
-        <button className="text-button" onClick={() => scrollToSection("platform")}>
-          Learn How
-          <svg
-            aria-hidden="true"
-            className="text-button-icon"
-            width="20"
-            height="20"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="1.5"
-          >
-            <path d="M5 12h14M12 5l7 7-7 7" />
-          </svg>
-        </button>
-      </div>
-      <div className="hero-sphere" aria-hidden="true">
-        <div className="text-sphere-wrapper">
-          <div id="text-sphere" />
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function Platform() {
-  const sectionRef = useRef<HTMLElement>(null);
-
-  useEffect(() => {
-    if (!sectionRef.current) return;
-
-    const ctx = gsap.context(() => {
-      sectionRef.current?.querySelectorAll(".slider-row").forEach((row, index) => {
-        const wrapper = row.querySelector(".slider-wrapper");
-        const inner = row.querySelector(".slider-inner");
-        if (!wrapper || !inner) return;
-
-        const clone = inner.cloneNode(true) as HTMLElement;
-        wrapper.appendChild(clone);
-        const targets = [inner, clone];
-
-        if (index % 2 !== 0) gsap.set(targets, { x: "-50%" });
-
-        gsap.fromTo(
-          targets,
-          { x: index % 2 === 0 ? "0%" : "-50%" },
-          {
-            x: index % 2 === 0 ? "-50%" : "0%",
-            ease: "none",
-            scrollTrigger: {
-              trigger: wrapper,
-              start: "top bottom",
-              end: "bottom top",
-              scrub: 0.5
-            }
-          }
-        );
-      });
-    }, sectionRef.current);
-
-    return () => ctx.revert();
-  }, []);
-
-  return (
-    <section id="platform" className="platform-section" ref={sectionRef}>
-      <div className="glass-line" />
-      <div className="section-pad">
-        <p className="eyebrow">( PLATFORM )</p>
-        <h2>See the platform in action</h2>
-      </div>
-      <div className="slider-stage">
-        {platformChips.map(({ top, left, right, text, sub }) => (
-          <div className="data-chip" style={{ top, left, right }} key={sub}>
-            <p>{text}</p>
-            <span>{sub}</span>
-          </div>
-        ))}
-        {[0, 1, 2].map((row) => (
-          <div className="slider-row" key={row}>
-            <div className={`slider-wrapper ${row % 2 === 0 ? "perspective-left" : "perspective-right"}`}>
-              <div className="slider-inner">
-                {allImages.slice(row * 10, row * 10 + 10).map((src) => (
-                  <div className="slide" style={{ backgroundImage: `url(${src})` }} key={src} />
-                ))}
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-      <div className="glass-line bottom" />
-    </section>
-  );
-}
-
-function Process() {
-  const textRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (!textRef.current) return;
-    const section = textRef.current;
-    section.innerHTML = "";
-    const spans: HTMLSpanElement[] = [];
-
-    processText.split(" ").forEach((word, index, arr) => {
-      const span = document.createElement("span");
-      span.textContent = word;
-      span.className = "reveal-word";
-      section.appendChild(span);
-      spans.push(span);
-      if (index < arr.length - 1) section.appendChild(document.createTextNode(" "));
-    });
-
-    const tween = gsap.fromTo(
-      spans,
-      { opacity: 0.1, filter: "blur(12px) brightness(60%)" },
-      {
-        opacity: 1,
-        filter: "blur(0px) brightness(100%)",
-        stagger: 0.05,
-        scrollTrigger: {
-          trigger: section,
-          start: "top 80%",
-          end: "bottom 40%",
-          scrub: true
-        }
-      }
-    );
-
-    return () => {
-      tween.scrollTrigger?.kill();
-      tween.kill();
-    };
-  }, []);
-
-  return (
-    <section id="process" className="process-section">
-      <div className="section-center">
-        <p className="eyebrow">( PROCESS )</p>
-        <h2>How it works</h2>
-      </div>
-      <div ref={textRef} className="reveal-section" />
-    </section>
-  );
-}
-
-function GlobalScale() {
-  const logo = <span className="reflection-logo">Synthetic</span>;
-
-  return (
-    <section id="global-scale" className="global-section">
-      <div className="section-center">
-        <p className="eyebrow">( GLOBAL SCALE )</p>
-        <h2>Research without boundaries</h2>
+    <section className="smr2-hero" id="hero">
+      <div className="smr2-hero-copy">
+        <p className="smr2-eyebrow">Market & Audience Research</p>
+        <h1>Every signal. One platform. Decisions with confidence.</h1>
         <p>
-          Deploy AI agents across 180+ markets to understand consumer behavior at
-          global scale.
+          Synthetic combines real consumer behaviour with research-grade AI to spot opportunities,
+          validate direction, and move with certainty.
         </p>
+        <div className="smr2-actions">
+          <a className="smr2-button light" href="#cta">Book a Call</a>
+          <a className="smr2-button ghost" href="#features">Watch How It Works <ArrowIcon /></a>
+        </div>
       </div>
-      <div className="global-stats">
-        {[
-          ["180+", "Markets"],
-          ["360K", "AI Agents"],
-          ["Human", "Calibration"],
-          ["< 48h", "Turnaround"]
-        ].map(([value, label]) => (
-          <div className="global-stat" key={label}>
-            <strong>{value}</strong>
-            <span>{label}</span>
-          </div>
+      <Sphere />
+      <div className="smr2-trust-strip">
+        <span>Built for forward-thinking teams</span>
+        {["Healthcare", "Retail", "Financial Services", "Technology", "Consumer Goods"].map((label) => (
+          <span key={label}>{label}</span>
         ))}
-      </div>
-      <div className="reflection-wrapper">
-        <div className="logo-top">{logo}</div>
-        <div className="logo-bottom">{logo}</div>
       </div>
     </section>
   );
 }
 
-function VideoFooter() {
-  const videoRef = useRef<HTMLVideoElement>(null);
+function Stats() {
+  return (
+    <section className="smr2-split smr2-stone" id="stats">
+      <div>
+        <p className="smr2-eyebrow dark">Market & Audience Understanding</p>
+        <h2>Get strategic insights in hours instead of months</h2>
+        <p>
+          Combine AI-synthetic respondents with targeted human validation. Design, field, and
+          analyze studies at the speed your business demands.
+        </p>
+        <div className="smr2-stats-row">
+          {[
+            ["98%", "Faster than traditional panels"],
+            ["50%", "Reduced research costs"],
+            ["12x", "More accurate than general AI"]
+          ].map(([value, label]) => (
+            <div key={label}>
+              <strong>{value}</strong>
+              <span>{label}</span>
+            </div>
+          ))}
+        </div>
+        <a className="smr2-text-link" href="#features">See how it works <ArrowIcon /></a>
+      </div>
+      <img src="/images/slide-07.jpg" alt="Synthetic research dashboard and signal map" loading="lazy" decoding="async" />
+    </section>
+  );
+}
 
-  useEffect(() => {
-    videoRef.current?.play().catch(() => {});
-  }, []);
+function Capabilities() {
+  return (
+    <section className="smr2-section" id="capabilities">
+      <p className="smr2-eyebrow dark">All Capabilities</p>
+      <h2>Built for every research discipline</h2>
+      <div className="smr2-card-grid">
+        {capabilities.map(([category, title, description, href]) => (
+          <a className="smr2-capability-card" href={href} key={title}>
+            <span>{category}</span>
+            <h3>{title}</h3>
+            <p>{description}</p>
+            <strong>Learn more <ArrowIcon /></strong>
+          </a>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function TabbedFeatures() {
+  const [active, setActive] = useState(0);
+  const tab = tabs[active];
 
   return (
-    <section id="video-footer" className="video-footer">
-      <div className="glass-line" />
-      <video ref={videoRef} autoPlay muted loop playsInline className="footer-video">
-        <source
-          src="https://videos.pexels.com/video-files/854149/854149-hd_1920_1080_30fps.mp4"
-          type="video/mp4"
-        />
-      </video>
-      <div className="video-overlay" />
-      <div className="footer-cta">
-        <h2>Data is the new oil. The question is how to refine it.</h2>
-        <a href="mailto:hello@syntheticmarketresearch.com">Request a Demo</a>
-      </div>
-      <footer className="footer-bar">
-        <p>&copy; {new Date().getFullYear()} Synthetic Market Research. All rights reserved.</p>
-        <div>
-          <a href="/privacy">Privacy</a>
-          <a href="/terms">Terms</a>
-          <a href="mailto:hello@syntheticmarketresearch.com">Contact</a>
+    <section className="smr2-section smr2-stone" id="features">
+      <p className="smr2-eyebrow dark">Platform</p>
+      <h2>From signal to decision</h2>
+      <div className="smr2-tabs">
+        <div className="smr2-tab-list" role="tablist" aria-label="Platform stages">
+          {tabs.map((item, index) => (
+            <button className={active === index ? "active" : ""} key={item.label} type="button" onClick={() => setActive(index)}>
+              <span>{item.label}</span>
+              <small>{item.body.slice(0, 82)}...</small>
+            </button>
+          ))}
         </div>
-      </footer>
+        <div className="smr2-tab-panel">
+          <div>
+            <h3>{tab.title}</h3>
+            <p>{tab.body}</p>
+            <ul>
+              {tab.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}
+            </ul>
+          </div>
+          <img src={tab.image} alt={tab.title} loading="lazy" decoding="async" />
+        </div>
+      </div>
     </section>
+  );
+}
+
+function Testimonial() {
+  return (
+    <section className="smr2-quote">
+      <p className="smr2-eyebrow">Real Results</p>
+      <blockquote>
+        "Synthetic data became our cultural radar, cutting research timelines from a week to hours
+        while giving us confidence to test messaging against emerging trends."
+      </blockquote>
+      <p>Garred Sheppard<br /><span>Marketing Research Director</span></p>
+      <div className="smr2-proof-row">
+        {[
+          ["98%", "Faster time to insight"],
+          ["50%", "Lower cost"],
+          ["10x", "More confident decisions"]
+        ].map(([value, label]) => (
+          <div key={label}><strong>{value}</strong><span>{label}</span></div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function Resources() {
+  return (
+    <section className="smr2-section" id="resources">
+      <p className="smr2-eyebrow dark">Resources</p>
+      <h2>Learn from the research leaders</h2>
+      <div className="smr2-resource-grid">
+        {resources.map(([image, category, title, href]) => (
+          <a className="smr2-resource-card" href={href} key={href}>
+            <img src={image} alt={title} loading="lazy" decoding="async" />
+            <span>{category}</span>
+            <h3>{title}</h3>
+            <strong>Read more <ArrowIcon /></strong>
+          </a>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function FAQ() {
+  const [open, setOpen] = useState(0);
+
+  return (
+    <section className="smr2-section smr2-stone" id="faq">
+      <div className="smr2-faq-head">
+        <p className="smr2-eyebrow dark">FAQ</p>
+        <h2>Questions? We have answers.</h2>
+      </div>
+      <div className="smr2-faq-list">
+        {faqs.map(([question, answer], index) => (
+          <div className="smr2-faq-item" key={question}>
+            <button type="button" aria-expanded={open === index} onClick={() => setOpen(open === index ? -1 : index)}>
+              <span>{question}</span>
+              <b>{open === index ? "-" : "+"}</b>
+            </button>
+            {open === index ? <p>{answer}</p> : null}
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function CTA() {
+  return (
+    <section className="smr2-cta" id="cta">
+      <h2>Ready to make research your competitive advantage?</h2>
+      <p>See how insight-driven companies turn faster research into clearer product, brand, and market decisions.</p>
+      <div className="smr2-actions center">
+        <a className="smr2-button light" href="mailto:hello@syntheticmarketresearch.com">Book a Call</a>
+        <a className="smr2-button ghost" href="/methodology">View Methodology <ArrowIcon /></a>
+      </div>
+    </section>
+  );
+}
+
+function Footer() {
+  return (
+    <footer className="smr2-footer">
+      <div>
+        <strong>Synthetic</strong>
+        <p>Market research built on real human decisions, then extended by AI at scale.</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <a href="/methodology">Methodology</a>
+        <a href="/blog">Insights</a>
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+      </nav>
+    </footer>
   );
 }
 
 export default function HomeExperience() {
   return (
-    <div className="home-experience">
+    <div className="smr2-home">
       <Navigation />
       <Hero />
-      <Platform />
-      <Process />
-      <GlobalScale />
-      <VideoFooter />
+      <Stats />
+      <Capabilities />
+      <TabbedFeatures />
+      <Testimonial />
+      <Resources />
+      <FAQ />
+      <CTA />
+      <Footer />
     </div>
   );
 }
