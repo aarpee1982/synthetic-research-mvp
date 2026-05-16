@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
+import ScrollTrigger from "gsap/dist/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -25,6 +25,17 @@ const allImages = Array.from(
   { length: 30 },
   (_, i) => `https://picsum.photos/seed/synthetic-market-research-${i + 1}/900/650`
 );
+const platformChips: Array<{
+  top: string;
+  left?: string;
+  right?: string;
+  text: string;
+  sub: string;
+}> = [
+  { top: "8%", left: "5%", text: "360,000", sub: "Hyper-Realistic Agents" },
+  { top: "42%", right: "8%", text: "Real-Time", sub: "Dashboards" },
+  { top: "78%", left: "12%", text: "Global", sub: "Market Coverage" }
+];
 
 const processText =
   "We begin with a deep understanding of your research objectives. Our team works with you to define the key questions, target demographics, and behavioral signals that matter most. Every engagement is scoped to your specific decision context. We deploy hyper-realistic AI agents across our global simulation network. These agents mirror real consumer behavior by training on actual behavioral data points. They compare, hesitate, choose, and explain the way real buyers do. As agents interact within our simulated marketplace, we capture every signal: every comparison, constraint, trade-off, and decision trigger. Our models analyze the behavioral data, identify patterns, segment audiences, and surface executive-ready insights you can act on.";
@@ -181,7 +192,7 @@ function Hero() {
           AI agents calibrated by real behavioral signal.
         </p>
         <button className="text-button" onClick={() => scrollToSection("platform")}>
-          Learn How <span aria-hidden="true">-></span>
+          Learn How <span aria-hidden="true">-&gt;</span>
         </button>
       </div>
       <div className="hero-sphere" aria-hidden="true">
@@ -226,7 +237,7 @@ function Platform() {
           }
         );
       });
-    }, sectionRef);
+    }, sectionRef.current);
 
     return () => ctx.revert();
   }, []);
@@ -239,11 +250,7 @@ function Platform() {
         <h2>See the platform in action</h2>
       </div>
       <div className="slider-stage">
-        {[
-          ["8%", "5%", "", "360,000", "Hyper-Realistic Agents"],
-          ["42%", "", "8%", "Real-Time", "Dashboards"],
-          ["78%", "12%", "", "Global", "Market Coverage"]
-        ].map(([top, left, right, text, sub]) => (
+        {platformChips.map(({ top, left, right, text, sub }) => (
           <div className="data-chip" style={{ top, left, right }} key={sub}>
             <p>{text}</p>
             <span>{sub}</span>
