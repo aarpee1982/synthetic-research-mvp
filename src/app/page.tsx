@@ -1,10 +1,10 @@
-import HomeExperience from "@/components/HomeExperience";
+import HomeExperience from "@/components/ResearchHome";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Synthetic Market Research - Human-Anchored AI Research",
+  title: "Synthetic Market Research | Reports & Custom Research",
   description:
-    "AI-powered market research built on real human behavioural signal, calibrated synthetic agents, and executive-ready insight.",
+    "Market intelligence for your next business decision. Explore syndicated research and commission custom studies, with transparent evidence and human review.",
   alternates: {
     canonical: "/"
   }

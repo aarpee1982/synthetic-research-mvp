@@ -23,6 +23,10 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
+        source: "/reports/:path*",
+        headers: [{ key: "X-Robots-Tag", value: "googlebot: noindex, follow" }]
+      },
+      {
         source: "/:path*",
         headers: securityHeaders
       }

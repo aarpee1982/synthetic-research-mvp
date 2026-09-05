@@ -1,0 +1,770 @@
+[
+  {
+    "slug": "baby-food",
+    "title": "Baby Food",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "green",
+    "number": "01"
+  },
+  {
+    "slug": "bakery-products",
+    "title": "Bakery Products",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "blue",
+    "number": "02"
+  },
+  {
+    "slug": "dairy-alternatives",
+    "title": "Dairy Alternatives",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "red",
+    "number": "03"
+  },
+  {
+    "slug": "online-food-delivery",
+    "title": "Online Food Delivery",
+    "category": "Foodservice & delivery",
+    "region": "Global",
+    "color": "green",
+    "number": "04"
+  },
+  {
+    "slug": "organic-food",
+    "title": "Organic Food",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "blue",
+    "number": "05"
+  },
+  {
+    "slug": "plant-based-food",
+    "title": "Plant Based Food",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "06"
+  },
+  {
+    "slug": "sports-nutrition",
+    "title": "Sports Nutrition",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "green",
+    "number": "07"
+  },
+  {
+    "slug": "almond-milk",
+    "title": "Almond Milk",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "blue",
+    "number": "08"
+  },
+  {
+    "slug": "biscuits",
+    "title": "Biscuits",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "red",
+    "number": "09"
+  },
+  {
+    "slug": "breakfast-cereals",
+    "title": "Breakfast Cereals",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "10"
+  },
+  {
+    "slug": "bubble-tea",
+    "title": "Bubble Tea",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "11"
+  },
+  {
+    "slug": "cakes",
+    "title": "Cakes",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "red",
+    "number": "12"
+  },
+  {
+    "slug": "coconut-water",
+    "title": "Coconut Water",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "green",
+    "number": "13"
+  },
+  {
+    "slug": "collagen",
+    "title": "Collagen",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "14"
+  },
+  {
+    "slug": "food-additives",
+    "title": "Food Additives",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "red",
+    "number": "15"
+  },
+  {
+    "slug": "food-enzymes",
+    "title": "Food Enzymes",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "green",
+    "number": "16"
+  },
+  {
+    "slug": "food-flavors",
+    "title": "Food Flavors",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "blue",
+    "number": "17"
+  },
+  {
+    "slug": "food-ingredients",
+    "title": "Food Ingredients",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "red",
+    "number": "18"
+  },
+  {
+    "slug": "gluten-free-food",
+    "title": "Gluten Free Food",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "19"
+  },
+  {
+    "slug": "healthy-snacks",
+    "title": "Healthy Snacks",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "blue",
+    "number": "20"
+  },
+  {
+    "slug": "infant-formula",
+    "title": "Infant Formula",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "red",
+    "number": "21"
+  },
+  {
+    "slug": "instant-coffee",
+    "title": "Instant Coffee",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "green",
+    "number": "22"
+  },
+  {
+    "slug": "kombucha",
+    "title": "Kombucha",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "23"
+  },
+  {
+    "slug": "meat-substitutes",
+    "title": "Meat Substitutes",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "24"
+  },
+  {
+    "slug": "non-alcoholic-beer",
+    "title": "Non Alcoholic Beer",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "green",
+    "number": "25"
+  },
+  {
+    "slug": "pea-protein",
+    "title": "Pea Protein",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "26"
+  },
+  {
+    "slug": "plant-based-milk",
+    "title": "Plant Based Milk",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "red",
+    "number": "27"
+  },
+  {
+    "slug": "plant-protein",
+    "title": "Plant Protein",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "green",
+    "number": "28"
+  },
+  {
+    "slug": "ready-to-drink-coffee",
+    "title": "Ready To Drink Coffee",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "29"
+  },
+  {
+    "slug": "ready-to-eat-food",
+    "title": "Ready To Eat Food",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "red",
+    "number": "30"
+  },
+  {
+    "slug": "spices-and-seasonings",
+    "title": "Spices And Seasonings",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "green",
+    "number": "31"
+  },
+  {
+    "slug": "spirits",
+    "title": "Spirits",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "32"
+  },
+  {
+    "slug": "whey-protein",
+    "title": "Whey Protein",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "33"
+  },
+  {
+    "slug": "yogurt",
+    "title": "Yogurt",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "green",
+    "number": "34"
+  },
+  {
+    "slug": "bottled-water",
+    "title": "Bottled Water",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "35"
+  },
+  {
+    "slug": "chocolate",
+    "title": "Chocolate",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "red",
+    "number": "36"
+  },
+  {
+    "slug": "coffee",
+    "title": "Coffee",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "green",
+    "number": "37"
+  },
+  {
+    "slug": "energy-drinks",
+    "title": "Energy Drinks",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "38"
+  },
+  {
+    "slug": "foodservice",
+    "title": "Foodservice",
+    "category": "Foodservice & delivery",
+    "region": "Global",
+    "color": "red",
+    "number": "39"
+  },
+  {
+    "slug": "frozen-food",
+    "title": "Frozen Food",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "40"
+  },
+  {
+    "slug": "functional-beverages",
+    "title": "Functional Beverages",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "41"
+  },
+  {
+    "slug": "functional-foods",
+    "title": "Functional Foods",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "42"
+  },
+  {
+    "slug": "packaged-food",
+    "title": "Packaged Food",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "43"
+  },
+  {
+    "slug": "plant-based-meat",
+    "title": "Plant Based Meat",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "44"
+  },
+  {
+    "slug": "probiotics",
+    "title": "Probiotics",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "45"
+  },
+  {
+    "slug": "snack-food",
+    "title": "Snack Food",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "46"
+  },
+  {
+    "slug": "united-states-coffee",
+    "title": "United States Coffee",
+    "category": "Beverages",
+    "region": "United States",
+    "color": "blue",
+    "number": "47"
+  },
+  {
+    "slug": "canned-food",
+    "title": "Canned Food",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "red",
+    "number": "48"
+  },
+  {
+    "slug": "clean-label-ingredients",
+    "title": "Clean Label Ingredients",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "green",
+    "number": "49"
+  },
+  {
+    "slug": "dietary-fiber",
+    "title": "Dietary Fiber",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "50"
+  },
+  {
+    "slug": "dried-fruits",
+    "title": "Dried Fruits",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "red",
+    "number": "51"
+  },
+  {
+    "slug": "food-hydrocolloids",
+    "title": "Food Hydrocolloids",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "green",
+    "number": "52"
+  },
+  {
+    "slug": "food-preservatives",
+    "title": "Food Preservatives",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "blue",
+    "number": "53"
+  },
+  {
+    "slug": "frozen-fruits-and-vegetables",
+    "title": "Frozen Fruits And Vegetables",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "red",
+    "number": "54"
+  },
+  {
+    "slug": "frozen-seafood",
+    "title": "Frozen Seafood",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "55"
+  },
+  {
+    "slug": "ice-cream-parlour",
+    "title": "Ice Cream Parlour",
+    "category": "Foodservice & delivery",
+    "region": "Global",
+    "color": "blue",
+    "number": "56"
+  },
+  {
+    "slug": "industrial-sugar",
+    "title": "Industrial Sugar",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "red",
+    "number": "57"
+  },
+  {
+    "slug": "lactose-free-dairy",
+    "title": "Lactose Free Dairy",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "green",
+    "number": "58"
+  },
+  {
+    "slug": "mycoprotein",
+    "title": "Mycoprotein",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "59"
+  },
+  {
+    "slug": "natural-food-colors",
+    "title": "Natural Food Colors",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "red",
+    "number": "60"
+  },
+  {
+    "slug": "nuts",
+    "title": "Nuts",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "green",
+    "number": "61"
+  },
+  {
+    "slug": "prebiotic-ingredients",
+    "title": "Prebiotic Ingredients",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "62"
+  },
+  {
+    "slug": "precision-fermentation-ingredients",
+    "title": "Precision Fermentation Ingredients",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "red",
+    "number": "63"
+  },
+  {
+    "slug": "sauces-and-condiments",
+    "title": "Sauces And Condiments",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "green",
+    "number": "64"
+  },
+  {
+    "slug": "stevia",
+    "title": "Stevia",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "blue",
+    "number": "65"
+  },
+  {
+    "slug": "beer",
+    "title": "Beer",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "red",
+    "number": "66"
+  },
+  {
+    "slug": "bread",
+    "title": "Bread",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "67"
+  },
+  {
+    "slug": "cheese",
+    "title": "Cheese",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "blue",
+    "number": "68"
+  },
+  {
+    "slug": "confectionery",
+    "title": "Confectionery",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "red",
+    "number": "69"
+  },
+  {
+    "slug": "cultured-meat",
+    "title": "Cultured Meat",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "green",
+    "number": "70"
+  },
+  {
+    "slug": "dairy-products",
+    "title": "Dairy Products",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "blue",
+    "number": "71"
+  },
+  {
+    "slug": "edible-oils-and-fats",
+    "title": "Edible Oils And Fats",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "red",
+    "number": "72"
+  },
+  {
+    "slug": "food-sweeteners",
+    "title": "Food Sweeteners",
+    "category": "Ingredients & formulation",
+    "region": "Global",
+    "color": "green",
+    "number": "73"
+  },
+  {
+    "slug": "honey",
+    "title": "Honey",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "blue",
+    "number": "74"
+  },
+  {
+    "slug": "ice-cream",
+    "title": "Ice Cream",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "red",
+    "number": "75"
+  },
+  {
+    "slug": "oat-milk",
+    "title": "Oat Milk",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "green",
+    "number": "76"
+  },
+  {
+    "slug": "olive-oil",
+    "title": "Olive Oil",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "blue",
+    "number": "77"
+  },
+  {
+    "slug": "processed-meat",
+    "title": "Processed Meat",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "red",
+    "number": "78"
+  },
+  {
+    "slug": "protein-bars",
+    "title": "Protein Bars",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "79"
+  },
+  {
+    "slug": "protein-ingredients",
+    "title": "Protein Ingredients",
+    "category": "Nutrition & alternative protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "80"
+  },
+  {
+    "slug": "ready-meals",
+    "title": "Ready Meals",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "red",
+    "number": "81"
+  },
+  {
+    "slug": "red-meat",
+    "title": "Red Meat",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "82"
+  },
+  {
+    "slug": "rice",
+    "title": "Rice",
+    "category": "Staples, oils & pantry",
+    "region": "Global",
+    "color": "blue",
+    "number": "83"
+  },
+  {
+    "slug": "saudi-arabia-foodservice",
+    "title": "Saudi Arabia Foodservice",
+    "category": "Foodservice & delivery",
+    "region": "Saudi Arabia",
+    "color": "red",
+    "number": "84"
+  },
+  {
+    "slug": "seafood",
+    "title": "Seafood",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "85"
+  },
+  {
+    "slug": "united-arab-emirates-foodservice",
+    "title": "United Arab Emirates Foodservice",
+    "category": "Foodservice & delivery",
+    "region": "United Arab Emirates",
+    "color": "blue",
+    "number": "86"
+  },
+  {
+    "slug": "united-kingdom-foodservice",
+    "title": "United Kingdom Foodservice",
+    "category": "Foodservice & delivery",
+    "region": "United Kingdom",
+    "color": "red",
+    "number": "87"
+  },
+  {
+    "slug": "united-states-foodservice",
+    "title": "United States Foodservice",
+    "category": "Foodservice & delivery",
+    "region": "United States",
+    "color": "green",
+    "number": "88"
+  },
+  {
+    "slug": "wine",
+    "title": "Wine",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "89"
+  },
+  {
+    "slug": "butter",
+    "title": "Butter",
+    "category": "Dairy & infant nutrition",
+    "region": "Global",
+    "color": "red",
+    "number": "90"
+  },
+  {
+    "slug": "pasta",
+    "title": "Pasta",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "green",
+    "number": "91"
+  },
+  {
+    "slug": "poultry-meat",
+    "title": "Poultry Meat",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "blue",
+    "number": "92"
+  },
+  {
+    "slug": "savory-snacks",
+    "title": "Savory Snacks",
+    "category": "Bakery, snacks & confectionery",
+    "region": "Global",
+    "color": "red",
+    "number": "93"
+  },
+  {
+    "slug": "table-eggs",
+    "title": "Table Eggs",
+    "category": "Prepared food & animal protein",
+    "region": "Global",
+    "color": "green",
+    "number": "94"
+  },
+  {
+    "slug": "non-alcoholic-beverages",
+    "title": "Non Alcoholic Beverages",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "blue",
+    "number": "95"
+  },
+  {
+    "slug": "tea",
+    "title": "Tea",
+    "category": "Beverages",
+    "region": "Global",
+    "color": "red",
+    "number": "96"
+  }
+]

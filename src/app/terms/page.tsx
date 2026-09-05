@@ -15,7 +15,7 @@ export default function TermsPage() {
   return (
     <>
       <Nav />
-      <main className="page">
+      <main className="page" id="main">
         <div className="container legal">
           <h1>Terms of Use</h1>
           <p>

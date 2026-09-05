@@ -43,10 +43,11 @@ export default function BlogPage() {
   return (
     <>
       <Nav />
-      <main className="page">
+      <main className="page" id="main">
         <div className="container">
           <p className="eyebrow">Insights</p>
-          <h1>Notes on human-anchored synthetic research.</h1>
+          <h1>Research archive.</h1>
+          <p className="smr-archive-notice">These earlier articles reflect SMR&apos;s previous synthetic-audience focus. Our current offer is syndicated reports and custom market intelligence. <Link href="/methodology">Read the current methodology.</Link></p>
           <div className="blog-list">
             {posts.map((post) => (
               <article className="blog-card" key={post.slug}>

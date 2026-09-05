@@ -16,8 +16,9 @@ const stableUrls = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  return stableUrls.map((path) => ({
+  const preserved = stableUrls.map((path) => ({
     url: `${baseUrl}${path}`,
     lastModified
   }));
+  return [...preserved, ...["/custom-research", "/about", "/contact"].map(path => ({ url: `${baseUrl}${path}`, lastModified: new Date("2026-09-05T00:00:00.000Z") }))];
 }

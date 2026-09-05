@@ -15,7 +15,7 @@ export default function PrivacyPage() {
   return (
     <>
       <Nav />
-      <main className="page">
+      <main className="page" id="main">
         <div className="container legal">
           <h1>Privacy Policy</h1>
           <p>
@@ -35,8 +35,10 @@ export default function PrivacyPage() {
           </p>
           <h2>Contact</h2>
           <p>
-            For privacy questions, contact the site owner through the scoping
-            form on the homepage.
+            For privacy questions, email hello@syntheticmarketresearch.com.
+            The inquiry form at /contact prepares an email on your device;
+            it does not submit or store your draft on our server. Sending the
+            draft uses your email provider.
           </p>
         </div>
       </main>

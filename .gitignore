@@ -6,3 +6,7 @@ node_modules
 out
 dist
 *.log
+qa/results/
+REDESIGN_HANDOFF.md
+qa/
+*.tsbuildinfo

@@ -89,10 +89,11 @@ export default async function BlogPostPage({
   return (
     <>
       <Nav />
-      <main className="page">
+      <main className="page" id="main">
         <article className="container article">
           <p className="eyebrow">Insight</p>
           <h1>{post.title}</h1>
+          <p className="smr-archive-notice">Archive article from SMR&apos;s earlier synthetic-audience focus. For the current report-led offer, see <a href="/methodology">our methodology</a>.</p>
           {post.body.map((paragraph) => (
             <p key={paragraph}>{paragraph}</p>
           ))}
