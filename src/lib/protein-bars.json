@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-05",
+  "edition": "September 2026",
+  "products": [
+    {"id":"Q-CD","brand":"Quest","name":"Chocolate Chip Cookie Dough","line":"Protein Bar","formulation":"Milk-based","weight":60,"protein":21,"sugar":1,"packPrice":31.97,"source":"https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar","nutritionSource":"https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar"},
+    {"id":"B-CC","brand":"Barebells","name":"Cookies & Cream","line":"Original","formulation":"Milk and collagen","weight":55,"protein":20,"sugar":1,"packPrice":30.99,"source":"https://shop.barebells.com/products/barebells-cookies-cream-protein-bar","nutritionSource":"https://shop.barebells.com/products/barebells-cookies-cream-protein-bar"},
+    {"id":"B-SC","brand":"Barebells","name":"Caramel Choco","line":"Soft","formulation":"Milk and collagen","weight":55,"protein":16,"sugar":2,"packPrice":30.99,"source":"https://shop.barebells.com/products/barebells-caramel-choco","nutritionSource":"https://shop.barebells.com/products/barebells-caramel-choco"},
+    {"id":"A-CD","brand":"ALOHA","name":"Chocolate Chip Cookie Dough","line":"Plant-based","formulation":"Plant-based","weight":56,"protein":14,"sugar":5,"packPrice":34.99,"source":"https://aloha.com/products/chocolate-chip-cookie-dough-protein-bar","nutritionSource":"https://aloha.com/cdn/shop/files/842096106118-US_-_Chocolate_Chip_Cookie_Dough_-_Protein_Bars.png?v=1782860057&width=1000"},
+    {"id":"A-PB","brand":"ALOHA","name":"Peanut Butter Cup","line":"Plant-based","formulation":"Plant-based","weight":56,"protein":14,"sugar":5,"packPrice":34.99,"source":"https://aloha.com/products/peanut-butter-cup-protein-bar","nutritionSource":"https://aloha.com/cdn/shop/files/842096101113-US_-_Peanut_Butter_Cup_-_Protein_Bars.png?v=1782874160&width=1000"},
+    {"id":"D-G","brand":"David","name":"Chocolate Chip Cookie Dough","line":"Gold","formulation":"Milk, collagen and egg","weight":62,"protein":28,"sugar":0,"packPrice":39,"source":"https://davidprotein.com/products/chocolate-chip-cookie-dough","nutritionSource":"https://cdn.shopify.com/s/files/1/0632/4741/7511/files/CCCDNutrition.png?v=1788473998"},
+    {"id":"D-B","brand":"David","name":"Peanut Butter Chocolate","line":"Bronze","formulation":"Milk and gelatin","weight":58,"protein":20,"sugar":0,"packPrice":39,"source":"https://davidprotein.com/products/peanut-butter-chocolate","nutritionSource":"https://cdn.shopify.com/s/files/1/0632/4741/7511/files/PB_NFP_IL_MFF_V25296.png?v=1788473580"}
+  ],
+  "pairs": [
+    {"id":"Q-CD-12","productId":"Q-CD","bars":12,"direct":31.97,"retail":26.49,"retailer":"Target","source":"https://www.target.com/p/quest-nutrition-protein-bar-chocolate-chip-cookie-dough-12ct/-/A-53111647"},
+    {"id":"Q-CD-4","productId":"Q-CD","bars":4,"direct":10.99,"retail":9.49,"retailer":"Target","source":"https://www.target.com/p/-/A-52047991"},
+    {"id":"B-CC-12","productId":"B-CC","bars":12,"direct":30.99,"retail":27.99,"retailer":"Target","source":"https://www.target.com/p/barebells-nutrition-bars-cookies-38-cream-12pk/-/A-83942841"}
+  ]
+}

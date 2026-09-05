@@ -4,6 +4,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import "./smr.css";
 import "./editorial.css";
+import "./protein-bars.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),

@@ -33,12 +33,6 @@ export default async function ContactPage({
               The market, the decision and your deadline help us assess scope
               and feasibility.
             </p>
-            <a
-              className="smr-text-link"
-              href="mailto:hello@syntheticmarketresearch.com"
-            >
-              hello@syntheticmarketresearch.com
-            </a>
             <p className="smr-section-copy">
               Bangalore, India
               <br />

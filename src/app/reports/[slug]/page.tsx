@@ -6,6 +6,7 @@ import { reports, reportAliases } from "@/lib/reports";
 import { reportContent } from "@/lib/report-content";
 import { PageFrame, PageIntro, ReportGrid } from "@/components/ResearchUI";
 import { ScenarioMatrix, DecisionPathways } from "@/components/ScenarioMatrix";
+import ProteinBarsReport from "@/components/ProteinBarsReport";
 export function generateStaticParams() {
   return [...reports.map(({ slug }) => ({ slug })), ...Object.keys(reportAliases).map((slug) => ({ slug }))];
 }
@@ -13,8 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const report = reports.find((r) => r.slug === (reportAliases[slug] || slug));
   return {
-    title: report ? `${report.title} Market Research & Scenarios | SMR` : "Report not found | SMR",
-    description: report ? `${report.title}: ${report.focus}. Explore market scope, scenario conditions and the evidence requirements for your decision.` : undefined,
+    title: report?.slug === "protein-bars" ? "Protein Bars: US Prices and Formulation | SMR" : report ? `${report.title} Market Research & Scenarios | SMR` : "Report not found | SMR",
+    description: report?.slug === "protein-bars" ? "Compare selected US protein bar prices, labelled nutrition and matched brand-direct and retailer packs. Source-linked analysis from SMR." : report ? `${report.title}: ${report.focus}. Explore market scope, scenario conditions and the drivers behind your decision.` : undefined,
     alternates: { canonical: `/reports/${report?.slug || slug}` },
     robots: { index: true, follow: true, googleBot: { index: false, follow: true } },
   };
@@ -24,6 +25,7 @@ export default async function ReportPage({ params }: { params: Promise<{ slug: s
   if (reportAliases[slug]) permanentRedirect(`/reports/${reportAliases[slug]}`);
   const report = reports.find((r) => r.slug === slug);
   if (!report) notFound();
+  if (slug === "protein-bars") return <ProteinBarsReport />;
   const sections = reportContent(report);
   const related = reports.filter((r) => r.category === report.category && r.slug !== slug).slice(0, 3);
   const schema = {

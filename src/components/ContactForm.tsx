@@ -97,8 +97,8 @@ export default function ContactForm({ interest }: { interest: string }) {
         <div className="smr-email-preview" aria-live="polite">
           <h3>Your inquiry is ready to review.</h3>
           <p>
-            Send it to hello@syntheticmarketresearch.com. No message has been
-            sent yet.
+            Open the email draft below, review it and send it to our research
+            team. No message has been sent yet.
           </p>
           <pre>{draft.body}</pre>
           <div className="smr-actions">
@@ -114,7 +114,7 @@ export default function ContactForm({ interest }: { interest: string }) {
               onClick={async () => {
                 try {
                   await navigator.clipboard.writeText(
-                    `To: hello@syntheticmarketresearch.com\nSubject: ${draft.subject}\n\n${draft.body}`,
+                    `Subject: ${draft.subject}\n\n${draft.body}`,
                   );
                   setCopied(true);
                   setCopyError(false);

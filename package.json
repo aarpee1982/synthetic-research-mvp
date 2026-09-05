@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "check:client-copy": "node qa/client-copy.cjs",
+    "prebuild": "npm run check:client-copy",
+    "postbuild": "node qa/client-copy.cjs --built",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

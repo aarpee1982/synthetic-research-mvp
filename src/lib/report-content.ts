@@ -17,8 +17,8 @@ export function reportContent(report: Report) {
       body: `The scenario matrix follows three decision variables: ${report.signals.join(", ").toLowerCase()}. Downside conditions test resilience when adoption or access weakens and economics become less favourable. The reference pathway holds the stated operating conditions steady; it is not a claim about the most probable outcome. Upside conditions examine what additional adoption, access or efficiency would need to occur. The matrix defines conditions to investigate, not measured market movements or assigned probabilities.`,
     },
     {
-      title: "What would support a market estimate?",
-      body: `The evidence plan prioritises ${report.sector.sources}. Every material input needs a date, definition, geographic boundary and a record of what it establishes. Independent source types should be reconciled where possible; repeating the same underlying estimate does not create independent confirmation. ${report.sector.checks} Any numerical forecast needs a documented starting point and a reproducible calculation before it belongs in a client deliverable.`,
+      title: "How is the evidence assessed?",
+      body: `Our research approach prioritises ${report.sector.sources}. Source dates, definitions and geographic coverage establish what each input can support. Independent sources are compared on a consistent basis; repeated versions of the same estimate count as one evidence source. ${report.sector.checks} Forecasts distinguish the observed starting point from assumptions about future demand, pricing and supply. The supporting calculations make those relationships traceable.`,
     },
     {
       title: "How should scenarios inform action?",

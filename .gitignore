@@ -8,5 +8,7 @@ dist
 *.log
 qa/results/
 REDESIGN_HANDOFF.md
-qa/
+qa/*
+!qa/client-copy.cjs
+!qa/protein-exhibit.cjs
 *.tsbuildinfo

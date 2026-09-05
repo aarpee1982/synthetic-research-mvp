@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Nav from "@/components/Nav";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -35,8 +36,8 @@ export default function PrivacyPage() {
           </p>
           <h2>Contact</h2>
           <p>
-            For privacy questions, email hello@syntheticmarketresearch.com.
-            The inquiry form at /contact prepares an email on your device;
+            For privacy questions, <Link href="/contact?interest=Privacy%20inquiry">contact our team</Link>.
+            The inquiry form prepares an email on your device;
             it does not submit or store your draft on our server. Sending the
             draft uses your email provider.
           </p>
