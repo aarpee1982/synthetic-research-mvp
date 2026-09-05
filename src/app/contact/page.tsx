@@ -44,6 +44,7 @@ export default async function ContactPage({
             </p>
           </div>
           <ContactForm
+            siteKey={process.env.TURNSTILE_SITE_KEY || ""}
             interest={
               typeof interest === "string" ? interest.slice(0, 200) : ""
             }

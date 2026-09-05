@@ -1,0 +1,15 @@
+.smr-inquiry-fields { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-column: 1 / -1; gap: 24px; min-width: 0; border: 0; margin: 0; padding: 0; }
+.smr-form-trap { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.smr-form-security { min-height: 70px; min-width: 0; }
+.smr-form-security > div { max-width: 100%; }
+.smr-security-retry { display: inline-flex; align-items: center; gap: 8px; margin-top: 8px; padding: 6px 0; border: 0; background: transparent; color: #12634f; font: inherit; text-decoration: underline; cursor: pointer; }
+.smr-inquiry-error { color: #a5212f; }
+.smr-contact-form .smr-button:disabled { opacity: .55; cursor: not-allowed; }
+.smr-inquiry-confirmation { align-self: start; border-top: 2px solid #12634f; padding-top: 28px; }
+.smr-inquiry-confirmation > svg { color: #12634f; margin-bottom: 20px; }
+.smr-inquiry-confirmation h2 { font-size: 30px; line-height: 1.2; }
+.smr-inquiry-confirmation p { margin: 20px 0; max-width: 50ch; line-height: 1.6; }
+.smr-sending-icon { animation: smr-send-spin 1s linear infinite; }
+@keyframes smr-send-spin { to { transform: rotate(360deg); } }
+@media (max-width: 600px) { .smr-inquiry-fields { grid-template-columns: minmax(0, 1fr); gap: 20px; } }
+@media (prefers-reduced-motion: reduce) { .smr-sending-icon { animation: none; } }

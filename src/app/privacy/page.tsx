@@ -31,15 +31,23 @@ export default function PrivacyPage() {
           </p>
           <h2>How We Use Information</h2>
           <p>
+            We use Cloudflare Turnstile to help prevent automated abuse. It
+            processes technical browser and network information for that purpose.
+            Inquiry details are transmitted through our hosting service and Resend
+            to our research team&apos;s mailbox. Please do not include confidential
+            business information in your initial message.
+          </p>
+          <p>
             We use enquiry information to respond to scoping requests, prepare
             methodology recommendations, and maintain client communication.
           </p>
           <h2>Contact</h2>
           <p>
             For privacy questions, <Link href="/contact?interest=Privacy%20inquiry">contact our team</Link>.
-            The inquiry form prepares an email on your device;
-            it does not submit or store your draft on our server. Sending the
-            draft uses your email provider.
+            The inquiry form sends your message to our team; it does not open
+            your email application. We retain correspondence as needed to respond
+            and manage the engagement. You may contact us to request access,
+            correction or deletion, subject to applicable obligations.
           </p>
         </div>
       </main>
