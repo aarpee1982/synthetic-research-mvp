@@ -31,12 +31,7 @@ export default function Footer() {
             </Link>
           </div>
           <div>
-            <span className="smr-label">OUR LOCATIONS</span>
-            <p>
-              Bangalore, India
-              <br />
-              <span>Headquarters</span>
-            </p>
+            <span className="smr-label">LOCATION</span>
             <p>
               Singapore
               <br />

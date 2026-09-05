@@ -64,10 +64,7 @@ export default function ResearchHome() {
       <div className="smr-location-strip">
         <div className="smr-wrap">
           <span>
-            <span className="smr-dot" /> Bangalore, India <b>Headquarters</b>
-          </span>
-          <span>
-            Singapore <b>Offices</b>
+            <span className="smr-dot" /> Singapore <b>Offices</b>
           </span>
           <span className="smr-strip-end">
             A clear view. A considered decision.

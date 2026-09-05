@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),
   title: "Synthetic Market Research | Human-led Market Intelligence",
   description:
-    "Syndicated reports and custom market intelligence. Human-led research, transparent methods and AI-assisted production. Bangalore headquarters, Singapore offices.",
+    "Syndicated reports and custom market intelligence. Human-led research, transparent methods and AI-assisted production. Offices in Singapore.",
   robots: {
     index: true,
     follow: true

@@ -3,7 +3,7 @@ import { PageFrame, PageIntro, ContactBand } from "@/components/ResearchUI";
 export const metadata: Metadata = {
   title: "About SMR | Synthetic Market Research",
   description:
-    "Human-led market intelligence with AI-assisted production. Headquartered in Bangalore, India, with offices in Singapore.",
+    "Human-led market intelligence with AI-assisted production. Offices in Singapore, serving domestic and international research needs.",
   alternates: { canonical: "/about" },
 };
 export default function AboutPage() {
@@ -49,10 +49,10 @@ export default function AboutPage() {
             its earlier synthetic-audience focus; synthetic respondents are not
             the evidence base for this report offer.
           </p>
-          <h2>Bangalore headquarters. Singapore offices.</h2>
+          <h2>Singapore offices. International perspectives.</h2>
           <p>
-            Headquartered in Bangalore, India, with offices in Singapore. We
-            welcome research briefs from organisations evaluating domestic and
+            With offices in Singapore, we welcome research briefs from
+            organisations evaluating domestic and
             international markets.
           </p>
         </div>

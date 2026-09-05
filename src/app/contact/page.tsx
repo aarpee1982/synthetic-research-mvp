@@ -4,7 +4,7 @@ import ContactForm from "@/components/ContactForm";
 export const metadata: Metadata = {
   title: "Discuss Your Research Brief | SMR",
   description:
-    "Contact Synthetic Market Research about syndicated reports and custom studies. Bangalore headquarters and Singapore offices.",
+    "Contact Synthetic Market Research about syndicated reports and custom studies. Offices in Singapore.",
   alternates: { canonical: "/contact" },
 };
 export default async function ContactPage({
@@ -34,11 +34,6 @@ export default async function ContactPage({
               and feasibility.
             </p>
             <p className="smr-section-copy">
-              Bangalore, India
-              <br />
-              Headquarters
-              <br />
-              <br />
               Singapore
               <br />
               Offices
