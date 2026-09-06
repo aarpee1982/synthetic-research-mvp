@@ -11,7 +11,7 @@
     "slug": "bakery-products",
     "title": "Bakery Products",
     "category": "Bakery, snacks & confectionery",
-    "region": "Global",
+    "region": "US perspective",
     "color": "blue",
     "number": "02"
   },
@@ -67,7 +67,7 @@
     "slug": "biscuits",
     "title": "Biscuits",
     "category": "Bakery, snacks & confectionery",
-    "region": "Global",
+    "region": "US perspective",
     "color": "red",
     "number": "09"
   },
@@ -75,7 +75,7 @@
     "slug": "breakfast-cereals",
     "title": "Breakfast Cereals",
     "category": "Bakery, snacks & confectionery",
-    "region": "Global",
+    "region": "US perspective",
     "color": "green",
     "number": "10"
   },
@@ -91,7 +91,7 @@
     "slug": "cakes",
     "title": "Cakes",
     "category": "Bakery, snacks & confectionery",
-    "region": "Global",
+    "region": "US perspective",
     "color": "red",
     "number": "12"
   },
@@ -627,7 +627,7 @@
     "slug": "protein-bars",
     "title": "Protein Bars",
     "category": "Bakery, snacks & confectionery",
-    "region": "Global",
+    "region": "US perspective",
     "color": "green",
     "number": "79"
   },

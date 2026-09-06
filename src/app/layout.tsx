@@ -6,6 +6,7 @@ import "./smr.css";
 import "./editorial.css";
 import "./protein-bars.css";
 import "./contact.css";
+import "./report-dossier.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),

@@ -1,9 +1,14 @@
 import { createHash } from "node:crypto";
+import blockedEmailDomains from "./email-domain-blocklist.json";
+import { emailDomain, isBlockedDomain, isCommonPersonalEmail, workEmailMessage } from "./work-email";
+import { sampleReports, sampleEdition } from "./sample-reports";
+
+const blockedDomains = new Set(blockedEmailDomains);
 
 const MAX_BYTES = 16_384;
 const emailPattern = /^[^\s@<>\r\n]+@[^\s@<>\r\n]+\.[^\s@<>\r\n]+$/;
-const limits = { name: 100, email: 254, company: 150, interest: 200, market: 150, deadline: 10, question: 2500, website: 200, token: 2048, requestId: 36 };
-const required = new Set(["name", "email", "company", "question", "token", "requestId"]);
+const limits = { name: 100, email: 254, company: 150, interest: 200, market: 150, deadline: 10, question: 2500, website: 200, token: 2048, requestId: 36, kind: 20, reportId: 100, segmentYear: 4 };
+const required = new Set(["name", "email", "company", "token", "requestId"]);
 const unavailable = "We could not confirm your inquiry. Your details are still in the form. Please try again shortly.";
 
 function reply(status: number, message: string, ok = false) {
@@ -48,7 +53,13 @@ export async function handleContact(request: Request, env: NodeJS.ProcessEnv = p
       if (key !== "question" && /[\r\n\u0000-\u001f\u007f]/.test(trimmed)) return reply(400, "Please check the inquiry fields.");
       data[key] = trimmed;
     }
-    if (!emailPattern.test(data.email) || data.question.length < 10 || /[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(data.question)) return reply(400, "Please check your email and research question.");
+    if (data.kind && data.kind !== "report-sample") return reply(400, "Please use the inquiry form.");
+    if (data.kind === "report-sample") {
+      if (!Object.hasOwn(sampleReports, data.reportId)) return reply(400, "Please choose a report from our catalogue.");
+      if (data.segmentYear && !['2027', '2028', '2029', '2030', '2031'].includes(data.segmentYear)) return reply(400, "Please choose a year from the report.");
+      if (isCommonPersonalEmail(data.email) || isBlockedDomain(emailDomain(data.email), blockedDomains)) return reply(400, workEmailMessage);
+    } else if (data.reportId || data.segmentYear || data.question.length < 10) return reply(400, "Please check your email and research question.");
+    if (!emailPattern.test(data.email) || !emailDomain(data.email) || /[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(data.question)) return reply(400, "Please check your email and research question.");
     if (!/^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(data.requestId)) return reply(400, "Please refresh the page and try again.");
     if (data.deadline && (!/^\d{4}-\d{2}-\d{2}$/.test(data.deadline) || !Number.isFinite(Date.parse(data.deadline)) || new Date(data.deadline).toISOString().slice(0, 10) !== data.deadline)) return reply(400, "Please check the decision deadline.");
   } catch { return reply(400, "Please check the inquiry fields."); }
@@ -67,13 +78,15 @@ export async function handleContact(request: Request, env: NodeJS.ProcessEnv = p
     if (result.success !== true || result.action !== "contact" || result.hostname !== new URL(origin).hostname) return reply(403, "Please complete the security check again.");
 
     const { name, email, company, interest, market, deadline, question } = data;
-    const text = ["New SMR research inquiry", "", `Name: ${name}`, `Work email: ${email}`, `Organisation: ${company}`, `Research interest: ${interest || "To discuss"}`, `Market / geography: ${market || "To discuss"}`, `Decision deadline: ${deadline || "To discuss"}`, "", "Business question:", question].join("\n");
+    const sampleTitle = data.kind === "report-sample" ? sampleReports[data.reportId] : "";
+    const reportContext = sampleTitle ? [`Sample report: ${sampleTitle}`, `Edition: ${sampleEdition}`, 'Overview scope: US perspective', `Report page: https://www.syntheticmarketresearch.com/reports/${data.reportId}`, ...(data.segmentYear ? [`Requested segment year: ${data.segmentYear}`] : [])] : [];
+    const text = [sampleTitle ? "New SMR sample request" : "New SMR research inquiry", "", ...reportContext, `Name: ${name}`, `Work email: ${email}`, `Organisation: ${company}`, `Research interest: ${sampleTitle || interest || "To discuss"}`, `Market / geography: ${market || "To discuss"}`, `Decision deadline: ${deadline || "To discuss"}`, "", "Business question:", question || "Sample overview requested."].join("\n");
     // Same inquiry retries share a provider key, without storing contact data locally.
     const fingerprint = createHash("sha256").update(text).digest("hex");
     const delivery = await send("https://api.resend.com/emails", {
       method: "POST",
       headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json", "Idempotency-Key": `smr-${data.requestId}-${fingerprint}` },
-      body: JSON.stringify({ from: `SMR Inquiries <${sender}>`, to: [recipient], reply_to: email, subject: `SMR research inquiry: ${interest || "New brief"}`, text }),
+      body: JSON.stringify({ from: `SMR Inquiries <${sender}>`, to: [recipient], reply_to: email, subject: sampleTitle ? `SMR sample request: ${sampleTitle}` : `SMR research inquiry: ${interest || "New brief"}`, text }),
       signal: AbortSignal.timeout(12_000),
     });
     if (!delivery.ok) return reply(503, unavailable);

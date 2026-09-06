@@ -1,0 +1,12 @@
+[
+  {
+    "source": "https://raw.githubusercontent.com/Kikobeats/free-email-domains/master/domains.json",
+    "retrieved": "2026-09-05T19:06:28.641Z",
+    "sha256": "dc9bda34899b7420dff80d767fb2a6b72fe13f59f78e045145f6a593c86fee9f"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/main/disposable_email_blocklist.conf",
+    "retrieved": "2026-09-05T19:06:29.317Z",
+    "sha256": "f6237b9b2d3cc366343ed60b78005d43c124c82cd1cbab103dcb2ae851bedac2"
+  }
+]

@@ -30,7 +30,7 @@ function download(content: string, type: string, filename: string) {
 }
 const escapeXml = (value: string) => value.replace(/[<>&"']/g, character => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;", '"': "&quot;", "'": "&apos;" })[character]!);
 
-export default function ProteinBarExhibit() {
+export default function ProteinBarExhibit({ number = '01' }: { number?: string } = {}) {
   const hydrated = useSyncExternalStore(subscribe, () => true, () => false);
   const [view, setView] = useState<View>("products");
   const [metric, setMetric] = useState<Metric>("protein");
@@ -88,7 +88,7 @@ export default function ProteinBarExhibit() {
     setMessage("Chart download prepared.");
   }
   return <section className="smr-protein-exhibit" id="protein-prices" aria-labelledby="protein-exhibit-title" data-metric={metric}>
-    <div className="pb-heading"><div><p className="smr-eyebrow">01 / PRICE AND FORMULATION</p><h2 id="protein-exhibit-title">{heading}</h2><p className="pb-dateline">United States · {dateLabel}</p></div></div>
+    <div className="pb-heading"><div><p className="smr-eyebrow">{number} / PRICE AND FORMULATION</p><h2 id="protein-exhibit-title">{heading}</h2><p className="pb-dateline">United States · {dateLabel}</p></div></div>
     <div className="pb-toolbar">
       <div className="pb-segmented" role="group" aria-label="Comparison view">
         <button type="button" disabled={!hydrated} aria-pressed={view === "products"} onClick={() => setView("products")}>Products</button>
