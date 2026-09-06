@@ -1,41 +1,5 @@
-import Footer from "@/components/Footer";
-import Nav from "@/components/Nav";
 import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "Terms of Use - Synthetic Market Research",
-  description:
-    "Terms of use for the Synthetic Market Research website and research service information.",
-  alternates: {
-    canonical: "/terms"
-  }
-};
-
-export default function TermsPage() {
-  return (
-    <>
-      <Nav />
-      <main className="page" id="main">
-        <div className="container legal">
-          <h1>Terms of Use</h1>
-          <p>
-            This website provides general information about Synthetic Market
-            Research services. It does not create a client engagement or
-            professional services agreement.
-          </p>
-          <h2>Use of Content</h2>
-          <p>
-            Website content may not be copied, republished, or represented as
-            your own without permission.
-          </p>
-          <h2>Research Engagements</h2>
-          <p>
-            Research scope, deliverables, timelines, and commercial terms are
-            agreed separately for each engagement.
-          </p>
-        </div>
-      </main>
-      <Footer />
-    </>
-  );
-}
+import Link from "next/link";
+import { PublicationFrame, Intro } from "@/components/PublicationUI";
+export const metadata: Metadata = { title: "Terms of Use | Synthetic Market Research", description: "Terms for using the SMR publication, directory and comparison tools.", alternates: { canonical: "/terms" } };
+export default function Terms() { return <PublicationFrame><Intro eyebrow="TERMS OF USE" title="Using SMR."><p>Updated 6 September 2026.</p></Intro><div className="pub-wrap pub-standards"><h2>Publication and directory</h2><p>SMR provides editorial information to help readers explore synthetic research products. Listings are not endorsements, certifications or guarantees of suitability. Confirm current product availability, pricing and terms with the provider before buying.</p><h2>Content and attribution</h2><p>SMR editorial material and comparison tools may not be republished as your own. Exports retain their source and date context. Provider names and product illustrations belong to their respective owners and do not imply affiliation with SMR.</p><h2>Submissions and corrections</h2><p>Send only information you have authority to share. A submission does not guarantee publication. We assess listing requests and corrections according to our <Link href="/methodology">editorial standards</Link>.</p><h2>Commercial arrangements</h2><p>Sponsorship placement, duration, fees, reporting, cancellation and other terms are agreed separately in writing before booking. A website inquiry does not create a sponsorship agreement or purchase a ranking.</p><h2>Contact</h2><p><Link href="/contact">Contact SMR</Link> with questions about these terms or the publication.</p></div></PublicationFrame>; }

@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
+import { PublicationFrame, Intro } from "@/components/PublicationUI";
+import { stories } from "@/lib/publication";
+export const metadata: Metadata = { title: "The Synthetic Brief | SMR Newsletter", description: "Join The Synthetic Brief for product developments, buyer perspectives and research worth reading from the synthetic research industry.", alternates: { canonical: "/newsletter" } };
+export default function Newsletter() { return <PublicationFrame><Intro eyebrow="THE SMR NEWSLETTER" title="The Synthetic Brief."><p>A concise perspective on the products, ideas and buying questions shaping synthetic research.</p></Intro><section className="pub-wrap pub-info-layout"><div><h2>For people making research decisions.</h2><p>Join the list for our weekly briefing: meaningful product developments, primary-source reading and a practical question to take to your next provider conversation.</p><div className="pub-newsletter-sample"><p className="pub-eyebrow">READ BEFORE YOU SUBSCRIBE</p>{stories.slice(0, 3).map(s => <Link key={s.slug} href={`/insights/${s.slug}`}><small>{s.type}</small>{s.title}</Link>)}</div><p className="pub-caption">Already on the list? <Link href="/contact?interest=Newsletter%20unsubscribe">Request an unsubscribe</Link>.</p></div><div><ContactForm mode="newsletter" siteKey={process.env.TURNSTILE_SITE_KEY || ""} interest="" /></div></section></PublicationFrame>; }

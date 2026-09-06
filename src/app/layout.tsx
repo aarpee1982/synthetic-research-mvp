@@ -7,12 +7,13 @@ import "./editorial.css";
 import "./protein-bars.css";
 import "./contact.css";
 import "./report-dossier.css";
+import "./publication.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),
-  title: "Synthetic Market Research | Human-led Market Intelligence",
+  title: "Synthetic Market Research | The Industry, Explained",
   description:
-    "Syndicated reports and custom market intelligence. Human-led research, transparent methods and AI-assisted production. Offices in Singapore.",
+    "A specialist guide to synthetic research products, providers and ideas. Compare tools, explore buyer guides and join The Synthetic Brief.",
   robots: {
     index: true,
     follow: true

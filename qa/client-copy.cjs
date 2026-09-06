@@ -39,7 +39,7 @@ if(process.argv.includes('--built')) {
       else if(/\.(html|rsc)$/.test(file)) {check(fs.readFileSync(file,'utf8'),file);count++;}
     }
   }
-  built(path.join(root,'.next/server/app'));
+  built(path.join(root,process.env.SMR_PUBLICATION_PREVIEW === '1' ? '.next-publication/server/app' : '.next/server/app'));
   if(!count) failures.push('No production pages found for client copy check.');
   console.log(`Production copy check: ${count} HTML and RSC files scanned.`);
 }

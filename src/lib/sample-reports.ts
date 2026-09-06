@@ -7,3 +7,4 @@ export const sampleReports: Record<string, string> = {
 };
 
 export const sampleEdition = 'September 2026';
+export const sampleScopes: Record<string, string> = {};

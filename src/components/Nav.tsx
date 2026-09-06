@@ -4,9 +4,9 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { ArrowUpRight, Menu, X } from "lucide-react";
 const links = [
-  ["Syndicated Reports", "/reports"],
-  ["Custom Research", "/custom-research"],
-  ["Methodology", "/methodology"],
+  ["Directory", "/directory"],
+  ["Compare", "/compare"],
+  ["Insights", "/insights"],
   ["About", "/about"],
 ];
 export default function Nav() {
@@ -48,8 +48,8 @@ export default function Nav() {
             </Link>
           ))}
         </nav>
-        <Link href="/contact" className="smr-nav-contact">
-          Contact <ArrowUpRight size={16} />
+        <Link href="/newsletter" className="smr-nav-contact">
+          The Synthetic Brief <ArrowUpRight size={16} />
         </Link>
         <button
           className="smr-menu"
@@ -68,7 +68,7 @@ export default function Nav() {
           className="smr-mobile-links"
           aria-label="Mobile navigation"
         >
-          {[...links, ["Contact", "/contact"]].map(([label, href]) => (
+          {[...links, ["Newsletter", "/newsletter"], ["Contact", "/contact"]].map(([label, href]) => (
             <Link href={href} key={href} onClick={() => setOpen(false)}>
               {label}
               <ArrowUpRight size={18} />

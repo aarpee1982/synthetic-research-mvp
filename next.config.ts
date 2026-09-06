@@ -20,6 +20,8 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  distDir: process.env.SMR_PUBLICATION_PREVIEW === "1" ? ".next-publication" : ".next",
+  ...(process.env.SMR_PUBLICATION_PREVIEW === "1" ? { experimental: { cpus: 2 } } : {}),
   async headers() {
     return [
       {

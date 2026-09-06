@@ -11,21 +11,24 @@ export default function Footer() {
               Synthetic<span>.</span>
             </Link>
             <p>
-              Human-led research.
+              The synthetic research industry.
               <br />
-              AI-assisted production.
+              In clearer focus.
             </p>
           </div>
           <div>
-            <span className="smr-label">RESEARCH</span>
-            <Link href="/reports">Syndicated Reports</Link>
-            <Link href="/custom-research">Custom Research</Link>
-            <Link href="/methodology">Methodology</Link>
+            <span className="smr-label">EXPLORE</span>
+            <Link href="/directory">Product directory</Link>
+            <Link href="/compare">Compare products</Link>
+            <Link href="/insights">Insights & guides</Link>
+            <Link href="/newsletter">The Synthetic Brief</Link>
           </div>
           <div>
             <span className="smr-label">COMPANY</span>
             <Link href="/about">About SMR</Link>
-            <Link href="/blog">Research archive</Link>
+            <Link href="/methodology">Editorial standards</Link>
+            <Link href="/submit">Submit a listing</Link>
+            <Link href="/advertise">Advertise with SMR</Link>
             <Link href="/contact">
               Contact <ArrowUpRight size={14} />
             </Link>

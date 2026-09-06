@@ -28,4 +28,9 @@ export function isCommonPersonalEmail(email: string): boolean {
   return isBlockedDomain(emailDomain(email), commonPersonalDomains);
 }
 
+export function isKnownPersonalMailbox(email: string): boolean {
+  const domain = emailDomain(email);
+  return commonPersonalDomains.has(domain) && !['mailinator.com', 'yopmail.com', 'guerrillamail.com'].includes(domain);
+}
+
 export const workEmailMessage = 'Please use your organisation\'s work email address. Personal and temporary email addresses are not accepted for sample requests.';
