@@ -8,12 +8,15 @@ import "./protein-bars.css";
 import "./contact.css";
 import "./report-dossier.css";
 import "./publication.css";
+import "./hub.css";
+import "./industry.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),
-  title: "Synthetic Market Research | The Industry, Explained",
+  icons: { icon: "/smr-mark.svg" },
+  title: "Synthetic Market Research | Tools, Companies & Guides",
   description:
-    "A specialist guide to synthetic research products, providers and ideas. Compare tools, explore buyer guides and join The Synthetic Brief.",
+    "Find synthetic research companies, compare their tools, and get clear answers to your questions about the industry.",
   robots: {
     index: true,
     follow: true

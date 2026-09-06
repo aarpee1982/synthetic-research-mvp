@@ -1,0 +1,14 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { ArrowUpRight, BookOpen } from "lucide-react";
+import { PublicationFrame, Intro } from "@/components/PublicationUI";
+import { BrowseFilters, queryValue } from "@/components/IndustryUI";
+import { guidance } from "@/lib/guidance";
+export async function generateMetadata({searchParams}:{searchParams:Promise<Record<string,string|string[]|undefined>>}):Promise<Metadata> {
+  const s=await searchParams;
+  return {title:"Synthetic Research Guidance & Standards | SMR",description:"Practical guidance from ESOMAR, MRS, AAPOR, the Insights Association and other institutions on buying, using and governing synthetic research.",alternates:{canonical:"/guidance"},robots:queryValue(s.q)||queryValue(s.topic)||queryValue(s.institution)?{index:false,follow:true}:undefined};
+}
+export default async function GuidancePage({ searchParams }: {searchParams:Promise<Record<string,string|string[]|undefined>>}) {
+  const s=await searchParams; const q=queryValue(s.q),topic=queryValue(s.topic),institution=queryValue(s.institution); const items=guidance.filter(g=>(!q||`${g.title} ${g.summary} ${g.institution}`.toLowerCase().includes(q.toLowerCase()))&&(!topic||g.topic===topic)&&(!institution||g.institution===institution));
+  return <PublicationFrame><Intro eyebrow="THE GUIDANCE LIBRARY" title="Good practice. From the source."><p>Buyer checklists, research standards and practical advice from professional bodies and public institutions.</p></Intro><section className="industry-wrap pub-wrap"><BrowseFilters action="/guidance" query={q} selects={[{name:"topic",label:"Topics",value:topic,options:[...new Set(guidance.map(g=>g.topic))].sort()},{name:"institution",label:"Institutions",value:institution,options:[...new Set(guidance.map(g=>g.institution))].sort()}]}/><div className="industry-results"><strong>{items.length} resources</strong><Link href="/insights">SMR explainers <ArrowUpRight size={15}/></Link></div><div className="industry-guidance-grid">{items.map(g=><article className="industry-guidance" id={g.id} key={g.id}><div className="industry-meta"><BookOpen size={18}/><strong>{g.institution}</strong><span>{g.format}</span></div><h2><a href={g.source} target="_blank" rel="noopener noreferrer">{g.title}</a></h2><p>{g.summary}</p><div className="industry-card-bottom"><span className="industry-tag">{g.topic}</span><a href={g.source} target="_blank" rel="noopener noreferrer">Read guidance <ArrowUpRight size={15}/></a></div></article>)}</div>{!items.length&&<p className="industry-empty">No matches. Try another topic or reset the filters.</p>}<div className="industry-profile-context"><h2>Put the guidance to work.</h2><p>Start with the decision you need to make, shortlist tools for that job, and take the relevant questions into the demo.</p><Link href="/providers">Find a provider <ArrowUpRight size={16}/></Link></div></section></PublicationFrame>;
+}

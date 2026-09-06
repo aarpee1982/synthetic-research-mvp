@@ -12,7 +12,8 @@ function walk(directory) {
     if(item.isDirectory()) { walk(file); continue; }
     if(!/\.(tsx?|json)$/.test(file)) continue;
     const content=fs.readFileSync(file,'utf8');
-    if (/<form(?:\s|>)/.test(content) && path.relative(root, file).replaceAll('\\', '/') !== 'src/components/ContactForm.tsx') failures.push(`Unprotected form: ${file}. Use the shared protected inquiry form.`);
+    const forms = content.match(/<form\b[^>]*>/g) || [];
+    if (forms.some(form => !/method="get"/.test(form) || !/role="search"/.test(form)) && path.relative(root, file).replaceAll('\\', '/') !== 'src/components/ContactForm.tsx') failures.push(`Unprotected form: ${file}. Use the shared protected inquiry form.`);
     if(file.endsWith('.json')) { check(content,file); continue; }
     const tree=ts.createSourceFile(file,content,ts.ScriptTarget.Latest,true);
     function visit(node) {

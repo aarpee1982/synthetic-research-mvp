@@ -2,11 +2,12 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { ArrowUpRight, Menu, X } from "lucide-react";
+import { ArrowUpRight, Menu, X, Plus } from "lucide-react";
 const links = [
-  ["Directory", "/directory"],
-  ["Compare", "/compare"],
-  ["Insights", "/insights"],
+  ["Providers", "/providers"],
+  ["News", "/news"],
+  ["Guidance", "/guidance"],
+  ["Guides", "/insights"],
   ["About", "/about"],
 ];
 export default function Nav() {
@@ -30,9 +31,7 @@ export default function Nav() {
           className="smr-brand"
           aria-label="Synthetic Market Research home"
         >
-          <span className="smr-monogram">
-            s<span>.</span>
-          </span>
+          <span className="smr-monogram smr-industry-mark" aria-hidden="true" />
           <span>
             Synthetic<span className="smr-brand-sub">MARKET RESEARCH</span>
           </span>
@@ -48,8 +47,8 @@ export default function Nav() {
             </Link>
           ))}
         </nav>
-        <Link href="/newsletter" className="smr-nav-contact">
-          The Synthetic Brief <ArrowUpRight size={16} />
+        <Link href="/submit" className="smr-nav-contact">
+          <Plus size={16} /> Add a tool
         </Link>
         <button
           className="smr-menu"

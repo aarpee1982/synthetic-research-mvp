@@ -25,8 +25,8 @@ export function RelatedProducts({ ids }: { ids: string[] }) {
   return <section className="pub-related"><h2>Explore the products</h2><div className="pub-related-grid">{products.filter(p => ids.includes(p.slug)).map(p => <ProductLink key={p.slug} product={p} />)}</div></section>;
 }
 export function BriefingBand() {
-  return <section className="pub-newsletter-band"><div className="pub-wrap"><div><p className="pub-eyebrow">THE SYNTHETIC BRIEF</p><h2>A clearer view of a changing industry.</h2><p>Product developments, research worth reading, and sharper buying questions.</p></div><Link className="pub-button" href="/newsletter">Join the newsletter <ArrowRight size={18} /></Link></div></section>;
+  return <section className="pub-newsletter-band"><div className="pub-wrap"><div><p className="pub-eyebrow">THE SYNTHETIC BRIEF</p><h2>Keep up with synthetic research.</h2><p>New tools, company updates, and research explained simply.</p></div><Link className="pub-button" href="/newsletter">Join the newsletter <ArrowRight size={18} /></Link></div></section>;
 }
 export function ProductVisual() {
-  return <figure className="pub-product-visual"><Link href="/directory/fairgen-twins"><Image unoptimized src="/fairgen-audience-product.webp" width={960} height={580} alt="Fairgen's published audience-selection interface with study categories" /></Link><figcaption>Product view: Fairgen. <a href="https://www.fairgen.ai/" target="_blank" rel="noopener noreferrer">Provider-supplied illustration <ArrowUpRight size={12} /></a></figcaption></figure>;
+  return <figure className="pub-product-visual"><Link href="/directory/fairgen-twins"><Image unoptimized loading="eager" src="/fairgen-audience-product.webp" width={960} height={580} alt="Fairgen's published audience-selection interface with study categories" /></Link><figcaption>Product view: Fairgen. <a href="https://www.fairgen.ai/" target="_blank" rel="noopener noreferrer">Provider-supplied illustration <ArrowUpRight size={12} /></a></figcaption></figure>;
 }
