@@ -4,6 +4,7 @@ import { ArrowUpRight, CheckCircle2, LoaderCircle } from "lucide-react";
 import Link from "next/link";
 import FormSecurity from "./FormSecurity";
 import { isCommonPersonalEmail, workEmailMessage } from "@/lib/work-email";
+import { trackForm } from "@/lib/analytics";
 
 export default function ContactForm({ interest, siteKey, reportId, segmentYear, onSuccess, onSending, mode = "research" }: { interest: string; siteKey: string; reportId?: string; segmentYear?: string; onSuccess?: () => void; onSending?: (value: boolean) => void; mode?: "research" | "publication" | "newsletter" }) {
   const newsletter = mode === "newsletter";
@@ -15,6 +16,9 @@ export default function ContactForm({ interest, siteKey, reportId, segmentYear, 
   const [resetVersion, setResetVersion] = useState(0);
   const requestId = useRef("");
   const submitting = useRef(false);
+  const started = useRef(false);
+  const formType = reportId ? "report_sample" : mode;
+  const serviceRequest = /privacy|unsubscribe/i.test(interest);
 
   if (sent) return <div className="smr-inquiry-confirmation" role="status" tabIndex={-1} ref={node => { node?.focus(); }}>
     <CheckCircle2 size={30} aria-hidden="true" />
@@ -23,7 +27,7 @@ export default function ContactForm({ interest, siteKey, reportId, segmentYear, 
     <Link className="smr-text-link" href={publication ? "/directory" : "/reports"}>{publication ? "Explore the directory" : "Explore our research"} <ArrowUpRight size={17} /></Link>
   </div>;
 
-  return <form className="smr-contact-form" onSubmit={async event => {
+  return <form className="smr-contact-form" onFocus={() => { if (!started.current) { started.current = true; if (!serviceRequest) trackForm("start", formType); } }} onSubmit={async event => {
     event.preventDefault();
     if (submitting.current || !token) return;
     const form = event.currentTarget;
@@ -40,7 +44,7 @@ export default function ContactForm({ interest, siteKey, reportId, segmentYear, 
         signal: AbortSignal.timeout(35_000),
       });
       const result = await response.json();
-      if (response.ok && result.ok === true) { setSent(true); onSuccess?.(); return; }
+      if (response.ok && result.ok === true) { if (!serviceRequest) trackForm("success", formType); setSent(true); onSuccess?.(); return; }
       setError(typeof result.message === "string" ? result.message : "We could not confirm your inquiry. Please try again.");
     } catch { setError("We could not confirm your inquiry. Your details are still in the form. Please try again shortly."); }
     finally { submitting.current = false; setSending(false); onSending?.(false); setToken(""); setResetVersion(version => version + 1); }

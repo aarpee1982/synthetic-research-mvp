@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
+import { PrivacyChoices } from "./AnalyticsConsent";
 
 export default function Footer() {
   return (
@@ -51,6 +52,7 @@ export default function Footer() {
           </span>
           <div>
             <Link href="/privacy">Privacy</Link>
+            <PrivacyChoices />
             <Link href="/terms">Terms</Link>
           </div>
         </div>
