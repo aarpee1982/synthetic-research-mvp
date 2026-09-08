@@ -32,7 +32,7 @@ export default async function News({ searchParams }: Props) {
         {name:"type",label:"Story types",value:type,options:["Announcement","Company perspective","Research"]},
         {name:"month",label:"Months",value:month,options:[...new Set(news.map(n=>n.date.slice(0,7)))].sort().reverse()}
       ]}/>
-      <div className="industry-results"><strong>{matched.length} updates</strong><span>Newest first · July to September 2026</span></div>
+      <div className="industry-results"><strong>Latest updates</strong><span>Newest first · July to September 2026</span></div>
       <div className="industry-news-grid">{matched.slice((page-1)*12,page*12).map(n=><NewsCard key={n.id} item={n}/>)}</div>
       {!matched.length&&<p className="industry-empty">No matching updates. Try another topic or reset the filters.</p>}
       <Pagination page={page} total={total} href={n=>queryHref("/news",{q,type,month,provider},n)}/>
