@@ -3,9 +3,10 @@ import { ArrowUpRight, ArrowRight, Search, SlidersHorizontal } from "lucide-reac
 import { Provider, getProvider } from "@/lib/providers";
 import { NewsItem, dateLabel } from "@/lib/industry-news";
 import SourceImage from "./SourceImage";
+import CompanyIcon from "./CompanyIcon";
 
 export function ProviderCard({ provider: p }: { provider: Provider }) {
-  return <article className="industry-provider"><div className="industry-provider-top"><span className="industry-letter" aria-hidden="true">{p.name.slice(0, 2).toUpperCase()}</span><div><h2><Link href={`/providers/${p.slug}`}>{p.name}</Link></h2><span>{p.kind}</span></div><ArrowUpRight size={18} /></div><p>{p.summary}</p><div className="industry-card-bottom"><span className="industry-tag">{p.category}</span><Link href={`/providers/${p.slug}`} aria-label={`Explore ${p.name}`}>Explore <ArrowRight size={15}/></Link></div></article>;
+  return <article className="industry-provider"><div className="industry-provider-top"><CompanyIcon id={p.slug}/><div><h2><Link href={`/providers/${p.slug}`}>{p.name}</Link></h2><span>{p.kind}</span></div><ArrowUpRight size={18} /></div><p>{p.summary}</p><div className="industry-card-bottom"><span className="industry-tag">{p.category}</span><Link href={`/providers/${p.slug}`} aria-label={`Explore ${p.name}`}>Explore <ArrowRight size={15}/></Link></div></article>;
 }
 export function NewsCard({ item }: { item: NewsItem }) {
   const provider = getProvider(item.provider);

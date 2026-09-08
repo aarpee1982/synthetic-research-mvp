@@ -64,15 +64,15 @@ export default function DirectoryExplorer({ initialQuery = "", initialCategory =
       <aside className="pub-filters" id="directory-filters" data-open={filtersOpen}>
         <h2><Boxes size={17} /> Explore tools</h2>
         <fieldset><legend>Product category</legend>
-          <label className={!category ? "is-active" : ""}><input type="radio" name="category" checked={!category} onChange={() => filter(query, "", use)} /><Boxes size={15} /> All products <span>{products.length}</span></label>
-          {categories.map((c, i) => { const Icon = categoryIcons[i]; return <label className={c === category ? "is-active" : ""} key={c}><input type="radio" name="category" checked={c === category} onChange={() => filter(query, c, use)} /><Icon size={15} />{c}<span>{products.filter(p => p.category === c).length}</span></label>; })}
+          <label className={!category ? "is-active" : ""}><input type="radio" name="category" checked={!category} onChange={() => filter(query, "", use)} /><Boxes size={15} /> All products</label>
+          {categories.map((c, i) => { const Icon = categoryIcons[i]; return <label className={c === category ? "is-active" : ""} key={c}><input type="radio" name="category" checked={c === category} onChange={() => filter(query, c, use)} /><Icon size={15} />{c}</label>; })}
         </fieldset>
         <label className="pub-select-label" htmlFor="use-case">What are you working on?</label><select id="use-case" value={use} onChange={e => filter(query, category, e.target.value)}><option value="">All use cases</option>{uses.map(u => <option key={u}>{u}</option>)}</select>
         {active && <button className="pub-reset" onClick={() => filter("", "", "", false)}>Clear filters <X size={14} /></button>}
         <div className="pub-filter-note"><p>Building a research tool?</p><Link href="/submit"><Plus size={15} /> Add your company</Link><Link href="/advertise">Sponsor the directory <ArrowUpRight size={15} /></Link></div>
       </aside>
       <div className="hub-results">
-        <div className="pub-results-heading"><p role="status"><strong>{list.length}</strong> {list.length === 1 ? "product" : "products"}{active ? " matching your search" : " to explore"}</p><div className="hub-result-controls"><label><span className="pub-sr">Sort</span><select aria-label="Sort" value={sort} onChange={e => setSort(e.target.value)}><option value="az">Provider A-Z</option><option value="category">Category</option></select></label><div className="hub-view-toggle" role="group" aria-label="Display"><button aria-label="List view" title="List view" aria-pressed={view === "list"} onClick={() => filter(query, category, use, savedOnly, "list")}><List size={17} /></button><button aria-label="Grid view" title="Grid view" aria-pressed={view === "grid"} onClick={() => filter(query, category, use, savedOnly, "grid")}><LayoutGrid size={17} /></button></div></div></div>
+        <div className="pub-results-heading"><p role="status">{active ? "Search results" : "Research tools"}{active && <span className="pub-sr">: {list.length} matches</span>}</p><div className="hub-result-controls"><label><span className="pub-sr">Sort</span><select aria-label="Sort" value={sort} onChange={e => setSort(e.target.value)}><option value="az">Provider A-Z</option><option value="category">Category</option></select></label><div className="hub-view-toggle" role="group" aria-label="Display"><button aria-label="List view" title="List view" aria-pressed={view === "list"} onClick={() => filter(query, category, use, savedOnly, "list")}><List size={17} /></button><button aria-label="Grid view" title="Grid view" aria-pressed={view === "grid"} onClick={() => filter(query, category, use, savedOnly, "grid")}><LayoutGrid size={17} /></button></div></div></div>
         <div className={`pub-product-grid is-${view}`}>
           {list.map(p => <article className="pub-product-card" key={p.slug} data-category={categories.indexOf(p.category)}>
             <div className="pub-product-card-head"><ProductMark product={p} /></div>
@@ -84,6 +84,7 @@ export default function DirectoryExplorer({ initialQuery = "", initialCategory =
           </article>)}
         </div>
         {list.length === 0 && <div className="pub-empty">{savedOnly ? <Bookmark size={28} /> : <Search size={28} />}<h3>{savedOnly && bookmarked.length === 0 ? "No saved tools yet" : "No matching products"}</h3><p>{savedOnly && bookmarked.length === 0 ? "Your saved tools will appear here." : "Try another name or clear your filters."}</p><button className="pub-button" onClick={() => filter("", "", "", false)}>Show all products <ArrowRight size={16} /></button></div>}
+        <div className="industry-full-list"><Link href="/providers" target="_blank" rel="noopener noreferrer">See all synthetic providers <ArrowUpRight size={20}/><span className="pub-sr"> (opens in a new tab)</span></Link></div>
         <p className="pub-directory-note">Updated 6 September 2026. <Link href="/submit">Suggest a tool</Link><Link href="/methodology">About the directory</Link></p>
       </div>
       {rail}

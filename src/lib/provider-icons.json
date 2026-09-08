@@ -1,0 +1,626 @@
+{
+  "adskate": {
+    "src": "/provider-icons/adskate.png",
+    "source": "https://cdn.prod.website-files.com/66637482ff7f75a2fd034496/6737730682ccd45c591f5ff9_1111.png"
+  },
+  "aaru": {
+    "src": "/provider-icons/aaru.png",
+    "source": "https://aaru.com/favicon.svg"
+  },
+  "argumentroupe": {
+    "src": "/provider-icons/argumentroupe.png",
+    "source": "https://www.argumentroupe.com/apple-touch-icon.png"
+  },
+  "artificial-societies": {
+    "src": "/provider-icons/artificial-societies.png",
+    "source": "https://www.societies.io/images/logo_on_black.png"
+  },
+  "arctech": {
+    "src": "/provider-icons/arctech.png",
+    "source": "https://www.arctech.id/assets/arctech-symbol-blue.png"
+  },
+  "articos": {
+    "src": "/provider-icons/articos.png",
+    "source": "https://www.articos.com/favicon.svg"
+  },
+  "asksynth": {
+    "src": "/provider-icons/asksynth.png",
+    "source": "https://framerusercontent.com/images/dwtN4ow6I9wYejA7SZrC62d8Mc.png"
+  },
+  "aya": {
+    "src": "/provider-icons/aya.png",
+    "source": "https://www.askyouraudience.ai/apple-touch-icon.png?v=20260130"
+  },
+  "avatar-insights": {
+    "src": "/provider-icons/avatar-insights.png",
+    "source": "https://avatar-insights.com/favicon.png?v=2"
+  },
+  "askreplicas": {
+    "src": "/provider-icons/askreplicas.png",
+    "source": "https://www.askreplicas.ai/icon?b85b4772a7098d55"
+  },
+  "bluepill": {
+    "src": "/provider-icons/bluepill.png",
+    "source": "https://framerusercontent.com/images/l7BRtSOw09bxttUtdW1tSPvFTcA.png"
+  },
+  "bellomy": {
+    "src": "/provider-icons/bellomy.ico",
+    "source": "https://www.bellomy.com/themes/custom/bellomy_2/favicon.ico"
+  },
+  "atypica": {
+    "src": "/provider-icons/atypica.png",
+    "source": "https://atypica.ai/_public/hippyghost-square-dark.jpg"
+  },
+  "benki": {
+    "src": "/provider-icons/benki.png",
+    "source": "https://benki.tech/Benki_fire.png?v=20260715"
+  },
+  "candor": {
+    "src": "/provider-icons/candor.png",
+    "source": "https://www.runcandor.com/candor/favicon.svg"
+  },
+  "buildbetter": {
+    "src": "/provider-icons/buildbetter.png",
+    "source": "https://new.buildbetter.ai/apple-touch-icon.png"
+  },
+  "beehive-ai": {
+    "src": "/provider-icons/beehive-ai.png",
+    "source": "https://static.wixstatic.com/media/47acb3_9fc3ddff95f04aacad5d0a52b0a05dad%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/47acb3_9fc3ddff95f04aacad5d0a52b0a05dad%7Emv2.png"
+  },
+  "decisions-lab": {
+    "src": "/provider-icons/decisions-lab.ico",
+    "source": "https://www.decisionslab.io/favicon.ico"
+  },
+  "deepsona": {
+    "src": "/provider-icons/deepsona.png",
+    "source": "https://www.deepsona.ai/favicon.svg"
+  },
+  "culturepulse": {
+    "src": "/provider-icons/culturepulse.ico",
+    "source": "https://www.culturepulse.ai/favicon.ico"
+  },
+  "botscrew": {
+    "src": "/provider-icons/botscrew.png",
+    "source": "https://www.syntheticaudience.ai/lovable-uploads/24f2f3fa-dfa9-41c9-b3ce-206e31d1ac7b.png"
+  },
+  "crowdos": {
+    "src": "/provider-icons/crowdos.png",
+    "source": "https://crowdos.ai/icon.svg?icon.0z2wbxkuevo5n.svg"
+  },
+  "electric-twin": {
+    "src": "/provider-icons/electric-twin.png",
+    "source": "https://framerusercontent.com/images/DlbTYy1FRVoW3woMY8C6LVsYmBs.png"
+  },
+  "evidenza": {
+    "src": "/provider-icons/evidenza.png",
+    "source": "https://cdn.prod.website-files.com/6658adad81eb524ba91b253e/6a2abda00b1209bd8898fe37_image%20(3).png"
+  },
+  "epistemix": {
+    "src": "/provider-icons/epistemix.png",
+    "source": "https://framerusercontent.com/images/w69yqlvsK8YH1aV7aiDIkOFntsU.png"
+  },
+  "discuss": {
+    "src": "/provider-icons/discuss.png",
+    "source": "https://www.discuss.io/wp-content/uploads/2018/11/cropped-Discuss_Favicon-1-1-180x180.png"
+  },
+  "featurely": {
+    "src": "/provider-icons/featurely.png",
+    "source": "https://cdn.prod.website-files.com/68c0920ab5c781586cfd0574/6918532b99405a86627ea3aa_logo-black-256.png"
+  },
+  "delve-ai": {
+    "src": "/provider-icons/delve-ai.png",
+    "source": "https://cdnforge.delveai.com/dash/img/0d3d507/icons/delve_ai_logo_white_gb_152x152.png"
+  },
+  "epam": {
+    "src": "/provider-icons/epam.ico",
+    "source": "https://solutionshub.epam.com/icon.ico?icon.09nbyiq70ffpv.ico"
+  },
+  "fairgen": {
+    "src": "/provider-icons/fairgen.png",
+    "source": "https://cdn.prod.website-files.com/67fe3bdb026386cb24837787/68e7abe610fca07d5d977dae_FAIRGEN_WEBCLIP-256.png"
+  },
+  "fairgen-boost": {
+    "src": "/provider-icons/fairgen.png",
+    "source": "https://cdn.prod.website-files.com/67fe3bdb026386cb24837787/68e7abe610fca07d5d977dae_FAIRGEN_WEBCLIP-256.png"
+  },
+  "fairgen-twins": {
+    "src": "/provider-icons/fairgen.png",
+    "source": "https://cdn.prod.website-files.com/67fe3bdb026386cb24837787/68e7abe610fca07d5d977dae_FAIRGEN_WEBCLIP-256.png"
+  },
+  "galaxies": {
+    "src": "/provider-icons/galaxies.png",
+    "source": "https://framerusercontent.com/images/iRBC7uuAWPziOc2SaF6WQpqMKc.png"
+  },
+  "heatseeker": {
+    "src": "/provider-icons/heatseeker.png",
+    "source": "https://www.heatseeker.ai/icon.png?433bba6abac6d952"
+  },
+  "gwi": {
+    "src": "/provider-icons/gwi.png",
+    "source": "https://www.gwi.com/hubfs/Website/Assets/fav-icon.png"
+  },
+  "fishdog": {
+    "src": "/provider-icons/fishdog.ico",
+    "source": "https://fish.dog/static/favicon.ico"
+  },
+  "ipsos": {
+    "src": "/provider-icons/ipsos.ico",
+    "source": "https://www.ipsos.com/sites/ipsos/themes/custom/ipsos/favicon.ico"
+  },
+  "ipsos-personabot": {
+    "src": "/provider-icons/ipsos.ico",
+    "source": "https://www.ipsos.com/sites/ipsos/themes/custom/ipsos/favicon.ico"
+  },
+  "humanai": {
+    "src": "/provider-icons/humanai.png",
+    "source": "https://www.syntheticrespondents.io/logo192.png"
+  },
+  "intellimark": {
+    "src": "/provider-icons/intellimark.png",
+    "source": "https://www.intellimark.net/favicon.png"
+  },
+  "inqvey": {
+    "src": "/provider-icons/inqvey.png",
+    "source": "https://inqvey.com/apple-icon.png?apple-icon.b77cea76.png"
+  },
+  "lakmoos": {
+    "src": "/provider-icons/lakmoos.png",
+    "source": "https://framerusercontent.com/images/0mjREm7vY2D4GrHhBYxIbAHOEA0.png"
+  },
+  "keplar": {
+    "src": "/provider-icons/keplar.png",
+    "source": "https://www.keplar.io/favicon.png"
+  },
+  "limbik": {
+    "src": "/provider-icons/limbik.png",
+    "source": "https://limbik.com/favicon.svg"
+  },
+  "mariete": {
+    "src": "/provider-icons/mariete.png",
+    "source": "https://pulse.mariete.ai/apple-icon.png"
+  },
+  "lewsearch": {
+    "src": "/provider-icons/lewsearch.png",
+    "source": "https://lewsearch.com/icons/lewsearch-apple-180.png"
+  },
+  "minds": {
+    "src": "/provider-icons/minds.png",
+    "source": "https://getminds.ai/apple-touch-icon.png"
+  },
+  "lumanity": {
+    "src": "/provider-icons/lumanity.png",
+    "source": "https://lumanity.com/wp-content/uploads/2025/09/cropped-favicon-180x180.png"
+  },
+  "native-ai": {
+    "src": "/provider-icons/native-ai.png",
+    "source": "https://gonative.ai/hubfs/native-icon-dark@2x%20(1).png"
+  },
+  "niq": {
+    "src": "/provider-icons/niq.png",
+    "source": "https://nielseniq.com/wp-content/uploads/sites/4/2023/03/cropped-favicon-512x512-1.png?w=180"
+  },
+  "panoplai": {
+    "src": "/provider-icons/panoplai.png",
+    "source": "https://cdn.prod.website-files.com/67c0e7db9d992c68c72ef2ec/67c11f8a4ec6c7eb0fd6cf54_favicon.png"
+  },
+  "panelia": {
+    "src": "/provider-icons/panelia.png",
+    "source": "https://www.panelia.io/apple-icon?6ccdb57ba3778519"
+  },
+  "panelzero": {
+    "src": "/provider-icons/panelzero.png",
+    "source": "https://www.panelzero.app/favicon.svg"
+  },
+  "newtonx": {
+    "src": "/provider-icons/newtonx.png",
+    "source": "https://www.newtonx.com/wp-content/uploads/2021/03/cropped-NX_newsite_icon-1-180x180.png"
+  },
+  "personia": {
+    "src": "/provider-icons/personia.png",
+    "source": "https://personia.ai/favicon.png"
+  },
+  "personahive": {
+    "src": "/provider-icons/personahive.png",
+    "source": "https://personahive.ai/apple-touch-icon-brand.png?v=5"
+  },
+  "perspective-ai": {
+    "src": "/provider-icons/perspective-ai.ico",
+    "source": "https://s.getperspective.ai/favicon.ico?favicon.1pm7f1q_630pp.ico"
+  },
+  "preferences-ai": {
+    "src": "/provider-icons/preferences-ai.png",
+    "source": "https://preferencesai.io/icon.svg?icon.3r3v5ysvjlsei.svg"
+  },
+  "qualtrics": {
+    "src": "/provider-icons/qualtrics.ico",
+    "source": "https://www.qualtrics.com/themes/custom/olympus/favicon.ico"
+  },
+  "qualtrics-synthetic-panels": {
+    "src": "/provider-icons/qualtrics.ico",
+    "source": "https://www.qualtrics.com/themes/custom/olympus/favicon.ico"
+  },
+  "qualisynth": {
+    "src": "/provider-icons/qualisynth.png",
+    "source": "https://app.qualisynth.com/icon.svg?a6d1f788cbde15c0"
+  },
+  "replism": {
+    "src": "/provider-icons/replism.png",
+    "source": "https://replism.com/favicon/apple-touch-icon.png"
+  },
+  "qualitati": {
+    "src": "/provider-icons/qualitati.png",
+    "source": "https://qualitati.com/logo192.png"
+  },
+  "prorelevant": {
+    "src": "/provider-icons/prorelevant.png",
+    "source": "https://prorelevant.com/wp-content/uploads/2021/03/cropped-ProRelevant-Favicon-180x180.jpg"
+  },
+  "sondeo": {
+    "src": "/provider-icons/sondeo.png",
+    "source": "https://sondeo.ai/favicon.svg"
+  },
+  "simile": {
+    "src": "/provider-icons/simile.png",
+    "source": "https://www.simile.com/brand/favicon.svg"
+  },
+  "simsurveys": {
+    "src": "/provider-icons/simsurveys.png",
+    "source": "https://www.simsurveys.com/apple-touch-icon.png"
+  },
+  "sunzu": {
+    "src": "/provider-icons/sunzu.png",
+    "source": "https://www.sunzu.com/logo-square.svg"
+  },
+  "stravito": {
+    "src": "/provider-icons/stravito.ico",
+    "source": "https://www.stravito.com/hubfs/favicon-1.ico"
+  },
+  "symar": {
+    "src": "/provider-icons/symar.png",
+    "source": "https://www.symar.ai/wp-content/uploads/2025/10/logo-1.svg"
+  },
+  "synthelos": {
+    "src": "/provider-icons/synthelos.png",
+    "source": "https://synthelos.com/favicon.png"
+  },
+  "synthanswers": {
+    "src": "/provider-icons/synthanswers.ico",
+    "source": "https://synthanswers.com/favicon.ico"
+  },
+  "synthetic-archetype": {
+    "src": "/provider-icons/synthetic-archetype.png",
+    "source": "https://www.syntheticarchetype.com/favicon.png"
+  },
+  "synsurv": {
+    "src": "/provider-icons/synsurv.ico",
+    "source": "https://synsurv.com/favicon.ico"
+  },
+  "synthetic-consumer-lab": {
+    "src": "/provider-icons/synthetic-consumer-lab.png",
+    "source": "https://synthetic-consumers.com/apple-icon-57x57.png"
+  },
+  "synthetic-persona": {
+    "src": "/provider-icons/synthetic-persona.png",
+    "source": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m"
+  },
+  "synthetic-respondents": {
+    "src": "/provider-icons/synthetic-respondents.png",
+    "source": "https://www.synthetic-respondents.com/_assets/v11/6b8fc27c14d8551f013121b52f20b8bcadae7296.png"
+  },
+  "synthetic-signals": {
+    "src": "/provider-icons/synthetic-signals.png",
+    "source": "https://syntheticsignals.ai/apple-touch-icon.png"
+  },
+  "synthetic-users": {
+    "src": "/provider-icons/synthetic-users.png",
+    "source": "https://docs.syntheticusers.com/logo-dark.svg"
+  },
+  "synthlytics": {
+    "src": "/provider-icons/synthlytics.ico",
+    "source": "https://synthlytics.ai/favicon.ico"
+  },
+  "uniphore": {
+    "src": "/provider-icons/uniphore.png",
+    "source": "https://www.uniphore.com/wp-content/uploads/2025/12/cropped-Uniphore%E2%80%93Bug%E2%80%93Gradient%E2%80%93Light-180x180.webp"
+  },
+  "thg-fluently": {
+    "src": "/provider-icons/thg-fluently.png",
+    "source": "https://www.thgfluently.com/wp-content/uploads/2025/12/cropped-thglogo-1-180x180.jpg"
+  },
+  "uxia": {
+    "src": "/provider-icons/uxia.png",
+    "source": "https://framerusercontent.com/images/fNXZtkKjbeThqXKjXSphAZ9huyg.png"
+  },
+  "verve": {
+    "src": "/provider-icons/verve.png",
+    "source": "https://framerusercontent.com/images/ZecfNAvonU9uAXi0oRHyMjwpLw.png"
+  },
+  "vurvey": {
+    "src": "/provider-icons/vurvey.png",
+    "source": "https://framerusercontent.com/images/dt2cBNK0n80qtnugceBXyFPhZg.png"
+  },
+  "yatabase": {
+    "src": "/provider-icons/yatabase.png",
+    "source": "https://www.yatabase.com/favicon.svg?v=2"
+  },
+  "yabble": {
+    "src": "/provider-icons/yabble.png",
+    "source": "https://www.yabble.com/hubfs/Yabble%20Theme%20Jan%202022/Logos/Symbol%20-%20Charcoal.svg"
+  },
+  "synthpanel": {
+    "src": "/provider-icons/synthpanel.png",
+    "source": "https://synthpanel.co/favicon.ico"
+  },
+  "predictpanel": {
+    "src": "/provider-icons/predictpanel.png",
+    "source": "https://predictpanel.com/favicon.svg"
+  },
+  "brox": {
+    "src": "/provider-icons/brox.png",
+    "source": "https://brox.ai/images/favicon-dark.png"
+  },
+  "data-reply": {
+    "src": "/provider-icons/data-reply.png",
+    "source": "https://www.reply.com/favicon.ico"
+  },
+  "dtwin": {
+    "src": "/provider-icons/dtwin.png",
+    "source": "https://dtwin.now/assets/logos/DT.svg"
+  },
+  "market-logic": {
+    "src": "/provider-icons/market-logic.png",
+    "source": "https://marketlogicsoftware.com/wp-content/uploads/2024/11/favicon.png"
+  },
+  "kumkuat": {
+    "src": "/provider-icons/kumkuat.png",
+    "source": "https://www.kumkuat.ai/favicon.ico"
+  },
+  "toluna": {
+    "src": "/provider-icons/toluna.png",
+    "source": "https://tolunacorporate.com/wp-content/uploads/2025/03/TolunaStart512-240x240.png"
+  },
+  "toluna-boost": {
+    "src": "/provider-icons/toluna.png",
+    "source": "https://tolunacorporate.com/wp-content/uploads/2025/03/TolunaStart512-240x240.png"
+  },
+  "toluna-personas": {
+    "src": "/provider-icons/toluna.png",
+    "source": "https://tolunacorporate.com/wp-content/uploads/2025/03/TolunaStart512-240x240.png"
+  },
+  "wpp": {
+    "src": "/provider-icons/wpp.png",
+    "source": "https://images.eu.ctfassets.net/npbth6l75bn8/4VWPH8lszNDPbYODlXzumi/e63ca6496212abd1d4774e57c4a9416f/apple-touch-icon.png"
+  },
+  "algoverde": {
+    "src": "/provider-icons/algoverde.png",
+    "source": "https://framerusercontent.com/images/o8UA89KMOHqM1JGzcIhrmt79bws.png"
+  },
+  "bcg": {
+    "src": "/provider-icons/bcg.ico",
+    "source": "https://www.bcg.com/favicon.ico"
+  },
+  "appinio": {
+    "src": "/provider-icons/appinio.png",
+    "source": "https://www.appinio.com/hubfs/B2B%20Redesign%2024/Favicon/apple-touch-icon.png"
+  },
+  "atani": {
+    "src": "/provider-icons/atani.png",
+    "source": "https://atani.ai/apple-touch-icon.png"
+  },
+  "breakthrough-research": {
+    "src": "/provider-icons/breakthrough-research.png",
+    "source": "https://bthrough.com/wp-content/uploads/2019/06/cropped-favicon-180x180.png"
+  },
+  "cassi-ai": {
+    "src": "/provider-icons/cassi-ai.png",
+    "source": "https://www.cassiai.com/favicon.png"
+  },
+  "datadiggers": {
+    "src": "/provider-icons/datadiggers.png",
+    "source": "https://cdn.prod.website-files.com/6708c48d59f9d9b03fa25bf1/670f8fac7295c99fcdc471ad_Webclip.png"
+  },
+  "basis-global": {
+    "src": "/provider-icons/basis-global.png",
+    "source": "https://basisglobal.co/wp-content/uploads/2025/06/cropped-Linkedin-Profile-180x180.png"
+  },
+  "dnp": {
+    "src": "/provider-icons/dnp.png",
+    "source": "https://www.dnp.co.jp/apple-touch-icon.png"
+  },
+  "doppeliq": {
+    "src": "/provider-icons/doppeliq.ico",
+    "source": "https://www.doppeliq.ai/favicon.ico?favicon.0tuugxq5fiywq.ico?dpl=dpl_C3c1KdUpKBgvajqLHtpYMCQo86uQ"
+  },
+  "dentsu": {
+    "src": "/provider-icons/dentsu.png",
+    "source": "https://www.dentsu.com/favicons/apple-touch-icon.png"
+  },
+  "echobench": {
+    "src": "/provider-icons/echobench.png",
+    "source": "https://echobench.ai/brand/mascot-circle.jpg"
+  },
+  "focusgroups-ai": {
+    "src": "/provider-icons/focusgroups-ai.png",
+    "source": "https://focusgroups-ai.com/favicon.png?v=3"
+  },
+  "flashinsight": {
+    "src": "/provider-icons/flashinsight.png",
+    "source": "https://www.flashinsight.io/apple-touch-icon.png"
+  },
+  "futurecustomer-lab": {
+    "src": "/provider-icons/futurecustomer-lab.png",
+    "source": "https://persona.microforge.works/apple-icon.png?apple-icon.0rqj2y51k-dwg.png"
+  },
+  "ads-recruiting": {
+    "src": "/provider-icons/ads-recruiting.png",
+    "source": "https://syntheticrespondentsalise.com/favicon.svg"
+  },
+  "haven-labs": {
+    "src": "/provider-icons/haven-labs.png",
+    "source": "https://havenlabs.sg/icons/apple-touch-icon.png"
+  },
+  "jina": {
+    "src": "/provider-icons/jina.png",
+    "source": "https://synthetic.usejina.com/logo.png"
+  },
+  "leger": {
+    "src": "/provider-icons/leger.png",
+    "source": "https://leger360.com/wp-content/uploads/2024/08/Favicon_leger_Plan-de-travail-1-1.png"
+  },
+  "kalezio": {
+    "src": "/provider-icons/kalezio.png",
+    "source": "https://www.kalezio.com/apple-touch-icon.svg"
+  },
+  "moveo-one": {
+    "src": "/provider-icons/moveo-one.png",
+    "source": "https://www.moveo.one/apple-touch-icon.png"
+  },
+  "linkeddata-center": {
+    "src": "/provider-icons/linkeddata-center.ico",
+    "source": "https://hdtwin.linkeddata.center/favicon.ico"
+  },
+  "miles-stoddart": {
+    "src": "/provider-icons/miles-stoddart.png",
+    "source": "https://www.milesstoddart.com/header.png"
+  },
+  "myvoice-communications": {
+    "src": "/provider-icons/myvoice-communications.ico",
+    "source": "https://cotoel.myvoice.jp/favicon.ico"
+  },
+  "oliver": {
+    "src": "/provider-icons/oliver.png",
+    "source": "https://oliverinside.ai/hubfs/Logotype-Black-300-dpi.png"
+  },
+  "paco-collective": {
+    "src": "/provider-icons/paco-collective.png",
+    "source": "https://static.wixstatic.com/shapes/aed910_92f1f011907d4a75931b0eb25beaa2eb.svg"
+  },
+  "opensurvey": {
+    "src": "/provider-icons/opensurvey.png",
+    "source": "https://framerusercontent.com/images/MCpwalscEoGzPRbHaALgJCmrfUg.png"
+  },
+  "persona-lab": {
+    "src": "/provider-icons/persona-lab.png",
+    "source": "https://personalabai.com/apple-touch-icon.png"
+  },
+  "panelyst": {
+    "src": "/provider-icons/panelyst.png",
+    "source": "https://www.usepanelyst.com/apple-icon?d7362e70388adc0c"
+  },
+  "personachoice": {
+    "src": "/provider-icons/personachoice.ico",
+    "source": "https://personachoice.com/favicon.ico"
+  },
+  "pwc": {
+    "src": "/provider-icons/pwc.png",
+    "source": "https://www.pwc.com/content/pwc/script/network/apple-touch-icon.png"
+  },
+  "rehearsals": {
+    "src": "/provider-icons/rehearsals.png",
+    "source": "https://www.runrehearsals.com/apple-icon.png?apple-icon.0zm5onggf7tsa.png?dpl=dpl_BVVtwavDnrmCeT9SdR8HBq93LwmA"
+  },
+  "pollia": {
+    "src": "/provider-icons/pollia.png",
+    "source": "https://pollia.ai/apple-touch-icon.png"
+  },
+  "poll-sim": {
+    "src": "/provider-icons/poll-sim.png",
+    "source": "https://www.poll-sim.com/logo192.png"
+  },
+  "questionpro": {
+    "src": "/provider-icons/questionpro.png",
+    "source": "https://www.questionpro.com/images/qphome/favicon.ico"
+  },
+  "riwi": {
+    "src": "/provider-icons/riwi.png",
+    "source": "https://riwi.com/wp-content/uploads/2019/07/favicon.png"
+  },
+  "savanta": {
+    "src": "/provider-icons/savanta.ico",
+    "source": "https://savanta.com/wp-content/themes/savanta/resources/images/favicon/favicon.ico"
+  },
+  "semilattice": {
+    "src": "/provider-icons/semilattice.ico",
+    "source": "https://semilattice.ai/favicon.ico"
+  },
+  "socialtrait": {
+    "src": "/provider-icons/socialtrait.png",
+    "source": "https://cdn.prod.website-files.com/69897c02e1f7bd30a98635a2/6996ba5278fad0d54c9c2299_favicon.png"
+  },
+  "softstack": {
+    "src": "/provider-icons/softstack.png",
+    "source": "https://softstackresearch.com/icon.png?4c994fe382443f5b"
+  },
+  "synth-research": {
+    "src": "/provider-icons/synth-research.png",
+    "source": "https://synthres.ru/apple-icon?420dd0e24057d29a"
+  },
+  "strategic-research-insights": {
+    "src": "/provider-icons/strategic-research-insights.png",
+    "source": "https://www.srinsights.com/wp-content/uploads/2025/11/cropped-SRI-Insights-logo-2-180x180.png"
+  },
+  "statsocial": {
+    "src": "/provider-icons/statsocial.png",
+    "source": "https://www.statsocial.com/wp-content/uploads/cropped-favicon-180x180.jpg"
+  },
+  "synthetic-users-io": {
+    "src": "/provider-icons/synthetic-users-io.png",
+    "source": "https://syntheticusers.io/favicon.svg"
+  },
+  "research37": {
+    "src": "/provider-icons/research37.ico",
+    "source": "https://www.research37.com/favicon.ico"
+  },
+  "trinity-life-sciences": {
+    "src": "/provider-icons/trinity-life-sciences.png",
+    "source": "https://trinitylifesciences.com/wp-content/uploads/2025/11/Sabers-2.svg"
+  },
+  "the-insights-company": {
+    "src": "/provider-icons/the-insights-company.ico",
+    "source": "https://www.insightscompany.io/favicon.ico"
+  },
+  "viewpoints-ai": {
+    "src": "/provider-icons/viewpoints-ai.ico",
+    "source": "https://www.viewpoints.ai/favicon.ico"
+  },
+  "tezign": {
+    "src": "/provider-icons/tezign.png",
+    "source": "https://static-cdn-deploy-platform.tezign.com/static/images/ico-tezign-black.png"
+  },
+  "proxytalk": {
+    "src": "/provider-icons/proxytalk.png",
+    "source": "https://proxy-talk.com/apple-touch-icon.png"
+  },
+  "yougov": {
+    "src": "/provider-icons/yougov.png",
+    "source": "https://parallax.yougov.com/apple-touch-icon.png"
+  },
+  "wenjuan-com": {
+    "src": "/provider-icons/wenjuan-com.ico",
+    "source": "https://www.wenjuan.com/favicon.ico"
+  },
+  "c5i": {
+    "src": "/provider-icons/c5i.png",
+    "source": "https://www.c5i.ai/wp-content/uploads/cropped-android-chrome-192x192-1-192x192.png"
+  },
+  "kronaxis": {
+    "src": "/provider-icons/kronaxis.png",
+    "source": "https://kronaxis.co.uk/favicon.svg"
+  },
+  "personapanels": {
+    "src": "/provider-icons/personapanels.png",
+    "source": "https://personapanels.com/wp-content/uploads/2018/08/pp_logo_k_horzl.png"
+  },
+  "subconscious": {
+    "src": "/provider-icons/subconscious.ico",
+    "source": "https://subconscious.ai/images/favicon.ico"
+  },
+  "synthetic-people": {
+    "src": "/provider-icons/synthetic-people.png",
+    "source": "https://synthetic-people.ai/Synthetic_People_Favicon_Transperant.png"
+  },
+  "chorusay": {
+    "src": "/provider-icons/chorusay.png",
+    "source": "https://www.chorusay.com/"
+  }
+}

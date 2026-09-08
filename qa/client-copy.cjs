@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const ts = require('typescript');
 const root = path.resolve(__dirname, '..');
-const forbidden = /\b(?:internal (?:only|note|use|review)|human review pending|reviewer pending|pilot dataset|working (?:dataset|evidence|draft)|publication gate|publication_approved|human_review|charts? coming (?:next|soon)|not (?:yet )?ready (?:for|to)|placeholder (?:data|chart|content)|TODO|TBD|lorem ipsum|before it belongs in a client deliverable|as an AI|prompt instructions|do not publish|awaiting (?:approval|review)|unapproved scope)\b/i;
+const forbidden = /\b(?:internal (?:only|note|use|review)|human review pending|reviewer pending|pilot dataset|working (?:dataset|evidence|draft)|publication gate|publication_approved|human_review|charts? coming (?:next|soon)|not (?:yet )?ready (?:for|to)|placeholder (?:data|chart|content)|TODO|TBD|lorem ipsum|before it belongs in a client deliverable|as an AI|prompt instructions|do not publish|awaiting (?:approval|review)|unapproved scope|take this to (?:your|the) demo|SMR perspective|question for your demo\s*\/\s*SMR|note to (?:the )?(?:founder|editor|reviewer))\b/i;
 const paths = /(?:[A-Z]:\\Users\\|\/Users\/|\.\.\/research\/|SMR_BUSINESS_BRIEF|SMR_RESEARCH_STANDARD|build_protein_bars_workbook)/i;
 const failures = [];
 function check(text, location) { if (forbidden.test(text) || paths.test(text)) failures.push(`${location}: ${text.slice(0,180)}`); }
@@ -12,8 +12,10 @@ function walk(directory) {
     if(item.isDirectory()) { walk(file); continue; }
     if(!/\.(tsx?|json)$/.test(file)) continue;
     const content=fs.readFileSync(file,'utf8');
+    // Newsletter action forms require a signed, purpose-bound email token; they collect no contact details.
+    const protectedForms = ['src/components/ContactForm.tsx', 'src/lib/newsletter-service.ts'];
     const forms = content.match(/<form\b[^>]*>/g) || [];
-    if (forms.some(form => !/method="get"/.test(form) || !/role="search"/.test(form)) && path.relative(root, file).replaceAll('\\', '/') !== 'src/components/ContactForm.tsx') failures.push(`Unprotected form: ${file}. Use the shared protected inquiry form.`);
+    if (forms.some(form => !/method="get"/.test(form) || !/role="search"/.test(form)) && !protectedForms.includes(path.relative(root, file).replaceAll('\\', '/'))) failures.push(`Unprotected form: ${file}. Use the shared protected inquiry form.`);
     if(file.endsWith('.json')) { check(content,file); continue; }
     const tree=ts.createSourceFile(file,content,ts.ScriptTarget.Latest,true);
     function visit(node) {
@@ -45,9 +47,11 @@ if(process.argv.includes('--built')) {
   console.log(`Production copy check: ${count} HTML and RSC files scanned.`);
 }
 if(process.argv.includes('--self-test')) {
-  for(const phrase of ['Human review pending','Pilot dataset','Charts coming next','Internal note','TODO']) if(!forbidden.test(phrase)) throw Error(`Detector missed ${phrase}`);
+  for(const phrase of ['Human review pending','Pilot dataset','Charts coming next','Internal note','TODO','TAKE THIS TO YOUR DEMO / SMR PERSPECTIVE','Question for your demo / SMR','Note to the founder']) if(!forbidden.test(phrase)) throw Error(`Detector missed ${phrase}`);
   for(const phrase of ['Prices exclude tax and delivery','Selected products, not a market-wide ranking','Open email draft','Scenario assumptions']) if(forbidden.test(phrase)) throw Error(`False positive: ${phrase}`);
 }
+const scanIndex=process.argv.indexOf('--scan-file');
+if(scanIndex>=0){const file=process.argv[scanIndex+1];if(!file)throw Error('Missing scan file');check(fs.readFileSync(file,'utf8'),file);}
 if(failures.length) { console.error(failures.join('\n')); process.exitCode=1; }
 else console.log('Client copy check: no prohibited production language, private paths or unexpected evidence fields.');
 module.exports = { forbidden, paths };

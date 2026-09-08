@@ -3,11 +3,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowUpRight } from "lucide-react";
 import { PublicationFrame, Intro, RelatedProducts } from "@/components/PublicationUI";
-import { providers, getProvider } from "@/lib/providers";
+import { providers, allProviders, getProvider } from "@/lib/providers";
 import { news } from "@/lib/industry-news";
 import { NewsCard, ProviderCard } from "@/components/IndustryUI";
 type Props = { params: Promise<{slug: string}> };
-export function generateStaticParams() { return providers.map(p => ({slug:p.slug})); }
+export function generateStaticParams() { return allProviders.map(p => ({slug:p.slug})); }
 export async function generateMetadata({ params }: Props): Promise<Metadata> { const p = getProvider((await params).slug); return p ? {title: `${p.name}: Synthetic Research | SMR`, description:p.summary, alternates:{canonical:`/providers/${p.slug}`}} : {}; }
 export default async function ProviderPage({ params }: Props) {
   const p = getProvider((await params).slug); if (!p) notFound(); const updates = news.filter(n => n.provider === p.slug).slice(0, 6); const related = providers.filter(x => x.category === p.category && x.slug !== p.slug).slice(0, 3);

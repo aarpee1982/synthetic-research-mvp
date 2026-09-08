@@ -3,6 +3,7 @@ import Image from "next/image";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
 import Nav from "./Nav";
 import Footer from "./Footer";
+import CompanyIcon from "./CompanyIcon";
 import { Product, products } from "@/lib/directory";
 import { Story } from "@/lib/publication";
 
@@ -13,7 +14,7 @@ export function Intro({ eyebrow, title, children }: { eyebrow: string; title: st
   return <header className="pub-intro pub-wrap"><p className="pub-eyebrow">{eyebrow}</p><h1>{title}</h1>{children && <div className="pub-dek">{children}</div>}</header>;
 }
 export function ProductMark({ product }: { product: Product }) {
-  return <span className="pub-product-mark" style={{ backgroundColor: product.color }} aria-hidden="true">{product.company === "Qualtrics" ? "XM" : product.company.slice(0, 1)}</span>;
+  return <CompanyIcon id={product.slug} className="pub-product-mark" />;
 }
 export function ProductLink({ product }: { product: Product }) {
   return <Link className="pub-product-link" href={`/directory/${product.slug}`}><ProductMark product={product} /><span><strong>{product.company}</strong><small>{product.name}</small></span><ArrowUpRight size={18} /></Link>;

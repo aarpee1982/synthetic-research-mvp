@@ -14,7 +14,7 @@ import "./industry.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.syntheticmarketresearch.com"),
-  icons: { icon: "/smr-mark.svg" },
+  icons: { icon: [{ url: "/smr-mark.svg", type: "image/svg+xml" }, { url: "/smr-icon.png", type: "image/png", sizes: "32x32" }], shortcut: "/favicon.ico", apple: "/smr-apple-icon.png" },
   title: "Synthetic Market Research | Tools, Companies & Guides",
   description:
     "Find synthetic research companies, compare their tools, and get clear answers to your questions about the industry.",
