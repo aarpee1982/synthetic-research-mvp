@@ -28,5 +28,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
   paths.push("/providers", "/news", "/guidance", ...providers.map(p => `/providers/${p.slug}`));
   for (let page=2; page<=Math.ceil(providers.length/24); page++) paths.push(`/providers?page=${page}`);
   for (let page=2; page<=Math.ceil(news.length/12); page++) paths.push(`/news?page=${page}`);
-  return [...preserved.filter(entry => !paths.some(path => entry.url === `${baseUrl}${path}`)), ...paths.map(path => ({ url: `${baseUrl}${path}`, lastModified: new Date("2026-09-06T00:00:00.000Z") }))];
+  return [...preserved.filter(entry => !paths.some(path => entry.url === `${baseUrl}${path}`)), ...paths.map(path => ({ url: `${baseUrl}${path}`, lastModified: new Date(`${providers.find(p => path === `/providers/${p.slug}`)?.reviewedAt ?? (path.startsWith("/providers") ? "2026-09-09" : "2026-09-06")}T00:00:00.000Z`) }))];
 }

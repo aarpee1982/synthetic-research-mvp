@@ -1,8 +1,11 @@
 import { products } from "./directory";
 
-export type Provider = { slug: string; name: string; kind: string; category: string; summary: string; source: string; productIds: string[] };
-type Entry = [slug: string, name: string, kind: string, category: string, summary: string, source: string];
+export type Provider = { slug: string; name: string; kind: string; category: string; summary: string; source: string; productIds: string[]; reviewedAt?: string };
+type Entry = [slug: string, name: string, kind: string, category: string, summary: string, source: string, reviewedAt?: string];
 const entries: Entry[] = [
+  ["talp","Talp","Platform","Synthetic user testing","Uses simulated personas for advertising feedback, interface and Figma testing, and digital focus groups. Access is arranged through the company; its strategy simulation tool is in closed testing.","https://talp.ai/tools","2026-09-09"],
+  ["zappi","Zappi","Beta access","Synthetic respondents","Synthetic Idea Pre-Screener uses synthetic respondents to shortlist early product ideas before human research. Its beta is available through Zappi account teams for consumer goods and quick-service restaurants in the US and UK.","https://learn.zappi.io/article/388-synthetic-idea-prescreener","2026-09-09"],
+  ["restudy-ai","Restudy AI","Platform","Digital twins","Uses AI twins built from research materials and audience definitions to explore concepts, customer needs and audience differences. Available through an enterprise demo.","https://restudyai.com/en","2026-09-09"],
   ["ads-recruiting", "ADS Recruiting", "Research service", "Synthetic respondents", "Alice: offers synthetic audience pretests for concepts, messages, interfaces and research questionnaires.", "https://syntheticrespondentsalise.com/en"],
   ["ai-persona-marketing", "AI Persona Marketing", "Platform", "Audience simulation", "A Japanese-language tool for evaluating products with AI personas selected by demographic attributes.", "https://www.ai-persona-marketing.jp/"],
   ["algoverde", "AlgoVerde", "Platform", "Audience simulation", "Offers structured consumer simulations for product and market decisions.", "https://algoverde.ai/platform"],
@@ -160,7 +163,7 @@ const existing: Provider[] = [...new Set(products.map(p => p.company))].map(name
   const items = products.filter(p => p.company === name);
   return { slug: name.toLowerCase().replace(/[^a-z0-9]+/g, "-"), name, kind: "Platform and services", category: items[0].category, summary: items.map(p => `${p.name}: ${p.summary}`).join(" "), source: items[0].source, productIds: items.map(p => p.slug) };
 });
-export const allProviders: Provider[] = [...existing, ...entries.map(([slug, name, kind, category, summary, source]) => ({ slug, name, kind, category, summary, source, productIds: [] }))].sort((a, b) => a.name.localeCompare(b.name));
+export const allProviders: Provider[] = [...existing, ...entries.map(([slug, name, kind, category, summary, source, reviewedAt]) => ({ slug, name, kind, category, summary, source, reviewedAt, productIds: [] }))].sort((a, b) => a.name.localeCompare(b.name));
 export const providers = allProviders.filter(p => p.kind !== "Validation service");
 export const providerCategories = [...new Set(providers.map(p => p.category))].sort();
 export const providerKinds = [...new Set(providers.map(p => p.kind))].sort();

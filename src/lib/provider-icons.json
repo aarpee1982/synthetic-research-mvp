@@ -622,5 +622,17 @@
   "chorusay": {
     "src": "/provider-icons/chorusay.png",
     "source": "https://www.chorusay.com/"
+  },
+  "talp": {
+    "src": "/provider-icons/talp.png",
+    "source": "https://talp.ai/favicon.svg?v=2"
+  },
+  "zappi": {
+    "src": "/provider-icons/zappi.png",
+    "source": "https://www.zappi.io/hubfs/Asset%203@4x.png"
+  },
+  "restudy-ai": {
+    "src": "/provider-icons/restudy-ai.png",
+    "source": "https://restudyai.com/brand/restudy-mark-192.png"
   }
 }
