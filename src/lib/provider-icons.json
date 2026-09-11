@@ -623,6 +623,14 @@
     "src": "/provider-icons/chorusay.png",
     "source": "https://www.chorusay.com/"
   },
+  "auxos": {
+    "src": "/provider-icons/auxos.png",
+    "source": "https://useauxos.com/icon.png?aa5f05ac41691ab0"
+  },
+  "ftp": {
+    "src": "/provider-icons/ftp.png",
+    "source": "https://ftpadvocacy.com/wp-content/uploads/2026/07/cropped-FVAICON-MONO-192x192.png"
+  },
   "talp": {
     "src": "/provider-icons/talp.png",
     "source": "https://talp.ai/favicon.svg?v=2"
