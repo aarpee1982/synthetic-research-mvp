@@ -1,5 +1,16 @@
 [
   {
+    "id": "qualtrics-xm-data-ai-platform-2027",
+    "title": "Qualtrics announces experience-simulation platform planned for 2027",
+    "summary": "Qualtrics has announced its XM Data & AI Platform, with availability planned for 2027. Its experience-simulation capability will use synthetic data and digital twins of customers to explore responses to pricing changes, new offerings and policies.",
+    "date": "2026-09-09",
+    "provider": "qualtrics",
+    "type": "Announcement",
+    "source": "https://www.qualtrics.com/news/qualtrics-unveils-xm-data-ai/",
+    "image": "https://www.qualtrics.com/sites/default/files/styles/max_650x650/public/2026-09/5822_9-9_press_release_1100x826_2x-%281%29.png?itok=PeqSkBe_",
+    "imageCredit": "Qualtrics"
+  },
+  {
     "id": "stravito-how-a-global-financial-services-company-stays-closer-to-customers-with-stravito-ai-personas",
     "title": "Stravito shares a financial-services AI persona case study",
     "summary": "Stravito describes how a financial-services organization uses AI personas to keep customer perspectives available to its teams. The case study explains the role of existing research and validation in the rollout.",
