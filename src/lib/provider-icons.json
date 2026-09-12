@@ -642,5 +642,13 @@
   "restudy-ai": {
     "src": "/provider-icons/restudy-ai.png",
     "source": "https://restudyai.com/brand/restudy-mark-192.png"
+  },
+  "elaris": {
+    "src": "/provider-icons/elaris.ico",
+    "source": "https://elaris.new/favicon.ico?favicon.3g8vf5nnlgmlt.ico"
+  },
+  "voxlabco": {
+    "src": "/provider-icons/voxlabco.png",
+    "source": "https://voxlabco.com/apple-icon?9c8f7bf713b502c7"
   }
 }
