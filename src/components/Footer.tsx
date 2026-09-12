@@ -21,6 +21,7 @@ export default function Footer() {
             <span className="smr-label">EXPLORE</span>
             <Link href="/directory">Product directory</Link>
             <Link href="/providers">All providers</Link>
+            <Link href="/synthetic-market-research-companies">Companies by country</Link>
             <Link href="/news">News & company updates</Link>
             <Link href="/guidance">Institutional guidance</Link>
             <Link href="/compare">Compare products</Link>

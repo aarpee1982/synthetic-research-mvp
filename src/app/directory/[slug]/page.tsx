@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowUpRight, GitCompareArrows } from "lucide-react";
 import { products, getProduct } from "@/lib/directory";
 import { PublicationFrame, ProductMark, RelatedProducts, ProductVisual } from "@/components/PublicationUI";
 export function generateStaticParams() { return products.map(p => ({ slug: p.slug })); }
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const { slug } = await params; const p = getProduct(slug); return p ? { title: `${p.company} ${p.name} | SMR Product Profile`, description: p.summary, alternates: { canonical: `/directory/${slug}` } } : { title: "Product not found | SMR" }; }
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const { slug } = await params; const p = getProduct(slug); return p ? { title: `${p.company} ${p.name} | Synthetic Market Research Tool | SMR`, description: p.summary, alternates: { canonical: `/directory/${slug}` } } : { title: "Product not found | SMR" }; }
 export default async function ProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params; const p = getProduct(slug); if (!p) notFound();
   const related = products.filter(other => other.category === p.category && other.slug !== p.slug).slice(0, 3).map(p => p.slug);

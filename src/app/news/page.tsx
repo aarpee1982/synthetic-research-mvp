@@ -16,8 +16,8 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   const {q,type,month,provider,page}=selection(await searchParams);
   const filtered=!!(q||type||month||provider);
   return {
-    title:`Synthetic Research News & Company Updates${page>1?` | Page ${page}`:""} | SMR`,
-    description:"New products, company announcements and ideas shaping synthetic market research. Short summaries with links to the original sources.",
+    title:`Synthetic Market Research News & Company Updates${page>1?` | Page ${page}`:""} | SMR`,
+    description:"News, product developments and company announcements from the synthetic market research industry, with links to original sources.",
     alternates:{canonical:filtered?"/news":queryHref("/news",{},page),types:{"application/rss+xml":"/news/feed.xml"}},
     robots:filtered?{index:false,follow:true}:undefined
   };
