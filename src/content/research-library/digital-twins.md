@@ -1,0 +1,406 @@
+## Digital twins research library
+
+Published research on consumer, human, urban and industrial digital twins. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-10` [AI-powered smart hospitals and digital twin healthcare systems](https://doi.org/10.1201/9781003665656-11) —
+- `2026-09-09` [Standardization Status and Gaps for Secure Human Digital Twins in the Real-Time Metaverse](https://doi.org/10.5281/zenodo.21861337) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [Standardization Status and Gaps for Secure Human Digital Twins in the Real-Time Metaverse](https://doi.org/10.5281/zenodo.21861338) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [AI in Predictive Healthcare II: A Ten-Domain Structured Evidence Review of Wearable Artificial Intelligence, 2024–2026](https://doi.org/10.5281/zenodo.22678374) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [AI in Predictive Healthcare II: A Ten-Domain Structured Evidence Review of Wearable Artificial Intelligence, 2024–2026](https://doi.org/10.5281/zenodo.22678373) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [Psychometric Validation of Stress–Resilience Constructs for eXplainable Software Developer Digital Twin](https://doi.org/10.21203/rs.3.rs-10943597/v1) — Research Square
+- `2026-09-09` [Small-data urban adaptation twin: sustainable heat-flood planning in data-scarce fragile cities](https://doi.org/10.1007/s43621-026-04684-7) — Discover Sustainability
+- `2026-09-08` [Human Digital Twins and the Reconfiguration of Social Interaction](https://doi.org/10.69971/dss.3.2.2026.58) — Digital social sciences.
+- `2026-09-08` [WarpFlow v1.0: A Single-Source CPU/GPU Shallow-Water Solver for Operational City-Scale Urban Flood Modeling](https://doi.org/10.5281/zenodo.22275530) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [WarpFlow v1.0: A Single-Source CPU/GPU Shallow-Water Solver for Operational City-Scale Urban Flood Modeling](https://doi.org/10.5281/zenodo.22275529) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [An Architecture for a Human Digital Twin from Longitudinal Data at Healthcare System Scale](https://doi.org/10.20944/preprints202609.0457.v1) — Preprints.org
+- `2026-09-07` [Weighted Architectures for Quantum-Annealed Logistics, and Green Multi-Echelon Resilience](https://doi.org/10.55041/ijcope.v2i9.035) — International Journal of Creative and Open Research in Engineering and Management
+- `2026-09-07` [Adapting Urban Digital Twins for Vertical Urbanism: A Deployment Strategy for NEOM’s The Line](https://doi.org/10.64589/juri/222207) —
+- `2026-09-07` [Window-Level Semantic Enrichment of Texture-Mapped Building Models in Urban Digital Twins](https://doi.org/10.3390/app16178873) — Applied Sciences
+- `2026-09-07` [Early Lessons from Adapting the Colouring Cities Framework for Graz, Austria](https://doi.org/10.5194/ica-abs-12-24-2026) — Abstracts of the ICA
+- `2026-09-06` [Context-Aware Synthetic IoT Dataset for Smart Waste Management in Dhaka, Bangladesh: 43.8 Million Hourly Observations](https://doi.org/10.17632/ctt5kwppwt.3) — Mendeley Data
+- `2026-09-06` [Context-Aware Synthetic IoT Dataset for Smart Waste Management in Dhaka, Bangladesh: 43.8 Million Hourly Observations](https://doi.org/10.17632/ctt5kwppwt) — Mendeley Data
+- `2026-09-05` [Human Digital Twins for Smart and Sustainable Hospital Operations: Trends Analysis and a Value-Sensitive Framework](https://doi.org/10.3390/digital6030077) — Digital
+- `2026-09-04` [Structural Integration and Dynamic Modelling of Biodiversity in Urban Digital Twins](https://doi.org/10.23658/taltech.58/2026) — TalTech
+- `2026-09-03` [Human Digital Twins for Personalized Healthcare: A Review of Computing-Networking Architecture, Enabling Technologies and Open Challenges](https://doi.org/10.55248/gengpi.07.0926.2703) — International Journal of Research Publication and Reviews
+- `2026-09-02` [Autonomous Urban Scenario Simulator](https://doi.org/10.4018/979-8-3373-9200-4.ch007) — Advances in computational intelligence and robotics book series
+- `2026-09-02` [Vehicular road crack detection with deep learning: An online benchmark for comprehensive evaluation of existing algorithms](https://doi.org/10.1016/j.aei.2026.105158) — Advanced Engineering Informatics
+- `2026-08-31` [Towards an urban digital twin: An XAI-integrated prototype framework for sustainable mobility modelling in Algiers, Algeria](https://doi.org/10.1016/j.scs.2026.107880) — Sustainable Cities and Society
+- `2026-08-31` [Agentic AI for Climate-Resilient Cities: A PRISMA-Guided Review and Digital Twin Framework](https://doi.org/10.3390/su18178917) — Sustainability
+- `2026-08-30` [Digital twin supply chain-enabled dynamic capabilities: a hierarchical framework for supply chain resilience in the Indonesian textile industry](https://doi.org/10.1080/21681015.2026.2724820) — Journal of Industrial and Production Engineering
+- `2026-08-30` [Procedural urbanism as infrastructure: a systematic historical analysis of rules, data, and governance](https://doi.org/10.1186/s40410-026-00325-8) — City Territory and Architecture
+- `2026-08-30` [Modular Prefabricated Assembly Technology and Its Application in Cruise Ship Interior Decoration](https://doi.org/10.66069/ojspub.16560806) — Journal of Artificial Intelligence and Information
+- `2026-08-29` [Algorithmic Bias and Defensive Placemaking: Implications of Generative AI Co-Creation for Urban Digital Twins](https://doi.org/10.3390/app16178605) — Applied Sciences
+- `2026-08-29` [Data and Code for "From Readiness to Procurement: Uneven Early-Stage Institutionalisation of Urban Digital Twins across Two Chinese Megaregions"](https://doi.org/10.5281/zenodo.22159353) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [Data and Code for "From Readiness to Procurement: Uneven Early-Stage Institutionalisation of Urban Digital Twins across Two Chinese Megaregions"](https://doi.org/10.5281/zenodo.22159354) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [Towards Inclusive Municipal Digital Twins: Identifying Technical, Organizational and Societal Requirements for Small Municipalities](https://doi.org/10.59490/6a91ad8d6096c5874dfb381a) — Koblenz University of Applied Sciences
+- `2026-08-29` [Leveraging Geospatial Big Data for Smart City Digital Twins: A Framework for 3D Modeling and Solar Energy Assessment](https://doi.org/10.5194/isprs-archives-l-4-w1-2026-11-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-08-28` [Building Energy Consumption Prediction Integrating Stereo Photogrammetry and GIS-Based Urban Digital Twins with Machine Learning](https://doi.org/10.3390/land15091589) — Land
+- `2026-08-28` [Quantum Topological Autonomous Decision Ecosystems for Geoeconomic Risk, Climate, Energy Markets, Smart Cities and Resilient Global Infrastructure](https://doi.org/10.62311/nesx/rp1ag-30082026) — International Journal of Academic and Industrial Research Innovations(IJAIRI)
+- `2026-08-26` [ElasticGS: Pose-Aware Dynamic Gaussian Adaptation for Geometry-Consistent Human Digital Twin Reconstruction from Monocular Video](https://doi.org/10.20944/preprints202608.1929.v1) — Preprints.org
+- `2026-08-26` [From Simulation to Shop Floor: A Human-Centered Digital Twin Methodology for Industry 5.0](https://doi.org/10.3390/computers15090558) — Computers
+- `2026-08-26` [Intelligent Medical Devices and Healthcare Management: Advances in Mechanical Engineering and Artificial Intelligence](https://doi.org/10.70917/ijcisim-2026-5181) — International Journal of Computer Information Systems and Industrial Management Applicati…
+- `2026-08-26` [Spatial Computing and the Phygital City: Towards Digital Habitation](https://doi.org/10.17645/up.12412) — Urban Planning
+- `2026-08-26` [Geospatial Technology as Integrated Decision Infrastructure: Applications, Persistent Challenges and Future Directions](https://doi.org/10.9734/air/2026/v27i51710) — Advances in Research
+- `2026-08-24` [Karhunen–Loève Expansion Theory in AI–Blockchain Supply Chains, and Sustainable Logistics](https://doi.org/10.55041/ijcope.v2i8.192) — International Journal of Creative and Open Research in Engineering and Management
+- `2026-08-23` [A Formal Framework for Evaluating Cognitive Emulation Models in Human Digital Twins](https://hal.science/hal-05619592v1/document) — HAL (Le Centre pour la Communication Scientifique Directe)
+- `2026-08-21` [Scaling Analysis of LLM Hardware Infrastructure through Uniform Estimates](https://doi.org/10.55041/ijcope.v2i8.175) — International Journal of Creative and Open Research in Engineering and Management
+- `2026-08-20` [Documentary-Based Urban Digital Twins and the Historic Urban Landscape Approach: Parametric and Geospatial Modeling for Sustainable Urban Regeneration and Cultural Heritage Conservation](https://doi.org/10.3390/su18168532) — Sustainability
+- `2026-08-18` [A GIS-Based, AI-Enhanced Platform for UAS-Driven Railway Bridge Inspections](https://doi.org/10.4203/ccc.15.2.6) — Civil-comp conferences
+- `2026-08-15` [HDT-SSI Reference Implementation](https://doi.org/10.5281/zenodo.21938201) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [HDT-SSI Reference Implementation](https://doi.org/10.5281/zenodo.21938202) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [Consent-Gated Human Digital Twin for Circular E-Waste Disassembly](https://doi.org/10.5281/zenodo.21926042) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [Consent-Gated Human Digital Twin for Circular E-Waste Disassembly](https://doi.org/10.5281/zenodo.21926043) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-11` [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](https://doi.org/10.48550/arxiv.2608.10915) — arXiv (Cornell University)
+- `2026-08-11` [Future Local-Sky Clearance as a Candidate-Ranking State for Urban LEO Mobility](https://doi.org/10.1145/3789240.3827593) — National Taiwan University of Science and Technology
+- `2026-08-10` [SparsePilot: Belief-Guided Network Planning under Sparse Wireless Measurements](https://doi.org/10.48550/arxiv.2608.09199) — arXiv (Cornell University)
+- `2026-08-07` [Investigating “Another Me” digital twin technology to support the development of human relationships: An exploratory randomized controlled study](https://doi.org/10.1371/journal.pone.0353835) — PLoS ONE
+- `2026-08-07` [Peer Review Report For: Urban digital twin governance readiness and institutional trust: Panel evidence from the EU (version 1; peer review: 1 approved with reservations)](https://doi.org/10.21956/openreseurope.26472.r77964) —
+- `2026-08-07` [Peer Review Report For: Urban digital twin governance readiness and institutional trust: Panel evidence from the EU (version 1; peer review: 2 approved with reservations)](https://doi.org/10.21956/openreseurope.26472.r77961) — Victoria University of Wellington
+- `2026-08-07` [Coordinated Spectrum Coexistence Across Heterogeneous Commercial and Federal Services](https://doi.org/10.48550/arxiv.2608.07789) — arXiv (Cornell University)
+- `2026-08-06` [A Comprehensive Review About Human Digital Twins and AI-Powered Wearables for the Oil and Gas Industry](https://doi.org/10.3390/electronics15153475) — Electronics
+- `2026-08-06` [THE SOVEREIGN SELF: OWNERSHIP RIGHTS AND DIGITAL PERSONHOOD IN THE AGE OF THE DIGITAL TWIN](https://doi.org/10.5281/zenodo.21851778) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-06` [THE SOVEREIGN SELF: OWNERSHIP RIGHTS AND DIGITAL PERSONHOOD IN THE AGE OF THE DIGITAL TWIN](https://doi.org/10.5281/zenodo.21851779) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Vision-Language Models for Urban Digital Twins](https://doi.org/10.5194/isprs-archives-xlix-b4-2026-425-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-08-04` [A Framework for Integrating and Managing Heterogeneous 3D Geospatial Data in Urban Digital Twins](https://doi.org/10.5194/isprs-archives-xlix-b4-2026-57-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-08-04` [Linking Persistent Scatterers with Urban Features Using LoD2 Building Models](https://doi.org/10.5194/isprs-archives-xlix-b4-2026-97-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-08-04` [Bridging Semantic Mesh, CityGML, and Gaussian Splatting for Urban Modelling and Visualization](https://doi.org/10.5194/isprs-archives-xlix-b4-2026-81-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-08-02` [Mapping the Future of Human Digital Twin Adoption in Job-shop Industries: A Strategic Prioritization Framework](https://doi.org/10.38032/scse.2026.4.108) — SciEn Conference Series Engineering
+- `2026-08-01` [Conceptualizing Urban Digital Twins for Urban Planning: Contributions to Circularity in Knowledge Territories](https://doi.org/10.5151/4gkd2026-3401) —
+- `2026-07-31` [Stimulation Technologies for Geothermal and Unconventional Reservoirs: A Review of Current Practices, Challenges, and Future Perspectives](https://doi.org/10.3390/en19153603) — Energies
+- `2026-07-30` [Quantum Topological Decision Intelligence for Geoeconomic Fragmentation, Systemic Risk and Autonomous Global Policy Forecasting](https://doi.org/10.62311/nesx/rb6jy-978-81-689340-4-7) —
+- `2026-07-30` [Comparison of Machine Learning and Physics-Based Approaches for Thermal Infrared Simulation for Urban Digital Twins](https://doi.org/10.5194/isprs-archives-xlix-b3-2026-395-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-07-30` [Urban Digital Twins and Infrastructure Resilience: A Quantum Topological Data Analysis Framework for Sustainable Smart Cities](https://doi.org/10.62311/nesx/rb4jy-978-81-689097-6-2) —
+- `2026-07-30` [Physics-Informed Spatial AI and Autonomous Robotics for Climate-Resilient Smart Cities](https://doi.org/10.62311/nesx/rb2jy-978-81-689977-7-6) —
+- `2026-07-29` [GeoGS: Geometric Prior-Guided Gaussian Splatting for robust urban reconstruction from sparse views](https://doi.org/10.1016/j.isprsjprs.2026.07.011) — ISPRS Journal of Photogrammetry and Remote Sensing
+- `2026-07-28` [From Code to Cure: Leveraging Artificial Intelligence in Biosciences and Public Health](https://doi.org/10.5281/zenodo.21642597) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-28` [From Code to Cure: Leveraging Artificial Intelligence in Biosciences and Public Health](https://doi.org/10.5281/zenodo.21642770) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-28` [Simulation-Driven Design of Stress Adaptive Bio-sensing Architectures for Digital-Twin Systems in LMIC Contexts](https://doi.org/10.21203/rs.3.rs-10494550/v1) — Research Square
+- `2026-07-28` [Beyond fidelity: Rethinking realism through human behavior in VR city modeling LOD design](https://doi.org/10.1016/j.jag.2026.105484) — International Journal of Applied Earth Observation and Geoinformation
+- `2026-07-28` [AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models](https://arxiv.org/pdf/2607.25243) — arXiv (Cornell University)
+- `2026-07-28` [AuthentiCity: A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models](https://doi.org/10.48550/arxiv.2607.25243) — arXiv (Cornell University)
+- `2026-07-27` [Artificial Intelligence-Driven Multi-Omics Diagnostic Pipelines for Infectious, Neurodegenerative, and Metabolic Diseases: From Biomarker Discovery to Precision Medicine and Digital Twin Healthcare](https://doi.org/10.54105/ijpmh.e1162.06050726) — International Journal of Preventive Medicine and Health
+- `2026-07-24` [Urban digital twin for environmentally sensitive mobility planning: conceptual framework and application in pilot region Leipzig](https://doi.org/10.1016/j.jag.2026.105477) — International Journal of Applied Earth Observation and Geoinformation
+- `2026-07-24` [Balancing Innovation and Privacy](https://doi.org/10.1002/9781394383740.ch1) — Anand Agricultural University
+- `2026-07-23` [Urban digital twin governance readiness and institutional trust: Panel evidence from the EU](https://doi.org/10.12688/openreseurope.24443.1) — Open Research Europe
+- `2026-07-23` [Augmenting City Models with Handheld LiDAR and 3D Gaussian Splatting for Inclusive Pedestrian Infrastructure Assessment](https://doi.org/10.5194/isprs-archives-xlix-b2-2026-1117-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-07-23` [Spherical Vision meets 3D Semantics: towards efficient LOD3 Model Generation for Smart Cities](https://doi.org/10.5194/isprs-archives-xlix-b2-2026-539-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-07-22` [Integrating Advanced AI techniques to assist Urban Digital Twins Generation](https://doi.org/10.5194/isprs-archives-xlix-b1-2026-607-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-07-22` [A pipeline for automatic building reconstruction for Digital Twins in complex urban environments](https://doi.org/10.5194/isprs-archives-xlix-b1-2026-553-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-07-20` [An automatic ergonomic evaluation based on human movement recognition from motion capture data with random forest classifiers](https://doi.org/10.37349/emd.2026.1007130) — Exploration of Musculoskeletal Diseases
+- `2026-07-19` [Human Digital Twin for Health (HDT-H): An Applied Multiscale Framework for Early Diagnosis, In-Silico Clinical Simulation, and Prospective Validation Protocol](https://doi.org/10.5281/zenodo.21445254) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [Human Digital Twin for Health (HDT-H): An Applied Multiscale Framework for Early Diagnosis, In-Silico Clinical Simulation, and Prospective Validation Protocol](https://doi.org/10.5281/zenodo.21445253) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [A BIM-Based Framework Proposal for Reliable Information Governance in Urban Digital Twins](https://doi.org/10.3390/urbansci10070416) — Urban Science
+- `2026-07-16` [Human digital twin: structure, classes of tasks, and approaches to solving them](https://doi.org/10.17587/it.32.352-360) — INFORMACIONNYE TEHNOLOGII
+- `2026-07-16` [Role of Artificial Intelligence and Digital Twin Technologies in the Transition to Human-Centric Manufacturing](https://doi.org/10.1007/978-3-032-30113-0_18) — Lecture notes in networks and systems
+- `2026-07-16` [A Competency Framework for Human Interoperability in Data Spaces](https://doi.org/10.3390/info17070695) — Information
+- `2026-07-15` [Multimodal Ontology: Semantic Substrate for Human Digital Twins in AI-Driven Metaverse Telerehabilitation and Immersive Medical Education](https://doi.org/10.54517/m8553) — Metaverse
+- `2026-07-14` [In silico clinical trials](https://doi.org/10.5281/zenodo.21360672) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-14` [In silico clinical trials: A 16-State Coupled PBPK-QSP Platform with Covalent Suicide Inhibition and Asymmetric Striatal Microdomains for In Silico Parkinson's Disease Drug Development](https://doi.org/10.5281/zenodo.21360671) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-14` [In silico clinical trials: A 16-State Coupled PBPK-QSP Platform with Covalent Suicide Inhibition and Asymmetric Striatal Microdomains for In Silico Parkinson's Disease Drug Development](https://doi.org/10.5281/zenodo.21363554) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-13` [Human Digital Twins for Sharing and Accessing Tacit Knowledge in University Research Labs](https://doi.org/10.5445/ir/1000195248) — Repository KITopen (Karlsruhe Institute of Technology)
+- `2026-07-13` [From Games to Smart Cities: How Game Engine Technology Became the Backbone of Urban Digital Twins?](https://doi.org/10.66408/abc2.2026.55) — ABC2 Journal of Architecture Building Construction and Cities
+- `2026-07-11` [Avatar Freedom Substitution: Human Agency in AI-Mediated Civilizational Symbiosis](https://doi.org/10.5281/zenodo.21303240) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-11` [Avatar Freedom Substitution: Human Agency in AI-Mediated Civilizational Symbiosis](https://doi.org/10.5281/zenodo.21303241) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-11` [The georeferencing and semantic ceiling of OpenUSD: a diagnostic audit of CityGML-to-USD conversion for urban digital twins](https://doi.org/10.5281/zenodo.21303986) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-11` [The georeferencing and semantic ceiling of OpenUSD: a diagnostic audit of CityGML-to-USD conversion for urban digital twins](https://doi.org/10.5281/zenodo.21303985) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [An OGC standards-based Urban Digital Twin platform supporting co-creation of Positive Energy Districts: Case study of the Nordbahnhof district in Stuttgart, Germany](https://doi.org/10.5194/isprs-annals-xi-4-2026-339-2026) — ISPRS annals of the photogrammetry, remote sensing and spatial information sciences
+- `2026-07-10` [Block-Offset Spatial Storage Engine](https://doi.org/10.5281/zenodo.21315655) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Block-Offset Spatial Storage Engine](https://doi.org/10.5281/zenodo.21303988) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Block-Offset Spatial Storage Engine](https://doi.org/10.5281/zenodo.21303987) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Block-Offset Spatial Storage Engine](https://doi.org/10.5281/zenodo.21342848) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-09` [Bridging Human-Digital Twin Interaction: An LLM-Driven Multi-Agent System for Built Infrastructure Management](https://doi.org/10.17863/cam.131673) — Apollo (University of Cambridge)
+- `2026-07-09` [SIoT-Enabled Opportunistic Sensing Under Partial Observability: Evaluating Recruitment Policies for Human Digital Twin Context Estimation](https://doi.org/10.3390/electronics15143005) — Electronics
+- `2026-07-09` [Connecting the Virtual and Real Worlds](https://doi.org/10.4018/979-8-2600-3038-7.ch004) — Advances in computational intelligence and robotics book series
+- `2026-07-08` [Multi-modal human digital twin for hydration](https://doi.org/10.1016/j.crbeha.2026.100221) — Current Research in Behavioral Sciences
+- `2026-07-07` [Enabling secure, interoperable, and trustworthy urban digital twins](https://doi.org/10.48676/unibo/amsdottorato/12702) — AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)
+- `2026-07-07` [WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence](https://arxiv.org/pdf/2607.06838) — arXiv (Cornell University)
+- `2026-07-06` [NEW TECHNOLOGIES AND DIGITAL TWINS: THE CASE OF THE 2026 FIFA WORLD COUP](https://doi.org/10.36692/v18n2-13r) — Revista CPAQV - Centro de Pesquisas Avançadas em Qualidade de Vida
+- `2026-07-06` [Co-creating Urban Digital Twins for Climate & Biodiversity](https://doi.org/10.13140/rg.2.2.33517.35045) —
+- `2026-07-04` [Who can effectively use human digital twins? The roles of streamer category and format in shaping livestream interaction](https://doi.org/10.1108/jrim-08-2025-0510) — Journal of Research in Interactive Marketing
+- `2026-07-03` [Beyond Heuristics: A Standardized Real2Sim Pipeline for Physical Human Robot Interaction in Human-in-the-Loop Simulation](https://arxiv.org/pdf/2607.03017) — arXiv (Cornell University)
+- `2026-07-03` [Beyond Heuristics: A Standardized Real2Sim Pipeline for Physical Human Robot Interaction in Human-in-the-Loop Simulation](https://doi.org/10.48550/arxiv.2607.03017) — arXiv (Cornell University)
+- `2026-07-03` [Are Traditional Registries Becoming Obsolete in the Modern Digital Health Ecosystem?](https://doi.org/10.2196/92696) — Journal of Medical Internet Research
+- `2026-07-03` [CI-RES: A GIS-Based Platform for Critical Infrastructure Resilience Analysis in Urban Environments](https://doi.org/10.1007/978-3-032-30497-1_10) — Lecture notes in computer science
+- `2026-07-02` [Heat Transfer–Driven Voxel-Based Simulation: A High-Performance Framework for Urban-Scale 3D Fire Spread](https://doi.org/10.20944/preprints202607.0157.v1) — Preprints.org
+- `2026-07-01` [The Cognitive Spatial Foundation: Geospatial Intelligence for Agentic AI in Urban Digital Twins](https://doi.org/10.1109/iccsc71566.2026.11649979) — Université Ibn-Tofail
+- `2026-06-30` [Human digital twins in women’s health nursing](https://doi.org/10.4069/whn.2026.05.27.1) — Women s Health Nursing
+- `2026-06-30` [INDUSTRIAL AND SYSTEMS OPTIMIZATION IN THE ERA OF INTELLIGENT, RESILIENT, SUSTAINABLE, AND HUMAN-CENTERED INDUSTRY: AN EDITORIAL INSIGHT](https://doi.org/10.51804/jiso.v9i1.i-xiii) — JISO Journal of Industrial and Systems Optimization
+- `2026-06-30` [A Digital-Twin-Oriented Monitoring Framework for Traffic-Related Environmental Hotspots and Future Nature-Based Solutions in Catania](https://doi.org/10.1007/978-3-032-30533-6_35) — Lecture notes in computer science
+- `2026-06-30` [Ai-Powered Building Detection and Automated 3d Digital Twin Generation From Satellite Imagery](https://doi.org/10.47769/izufbed.1930617) — İstanbul Sabahattin Zaim Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+- `2026-06-30` [SOLWEIG-GPU Version: 2.0](https://doi.org/10.5281/zenodo.21081622) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [Enhanced Digital Twin of Human-Robot Collaborative Assembly System](https://hdl.handle.net/2292/76148) — ResearchSpace (University of Auckland)
+- `2026-06-29` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.21040702) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.21040703) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [Baseline framework for inferring POI floors to enhance 3D urban vertical analytics: A comparative study in Shanghai](https://doi.org/10.1016/j.jag.2026.105440) — International Journal of Applied Earth Observation and Geoinformation
+- `2026-06-28` [Human Digital Twin in New Media](https://aaltodoc.aalto.fi/handle/123456789/147841) — Aaltodoc (Aalto University)
+- `2026-06-27` [Balanced Scorecard 5.0: a socio-technical performance measurement architecture for Industry 5.0](https://doi.org/10.1016/j.cie.2026.112224) — Computers & Industrial Engineering
+- `2026-06-27` [Adaptive multi-vendor engineering orchestration using real-time KPI intelligence for distributed product delivery environments](https://doi.org/10.30574/wjaets.2026.19.3.0279) — World Journal of Advanced Engineering Technology and Sciences
+- `2026-06-27` [City Information Modeling for Urban Planning: A Systematic Review of Workflows, Validation, and Maturity](https://doi.org/10.3390/buildings16132573) — Buildings
+- `2026-06-26` [Human-Centric Design and Workforce Empowerment](https://doi.org/10.1201/9781003714880-7) —
+- `2026-06-25` [Digital Twins and Virtual Architecture](https://doi.org/10.1093/9780197852712.003.0122) — University of Liège
+- `2026-06-24` [Editorials: Dual Reflections on Telerehabilitation](https://doi.org/10.63144/ijt.2026.6770) — International Journal of Telerehabilitation
+- `2026-06-24` [UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction](https://doi.org/10.1016/j.compenvurbsys.2026.102466) — Computers Environment and Urban Systems
+- `2026-06-23` [Human Digital Twins in Personalized Medicine: A Systematic Review and Bibliometric–Thematic Synthesis of Methodological Advances and Clinical Applications](https://doi.org/10.3390/computation14070143) — Computation
+- `2026-06-23` [Explainable digital twin: Self-learning cardiovascular risk prognosis through Explanations-as-AI framework with longitudinal echocardiography](https://doi.org/10.1093/jcde/qwag059) — Journal of Computational Design and Engineering
+- `2026-06-23` [Accelerating Work-Building Assignments for Large-Scale Urban Digital Twins Using Regression Models](https://doi.org/10.1145/3806789.3811546) — Miami University
+- `2026-06-23` [Big Data Analytics for Geospatial Decision-Making in Smart Cities: A Review of Spatial Data, GeoAI and Urban Digital Twins](https://doi.org/10.3390/ijgi15070278) — ISPRS International Journal of Geo-Information
+- `2026-06-22` [Human Digital Twins for Sharing and Accessing Tacit Knowledge in University Research Labs](https://doi.org/10.1145/3805029.3818277) — Energie Baden-Württemberg (Germany)
+- `2026-06-22` [UDT Governance Trust Reproducibility Package](https://doi.org/10.5281/zenodo.20802813) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-22` [UDT Governance Trust Reproducibility Package](https://doi.org/10.5281/zenodo.20802812) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-21` [Part 1 : Redefinition of Planetary Settlement Engineering through a Seawater-Circulation-Based Life Support Foundation ― Research on Seawater-Moat-Type Residential Units, Earth-Type Heat, Material, a…](https://doi.org/10.5281/zenodo.20782368) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-21` [Part 1 : Redefinition of Planetary Settlement Engineering through a Seawater-Circulation-Based Life Support Foundation ― Research on Seawater-Moat-Type Residential Units, Earth-Type Heat, Material, a…](https://doi.org/10.5281/zenodo.20782367) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Human digital twins in personalized and predictive healthcare: a comprehensive review of technologies, applications, and future directions](https://doi.org/10.3389/fdgth.2026.1827007) — Frontiers in Digital Health
+- `2026-06-17` [Digital Twin: Will a Perfect Virtual Copy of the World Help Us Predict the Unpredictable? 5 Limits That Even the Best Simulation Cannot Cross](https://doi.org/10.5281/zenodo.20732054) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [Digital Twin: Will a Perfect Virtual Copy of the World Help Us Predict the Unpredictable? 5 Limits That Even the Best Simulation Cannot Cross](https://doi.org/10.5281/zenodo.20732055) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-16` [UrbanTree3D: An Open Dataset for Urban Tree Species Classification Using Airborne LiDAR and Field Inventory Data](https://doi.org/10.3390/data11060147) — Data
+- `2026-06-15` [Data, Design, and Development Goals](https://doi.org/10.47715/978-93-86388-49-0) — Jupiter Publications Consortium eBooks
+- `2026-06-15` [Embedding Digital Twins in Higher Education: A Competency-Based Training Model within an Urban Innovation Ecosystem](https://doi.org/10.4995/head26.2026.21858) — National Institute of Transport
+- `2026-06-15` [FEDERATED DIGITAL TWINS FOR URBAN DISASTER RESPONSE IN COASTAL CITIES: A REVIEW](https://doi.org/10.5281/zenodo.21031084) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [FEDERATED DIGITAL TWINS FOR URBAN DISASTER RESPONSE IN COASTAL CITIES: A REVIEW](https://doi.org/10.5281/zenodo.21031083) — Bikaner Technical University
+- `2026-06-14` [The Readiness of Egypt’s New Cities for Urban Digital Twinning](https://doi.org/10.21608/jer.2026.500723.1107) — Journal of Engineering Research - Egypt/Journal of Engineering Research
+- `2026-06-13` [Digital twins in the food supply chain: Taking stock and moving forward](https://doi.org/10.1080/23311932.2026.2673255) — Cogent Food & Agriculture
+- `2026-06-13` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.20677599) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [Research on grid installation optimization technology based on simulation](https://doi.org/10.1117/12.3118871) —
+- `2026-06-11` [Is a Human Digital Twin Possible with ChatGPT? A Quantitative Study](https://doi.org/10.26650/bs/ssc18.ssc23.2026.002-4.01) —
+- `2026-06-11` [From Wrist to Twin: A Well-being Centered Human Digital Twin for Amateur Athletes Using Smartwatch Wearables in Society 5.0](https://doi.org/10.5281/zenodo.20648096) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [From Wrist to Twin: A Well-being Centered Human Digital Twin for Amateur Athletes Using Smartwatch Wearables in Society 5.0](https://doi.org/10.5281/zenodo.20648095) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.20648631) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [Urban circularity digital twin to support decision-making for sustainable mobility](https://doi.org/10.1007/s44327-026-00294-0) — Discover Cities
+- `2026-06-10` [Designing Digital Twin-Driven Lifelong Learning Ecosystems](https://doi.org/10.4018/979-8-2600-1674-9.ch014) — Bangalore University
+- `2026-06-10` [Exploring European urban digital twins for climate adaptation](https://doi.org/10.1186/s42854-026-00102-3) — Urban Transformations
+- `2026-06-10` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.20630337) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-10` [solar-twin: RTX-rendered illuminance to calibrated GHI for urban digital twins](https://doi.org/10.5281/zenodo.20630338) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-10` [Digital Twins in Architecture and Urban Planning](https://doi.org/10.24018/ejarch.2026.5.1.70190) — European Journal of Architecture and Urban Planning
+- `2026-06-09` [Analysis of digital twin applications in nursing practice and education: a scoping review](https://doi.org/10.3352/jeehp.2026.23.13) — Journal of Educational Evaluation for Health Professions
+- `2026-06-09` [Digital Twins in Remote and Virtual Healthcare: A Scoping Review](https://osf.io/fu3tx) — OSF Preprints (OSF Preprints)
+- `2026-06-09` [Enhancing urban environmental monitoring through AI and data-driven spatiotemporal air quality modelling](https://doi.org/10.25411/aru.32615076.v1) — Figshare
+- `2026-06-09` [Enhancing urban environmental monitoring through AI and data-driven spatiotemporal air quality modelling](https://doi.org/10.25411/aru.32615076) — Anglia Ruskin Research Online (Anglia Ruskin University)
+- `2026-06-08` [Analysis of digital twin applications in nursing practice and education: a scoping review](https://doi.org/10.7910/dvn/p6seua) — Harvard Dataverse
+- `2026-06-08` [Clinical Pathway Patterns Based on Case Mix Groups (Dataset)](https://doi.org/10.5281/zenodo.20588384) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [Clinical Pathway Patterns Based on Case Mix Groups (Dataset)](https://doi.org/10.5281/zenodo.20588385) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [Digital Urban Twin](https://osuva.uwasa.fi/handle/11111/21083) — Osuva (University of Vaasa)
+- `2026-06-07` [Digital twins as decision infrastructure: evolution, architecture, and research roadmap](https://doi.org/10.1080/20964471.2026.2678046) — Big Earth Data
+- `2026-06-06` [Urban digital twins for sustainable smart cities: A systematic literature review of UAV-assisted MEC, federated intelligence, and semantic communications](https://doi.org/10.1016/j.cosrev.2026.101006) — Computer Science Review
+- `2026-06-05` [A Predictive Human Digital Twin Framework for Cognitive and Stress State Dynamics](https://doi.org/10.21203/rs.3.rs-9929298/v1) — Research Square
+- `2026-06-04` [City Information Modelling and Urban Digital Twins: Global Implementation and Governance](https://doi.org/10.3390/ijgi15060251) — ISPRS International Journal of Geo-Information
+- `2026-06-04` [Fidelity Metric with 3D Shape Descriptor for Digital Twin Standardization](https://doi.org/10.21203/rs.3.rs-9785119/v1) — Research Square
+- `2026-06-03` [Quantum sensing and intelligent imaging research at Daegu Gyeongbuk Institute of Science and Technology](https://doi.org/10.1038/s44287-026-00299-2) — Nature Reviews Electrical Engineering
+- `2026-06-03` [FRAMEWORK PARA IMPLEMENTAÇÃO DE DIGITAL TWINS URBANOS COM FOCO EM LICENCIAMENTO DIGITAL](https://doi.org/10.63391/5d2b6t88) — INTERNATIONAL INTEGRALIZE SCIENTIFIC
+- `2026-06-03` [Feature and Time Ranges Selection for Multivariate Multistep Traffic Forecasting with Weather Data](https://doi.org/10.1007/s13222-026-00539-7) — Datenbank-Spektrum
+- `2026-06-02` [Neuroadaptive retailing: How quantum-enhanced biometric systems drive consumer engagement through cognitive and emotional alignment](https://doi.org/10.1016/j.actpsy.2026.107177) — Acta Psychologica
+- `2026-06-02` [Human Digital Twins and Self-Knowledge: A Governed Attractor Architecture for Sound Self-Abduction](https://doi.org/10.20944/preprints202606.0132.v1) — Preprints.org
+- `2026-06-02` [An intelligent dual-mode textile sensing system toward communication-efficient gait and motion monitoring](https://doi.org/10.1186/s13677-026-00919-0) — Journal of Cloud Computing Advances Systems and Applications
+- `2026-06-02` [Development of an Urban Digital Twin Based on Geospatial Data: A Case Study of Busan, South Korea](https://doi.org/10.3390/ijgi15060247) — ISPRS International Journal of Geo-Information
+- `2026-06-01` [Immersive Human Digital Twins for Industry 4.0 – Supporting adaptive human-centric production by integrating cognitive and physical states](https://doi.org/10.30844/i4se.26.3.1) — Industry 4 0 Science
+- `2026-06-01` [From Plausible Self-Narrative to Sound Self-Abduction: A Governed Attractor Architecture for Human Digital Twins and Self-Knowledge](https://doi.org/10.20944/preprints202606.0018.v1) — Preprints.org
+- `2026-06-01` [Multi-dimensional framework for industry 5.0: Integrating human-centric, sustainability, and operational resilience](https://doi.org/10.62704/10057/58152) — Journal of Management and Engineering Integration
+- `2026-06-01` [Enabling human-centric manufacturing: A systematic review of human-machine collaboration in Industry 5.0](https://doi.org/10.21595/amr.2026.26160) — Advanced Manufacturing Research
+- `2026-06-01` [Edge-intelligent AIoT digital twins for scalable and privacy-aware healthcare monitoring](https://doi.org/10.3389/friot.2026.1779129) — Frontiers in the Internet of Things
+- `2026-06-01` [Sentient XR: Zero-Install Browser-Based Urban Digital Twins with Live Environmental Sensing](https://doi.org/10.1109/icir70631.2026.11628371) —
+- `2026-06-01` [Annotated Building Façade Material Street-View Image Dataset for the Northern Quarter, Brussels](https://doi.org/10.5281/zenodo.20487710) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Annotated Building Façade Material Street-View Image Dataset for the Northern Quarter, Brussels](https://doi.org/10.5281/zenodo.20487711) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [A Cyber–Physical–Human Digital Twin–Blockchain Framework for Continuous Clinical Intelligence](https://doi.org/10.4018/979-8-3373-8177-0.ch012) — Techno India University
+- `2026-05-28` [Predictive Human Digital Twins: Modeling Behavior from Sparse Signals](https://doi.org/10.5281/zenodo.20435484) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [Predictive Human Digital Twins: Modeling Behavior from Sparse Signals](https://doi.org/10.5281/zenodo.20435485) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [AI-Driven Window Detection and Semantic Segmentation from Street View Imagery Using Grounding DINO and DeepLabV3 for Digital Twin Modeling](https://doi.org/10.3126/njg.v25i1.95080) — Nepalese journal of geoinformatics/Journal of geoinformatics Nepal
+- `2026-05-27` [City Information Modelling and Urban Digital Twins: A Comparative Study of Imperative and Declarative Modes](https://doi.org/10.3390/buildings16112150) — Buildings
+- `2026-05-25` [Towards an intelligent Geospatial Digital Twin](https://doi.org/10.1177/14780771261454101) — International Journal of Architectural Computing
+- `2026-05-25` [Spatial Attributes and Level-Based Assessment of Age-Friendly Built Environments: A Scoping Review for Sustainable Urban Development](https://doi.org/10.3390/su18115315) — Sustainability
+- `2026-05-24` [A Federated and Self-Adaptive Generative Adversarial-Based Framework for Real-Time Sensor Anomaly Detection in Human Digital Twins](https://doi.org/10.1109/iccworkshops63917.2026.11586549) — Wilfrid Laurier University
+- `2026-05-23` [DIGIU - AI Powered Human Digital Twin System](https://doi.org/10.22214/ijraset.2026.82753) — International Journal for Research in Applied Science and Engineering Technology
+- `2026-05-22` [How AI Will Destroy the Porn Industry.pdf](https://doi.org/10.5281/zenodo.20344274) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-22` [How AI Will Destroy the Porn Industry.pdf](https://doi.org/10.5281/zenodo.20344275) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-22` [A Digital Twin Framework for Structural Health Monitoring of Existing Large-Span Bridges](https://doi.org/10.3390/s26113293) — Sensors
+- `2026-05-18` [Contrastive Learning with Class Collision Awareness for Periodic Forecasting in 6G Urban Digital Twins](https://doi.org/10.3390/electronics15102173) — Electronics
+- `2026-05-16` [Transforming healthcare through digital twin technology: Current evidence and emerging opportunities](https://doi.org/10.1016/j.inhs.2026.100077) — Intelligent Hospital
+- `2026-05-14` [Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins](https://doi.org/10.1109/mcom.001.2500100) — IEEE Communications Magazine
+- `2026-05-14` [Evolution of visualisation and digital twin technologies in mining](https://doi.org/10.1007/s40789-026-00866-w) — International Journal of Coal Science & Technology
+- `2026-05-13` [Giving voice to digital twins: How LLMs build human knowledge graphs](https://doi.org/10.1016/j.comcom.2026.108553) — Computer Communications
+- `2026-05-12` [vinee119/HDT: Human Digital Twin (HDT) Project v1.0](https://doi.org/10.5281/zenodo.20131829) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [vinee119/HDT: Human Digital Twin (HDT) Project v1.0](https://doi.org/10.5281/zenodo.20131830) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [Semantic Mapping of Urban Mobile Mapping LiDAR Using Panoramic OCR and Geometric Back-Projection](https://doi.org/10.3390/geomatics6030049) — Geomatics
+- `2026-05-12` [AI-Enhanced BIM for Smart City SDGs: Governance and Environment Pillars](https://doi.org/10.1109/icciaa68481.2026.11543908) — Petra University
+- `2026-05-12` [BIM–AI Integration for Sustainable Urban Planning in Smart Cities: Framework, Challenges, and Future Trends](https://doi.org/10.1109/icciaa68481.2026.11543637) — Petra University
+- `2026-05-11` [United States High-Resolution Building Stock Dataset (USHB) - Indianapolis](https://doi.org/10.7274/32209308) — University of Notre Dame
+- `2026-05-11` [United States High-Resolution Building Stock Dataset (USHB) - Indianapolis](https://doi.org/10.7274/32209308.v1) — University of Notre Dame
+- `2026-05-08` [Digital twins and multimodal artificial intelligence in spine care: a scoping review of concepts, evidence, and translational barriers](https://doi.org/10.1007/s43390-026-01397-9) — Spine Deformity
+- `2026-05-08` [UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition](https://doi.org/10.48550/arxiv.2605.07356) — arXiv (Cornell University)
+- `2026-05-08` [UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition](https://arxiv.org/pdf/2605.07356) — arXiv (Cornell University)
+- `2026-05-08` [Dense and green are not mutually exclusive: a systems view for sustainable cities](https://doi.org/10.3389/frsc.2026.1813975) — Frontiers in Sustainable Cities
+- `2026-05-07` [Finding Leadership Value With Human Digital Twins and Extended Reality in Industry 5.0 Transformation](https://doi.org/10.4018/979-8-2600-1669-5.ch012) — University of National and World Economy
+- `2026-05-07` [Human and Digital Twin Symbiosis in the Evolution of Cognitive Enterprises](https://doi.org/10.4018/979-8-2600-1669-5.ch001) — University of National and World Economy
+- `2026-05-07` [A physics-informed machine learning framework for climate-aware digital twins in decentralised energy systems](https://doi.org/10.1016/j.apenergy.2026.128013) — Applied Energy
+- `2026-05-06` [Модель Я Квалия Мыслящая якм -ясц НАУЧНЫЙ СКЕЛЕТ версия 19 Глобальный контекст, полная интеграция наук и открытая фальсификация](https://doi.org/10.5281/zenodo.20059694) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-06` [Модель Я Квалия Мыслящая якм -ясц НАУЧНЫЙ СКЕЛЕТ версия 19 Глобальный контекст, полная интеграция наук и открытая фальсификация](https://doi.org/10.5281/zenodo.20059695) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-06` [Digital Twins as an Enabler of Cognitive Enterprise Architecture](https://doi.org/10.4018/979-8-3373-9998-0.ch010) — State University of Jakarta
+- `2026-05-06` [Towards fully automated city operations: Integrating agentic AI with urban digital twins](https://doi.org/10.1016/j.compenvurbsys.2026.102449) — Computers Environment and Urban Systems
+- `2026-05-06` [Fusing urban informatics and weather modelling in digital twins for city-scale heat-health mapping](https://doi.org/10.1007/s43762-026-00268-3) — Computational Urban Science
+- `2026-05-04` [Conceptual qualitative system dynamics model for simulation of perceived workload, stress and performance from industrial work content](https://doi.org/10.1371/journal.pone.0347030) — PLoS ONE
+- `2026-05-04` [Model-based digital twin engineering: insights, challenges, and future directions](https://doi.org/10.1007/s10270-026-01368-8) — Software & Systems Modeling
+- `2026-05-02` [How could body-augmenting technology enable human digital twins to facilitate spiritual experiences?](https://doi.org/10.1007/s00146-025-02782-0) — AI & Society
+- `2026-05-01` [Urban digital twins and water sensitive urban design: A systematic literature review](https://doi.org/10.1016/j.scs.2026.107456) — Sustainable Cities and Society
+- `2026-05-01` [AI-Powered Urban Digital Twins for Resilient, Sustainable, and Safe Cities: Democratizing Citizen Deliberation on Urban Air Mobility Futures](https://doi.org/10.1016/j.eng.2026.05.007) — Engineering
+- `2026-05-01` [Do we all feel the city the same way? A proof-of-concept framework linking physiological wellbeing to neighborhood-scale resilience through multi-domain environmental sensing](https://doi.org/10.1016/j.buildenv.2026.114679) — Building and Environment
+- `2026-05-01` [6G-Enabled Smart City Landscape Using Network and Digital Twin Networking Models](https://doi.org/10.5281/zenodo.20422101) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-01` [6G-Enabled Smart City Landscape Using Network and Digital Twin Networking Models](https://doi.org/10.5281/zenodo.20422100) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-01` [Toward aquaponics digital twin: Standardized measurement protocols and dynamic modeling](https://doi.org/10.1016/j.ifacsc.2026.100421) — IFAC Journal of Systems and Control
+- `2026-04-29` [Human digital twins in sports and rehabilitation: a systematic review](https://doi.org/10.1080/0144929x.2026.2660222) — Behaviour and Information Technology
+- `2026-04-29` [AI-Driven Digital Twins in Mining Operations: A Comprehensive Review](https://doi.org/10.3390/technologies14050269) — Technologies
+- `2026-04-29` [Fast Urban Digital Twin Prototyping Based on Open Data](https://doi.org/10.5194/isprs-archives-xlviii-4-w20-2025-17-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-04-28` [A MARL approach for connectivity-aware search and rescue in urban environments](https://doi.org/10.5281/zenodo.19841840) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-28` [A MARL approach for connectivity-aware search and rescue in urban environments](https://doi.org/10.5281/zenodo.19841839) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-23` [Greenhouse gas accounting in urban digital twins](https://doi.org/10.1088/2634-4505/ae5a57) — Environmental Research Infrastructure and Sustainability
+- `2026-04-23` [Neighborhood-Level Energy Hubs for Sustainable Cities: A Systematic Integrative Framework for Multi-Carrier Energy Systems and Energy Justice](https://doi.org/10.3390/su18094209) — Sustainability
+- `2026-04-21` [Digital twin-assisted graph contrastive domain adaptation for small-sample bearing fault diagnosis](https://doi.org/10.1177/14759217261440798) — Structural Health Monitoring
+- `2026-04-20` [Urban Digital Twins Levels of Integration: From Conceptualization to Technical Implementation](https://orbi.uliege.be/bitstream/2268/343029/1/PhD_Thesis_Imane_Jeddoub_2026_vf.pdf) — Open Repository and Bibliography (University of Liège)
+- `2026-04-20` [Digital Twins for Sustainable Smart Cities: Applications in Urban Design and Energy Optimization](https://repository.rit.edu/context/theses/article/13802/viewcontent/Bukhatir_Hamda_20260420_thes.pdf) — RIT Scholar Works (Rochester Institute of Technology)
+- `2026-04-17` [On digital twins in defense: overview and applications](https://doi.org/10.1177/15485129261441817) — The Journal of Defense Modeling and Simulation Applications Methodology Technology
+- `2026-04-16` [Digital twin technology for engineering education: An experiential learning case study](https://doi.org/10.1177/09504222261443589) — Industry and Higher Education
+- `2026-04-16` [A Scalable Cloud–Edge Digital Twin Framework for Urban Healthcare Analytics](https://doi.org/10.1109/iccc68994.2026.11511654) — Tallinn University of Technology
+- `2026-04-16` [Smarter Participation: Co-Governance Protocol Using Urban Digital Twin and Design Thinking](https://doi.org/10.1080/10630732.2026.2634808) — Journal of Urban Technology
+- `2026-04-15` [Working with Human Thinking in Developing Intelligent Technologies](https://doi.org/10.5171/2024.4425224) — Communications of International Proceedings
+- `2026-04-15` [NOTAS SOBRE LOS GEMELOS DIGITALES EN LA MÚSICA](https://doi.org/10.21134/b0et4n44) — REVISTA LEX MERCATORIA Doctrina Praxis Jurisprudencia y Legislación
+- `2026-04-14` [The human digital twin for service management: Architecture and user modeling](https://doi.org/10.1016/j.comcom.2026.108526) — Computer Communications
+- `2026-04-14` [Human Digital Twin for Personalized Drug and Vaccine Testing](https://doi.org/10.5281/zenodo.19568412) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-14` [Human Digital Twin for Personalized Drug and Vaccine Testing](https://doi.org/10.5281/zenodo.19568413) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-14` [Adaptive Human Digital Twin for Personalized Health Monitoring using Machine Learning](https://doi.org/10.5281/zenodo.19563541) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-14` [Adaptive Human Digital Twin for Personalized Health Monitoring using Machine Learning](https://doi.org/10.5281/zenodo.19563542) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-14` [Integrating Human Factors into Operations Management Education in the Industry 5.0 era](https://doi.org/10.3791/69833) — Journal of Visualized Experiments
+- `2026-04-14` [Süper Akıllı Toplum; Dijital Kimlikler ve Kovan Zihnin Tekilliği](https://doi.org/10.5281/zenodo.19483678) — Nous Academy Journal
+- `2026-04-14` [Süper Akıllı Toplum; Dijital Kimlikler ve Kovan Zihnin Tekilliği](https://doi.org/10.5281/zenodo.19483679) — DOAJ (DOAJ: Directory of Open Access Journals)
+- `2026-04-14` [The Destination Earth digital twin for climate change adaptation](https://doi.org/10.5194/gmd-19-2821-2026) — Geoscientific model development
+- `2026-04-13` [Twins: A Design Exploration of Accountable Autobiographical Human Digital Twins](https://doi.org/10.1145/3772363.3799176) — Palo Alto University
+- `2026-04-13` [Towards Rigorous Role Design: A Survey Study on the Role Perceptions of Digital Twins in Preventive Health Contexts](https://doi.org/10.1145/3772363.3798486) — Eindhoven University of Technology
+- `2026-04-13` [GIẢI PHÁP GIS, BIM, CIM VÀ UDT TRONG QUY HOẠCH VÀ PHÁT TRIỂN ĐÔ THỊ MIỀN NÚI TẠI TỈNH CAO BẰNG](https://doi.org/10.65732/xaydungdothi.2026.v106i106.291) — Tạp chí Xây dựng và Đô thị
+- `2026-04-13` [BUILDING TO CITY: INTEGRATING BIM INTO CIM FOR A COMPREHENSIVE DIGITAL URBANISM](https://doi.org/10.21837/pm.v24i41.2017) — PLANNING MALAYSIA
+- `2026-04-09` [Digital Twins For Urban Mitigation: Modelling City-Wide Carbon Neutrality Scenarios Via High-Performance Computing (HPC)](https://doi.org/10.25258/ijddt.16.6s.110) — International Journal of Drug Delivery Technology
+- `2026-04-08` [Gain Consumer Insight With Generative AI](https://doi.org/10.63383/rwzg1710) — MIT Sloan Management Review
+- `2026-04-08` [Terrestrial laser scanning observation network planning for large-scale building façades integrating local and global optimization methods](https://doi.org/10.1080/10095020.2026.2638722) — Geo-spatial Information Science
+- `2026-04-08` [Terrestrial laser scanning observation network planning for large-scale building façades integrating local and global optimization methods](https://doi.org/10.6084/m9.figshare.31959920.v1) — Figshare
+- `2026-04-08` [Terrestrial laser scanning observation network planning for large-scale building façades integrating local and global optimization methods](https://doi.org/10.6084/m9.figshare.31959920) — Figshare
+- `2026-04-04` [Digital twin driven fault diagnosis method for early faults of hydraulic system](https://doi.org/10.1016/j.engappai.2026.114689) — Engineering Applications of Artificial Intelligence
+- `2026-04-04` [Empowering digital twins for wind energy operation and maintenance: A prospective framework and future directions](https://doi.org/10.1016/j.rser.2026.116970) — Renewable and Sustainable Energy Reviews
+- `2026-04-04` [A Quantum Edge Federated Graph Transformer for Generative and Causal Digital Twin Healthcare](https://doi.org/10.48084/etasr.16010) — Engineering Technology & Applied Science Research
+- `2026-04-03` [Guidelines for creating a urban digital twin (UDT) module for urban regeneration scenarios assessment that include climate change mitigation (CCM) and adaptation (CCA)](https://doi.org/10.1016/j.cities.2026.107020) — Cities
+- `2026-04-03` [Review: Geodesign, Urban Digital Twins, and Futures , by Cureton, Paul, and Elliott Hartley CuretonPaulHartleyElliott, 2025. Geodesign, Urban Digital Twins, and Futures. London and New York: Routledg…](https://doi.org/10.1177/0739456x261436042) — Journal of Planning Education and Research
+- `2026-04-03` [Enugu State CityGML LOD1 3D Building Model: The First Open-Access Semantic 3D City Model for Nigeria and Among the First in Sub-Saharan Africa](https://doi.org/10.5281/zenodo.19401438) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-03` [Enugu State CityGML LOD1 3D Building Model: The First Open-Access Semantic 3D City Model for Nigeria and Among the First in Sub-Saharan Africa](https://doi.org/10.5281/zenodo.19401437) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-01` [Enabling data-driven human digital twin (HDT) reconstruction with computer vision and sensor-based positional data](https://doi.org/10.1049/icp.2026.0520) — IET conference proceedings.
+- `2026-04-01` [Digital Twin–Guided Ablation for Ventricular Tachycardia](https://doi.org/10.1056/nejmc2517822) — New England Journal of Medicine
+- `2026-04-01` [Fault prediction method towards gearbox based on digital twin and deep transfer learning](https://doi.org/10.1088/2631-8695/ae5b41) — Engineering Research Express
+- `2026-04-01` [Trustworthy urban digital twin: a RAG-based architecture for integrating verifiable knowledge](https://doi.org/10.1049/icp.2026.0487) — IET conference proceedings.
+- `2026-03-30` [System prompts for implementing Human Digital Twin (training and diagnostic scenarios)](https://doi.org/10.5281/zenodo.19327558) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-30` [System prompts for implementing Human Digital Twin (training and diagnostic scenarios)](https://doi.org/10.5281/zenodo.19327559) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-30` [Special Modification Script for OpenWebUI: Multi-Agent Human Digital Twin, Virtual Clinical Consultation, and Multimodal Interaction Support](https://doi.org/10.5281/zenodo.19327903) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-30` [Special Modification Script for OpenWebUI: Multi-Agent Human Digital Twin, Virtual Clinical Consultation, and Multimodal Interaction Support](https://doi.org/10.5281/zenodo.19327902) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-29` [ADVANCING FUTURE MANUFACTURING VIA HUMAN-CENTRIC INDUSTRY 5.0 AND SUSTAINABILITY](https://doi.org/10.70593/978-93-7185-465-8_37) — National Institute of Technology Durgapur
+- `2026-03-28` [Digital twins for hazard-resilient power grids: A systematic review and roadmap](https://doi.org/10.1016/j.rser.2026.116947) — Renewable and Sustainable Energy Reviews
+- `2026-03-28` [Towards Urban Digital Twins: A Framework Integrating CARLA with 3D City Models](https://doi.org/10.1109/icct-pacific69083.2026.11518621) — Shibaura Institute of Technology
+- `2026-03-27` [“Interaction Twin in the middle”: a distributed digital twin architecture to model team interactions and dynamics for deep space missions](https://doi.org/10.3389/fpace.2026.1736392) — Frontiers in Aerospace Engineering
+- `2026-03-27` [Digital twins: past, present and future](https://doi.org/10.1038/s41598-026-45272-z) — Scientific Reports
+- `2026-03-27` [Physics-informed hybrid digital twin framework integrating fractal contact modeling and edge-cloud artificial intelligence for dynamic thermal contact conductance prediction](https://doi.org/10.1016/j.ijheatmasstransfer.2026.128736) — International Journal of Heat and Mass Transfer
+- `2026-03-27` [Digital Twin-Enabled thermal error prediction and compensation system for CNC Machine tool feed systems](https://doi.org/10.1016/j.ymssp.2026.114192) — Mechanical Systems and Signal Processing
+- `2026-03-27` [A Deep Learning Framework for Predicting Psycho-Physiological States in Urban Underground Systems: Automating Human-Centric Environmental Perception](https://doi.org/10.3390/buildings16071328) — Buildings
+- `2026-03-25` [Accelerating instead of Waiving Planning: Opportunities and Challenges of Digital Building Land Cadastres in Urban Digital Twins](http://repository.corp.at/1368/1/CORP2026_53.pdf) — REAL CORP Repository (University of Southampton)
+- `2026-03-25` [Partizipative Energiesystemanalyse auf der Basis eines urbanen digitalen Zwillings und einer Smart-Meter-Datenanalyse zur Förderung von Plusenergiequartieren](http://repository.corp.at/1289/1/CORP2026_181.pdf) — REAL CORP Repository (University of Southampton)
+- `2026-03-24` [LLM-driven multi-agent framework for enhancing human-digital twin interaction in built infrastructure management](https://doi.org/10.1016/j.autcon.2026.106896) — Automation in Construction
+- `2026-03-24` [Integrating digital twin and sensor technologies for future-ready smart grids](https://doi.org/10.1007/s44291-026-00196-w) — Discover Electronics
+- `2026-03-23` [Multimodal Human Digital Twin AI for Real Time Productivity and Fatigue Intelligence](https://doi.org/10.55041/ijsmt.v2i3.206) — International Journal of Science Strategic Management and Technology
+- `2026-03-23` [The Future of AI-Powered Healthcare Analytics: Architecture, Governance, and Business Value](https://doi.org/10.59573/emsj.10(1).2026.23) — European Modern Studies Journal
+- `2026-03-21` [Systems-Theoretic Integration of VR and AI for Human Digital Twin](https://doi.org/10.1109/vrw70859.2026.00178) — University of Illinois Urbana-Champaign
+- `2026-03-20` [Operationalizing the Metaverse for Urban Sustainability: Evidence From an Expert Panel and the Seoul Metaverse City Case Study](https://doi.org/10.1002/sd.70972) — Sustainable Development
+- `2026-03-18` [Do deepfakes, digital replicas and human digital twins justify personality rights?](https://doi.org/10.1111/jwip.70020) — The Journal of World Intellectual Property
+- `2026-03-18` [A holistic approach to multi-scale and multi-perspective urban digital twin development](https://doi.org/10.1016/j.compenvurbsys.2026.102432) — Computers Environment and Urban Systems
+- `2026-03-18` [Deliberative Digital Twins for Reforming Participatory Planning in Indonesia: A Smart Governance Framework](https://doi.org/10.23969/jcbeem.v10i1.34626) — Journal of Community Based Environmental Engineering and Management
+- `2026-03-18` [A recursive variational neural network framework for dynamic generation of urban street scenes](https://doi.org/10.1016/j.rineng.2026.110119) — Results in Engineering
+- `2026-03-17` [Adaptive Human Digital Twin (aHDT) in Metaverse: A Model for Enhancing Physical Safety](https://doi.org/10.5772/intechopen.1013725) — IntechOpen eBooks
+- `2026-03-17` [Urban digital twin governance: the efficiency-legitimacy trade-off](https://doi.org/10.46656/access.2026.7.2(3)) — ACCESS Access to science business innovation in digital economy
+- `2026-03-17` [Towards Agentic Urban Digital Twins (AUDiTs): advancing new urban science through Human-AI co-learning agents](https://doi.org/10.1007/s44212-025-00099-3) — Urban Informatics
+- `2026-03-16` [Privacy-Preserving Multi-Layer Human Digital Twins with User-Controlled Data Management](https://doi.org/10.1109/percomworkshops68308.2026.11585345) — Department of Physics, Mathematics and Informatics
+- `2026-03-16` [Digital twin applications and case studies in modern power grid management](https://doi.org/10.1016/j.egyr.2026.109218) — Energy Reports
+- `2026-03-14` [Human-Digital Twin Symbiosis Using Cognitive AI for Smart Manufacturing](https://doi.org/10.1109/i3ctcon68242.2026.11508070) — AIR Worldwide (United States)
+- `2026-03-14` [CHDT-Ω: PIOR-ART Public Category Record for Constitutional Human Digital Twin](https://doi.org/10.5281/zenodo.18674965) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-14` [LINK Urban Digital Twinning (LINKUDT): Advancing Climate Adaptation and Planning Acceleration through Interoperable Digital Twin Ecosystems](https://doi.org/10.5194/egusphere-egu26-17814) — Philosophisch-Theologische Hochschule Münster
+- `2026-03-14` [An urban air quality sensor network in Enschede, the Netherlands: Opportunities for science, technology, education, and policy](https://doi.org/10.5194/egusphere-egu26-21198) — University of Twente
+- `2026-03-14` [Is there a Gap Between Promise and Practice? A Critical Assessment of Digital Twins for Sustainable and Resilient Smart Cities](https://doi.org/10.5194/egusphere-egu26-17873) — Sustainability Institute
+- `2026-03-14` [High-Resolution Thermal Mapping and Simulation Scenarios for Land Cover Intervention Planning](https://doi.org/10.5194/egusphere-egu26-22710) — Hôpital de La Grave
+- `2026-03-14` [Multi-Sensor Terrain Reconstruction for High-Resolution Urban Flood Modelling](https://doi.org/10.5194/egusphere-egu26-19225) — Henan Province Water Conservancy Survey and Design Research
+- `2026-03-13` [GBCN: 3D-Guided Brownian Bridge Diffusion for Clothed Human Reconstruction via Normal Integration](https://doi.org/10.1145/3809986.3810120) — Beijing University of Posts and Telecommunications
+- `2026-03-13` [Driving Behaviour as a Missing Control Lever in Urban NOx Mitigation: A Network-Level Digital Twin of Spatial–Temporal Hotspot Migration](https://doi.org/10.5194/egusphere-egu26-7290) — University of Manchester
+- `2026-03-12` [AI-Enabled Digital Twins in Agriculture](https://doi.org/10.3390/ai7030108) — AI
+- `2026-03-12` [FROM PLANNING QUESTION TO SPATIAL DATABASE: A GEOSPATIAL DATA IMPORTER FOR URBAN DIGITAL TWINS](https://doi.org/10.5281/zenodo.18980797) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-12` [FROM PLANNING QUESTION TO SPATIAL DATABASE: A GEOSPATIAL DATA IMPORTER FOR URBAN DIGITAL TWINS](https://doi.org/10.5281/zenodo.18980798) — University of Twente Research Information
+- `2026-03-11` [ATLASky-AI: An autonomous framework for physics-based trustworthy verification of LLM-generated spatiotemporal knowledge](https://doi.org/10.1016/j.eswa.2026.131801) — Expert Systems with Applications
+- `2026-03-11` [Empowering Sustainable Smart City Digital Twins with Deep Generative and Foundation Models](https://doi.org/10.1201/9781003650126-2) —
+- `2026-03-11` [The Rise of Deep Generative, Hybrid, and Foundation Models for Sustainable Smart City Intelligence](https://doi.org/10.1201/9781003650126-1) —
+- `2026-03-11` [Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models](https://doi.org/10.1016/j.jag.2026.105533) — arXiv (Cornell University)
+- `2026-03-11` [Deep Generative and Foundation Models for Sustainable Smart City Digital Twins](https://doi.org/10.1201/9781003650126-5) —
+- `2026-03-10` [Digital twin for in – space manufacturing: a comprehensive review from framework to future](https://doi.org/10.1080/17452759.2026.2639147) — Virtual and Physical Prototyping
+- `2026-03-10` [Dynamic Digital Twin Update by Adaptive Model Splitting and Reliable Crowdsourcing Under Uncertain Data Distortions](https://doi.org/10.1109/tmc.2026.3672635) — IEEE Transactions on Mobile Computing
+- `2026-03-10` [Mapping Urban Digital Twins Across Regions: An Exploratory Study of Maturity, Implementation Status, and Authority](https://doi.org/10.3390/smartcities9030049) — Smart Cities
+- `2026-03-08` [Teoría de la Solvencia Metabólica: Un Modelo Matemático Hacia la Salud de Precisión](https://doi.org/10.5281/zenodo.18913452) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-08` [Teoría de la Solvencia Metabólica: Un Modelo Matemático Hacia la Salud de Precisión](https://doi.org/10.5281/zenodo.17695959) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-08` [Digitalised Predictive Maintenance in Railways: A Systematic Review of AI, BIM, and Digital Twins](https://doi.org/10.3390/infrastructures11030087) — Infrastructures
+- `2026-03-07` [Smart wastewater management in hydro-technical systems using digital twin technology](https://doi.org/10.1038/s41598-026-42626-5) — Scientific Reports
+- `2026-03-06` [Teoría de la Solvencia Metabólica: Un Modelo Matemático Hacia la Salud de Precisión](https://doi.org/10.5281/zenodo.18894310) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-06` [Teoría de la Solvencia Metabólica: Un Modelo Matemático Hacia la Salud de Precisión](https://doi.org/10.5281/zenodo.18890373) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-06` [An Agentic Digital Twin Framework for Fuzzy Multi-Objective Optimization in Dynamic Humanitarian Logistics](https://doi.org/10.3390/a19030198) — Algorithms
+- `2026-03-06` [FALCON: Fanet-Aware Learning and digital twin CONtrol framework](https://doi.org/10.1016/j.comcom.2026.108481) — Computer Communications
+- `2026-03-06` [Digital twin based microgrid control and energy management: Trends, challenges, and future directions](https://doi.org/10.1016/j.compeleceng.2026.111100) — Computers & Electrical Engineering
+- `2026-03-05` [A digital twin guided physical-virtual denoising method for early fault detection of rolling element bearings](https://doi.org/10.1016/j.ymssp.2026.114108) — Mechanical Systems and Signal Processing
+- `2026-03-05` [Integration of digital twins and physical AI in cyber-physical systems](https://doi.org/10.1016/j.iswa.2026.200649) — Intelligent Systems with Applications
+- `2026-03-03` [Hybrid models, digital twins, and digital shadows for sustainable membrane technologies: A critical review](https://doi.org/10.1016/j.advmem.2026.100219) — Advanced Membranes
+- `2026-03-03` [“Colorful Smoke” Visual Metaphor for Temporal Occupancy in Urban Digital Twins](https://doi.org/10.5194/isprs-archives-xlviii-4-w19-2025-127-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-03-03` [Graph-based Analysis and Visualization of Metadata in the Context of Urban Digital Twins](https://doi.org/10.5194/isprs-archives-xlviii-4-w19-2025-71-2026) — The international archives of the photogrammetry, remote sensing and spatial informatio…
+- `2026-03-02` [Semantic foundations for digital twins: the contribution of ontological analysis](https://doi.org/10.3389/fcomp.2026.1757450) — Frontiers in Computer Science
+- `2026-03-02` [Innovation in Geospatial Information Technology: Connecting Urban Security, Spatial Governance, and Smart City Development](https://doi.org/10.30564/jees.v8i3.13101) — Journal of Environmental & Earth Sciences
+- `2026-03-01` [What Is a Digital Twin in QSP , and Are We Doing It Right?](https://doi.org/10.1002/psp4.70229) — CPT Pharmacometrics & Systems Pharmacology
+- `2026-03-01` [Integrating Social Media into Climate-Resilient Infrastructure Planning: A Socio-Technical Case Study from Southeast Asia](https://doi.org/10.51903/2sm2n437) — Jurnal Rekayasa Sipil dan Arsitektur
+- `2026-02-28` [Behaviorism rebooted as the foundation of human digital twins: A systematic review of applications in human-robot collaboration and healthcare](https://doi.org/10.1016/j.chbah.2026.100280) — Computers in Human Behavior Artificial Humans
+- `2026-02-28` [Can Digital Twin Technology Enhance Supply-Chain Resilience? A Systematic Literature Review](https://doi.org/10.3390/su18052361) — Sustainability
+- `2026-02-26` [The Future of Shopping: AI Commerce](https://doi.org/10.21203/rs.3.rs-8958644/v1) — Research Square
+- `2026-02-26` [Digital Twin of Cancer Patients Using Multimodal Data for Personalized Treatment and Monitoring](https://doi.org/10.65927/zkpp5093) — Journal of Human-Centered Design for Manufacturing
+- `2026-02-26` [Integrated Ethical Framework for Digital Transformation: Balancing AI Governance, Supply Chain Resilience, and Sustainable Infrastructure](https://doi.org/10.5281/zenodo.18788416) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-26` [Integrated Ethical Framework for Digital Transformation: Balancing AI Governance, Supply Chain Resilience, and Sustainable Infrastructure](https://doi.org/10.5281/zenodo.18788415) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-25` [Intelligent Supply Chains and Logistics in the Era of Digital Twins](https://doi.org/10.4018/979-8-3373-4541-3.ch005) — Universitas Esa Unggul
+- `2026-02-24` [From prediction to intervention: causal digital twins for personalized clinical decision support](https://doi.org/10.1186/s12967-026-07895-8) — Journal of Translational Medicine
+- `2026-02-24` [Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments](https://arxiv.org/pdf/2602.22025) — arXiv (Cornell University)
+- `2026-02-24` [Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments](https://doi.org/10.48550/arxiv.2602.22025) — arXiv (Cornell University)
+- `2026-02-23` [Human digital twins in healthcare and occupational well-being: Enabling techniques, applications, datasets and future trends](https://doi.org/10.1016/j.compind.2026.104463) — Computers in Industry
+- `2026-02-23` [A digital twin framework for damage detection and localization of self-sensed cured-in-place underground pipelines](https://doi.org/10.1016/j.engstruct.2026.122401) — Engineering Structures
+- `2026-02-20` [Integrating agentic AI and digital twins for intelligent decision-making systems](https://doi.org/10.1016/j.array.2026.100721) — Array
+- `2026-02-19` [A Multimodal Intelligent System for Human Digital Twin Simulation with Continuous Kinematic Data Tracking, Biometric Prognosis, and Cognitive State Feedback in Industrial Environments](https://doi.org/10.1002/aidi.202500217) — Advanced Intelligent Discovery
+- `2026-02-19` [Agentic digital twins: bridging model-based and AI-driven decision-making support for a new era of supply chain and operations management](https://doi.org/10.1080/00207543.2026.2630277) — International Journal of Production Research
+- `2026-02-19` [A digital twin for diesel engines: Operator-infused physics-informed neural networks with transfer learning for engine health monitoring](https://doi.org/10.1016/j.engappai.2026.114052) — Engineering Applications of Artificial Intelligence
+- `2026-02-19` [Guest Editor Preface](https://doi.org/10.5755/j01.sace.39.1.44317) — Journal of Sustainable Architecture and Civil Engineering
+- `2026-02-19` [Multi-Level Interactive Platform for Night Time Economy Planning: A Case Study in Nha Trang, Vietnam](https://doi.org/10.5755/j01.sace.39.1.41914) — Journal of Sustainable Architecture and Civil Engineering
+- `2026-02-18` [Digital twin applications in healthcare for people living with disability](https://doi.org/10.1016/j.ijmedinf.2026.106359) — International Journal of Medical Informatics
+- `2026-02-17` [Collaborative digital twin ecosystems](https://doi.org/10.1016/j.future.2026.108429) — Future Generation Computer Systems
+- `2026-02-17` [Cities aren't rocket engines: the maturity of digital twins in human-centred urban planning](https://doi.org/10.6084/m9.figshare.31351161.v1) — Figshare
+- `2026-02-17` [Cities aren't rocket engines: the maturity of digital twins in human-centred urban planning](https://doi.org/10.6084/m9.figshare.31351161) — Figshare
+- `2026-02-16` [Multi-scale digital twins for personalized medicine](https://doi.org/10.3389/fdgth.2026.1753906) — Frontiers in Digital Health
+- `2026-02-16` [Large Language Model-Based Task Offloading and Resource Allocation for Digital Twin Edge Computing Networks](https://doi.org/10.1109/tmc.2026.3664866) — IEEE Transactions on Mobile Computing
+- `2026-02-13` [Digital Twin Framework for Cutterhead Design and Assembly Process Simulation Optimization for TBM](https://doi.org/10.3390/app16041865) — Applied Sciences
+- `2026-02-13` [SOLWEIG-GPU: GPU-Accelerated Thermal Comfort Modeling Framework for Urban Digital Twins](https://doi.org/10.21105/joss.09535) — The Journal of Open Source Software
+- `2026-02-12` [A multi strategy optimization framework using AI digital twins for smart grid carbon emission reduction](https://doi.org/10.1038/s41598-026-38720-3) — Scientific Reports
+- `2026-02-12` [The evolution of digital twins within the big BIM data landscape](https://doi.org/10.1108/sasbe-11-2025-0753) — Smart and Sustainable Built Environment
+- `2026-02-12` [Trustworthy Urban Digital Twin: A RAG-based Architecture for Integrating Verifiable Knowledge](https://doi.org/10.57711/70bh-0t36) — MyImpact
+- `2026-02-10` [A novel thermal error compensation framework towards precision manufacturing: integrating digital twin technology and edge server deployment](https://doi.org/10.1007/s10845-025-02783-2) — Journal of Intelligent Manufacturing
+- `2026-02-10` [Research on the Application of Industrial Robot Technology in Large-Scale Geodetic Data Acquisition](https://doi.org/10.30564/jees.v8i2.13075) — Journal of Environmental & Earth Sciences
+- `2026-02-09` [From Digital Motion Capture to Human-Friendly Forestry Machines: A Digital Human Modeling Framework—Case Study in Design and Prototyping of Forestry Machines](https://doi.org/10.3390/f17020235) — Forests
+- `2026-02-09` [Integration of AI-driven digital twins for real-time optimization of renewable energy grids](https://doi.org/10.3389/fenrg.2026.1748233) — Frontiers in Energy Research
+- `2026-02-09` [A Digital-Twin-Enabled AI-Driven Adaptive Planning Platform for Sustainable and Reliable Manufacturing](https://doi.org/10.3390/machines14020197) — Machines
+- `2026-02-09` [From polygenic risk to digital twins: the future of personalised cardiovascular medicine](https://doi.org/10.3389/fcvm.2026.1735094) — Frontiers in Cardiovascular Medicine
+- `2026-02-09` [SOLWEIG-GPU: GPU-Accelerated Thermal Comfort Modeling Framework for Urban Digital Twins](https://doi.org/10.5281/zenodo.18561860) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-07` [Realising the digital twin: a thematic review and analysis of the ethical, legal, and social issues for digital twins in healthcare](https://doi.org/10.1007/s00146-025-02833-6) — AI & Society
+- `2026-02-07` [Digital twin-driven decision support for human capital management under uncertainty](https://doi.org/10.1016/j.grets.2026.100353) — Green Technologies and Sustainability
+- `2026-02-06` [Real-time multi-worker identification and action recognition system employing multimodal deep learning for human digital twin](https://doi.org/10.1093/jcde/qwag011) — Journal of Computational Design and Engineering
+- `2026-02-06` [Implementation Maturity Levels of Digital Twin Technology and Data Content Design for Flood Digital Twin](https://doi.org/10.3390/smartcities9020028) — Smart Cities
+- `2026-02-06` [Optimizing electric vehicle fleets to develop smart charging infrastructure: a digital twin approach](https://doi.org/10.1186/s40807-026-00240-z) — Sustainable Energy Research
+- `2026-02-06` [Affordable risk mapping and detection of asbestos-cement roofs via remote sensing: towards accessible urban digital twins in low- to middle-income countries](https://doi.org/10.1016/j.jenvman.2026.128908) — Journal of Environmental Management
+- `2026-02-06` [L2M-Reg: Building-level uncertainty-aware registration of outdoor LiDAR point clouds and semantic 3D city models](https://doi.org/10.1016/j.isprsjprs.2026.02.005) — ISPRS Journal of Photogrammetry and Remote Sensing
+- `2026-02-05` [Research on multi-twin collaborative system for human-machine collaborative manufacturing](https://doi.org/10.1016/j.jii.2026.101092) — Journal of Industrial Information Integration
+- `2026-02-05` [Digital twin-driven shape-performance-control-application integrated design for unmanned underwater vehicles](https://doi.org/10.1007/s11431-025-3172-y) — Science China Technological Sciences
+- `2026-02-04` [Visualising the Urban Imaginary: Failure and Irresolution in an Urban Digital Twin](https://doi.org/10.1111/tran.70060) — Transactions of the Institute of British Geographers

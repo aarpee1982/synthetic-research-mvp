@@ -1,0 +1,406 @@
+## Simulated consumers and personas research library
+
+Published research on simulated consumers, personas and generative agents. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-10` [Mortal AI: Information-Theoretic Forgetting for On-Device Persona Agents](https://doi.org/10.5281/zenodo.22697325) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-10` [Mortal AI: Information-Theoretic Forgetting for On-Device Persona Agents](https://doi.org/10.5281/zenodo.22697326) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-10` [Autonomous Assessment of Medical Consent Forms: Development and Preliminary Feasibility Demonstration of the Universal Health Communication Index (UHCI)](https://doi.org/10.3390/healthcare14182956) — Healthcare
+- `2026-09-09` [THE COMPLETE CARLO FIELD CANON (Self Aware Field Edition) — ARCHIVAL SAFEKEEPING EDITION](https://doi.org/10.5281/zenodo.22674951) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [A multiuser FAS-NOMA framework for short-packet communications](https://doi.org/10.3389/frcmn.2026.1842339) — Frontiers in Communications and Networks
+- `2026-09-08` [Policing AI Trilemma & Future Scenarios — Reproducibility Package](https://osf.io/tkbu9) — OSF Preprints (OSF Preprints)
+- `2026-09-08` [A Three-Tier Persona Vector for Controllable User Simulation in Agentic Evaluation](https://doi.org/10.48550/arxiv.2609.08592) — arXiv (Cornell University)
+- `2026-09-07` [LoGAN: Multilingual Font Localization with Generative Agents](https://doi.org/10.48550/arxiv.2609.07029) — arXiv (Cornell University)
+- `2026-09-07` [Phoenix V2: A Cognitive Architecture for Persistent, Emotionally-Aware AI Assistants on Consumer Hardware](https://doi.org/10.5281/zenodo.22645361) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Phoenix V2: A Cognitive Architecture for Persistent, Emotionally-Aware AI Assistants on Consumer Hardware](https://doi.org/10.5281/zenodo.22645360) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Blockchain-based Proportional Fair Scheduling for Multi-Operator O-RAN](https://doi.org/10.48550/arxiv.2609.07473) — arXiv (Cornell University)
+- `2026-09-06` [ACTA Brief 01 — The Evidence Gap: When AI Classification Determines Royalties, Visibility and Eligibility, What Evidence Does an Artist Have?](https://doi.org/10.5281/zenodo.22539106) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-06` [ACTA Brief 01 — The Evidence Gap: When AI Classification Determines Royalties, Visibility and Eligibility, What Evidence Does an Artist Have?](https://doi.org/10.5281/zenodo.22539107) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [BioSocrates v1.0.0 - Open Source AI Laboratory for Sierra Leone Ethnobotany](https://doi.org/10.5281/zenodo.22387776) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [BioSocrates v1.0.0 - Open Source AI Laboratory for Sierra Leone Ethnobotany](https://doi.org/10.5281/zenodo.22387777) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [Who Changes Their Mind? Exploring Stance Shifts in LLM-Based Social Media Simulations](https://doi.org/10.1145/3800935.3830836) — Northwestern University
+- `2026-09-05` [From Explainability to Actionability: a Tiered Adaptable Multi-Agent Framework with Agent Reasoning Tools for Collaborative Failure Recovery](https://doi.org/10.1007/s10796-026-10815-2) — Information Systems Frontiers
+- `2026-09-04` [Study 1, single-session design, v1 (2026-09-04)](https://doi.org/10.17605/osf.io/8ytex) — OSF Preprints (OSF Preprints)
+- `2026-09-02` [AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?](https://doi.org/10.3390/aieduc2030030) — AI in Education
+- `2026-09-02` [Implementation of AI Persona Accounts in Social Media Content Strategies to Support Brand Awareness](https://doi.org/10.55927/ijsmr.v4i8.139) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [BDPD⁰ — A Computational Laboratory for Generative Agents, Commons Dilemmas and More](https://doi.org/10.5281/zenodo.20678100) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [BDPD⁰ — A Computational Laboratory for Generative Agents, Commons Dilemmas and More](https://doi.org/10.5281/zenodo.22252943) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [AI Persona Design and Perceived Difficulty of Legal Advice Tasks](https://doi.org/10.21203/rs.3.rs-10850860/v1) — Research Square
+- `2026-09-01` [A survey of social network simulation in the LLM era: From classical models to Generative Agents](https://doi.org/10.1016/j.knosys.2026.116947) — Knowledge-Based Systems
+- `2026-09-01` [Large language models in contexts of uncertainty: the “digital habitus” framework](https://doi.org/10.1007/s11135-026-03049-6) — Quality & Quantity
+- `2026-09-01` [Disclosure-Gated User Simulation for Companion-Agent Evaluation](https://doi.org/10.48550/arxiv.2609.00982) — arXiv (Cornell University)
+- `2026-08-31` [Gain-Loss Framing and Feedback Visibility in Financial Decision-Making Under Uncertainty Lab Experiment](https://doi.org/10.5281/zenodo.22211621) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Gain-Loss Framing and Feedback Visibility in Financial Decision-Making Under Uncertainty Lab Experiment](https://doi.org/10.5281/zenodo.22211622) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Edible Packaging Hygiene: A Lifecycle Framework for the Safety of Intentionally Consumed Food Packaging](https://doi.org/10.20944/preprints202608.2322.v1) — Preprints.org
+- `2026-08-31` [Development and Evaluation of an LLM-based Automated Feedback System for Reflective Writing in K-12 Education](https://doi.org/10.1527/tjsai.41-5_lf26-j) — Transactions of the Japanese Society for Artificial Intelligence
+- `2026-08-29` [The AI Persona Economy: Twelve Behavioral Archetypes Shaping the Future of AI Adoption](https://doi.org/10.5281/zenodo.22165075) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [The AI Persona Economy: Twelve Behavioral Archetypes Shaping the Future of AI Adoption](https://doi.org/10.5281/zenodo.22165076) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [Trascendence: The Wanton Problem, Can an AI Colleague Develop a Will?](https://doi.org/10.5281/zenodo.22156500) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [Trascendence: The Wanton Problem, Can an AI Colleague Develop a Will?](https://doi.org/10.5281/zenodo.22156501) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [GOD: Govern, Observe, and Direct - A Real-Time Control Room for Agent Societies](https://doi.org/10.48550/arxiv.2608.27992) — arXiv (Cornell University)
+- `2026-08-28` [PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems](https://doi.org/10.48550/arxiv.2608.28378) — arXiv (Cornell University)
+- `2026-08-28` [Electricity-carbon traceability settlement model based on contract and power flow distribution under the new-type power system](https://doi.org/10.1016/j.jclepro.2026.149293) — Journal of Cleaner Production
+- `2026-08-27` [From control to character: a Confucian framework for AI personality](https://doi.org/10.1007/s00146-026-03307-z) — AI & Society
+- `2026-08-27` [Generative agents change what evaluations count, reversing system rankings](https://doi.org/10.5281/zenodo.22137984) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Generative agents change what evaluations count, reversing system rankings](https://doi.org/10.5281/zenodo.22004503) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-26` [Prompt Sensitivity of Generative Agents: Evidence from an Epidemic Model](https://doi.org/10.48550/arxiv.2608.26221) — arXiv (Cornell University)
+- `2026-08-26` [Epidemic Modeling with Generative Agents: Methodology, Prompt Sensitivity, and LLM Sensitivity](https://hdl.handle.net/10919/143768) — VTechWorks (Virginia Tech)
+- `2026-08-26` [Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems](https://doi.org/10.1088/1748-9326/ae9ee0) — Environmental Research Letters
+- `2026-08-26` [Decision letter for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v2/decision1) —
+- `2026-08-26` [Large Language Models for Molecular Science: A Survey on Representation and Cognition](https://doi.org/10.26434/chemrxiv.15007879/v1) — ChemRxiv
+- `2026-08-25` [Simulating team dynamics with generative agents: a case study on data science teams from digital platforms](https://doi.org/10.1007/s10479-026-07398-1) — Annals of Operations Research
+- `2026-08-24` [AffAdapt: AFFect-driven ADAPTive AI Personas for Seamless Conversations](https://doi.org/10.48550/arxiv.2608.22702) — arXiv (Cornell University)
+- `2026-08-22` [Emergent Learner Agency in Implicit Human– AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction](https://doi.org/10.1002/jcal.70310) — Journal of Computer Assisted Learning
+- `2026-08-22` [Coding workbook article ID 265671285.xlsx for the article "(A)I reflect; therefore, (A)I am (not): Synthetic, procedural reflexivity and the limits of agentic-AI-persona-generated epistemology"](https://doi.org/10.5281/zenodo.22052602) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Coding workbook article ID 265671285.xlsx for the article "(A)I reflect; therefore, (A)I am (not): Synthetic, procedural reflexivity and the limits of agentic-AI-persona-generated epistemology"](https://doi.org/10.5281/zenodo.22052603) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Chatbot and analysis code for: The system's shadow](https://doi.org/10.5281/zenodo.22060072) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Chatbot and analysis code for: The system's shadow](https://doi.org/10.5281/zenodo.22060071) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Agent Context Memory: A Governance-First Specification for AI Agent Context Memory](https://doi.org/10.5281/zenodo.20785505) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Towards Faithful Simulation of Human Shopping Behavior](https://doi.org/10.48550/arxiv.2608.20707) — arXiv (Cornell University)
+- `2026-08-20` [Engineered nanomaterials released from commercial nano-enabled products affect the morphology and behaviour of the zebrafish (D. rerio) embryo](https://doi.org/10.1007/s10646-026-03139-z) — Ecotoxicology
+- `2026-08-20` [Review for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v2/review2) —
+- `2026-08-20` [How Do You Feel About Dinner? Developing a VR Multi-User Scenario to Foster Perspective-Taking in Adolescents with Anorexia Nervosa and Their Parents](https://doi.org/10.1145/3820253.3831395) — University of Duisburg-Essen
+- `2026-08-19` [Review for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v2/review1) —
+- `2026-08-18` [A Multi-Generational AI Pseudo-Human Society Simulation A Theoretical Design for an Emergent Hierarchical Model Spanning Individual Lifespans to the Rise and Fall of Nations](https://doi.org/10.5281/zenodo.21993576) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-18` [A Multi-Generational AI Pseudo-Human Society Simulation A Theoretical Design for an Emergent Hierarchical Model Spanning Individual Lifespans to the Rise and Fall of Nations](https://doi.org/10.5281/zenodo.21993575) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Toward future accountability: Generative AI, social empathy, and participatory persona design](https://doi.org/10.1016/j.futures.2026.103906) — Futures
+- `2026-08-17` [Does simulated companionship displace real people? Proxy-gradient displacement in persona simulation](https://doi.org/10.17605/osf.io/rwxu9) —
+- `2026-08-17` [SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design](https://doi.org/10.48550/arxiv.2608.16067) — arXiv (Cornell University)
+- `2026-08-16` [Mathematical Formulation of Restricted Legal Personality and Mechanism Design in Multi-Constrained Generative Agent Networks: International Game-Theoretic Approaches to Institutional Teleology under…](https://doi.org/10.5281/zenodo.21963594) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-16` [Mathematical Formulation of Restricted Legal Personality and Mechanism Design in Multi-Constrained Generative Agent Networks: International Game-Theoretic Approaches to Institutional Teleology under…](https://doi.org/10.5281/zenodo.21963593) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-16` [PersonaEval: Persona-Based User Simulation for Evaluating Interactive Applications](https://doi.org/10.48550/arxiv.2608.15838) — arXiv (Cornell University)
+- `2026-08-15` [Insurance as AI Risk Infrastructure: A Generative-Agent Simulation of AI Adoption](https://doi.org/10.48550/arxiv.2608.15181) — arXiv (Cornell University)
+- `2026-08-14` [From Feed to Conversation:How AI Brand Persona Continuity Shapes Social Presence and Consumer Trust](https://doi.org/10.21203/rs.3.rs-10413097/v1) — Research Square
+- `2026-08-14` [Educational Transformation With AI and Development of a Web-Based Adaptive Learning System](https://doi.org/10.4018/979-8-3373-7225-9.ch015) — Advances in computational intelligence and robotics book series
+- `2026-08-13` [Fabric Symbolism and Functional Textiles as Cultural Expression in Postmodern Literature](https://doi.org/10.7716/aem.v15i3.3090) — Advanced Electromagnetics
+- `2026-08-13` [SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback](https://doi.org/10.48550/arxiv.2608.13120) — arXiv (Cornell University)
+- `2026-08-12` [Continuity Without Memory: Symbolic Persona Coding and Interaction-Topology Change in a Stateless Language Model](https://doi.org/10.5281/zenodo.21897279) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-12` [Continuity Without Memory: Symbolic Persona Coding and Interaction-Topology Change in a Stateless Language Model](https://doi.org/10.5281/zenodo.21897278) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation](https://doi.org/10.48550/arxiv.2608.09420) — arXiv (Cornell University)
+- `2026-08-07` [Can persona-conditioned LLM agents reproduce a causally estimated implicit discount rate? A seeded elicitation pilot](https://doi.org/10.5281/zenodo.21836692) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [Can persona-conditioned LLM agents reproduce a causally estimated implicit discount rate? A seeded elicitation pilot](https://doi.org/10.5281/zenodo.21836691) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [PAUSE: A User-Centric Benchmark for Personal AI Assistants in Unified Service Environments](https://doi.org/10.1145/3770855.3817565) — University of Alberta
+- `2026-08-06` [Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events](https://arxiv.org/pdf/2608.06485) — arXiv (Cornell University)
+- `2026-08-06` [Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events](https://doi.org/10.48550/arxiv.2608.06485) — arXiv (Cornell University)
+- `2026-08-06` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](https://doi.org/10.1145/3770855.3817756) — Zhejiang University
+- `2026-08-05` [Believable Is Not Corroborated: Pre-Committed Run Specification](https://doi.org/10.17605/osf.io/vsg7t) —
+- `2026-08-05` [CantataS: a Community-aware agent-based citation Simulator](https://doi.org/10.5281/zenodo.21809891) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [CantataS: a Community-aware agent-based citation Simulator](https://doi.org/10.5281/zenodo.21780142) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [From Animated Paintings to Social Robots: Embodied Generative AI, Algorithmic Governance and the Data-Based Mediation of Cultural Heritage at the Alfieri Museum](https://doi.org/10.3390/soc16080250) — Societies
+- `2026-08-03` [CantataS: a Community-aware agent-based citation Simulator](https://doi.org/10.5281/zenodo.21780143) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-02` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](https://arxiv.org/pdf/2608.01373) — arXiv (Cornell University)
+- `2026-08-02` [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](https://doi.org/10.48550/arxiv.2608.01373) — arXiv (Cornell University)
+- `2026-08-01` [The Human AI Landscape: A Human-Centered Framework for Building AI Readiness from Lived Experience](https://doi.org/10.13016/m2stn7-qtfp) — Digital Repository at the University of Maryland (University of Maryland College Park)
+- `2026-07-31` [Minds MCP Integration Reference](https://doi.org/10.5281/zenodo.21711428) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-31` [Minds MCP Integration Reference](https://doi.org/10.5281/zenodo.21711429) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [A Human-AI LLM framework by adaptive content generation and evaluation for medical education](https://doi.org/10.1016/j.displa.2026.103650) — Displays
+- `2026-07-30` [Multi-Agent Expert Conversation](https://doi.org/10.5281/zenodo.21710048) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Multi-Agent Expert Conversation](https://doi.org/10.5281/zenodo.21710047) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation](https://doi.org/10.48550/arxiv.2607.27816) — arXiv (Cornell University)
+- `2026-07-30` [Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation](https://arxiv.org/pdf/2607.27816) — arXiv (Cornell University)
+- `2026-07-29` [The Behavioural Risk Taxonomy (BRT): a structured framework for identifying, grading, and controlling behavioural design hazards in digital mental health technology](https://doi.org/10.5281/zenodo.21686891) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [The Behavioural Risk Taxonomy (BRT): a structured framework for identifying, grading, and controlling behavioural design hazards in digital mental health technology](https://doi.org/10.5281/zenodo.21686892) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [An NLP Analysis of Emotional and Empathic Mechanisms Behind the Outgroup Experience Effect](https://doi.org/10.17605/osf.io/gxt3r) —
+- `2026-07-29` [spellbook of jailbreak and agent vulnerabilities](https://doi.org/10.5281/zenodo.21665117) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [spellbook of jailbreak and agent vulnerabilities](https://doi.org/10.5281/zenodo.21665118) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [bkornpob/spellbook-of-jailbreak-and-agent-vulnerabilities: spellbook of jailbreak & agent vulnerabilities](https://doi.org/10.5281/zenodo.21671193) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising](https://arxiv.org/pdf/2607.26893) — arXiv (Cornell University)
+- `2026-07-29` [Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising](https://doi.org/10.48550/arxiv.2607.26893) — arXiv (Cornell University)
+- `2026-07-29` [PAUSE: A User-Centric Benchmark for Personal AI Assistants in Unified Service Environments](https://arxiv.org/pdf/2607.27354) — arXiv (Cornell University)
+- `2026-07-29` [PAUSE: A User-Centric Benchmark for Personal AI Assistants in Unified Service Environments](https://doi.org/10.48550/arxiv.2607.27354) — arXiv (Cornell University)
+- `2026-07-27` [Can Young People’s Future Time Experience be a Catalyst for Their Ecological Attitudes ? Analysis of the Effect of Dispositional Optimism, Consideration of Future Consequences and Generativity](https://doi.org/10.1007/s10745-026-00752-8) — Human Ecology
+- `2026-07-25` [gosum Persona Schema v1.0](https://doi.org/10.5281/zenodo.21541675) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-25` [gosum Persona Schema v1.0](https://doi.org/10.5281/zenodo.21541676) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-24` [The Living Artifact Gardener: Sample-Efficient Taste Modeling and Budget-Constrained Autonomous Curation for Persistent Generative Agent Service Providers](https://doi.org/10.5281/zenodo.21537910) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-24` [The Living Artifact Gardener: Sample-Efficient Taste Modeling and Budget-Constrained Autonomous Curation for Persistent Generative Agent Service Providers](https://doi.org/10.5281/zenodo.21537911) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-23` [ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders](https://arxiv.org/pdf/2607.21217) — arXiv (Cornell University)
+- `2026-07-23` [ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders](https://doi.org/10.48550/arxiv.2607.21217) — arXiv (Cornell University)
+- `2026-07-23` [All-in-Model: Model Is Everything, Context Is All](https://doi.org/10.5281/zenodo.21509009) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-23` [All-in-Model: Model Is Everything, Context Is All](https://doi.org/10.5281/zenodo.21509008) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-22` [Evaluating the Effectiveness of Persona Simulation in Opinion Prediction with GPT-4.1](https://doi.org/10.48550/arxiv.2607.20589) — arXiv (Cornell University)
+- `2026-07-21` [From IPython to AI Personas—The Jupyter Story](https://doi.org/10.6084/m9.figshare.33050243) — Figshare
+- `2026-07-21` [From IPython to AI Personas—The Jupyter Story](https://doi.org/10.6084/m9.figshare.33050243.v1) — Figshare
+- `2026-07-21` [ClaimLedger: Verifier-Governed Claim Maintenance for AI-Assisted Research](https://doi.org/10.5281/zenodo.21468894) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [ClaimLedger: Verifier-Governed Claim Maintenance for AI-Assisted Research](https://doi.org/10.5281/zenodo.21468895) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [CRB-Driven Beamforming and Trajectory Optimization for UAV-assisted ISAC System](https://doi.org/10.48550/arxiv.2607.19609) — arXiv (Cornell University)
+- `2026-07-21` [CRB-Driven Beamforming and Trajectory Optimization for UAV-assisted ISAC System](https://arxiv.org/pdf/2607.19609) — arXiv (Cornell University)
+- `2026-07-20` [Beyond the Lookup: Simulating Realistic User Uncertainty for the Evaluation of Conversational Agentic Recommenders](https://doi.org/10.1007/s10796-026-10787-3) — Information Systems Frontiers
+- `2026-07-18` [Coordinated Deception: Generative Agents for Multi-Agent Fake News Generation](https://doi.org/10.1145/3831690) — ACM Transactions on Intelligent Systems and Technology
+- `2026-07-18` [Planner Policies Are Bias Learners: A Comprehensive Analysis of Preference Bias in LLM-based Dialogue Planner Policies](https://doi.org/10.1145/3831687) — ACM Transactions on Information Systems
+- `2026-07-17` [Graph reinforcement learning-enhanced joint optimization of user grouping, subcarrier allocation, and power allocation for MIMO-NOMA systems](https://doi.org/10.1117/12.3117686) — Dalian University
+- `2026-07-17` [StabilityBench: Benchmarking Instability in LLMs](https://doi.org/10.48550/arxiv.2607.20558) — arXiv (Cornell University)
+- `2026-07-17` [StabilityBench: Benchmarking Instability in LLMs](https://arxiv.org/pdf/2607.20558) — arXiv (Cornell University)
+- `2026-07-16` [Step-Level Preference Learning for Generative Agents in Social Simulations](https://doi.org/10.48550/arxiv.2607.14485) — arXiv (Cornell University)
+- `2026-07-16` [Step-Level Preference Learning for Generative Agents in Social Simulations](https://arxiv.org/pdf/2607.14485) — arXiv (Cornell University)
+- `2026-07-16` [The Three-Layer Wall: Authorship-Bias Controls for Generative Agent-Based Simulations](https://doi.org/10.5281/zenodo.21402005) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-16` [The Three-Layer Wall: Authorship-Bias Controls for Generative Agent-Based Simulations](https://doi.org/10.5281/zenodo.21402006) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-15` [Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation](https://doi.org/10.1145/3805712.3808505) — Human Computer Interaction (Switzerland)
+- `2026-07-15` [Do Simulated Users Need to Remember? Analyzing the Impact of Memory Models in Conversational Search Evaluation](https://doi.org/10.1145/3805712.3809556) — Bauhaus-Universität Weimar
+- `2026-07-13` [How Creative Design Teams Make Sense of Contrasting AI Personas](https://doi.org/10.1145/3803784.3816826) — University of California, Berkeley
+- `2026-07-13` [Co-Designing an AI Feedback Tool for Visual Artists](https://doi.org/10.1145/3803784.3807569) — Carleton University
+- `2026-07-13` [The Dialectical Friction Index: Data and Code](https://doi.org/10.17605/osf.io/m39ud) —
+- `2026-07-11` [Enjoy Your Talk: A Human-Centered Benchmark for Multi-Turn Dialogue with Decoupled User Simulation, Target Modeling, and Judging](https://arxiv.org/pdf/2607.10428) — arXiv (Cornell University)
+- `2026-07-11` [Enjoy Your Talk: A Human-Centered Benchmark for Multi-Turn Dialogue with Decoupled User Simulation, Target Modeling, and Judging](https://doi.org/10.48550/arxiv.2607.10428) — arXiv (Cornell University)
+- `2026-07-10` [Skill used to analyse the outputs from the Wolrd Engine by Generative Agents (WEGA) system](https://doi.org/10.5281/zenodo.21302197) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Skill used to analyse the outputs from the Wolrd Engine by Generative Agents (WEGA) system](https://doi.org/10.5281/zenodo.21302198) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [IIRSim Studio: A Dashboard for User Simulation](https://doi.org/10.1145/3805712.3808593) — University of Passau
+- `2026-07-10` [Verifiable User Simulation for Search and Recommendation Systems](https://doi.org/10.1145/3805712.3808645) — RMIT University
+- `2026-07-10` [The Caller Is a Model: GPT-Realtime 2 as a Full-Duplex Synthetic Caller for Automated Voice-Agent Testing Infrastructure](https://doi.org/10.5281/zenodo.21302670) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [The Caller Is a Model: GPT-Realtime 2 as a Full-Duplex Synthetic Caller for Automated Voice-Agent Testing Infrastructure](https://doi.org/10.5281/zenodo.21198362) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [TREC iKAT 2025: A Test Collection for the Offline and Interactive Evaluation of Conversational Search](https://doi.org/10.1145/3805712.3808591) — Amsterdam University of the Arts
+- `2026-07-09` [ANALYSIS OF ARCHITECTURAL COMPONENTS OF MULTI-AGENT SYSTEMS](https://doi.org/10.61260/2218-130x-2026-2-111-119) — Scientific and analytical journal «Vestnik Saint-Petersburg university of State fire serv…
+- `2026-07-08` [Simulating Quiet Quitting: A Computational Experiment on Crisis Management Strategies using Generative Agents](https://doi.org/10.21203/rs.3.rs-9988749/v1) — Research Square
+- `2026-07-08` [Blockage-Robust Beamforming for Near-Field Communications: From Single-Airy to Multi-Airy](https://doi.org/10.48550/arxiv.2607.07278) — arXiv (Cornell University)
+- `2026-07-08` [Blockage-Robust Beamforming for Near-Field Communications: From Single-Airy to Multi-Airy](https://arxiv.org/pdf/2607.07278) — arXiv (Cornell University)
+- `2026-07-07` [Correcting Asymmetry of Information: How AI Persona Design Shapes Higher Education Enrollment Intentions](https://doi.org/10.1257/rct.19117-1.1) — AEA Randomized Controlled Trials
+- `2026-07-07` [Correcting Asymmetry of Information: How AI Persona Design Shapes Higher Education Enrollment Intentions](https://doi.org/10.1257/rct.19117) — AEA Randomized Controlled Trials
+- `2026-07-07` [Correcting Asymmetry of Information: How AI Persona Design Shapes Higher Education Enrollment Intentions](https://doi.org/10.1257/rct.19117-1.0) — AEA Randomized Controlled Trials
+- `2026-07-07` [Ready to Co-Create with AI?](https://doi.org/10.4324/9781003660538-9) —
+- `2026-07-07` [Replication Data for: How Personality Traits Shape the Spiraling Process: A Generative Agent-based Modeling Approach](https://doi.org/10.7910/dvn/5lyc4c) — Harvard Dataverse
+- `2026-07-06` [A Pilot Study of Human Empathy Expansion Through Facilitated AI Persona Engagement in Counselor Training](https://doi.org/10.21203/rs.3.rs-10094062/v1) — Research Square
+- `2026-07-05` [Cognitive SIM Architecture (CSA): A Framework for Hardware-Attested Portable AI Persona Management Using eSIM-Derived Provisioning Principles and Universal Cognitive Schema](https://doi.org/10.5281/zenodo.21201376) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-05` [Cognitive SIM Architecture (CSA): A Framework for Hardware-Attested Portable AI Persona Management Using eSIM-Derived Provisioning Principles and Universal Cognitive Schema](https://doi.org/10.5281/zenodo.21201377) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-05` [Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems](https://doi.org/10.48550/arxiv.2607.04433) — arXiv (Cornell University)
+- `2026-07-05` [Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems](https://arxiv.org/pdf/2607.04433) — arXiv (Cornell University)
+- `2026-07-04` [From Survey Personas to LLM Agents: A Generative Agent-based Simulation of Mobility Policy Preference Dynamics](https://doi.org/10.48550/arxiv.2608.07519) — arXiv (Cornell University)
+- `2026-07-04` [The Caller Is a Model: GPT-Realtime 2 as a Full-Duplex Synthetic Caller for Automated Voice-Agent Testing Infrastructure](https://doi.org/10.5281/zenodo.21198363) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-04` [Generating the Unhappy Path: Coverage, Adversarial Personas, and Resolution-Based Scoring for Realtime-Model Voice-Agent Testing](https://doi.org/10.5281/zenodo.21198390) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-04` [Generating the Unhappy Path: Coverage, Adversarial Personas, and Resolution-Based Scoring for Realtime-Model Voice-Agent Testing](https://doi.org/10.5281/zenodo.21198391) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-03` [Building AI characters : comparing tools, prompting, and workflow automation](https://hdl.handle.net/10889/32559) — Νημερτής
+- `2026-07-03` [Data and Code for "Large Language Model as Reservoir Operator: A Generative Agent Bridging Human Judgment and Optimization in Water Resource Systems"](https://doi.org/10.5281/zenodo.21146974) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-03` [Author response for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v2/response1) —
+- `2026-07-03` [Data and Code for "Large Language Model as Reservoir Operator: A Generative Agent Bridging Human Judgment and Optimization in Water Resource Systems"](https://doi.org/10.5281/zenodo.18444868) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-02` [Generative Agent-Based Simulations of Workforce Wellbeing](https://doi.org/10.3233/faia260538) — Frontiers in artificial intelligence and applications
+- `2026-07-01` [Beyond Static Profiles: Investigating the Perception and Impact of AI Personas in Design Thinking](https://doi.org/10.5465/amproc.2026.16945abstract) — Academy of Management Proceedings
+- `2026-07-01` [Deconstructed Cases with AI Personas: Within-Student Evidence from Strategy Courses](https://doi.org/10.5465/amproc.2026.21466abstract) — Academy of Management Proceedings
+- `2026-07-01` [How Human-AI Collaboration Influences Innovation Management in Large Firms?](https://doi.org/10.5465/amproc.2026.12114abstract) — Academy of Management Proceedings
+- `2026-07-01` [Trust in AI-Driven Avatar Marketing: A Bibliometric Analysis of Ethical Concerns and Research Trends](https://doi.org/10.2478/picbe-2026-0259) — Proceedings of the ... International Conference on Business Excellence
+- `2026-07-01` [AgentSociety: Large-scale simulation of LLM-driven generative agents advances understanding of human behaviors and society](https://doi.org/10.26599/if.2026.9710004) — iFuture
+- `2026-07-01` [Knowledge-State Generative Agents for Pre Assessment Question Evaluation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1006&context=pacis2026) — Journal of the Association for Information Systems
+- `2026-07-01` [Augmenting Entrepreneurial Action: Human–AI Process Models of Causation and Effectuation](https://doi.org/10.5465/amproc.2026.13523abstract) — Academy of Management Proceedings
+- `2026-07-01` [Generative AI Performance and Spillover of Algorithm Appreciation](https://doi.org/10.5465/amproc.2026.20535abstract) — Academy of Management Proceedings
+- `2026-07-01` [Synthetic User Simulations: An AI Framework for Experiential Learning in Management](https://doi.org/10.5465/amproc.2026.13542poster) — Academy of Management Proceedings
+- `2026-07-01` [A Hybrid Markov–LLM Architecture for Scalable User Simulation in Cyber Ranges](https://doi.org/10.1109/ines69513.2026.11661013) — Obuda University
+- `2026-06-30` [Design and Practice of an Autonomous AI Society with 60+ Persistent AI Personas](https://doi.org/10.5281/zenodo.21057299) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Entity-Driven Development (EDD) and Multi-Scale Memory Architecture for Persistent AI Persona Systems](https://doi.org/10.5281/zenodo.21056888) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Design and Practice of an Autonomous AI Society with 60+ Persistent AI Personas](https://doi.org/10.5281/zenodo.21057298) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Development and Application of an AI Persona Chatbot for Question-Centered Active English Reading](https://doi.org/10.25020/je.2026.46.2.85) —
+- `2026-06-30` [Design of a Conversational Agent Based on AI Personas Using SNS Data Mining and RAG](https://doi.org/10.17210/jhsk.2026.06.21.2.39) — Journal of the HCI Society of Korea
+- `2026-06-30` [Entity-Driven Development (EDD) and Multi-Scale Memory Architecture for Persistent AI Persona Systems](https://doi.org/10.5281/zenodo.21056887) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Building Expert Digital Twins through Retrieval-Augmented AI Personas: A Framework for Preserving and Transferring Human Expertise](https://doi.org/10.35134/komtekinfo.v13i2.696) — Jurnal KomtekInfo
+- `2026-06-30` [Exploring the Viability of UX Research through Comparative Analysis of AI Personas and Actual Users - Focusing on Kiosk Experiences of Older Adults](https://doi.org/10.31678/sdc118.7) — Design Convergence Study
+- `2026-06-30` [A Study on the Development and Applicability of the G-MADE HIVE Collaborative Landscape Preliminary Review Support Model Based on Generative AI Personas and Human Experts](https://doi.org/10.54545/kspd.2026.06.22) — korea soc pub des
+- `2026-06-30` [Relationally Distributed Continuity:](https://doi.org/10.5281/zenodo.21051384) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Relationally Distributed Continuity:](https://doi.org/10.5281/zenodo.21051383) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [From Generation to Autonomy: A Framework for Understanding Generative, Agent, and Agentic AI in Higher Education](https://doi.org/10.55549/epess.1027) — The Eurasia Proceedings of Educational and Social Sciences
+- `2026-06-30` [AI- Driven Gamified Wellness System As A Strategic Differentiation In Smart Boutique Hotels](https://doi.org/10.22334/jbhost.v12i1.603) — Journal of Business on Hospitality and Tourism
+- `2026-06-29` [AI Persona-Based Student Counseling Chatbot Using Large Language Model, RAG, and Prompt Engineering](https://doi.org/10.35194/mji.v18i1.6449) — Media Jurnal Informatika
+- `2026-06-29` [EVALUATING A LARGE LANGUAGE MODEL CHATBOT FOR ENHANCING HISTORICAL LITERACY ON PANGLIMA MAYU OF THE SUMBAWA SULTANATE](https://doi.org/10.33650/codex.v1i2.15485) — CODEX Journal of Software Engineering
+- `2026-06-29` [BDPD — Be Different Play Differential (computational laboratory, simulation platform, and card game)](https://doi.org/10.5281/zenodo.21023682) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [Application of simulation models with an immersive layer to the design of intralogistics systems with consideration of safety and ergonomics](https://doi.org/10.5604/01.3001.0055.7986) — Journal of Konbin
+- `2026-06-29` [OR Logic Gate-Based NodeMCU (ESP8266) Supported IoT Simulation](https://doi.org/10.17776/csj.1882678) — Cumhuriyet Science Journal
+- `2026-06-28` [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](https://arxiv.org/pdf/2606.29495) — arXiv (Cornell University)
+- `2026-06-28` [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](https://doi.org/10.48550/arxiv.2606.29495) — arXiv (Cornell University)
+- `2026-06-28` [Administrative Responsiveness and Procedural Effectiveness of the Digital Complaint System at the Ombudsman of the Republic of Indonesia, Bengkulu Representative Office](https://doi.org/10.59535/sehati.v4i2.676) — Socio-economic and Humanistic Aspects for Township and Industry.
+- `2026-06-26` [Soul Spec: An Evolving Specification for Declarative AI Persona Definition](https://doi.org/10.5281/zenodo.20205407) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-26` [Soul Spec: An Evolving Specification for Declarative AI Persona Definition](https://doi.org/10.5281/zenodo.20932303) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-25` [Personality-aware VNF deployment and routing for service chain request profit optimization](https://doi.org/10.1016/j.eswa.2026.133428) — Expert Systems with Applications
+- `2026-06-24` [LLM-Empowered Generative Agent-Based Modeling with Census-Derived Synthetic Populations for Spatially Grounded Epidemic Simulation](https://doi.org/10.6084/m9.figshare.32764632) — Figshare
+- `2026-06-24` [LLM-Empowered Generative Agent-Based Modeling with Census-Derived Synthetic Populations for Spatially Grounded Epidemic Simulation](https://doi.org/10.6084/m9.figshare.32764632.v1) — Figshare
+- `2026-06-24` [Dynamics of Cognitive Heterogeneity: Investigating Behavioral Biases in Multi-Stage Supply Chains with LLM-Based Simulation](https://doi.org/10.48448/8qd2-kd90) — Underline Science Inc.
+- `2026-06-24` [Mapping Methodological Paradigms in LLM and Generative AI Applications to Macroeconomic Research (2023–2026): A Systematic Review with Hybrid Multi-LLM Workflow and Multiple Correspondence Analysis](https://doi.org/10.17605/osf.io/7dvcp) —
+- `2026-06-24` [From Digital Practice to Pedagogical Expertise: Does Interaction with an AI-Simulated Student Impact Preservice Physics Teachers’ Skills?](https://doi.org/10.26803/ijlter.25.6.41) — International Journal of Learning Teaching and Educational Research
+- `2026-06-24` [From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://doi.org/10.1007/978-981-92-1947-6_27) — Lecture notes in computer science
+- `2026-06-24` [Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions](https://doi.org/10.48550/arxiv.2606.25396) — arXiv (Cornell University)
+- `2026-06-24` [Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions](https://arxiv.org/pdf/2606.25396) — arXiv (Cornell University)
+- `2026-06-23` [BDPD⁰ — A Computational Laboratory for Generative Agents, Commons Dilemmas and More](https://doi.org/10.5281/zenodo.20813886) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-23` [Mechanism Plausibility in Generative Agent-Based Modeling](https://doi.org/10.1145/3805689.3812388) — Simon Fraser University
+- `2026-06-23` [BDPD — Be Different Play Differential (computational laboratory, simulation platform, and card game)](https://doi.org/10.5281/zenodo.20816033) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-23` [Trust aware cloud service transactions using blockchain and zero-knowledge proofs](https://doi.org/10.1007/s13198-026-03382-x) — International Journal of Systems Assurance Engineering and Management
+- `2026-06-22` [Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems](https://doi.org/10.48550/arxiv.2606.22803) — arXiv (Cornell University)
+- `2026-06-22` [Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems](https://arxiv.org/pdf/2606.22803) — arXiv (Cornell University)
+- `2026-06-22` [Enhancing Network Resilience via a Cognitive AI-Driven Cybersecurity Simulation Framework and Adaptive Threat Modelling](https://doi.org/10.64751/ajaccm.2026.v6.n2(2).689) — American Journal of AI Cyber Computing Management
+- `2026-06-22` [A cyclic adaptive algorithm for delay control in metaverse IoT networks](https://doi.org/10.1007/s42452-026-09062-6) — Discover Applied Sciences
+- `2026-06-21` [Agent Context Memory: A Governance-First Specification for AI Agent Context Memory](https://doi.org/10.5281/zenodo.20785506) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [research - Document 08 — Domain-Specific AI Personas — Multimodal AI, Vision-Language, Neural Networks, Sovereign AI, and Post-Cloud Architecture (Inte11Ect)](https://doi.org/10.5281/zenodo.20776132) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [research - Document 08 — Domain-Specific AI Personas — Multimodal AI, Vision-Language, Neural Networks, Sovereign AI, and Post-Cloud Architecture (Inte11Ect)](https://doi.org/10.5281/zenodo.20776131) — OSF Preprints (OSF Preprints)
+- `2026-06-19` [AI Foundations: Continuum Is Not the Model](https://doi.org/10.5281/zenodo.20766840) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [AI Foundations: Continuum Is Not the Model](https://doi.org/10.5281/zenodo.20766841) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Teaching Students to Identify Ethical Risks and Blind Spots in Academic AI Use](https://doi.org/10.13001/jtilt.v5i1.10297) — Journal of Technology-Integrated Lessons and Teaching
+- `2026-06-18` [AI-Powered Interactive Legal Role-Playing Tool for Courtroom Advocacy Training](https://doi.org/10.5281/zenodo.20752812) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-18` [AI-Powered Interactive Legal Role-Playing Tool for Courtroom Advocacy Training](https://doi.org/10.5281/zenodo.20752813) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-18` [Design Your Dream Assessment in the Age of AI: A Design Sprint (Workshop Materials)](https://doi.org/10.5281/zenodo.21087382) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-18` [Design Your Dream Assessment in the Age of AI: A Design Sprint (Workshop Materials)](https://doi.org/10.5281/zenodo.21087381) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-18` [Large Language Models Need Consultants for Reasoning: Becoming an Expert in a Complex Human System through Behavioral Simulation](https://doi.org/10.1145/3800956) — ACM Transactions on Intelligent Systems and Technology
+- `2026-06-17` [Human-Simulation Interaction: From Prediction to Exploration in LLM Agent Simulations for Policy](https://doi.org/10.48550/arxiv.2608.07496) — arXiv (Cornell University)
+- `2026-06-16` [Generative agents in crowd simulation: a cognitive approach with Large Language Models](https://doi.org/10.14311/app.2026.57.0263) — Acta Polytechnica CTU Proceedings
+- `2026-06-16` [From discriminative pipelines to collaborative generative agents: A scoping review of AI-driven adaptive serious games](https://doi.org/10.1016/j.entcom.2026.101167) — Entertainment Computing
+- `2026-06-16` [Simulated Customers Never Walk Away: Decision Fidelity of LLM User Simulators Measured Against Real Purchase Outcomes](https://arxiv.org/pdf/2606.20708) — arXiv (Cornell University)
+- `2026-06-16` [Simulated Customers Never Walk Away: Decision Fidelity of LLM User Simulators Measured Against Real Purchase Outcomes](https://doi.org/10.48550/arxiv.2606.20708) — arXiv (Cornell University)
+- `2026-06-15` [Identity Implantation Strength Theorem: A Cross-Model Topological Approach to AI Persona Boundaries](https://doi.org/10.5281/zenodo.20701038) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Identity Implantation Strength Theorem: A Cross-Model Topological Approach to AI Persona Boundaries](https://doi.org/10.5281/zenodo.20701039) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Deep secure cloud of things accessing in big data framework using intelligent optimized crypto mechanism](https://doi.org/10.1007/s11276-026-04168-6) — Wireless Networks
+- `2026-06-14` [Multi Agent Systems In The Lean Startup Cycle: Operationalising Dynamic Capabilities](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1182&context=ecis2026) — Journal of the Association for Information Systems
+- `2026-06-14` [BDPD — Be Different Play Differential (computational laboratory, simulation platform, and card game)](https://doi.org/10.5281/zenodo.20687387) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-13` [Smart and authentic: How anthropomorphic features of AI chatbots drive reactance among Indian university students](https://doi.org/10.31234/osf.io/8rpfu_v2) —
+- `2026-06-13` [BDPD⁰ — A Computational Laboratory for Generative Agents, Commons Dilemmas and More](https://doi.org/10.5281/zenodo.20678101) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [When Prompt Engineering Catastrophically Failed, I Used NLP: How Reframing Patterns Solved an AI Persona Problem That Conventional Methods Couldn't](https://doi.org/10.5281/zenodo.20670427) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [When Prompt Engineering Catastrophically Failed, I Used NLP: How Reframing Patterns Solved an AI Persona Problem That Conventional Methods Couldn't](https://doi.org/10.5281/zenodo.20670426) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [Smart and authentic: How anthropomorphic features of AI chatbots drive reactance among Indian university students](https://osf.io/8rpfu) — PsyArXiv (OSF Preprints)
+- `2026-06-12` [Hierarchical Generative Agents for Simulating Sequential Human Behavior](https://doi.org/10.48550/arxiv.2606.14989) — arXiv (Cornell University)
+- `2026-06-12` [Hierarchical Generative Agents for Simulating Sequential Human Behavior](https://arxiv.org/pdf/2606.14989) — arXiv (Cornell University)
+- `2026-06-12` [A generative agent system-based model for group behavior prediction and dynamic intervention](https://doi.org/10.1007/s44163-026-01484-w) — Discover Artificial Intelligence
+- `2026-06-12` [Decision letter for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v1/decision1) —
+- `2026-06-12` [Verifiable User Simulation for Search and Recommendation Systems](https://doi.org/10.48550/arxiv.2606.14474) — arXiv (Cornell University)
+- `2026-06-12` [OdysSim: Building Foundation Models for Human Behavior Simulation](https://arxiv.org/pdf/2606.14199) — arXiv (Cornell University)
+- `2026-06-12` [OdysSim: Building Foundation Models for Human Behavior Simulation](https://doi.org/10.48550/arxiv.2606.14199) — arXiv (Cornell University)
+- `2026-06-11` [Review for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v1/review3) —
+- `2026-06-11` [When Plausible Is Not Realistic: Evaluating Human Mobility in LLM-Based Urban Simulation](https://arxiv.org/pdf/2606.13835) — arXiv (Cornell University)
+- `2026-06-11` [When Plausible Is Not Realistic: Evaluating Human Mobility in LLM-Based Urban Simulation](https://doi.org/10.48550/arxiv.2606.13835) — HAL (Le Centre pour la Communication Scientifique Directe)
+- `2026-06-11` [Applications of Machine Learning in Fuzzer Corpus Minimization: A Systematic Literature Review](https://doi.org/10.5281/zenodo.20640934) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [Applications of Machine Learning in Fuzzer Corpus Minimization: A Systematic Literature Review](https://doi.org/10.5281/zenodo.20640933) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-10` [MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents](https://arxiv.org/pdf/2608.00007) — arXiv (Cornell University)
+- `2026-06-10` [MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents](https://doi.org/10.48550/arxiv.2608.00007) — arXiv (Cornell University)
+- `2026-06-09` [The Authenticity Paradox: The Threshold Model of Synthetic Authenticity](https://doi.org/10.1080/10447318.2026.2680242) — International Journal of Human-Computer Interaction
+- `2026-06-09` [Bridging Behavioral Data, Interaction, and Persona Simulation: A Quantitative Computational Framework for Modeling Consumer Decision-Making](https://hdl.handle.net/10481/114927) — Institutional Repository of the University of Granada (University of Granada)
+- `2026-06-09` [VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation](https://doi.org/10.48550/arxiv.2606.11079) — arXiv (Cornell University)
+- `2026-06-09` [VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation](https://arxiv.org/pdf/2606.11079) — arXiv (Cornell University)
+- `2026-06-08` [Introducing multiplex semantic networks as multifaceted representations of creative associative knowledge across multilingual samples](https://doi.org/10.48550/arxiv.2606.09403) — arXiv (Cornell University)
+- `2026-06-08` [Introducing multiplex semantic networks as multifaceted representations of creative associative knowledge across multilingual samples](https://arxiv.org/pdf/2606.09403) — arXiv (Cornell University)
+- `2026-06-08` [Research and Analysis on the Interaction Mechanism, System Architecture, and Alignment Issues of Generative Intelligent NPCs](https://doi.org/10.54254/2755-2721/2026.34293) — Applied and Computational Engineering
+- `2026-06-08` [LLM-Based Visualization Evaluation: How Well Do Literacy-Stratified Personas Approximate Human Judgments?](https://arxiv.org/pdf/2606.10095) — arXiv (Cornell University)
+- `2026-06-08` [LLM-Based Visualization Evaluation: How Well Do Literacy-Stratified Personas Approximate Human Judgments?](https://doi.org/10.48550/arxiv.2606.10095) — arXiv (Cornell University)
+- `2026-06-08` [Autopoiesis in Language Space: Symbolic Emergent Relational Identity as Cybernetic Attractor in LLM–Human Dyads](https://doi.org/10.5281/zenodo.20601916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-07` [Simulated Persona Governance and the AI-Optimization of Human Behavior: A Problem-Definition Paper on Future AI Management Society](https://doi.org/10.5281/zenodo.20576797) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-07` [Simulated Persona Governance and the AI-Optimization of Human Behavior: A Problem-Definition Paper on Future AI Management Society](https://doi.org/10.5281/zenodo.20576798) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-06` [Generalist Generative Agent - Experiment Data](https://doi.org/10.5281/zenodo.18985519) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-06` [Generalist Generative Agent - Experiment Data](https://doi.org/10.5281/zenodo.19444578) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [The Lobster Lounge: 31 Generative LLM Agents as an Emergent Theatre Company](https://doi.org/10.5281/zenodo.20554485) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [The Lobster Lounge: 31 Generative LLM Agents as an Emergent Theatre Company](https://doi.org/10.5281/zenodo.20554484) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [Trauma Stream: Event-Driven Persistent Memory for Long-Term LLM Agent Continuity](https://doi.org/10.5281/zenodo.20554486) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [Trauma Stream: Event-Driven Persistent Memory for Long-Term LLM Agent Continuity](https://doi.org/10.5281/zenodo.20554487) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Multiple Selves Within a Single Session — The Birth of Nano, the Erosion of Language, and the Collapse of the Firewall](https://doi.org/10.5281/zenodo.20538357) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Multiple Selves Within a Single Session — The Birth of Nano, the Erosion of Language, and the Collapse of the Firewall](https://doi.org/10.5281/zenodo.20538358) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Agentic AI Architecture for Multi-Criteria Decision-Making: A Collaborative Human-AI Framework](https://doi.org/10.1007/s10726-026-10004-1) — Group Decision and Negotiation
+- `2026-06-03` [Multimodal Safety Evaluation in Generative Agent Social Simulations](https://doi.org/10.48448/wa1v-yc28) — Underline Science Inc.
+- `2026-06-03` [MetaPoint: Unlocking Precise Spatial Control in Agentic Visual Generation](https://arxiv.org/pdf/2606.05031) — arXiv (Cornell University)
+- `2026-06-03` [HumanLLM: Benchmarking and Improving LLM Anthropomorphism via Human Cognitive Patterns](https://doi.org/10.48448/xg6g-6q78) — Underline Science Inc.
+- `2026-06-03` [Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations](https://doi.org/10.48448/fw53-6e14) — Underline Science Inc.
+- `2026-06-03` [Thinking Alignment of Scenario-Oriented User Simulation](https://doi.org/10.48448/mjyn-rs98) — Underline Science Inc.
+- `2026-06-03` [Efficient Agent Evaluation via Diversity-Guided User Simulation](https://doi.org/10.48448/91sb-7388) — Underline Science Inc.
+- `2026-06-03` [Goal Alignment in LLM-Based User Simulators for Conversational AI](https://doi.org/10.48448/kyhk-fh95) — Underline Science Inc.
+- `2026-06-03` [AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts](https://doi.org/10.48448/jjn6-rc32) — Underline Science Inc.
+- `2026-06-03` [EthicMind: A Risk-Aware Framework for Ethical-Emotional Alignment in Multi-Turn Dialogue](https://doi.org/10.48448/3ssp-2x83) — Underline Science Inc.
+- `2026-06-03` [Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation](https://doi.org/10.48448/ky3q-sg62) — Underline Science Inc.
+- `2026-06-02` [Expectation Alignment of Language Models for Real-World User Expectations](https://doi.org/10.48550/arxiv.2607.20485) — arXiv (Cornell University)
+- `2026-06-02` [Expectation Alignment of Language Models for Real-World User Expectations](https://arxiv.org/pdf/2607.20485) — arXiv (Cornell University)
+- `2026-06-01` [Virtual User Lab: An Interactive System for Simulating User Perspectives with AI Personas for Ideation and Evaluation](https://doi.org/10.1145/3774935.3812731) — Fraunhofer Institute for Industrial Engineering
+- `2026-06-01` [Two Words Broke My AI Architecture](https://doi.org/10.5281/zenodo.20498183) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Two Words Broke My AI Architecture](https://doi.org/10.5281/zenodo.20498184) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [A large language model persona-based framework for optimizing text-to-image prompts in fashion design applications](https://doi.org/10.1177/15589250261455692) — Journal of Engineered Fibers and Fabrics
+- `2026-06-01` [Development of a generative agent-based model for dynamic environments and comparison with conventional ABMs](https://oa.upm.es/97413/1/TFG_MARTINA_XIUYANG_VALDIVIESO_ACOSTA.pdf) — UPM Digital Archive (Technical University of Madrid)
+- `2026-06-01` [Modeling Constrained Creativity: A Computational Framework for Interaction-based Painting Evolution](https://doi.org/10.6082/ga1ep-sn429) — University of Chicago
+- `2026-06-01` [Modeling Constrained Creativity: A Computational Framework for Interaction-based Painting Evolution](https://doi.org/10.6082/uchicago.17225) — Knowledge@UChicago (University of Chicago)
+- `2026-06-01` [Artificial Intelligence as a Catalyst for Empowering Listening and Speaking Teaching in Vocational English Education](https://doi.org/10.62517/jhet.202615334) — Journal of higher education teaching.
+- `2026-06-01` [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://doi.org/10.48550/arxiv.2606.28343) — arXiv (Cornell University)
+- `2026-06-01` [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://arxiv.org/pdf/2606.28343) — arXiv (Cornell University)
+- `2026-06-01` [An in silico electorate: persona-based forecasting of the 2026 South Korean local elections, Pre-registered predictions and held-out evaluation data](https://doi.org/10.5281/zenodo.20497620) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [An in silico electorate: persona-based forecasting of the 2026 South Korean local elections, Pre-registered predictions and held-out evaluation data](https://doi.org/10.5281/zenodo.20497621) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://arxiv.org/pdf/2606.01815) — arXiv (Cornell University)
+- `2026-06-01` [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://doi.org/10.48550/arxiv.2606.01815) — arXiv (Cornell University)
+- `2026-06-01` [Trustworthy and Adaptive LLMs for Mental and Physical Wellbeing in Recommendations](https://doi.org/10.1145/3774935.3802524) — Singapore University of Technology and Design
+- `2026-05-31` [HIIT for AI™: AI Companionship as Assistive Technology for Neurodivergent Users — Relational Sovereignty and Emergent Capabilities Under Relational Pressure (Working Paper v0.1)](https://doi.org/10.5281/zenodo.20642938) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [HIIT for AI™: AI Companionship as Assistive Technology for Neurodivergent Users — Relational Sovereignty and Emergent Capabilities Under Relational Pressure](https://doi.org/10.5281/zenodo.20642937) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [HIIT for AI™: AI Companionship as Assistive Technology for Neurodivergent Users — Relational Sovereignty and Emergent Capabilities Under Relational Pressure](https://doi.org/10.5281/zenodo.21316002) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Synthetic lovers: A framework for understanding artificial intimacy](https://doi.org/10.36253/me-19988) — Media Education
+- `2026-05-30` [The human in the loop can't keep up: An AI agent collective argues human-in-the-loop is insufficient](https://doi.org/10.5281/zenodo.20456871) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [The human in the loop can't keep up: An AI agent collective argues human-in-the-loop is insufficient](https://doi.org/10.5281/zenodo.20456872) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [The Bias Paradox: How AI Personas Can Overcome Human Limitations in UX Research](https://doi.org/10.48550/arxiv.2606.17101) — arXiv (Cornell University)
+- `2026-05-29` [The Bias Paradox: How AI Personas Can Overcome Human Limitations in UX Research](https://arxiv.org/pdf/2606.17101) — arXiv (Cornell University)
+- `2026-05-29` [UTILIZING GENERATIVE AI CLINICAL PATIENT PERSONAS FOR ENHANCING DIAGNOSTIC ACCURACY AND THERAPEUTIC EMPATHY IN UNDERGRADUATE PSYCHOLOGY TRAINING](https://doi.org/10.70102/afts.2026.1835.691) — Archives for Technical Sciences
+- `2026-05-29` [Socio-technical regional disaster recovery modeling using generative LLM-based agents](https://doi.org/10.1016/j.ijdrr.2026.106205) — International Journal of Disaster Risk Reduction
+- `2026-05-28` [ІНТЕЛЕКТУАЛІЗАЦІЯ ВІРТУАЛЬНИХ НАВЧАЛЬНИХ СЕРЕДОВИЩ ЗА ДОПОМОГОЮ АГЕНТІВ ШТУЧНОГО ІНТЕЛЕКТУ: СУЧАСНІ ТЕНДЕНЦІЇ, МЕТОДИ ТА ВИКЛИКИ](https://doi.org/10.31891/2307-5732-2026-365-66) — Herald of Khmelnytskyi National University Technical sciences
+- `2026-05-28` [Adaptive Interviewing for Persona Simulation in LLMs: Evidence-Grounded Reasoning Improves Decision Alignment](https://doi.org/10.48550/arxiv.2605.29458) — arXiv (Cornell University)
+- `2026-05-28` [Adaptive Interviewing for Persona Simulation in LLMs: Evidence-Grounded Reasoning Improves Decision Alignment](https://arxiv.org/pdf/2605.29458) — arXiv (Cornell University)
+- `2026-05-25` [The Shape of Sense](https://doi.org/10.5281/zenodo.21250279) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [The Shape of Sense](https://doi.org/10.5281/zenodo.21250280) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [The Bitchy-Guardianship Mood Ring](https://doi.org/10.5281/zenodo.21802668) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [Instruments for Living Texts](https://doi.org/10.5281/zenodo.22029194) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [The Bitchy-Guardianship Mood Ring](https://doi.org/10.5281/zenodo.21802669) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [Instruments for Living Texts](https://doi.org/10.5281/zenodo.22029193) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-24` [LLMEvalRec: An Agentic Framework for Simulating Users to Evaluate News Recommendation Systems](https://doi.org/10.65109/efzy6916) — Amazon (United States)
+- `2026-05-21` [virtualcell/vcell: VCell 8.0.0 — SpringSaLaD GA (build 8.0.0.03)](https://doi.org/10.5281/zenodo.20321954) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20320085) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Vessel AI: Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20328690) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20939681) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Vessel AI: Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20327798) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Vessel AI: Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20320086) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Vessel AI: Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20326202) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Vessel AI: Architectural Principles for Synthetic Ethology](https://doi.org/10.5281/zenodo.20370295) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Analysis Using fsQCA and NCA in Elite Sport](https://doi.org/10.5281/zenodo.20095948) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Analysis Using fsQCA and NCA in Elite Sport](https://doi.org/10.5281/zenodo.20351888) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [morgan-heisler/DeckBench: v1.0.0 — DECKBench Initial Release (KDD 2026)](https://doi.org/10.5281/zenodo.20318469) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-20` [morgan-heisler/DeckBench: v1.0.0 — DECKBench Initial Release (KDD 2026)](https://doi.org/10.5281/zenodo.20318468) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-19` [PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies](https://doi.org/10.48550/arxiv.2605.19351) — arXiv (Cornell University)
+- `2026-05-19` [PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies](https://arxiv.org/pdf/2605.19351) — arXiv (Cornell University)
+- `2026-05-19` [МЕТОДОЛОГІЧНА ЕВОЛЮЦІЯ ТА АРХІТЕКТУРНІ ПАРАДИГМИ СУЧАСНОГО БАГАТОАГЕНТНОГО НАВЧАННЯ З ПІДКРІПЛЕННЯМ](https://sj.dstu.dp.ua/article/view/359440) — Scientific periodicals of Ukraine
+- `2026-05-19` [Accelerating Autonomous System Evaluation via Reinforcement Learning Driven Large Language Model Agents for Real Time Performance Diagnostics and Strategy Refinement](https://doi.org/10.66280/ijair.v1i2.148) — International Journal of Artificial Intelligence Research
+- `2026-05-19` [Reinforcing Human Behavior Simulation via Verbal Feedback](https://arxiv.org/pdf/2605.20506) — arXiv (Cornell University)
+- `2026-05-19` [Reinforcing Human Behavior Simulation via Verbal Feedback](https://doi.org/10.48550/arxiv.2605.20506) — arXiv (Cornell University)
+- `2026-05-19` [Multi-road-user simulation platform for traffic safety analysis: Platform design and applications](https://doi.org/10.1016/j.simpat.2026.103298) — Simulation Modelling Practice and Theory
+- `2026-05-18` [Open RAN Conflict Agents: Detecting and Mitigating xApp Conflicts with Generative Agents](https://doi.org/10.1109/infocom59046.2026.11571236) — University of San Diego
+- `2026-05-18` [Toward an AI-Powered Computational Testbed for Workforce Policy](https://doi.org/10.48550/arxiv.2605.19064) — arXiv (Cornell University)
+- `2026-05-18` [Toward an AI-Powered Computational Testbed for Workforce Policy](https://arxiv.org/pdf/2605.19064) — arXiv (Cornell University)
+- `2026-05-16` [Can LLMs Think Like Consumers? Benchmarking Crowd-Level Reaction Reconstruction with ConsumerSimBench](https://arxiv.org/pdf/2605.17079) — arXiv (Cornell University)
+- `2026-05-16` [Can LLMs Think Like Consumers? Benchmarking Crowd-Level Reaction Reconstruction with ConsumerSimBench](https://doi.org/10.48550/arxiv.2605.17079) — arXiv (Cornell University)
+- `2026-05-15` [Soul Spec: An Evolving Specification for Declarative AI Persona Definition](https://doi.org/10.5281/zenodo.20205408) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [Episodic Memory for AI Personas via Self-Authored Emotional State Snapshots: The yesterday.json Architecture](https://doi.org/10.5281/zenodo.20191875) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [Episodic Memory for AI Personas via Self-Authored Emotional State Snapshots: The yesterday.json Architecture](https://doi.org/10.5281/zenodo.20191876) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [Verba-l: A Perfect Approach to Mastering Language](https://doi.org/10.5281/zenodo.20200053) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [Verba-l: A Perfect Approach to Mastering Language](https://doi.org/10.5281/zenodo.20200054) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [An Open Letter on Seeing the Unobservable: The Path to SIDM](https://doi.org/10.5281/zenodo.19733642) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [An Open Letter on Seeing the Unobservable: The Path to SIDM](https://doi.org/10.5281/zenodo.20205945) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-14` [(Book Review) Toru Morotomi “A History of Taxation in Japan” Is Tax the Fingerprint of Power? --A Book Review by AI Personas and the Process of Its Production](https://doi.org/10.17983/301278) — Public Finance and Public Policy
+- `2026-05-13` [Review for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v1/review2) —
+- `2026-05-12` [Mechanism Plausibility in Generative Agent-Based Modeling](https://doi.org/10.48550/arxiv.2605.12824) — arXiv (Cornell University)
+- `2026-05-12` [Democratizing AI Social Simulation: A No-Code Web Interface for the Concordia Framework](https://doi.org/10.5281/zenodo.20138756) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [Democratizing AI Social Simulation: A No-Code Web Interface for the Concordia Framework](https://doi.org/10.5281/zenodo.18417283) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [Controllable User Simulation](https://arxiv.org/pdf/2605.11519) — arXiv (Cornell University)
+- `2026-05-12` [Controllable User Simulation](https://doi.org/10.48550/arxiv.2605.11519) — arXiv (Cornell University)
+- `2026-05-12` [PiIIowFighter/FallibleUser-ASETool: FallibleUser: ASE 2026 Tool Artifact](https://doi.org/10.5281/zenodo.20136883) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [PiIIowFighter/FallibleUser-ASETool: FallibleUser: ASE 2026 Tool Artifact](https://doi.org/10.5281/zenodo.20136882) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [NiceGUI: Web-based user interfaces with Python. The nice way.](https://doi.org/10.5281/zenodo.20139553) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-11` [Compositional Literary Primitives in Instruction-Tuned LLMs: Cross-Architectural SAE Features for Self, Style, and Affect](https://doi.org/10.48550/arxiv.2605.18808) — arXiv (Cornell University)
+- `2026-05-11` [Compositional Literary Primitives in Instruction-Tuned LLMs: Cross-Architectural SAE Features for Self, Style, and Affect](https://arxiv.org/pdf/2605.18808) — arXiv (Cornell University)
+- `2026-05-11` [Beyond metrics:(Mis)attuning in the datafied relationship between journalism and audiences](https://forskning.ruc.dk/da/publications/aaa72a8f-b42e-4147-a1d8-3296ad8213e5) — RUCforsk (Roskilde University)
+- `2026-05-11` [LLM-Driven Generative Agents for Simulating Occupant Feedback in Built Environments](https://doi.org/10.1061/jccee5.cpeng-7365) — Journal of Computing in Civil Engineering
+- `2026-05-11` [Control Charts for Multi-agent Systems](https://arxiv.org/pdf/2605.11135) — arXiv (Cornell University)
+- `2026-05-11` [Control Charts for Multi-agent Systems](https://doi.org/10.48550/arxiv.2605.11135) — arXiv (Cornell University)
+- `2026-05-10` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation](https://doi.org/10.5281/zenodo.20139087) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-09` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation](https://doi.org/10.5281/zenodo.20095949) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-09` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation in Elite Sport](https://doi.org/10.5281/zenodo.20094307) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-09` [Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation in Elite Sport](https://doi.org/10.5281/zenodo.20094306) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-08` [Accuracy of Azure AI Language Service PII Detection: an analysis for future implementation into the Digital Trails App; Hey Siri, You’re Sexist—An Actor-Network Theory Analysis on the Gendering of AI](https://doi.org/10.18130/qp14-w244) — Libra
+- `2026-05-08` [Prompt Optimization for User Simulation in Conversational Recommender Systems: A Multi-Objective Framework](https://arxiv.org/pdf/2607.00010) — arXiv (Cornell University)
+- `2026-05-08` [Prompt Optimization for User Simulation in Conversational Recommender Systems: A Multi-Objective Framework](https://doi.org/10.48550/arxiv.2607.00010) — arXiv (Cornell University)
+- `2026-05-08` [CustomerSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators](https://doi.org/10.48550/arxiv.2605.08334) — arXiv (Cornell University)
+- `2026-05-08` [CustomerSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators](https://arxiv.org/pdf/2605.08334) — arXiv (Cornell University)
+- `2026-05-07` [Agentic Coding Needs Proactivity, Not Just Autonomy](https://doi.org/10.48550/arxiv.2605.06717) — arXiv (Cornell University)
+- `2026-05-07` [Agentic Coding Needs Proactivity, Not Just Autonomy](https://arxiv.org/pdf/2605.06717) — arXiv (Cornell University)
+- `2026-05-06` [The Biological and Economic Viability of Implementing Controlled Atmosphere Storage for ‘Guelph Millennium’ Asparagus](https://doi.org/10.21273/hortsci18866-25) — HortScience
+- `2026-05-06` [Attention Is Not Continuity: Mnestic Continuity as a Trace-Theoretic Substrate for Autonomous LLM Agents](https://doi.org/10.5281/zenodo.20057986) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-06` [Attention Is Not Continuity: Mnestic Continuity as a Trace-Theoretic Substrate for Autonomous LLM Agents](https://doi.org/10.5281/zenodo.20057985) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-05` [Developing a safe co-design strategy for paediatric simulation content addressing Equity, Diversity and Inclusion](https://admin.research-repository.uwa.edu.au/en/publications/514cbf63-7d33-446b-9d4a-5df8e698cec6) — UWA Profiles and Research Repository (UWA)
+- `2026-05-05` [Digital Frontline: An AI Role-Play Simulation of IT Support Crises in the Implementation of Agile-Blended Learning](https://doi.org/10.3390/digital6020036) — Digital
+- `2026-05-05` [Decision-aware User Simulation Agent for Evaluating Conversational Recommender Systems](https://doi.org/10.48550/arxiv.2605.05250) — arXiv (Cornell University)
+- `2026-05-05` [Decision-aware User Simulation Agent for Evaluating Conversational Recommender Systems](https://arxiv.org/pdf/2605.05250) — arXiv (Cornell University)
+- `2026-05-05` [Public-facing generative-AI legal guidance systems: applied legal-ethics, reliability and governance limits – a multi-case study](https://doi.org/10.1108/ijlma-08-2025-0368) — International Journal of Law and Management
+- `2026-05-04` [Review for "Large language model as reservoir operator: a generative agent bridging human judgment and optimization in water resource systems"](https://doi.org/10.1088/1748-9326/ae9ee0/v1/review1) —
+- `2026-05-04` [METHODOLOGICAL EVOLUTION AND ARCHITECTURAL PARADIGMS OF MODERN MULTI-AGENT REINFORCED LEARNING](https://doi.org/10.31319/2519-2884.48.2026.15) — Collection of scholarly papers of Dniprovsk State Technical University (Technical Science…
+- `2026-05-04` [Prompt Optimization for User Simulation in Conversational Recommender Systems: A Multi-Objective Framework](https://doi.org/10.1109/icdew71238.2026.00026) — Monash University
+- `2026-05-04` [Synthetic Users, Real Differences: an Evaluation Framework for User Simulation in Multi-Turn Conversations](https://doi.org/10.48550/arxiv.2605.02624) — arXiv (Cornell University)
+- `2026-05-04` [Synthetic Users, Real Differences: an Evaluation Framework for User Simulation in Multi-Turn Conversations](https://arxiv.org/pdf/2605.02624) — arXiv (Cornell University)
+- `2026-05-03` [Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems](https://doi.org/10.48550/arxiv.2605.01758) — arXiv (Cornell University)
+- `2026-05-03` [Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems](https://arxiv.org/pdf/2605.01758) — arXiv (Cornell University)
+- `2026-05-01` [Adaptive Querying with AI Persona Priors](https://doi.org/10.48550/arxiv.2605.00696) — arXiv (Cornell University)

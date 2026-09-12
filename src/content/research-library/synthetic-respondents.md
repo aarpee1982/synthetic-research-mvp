@@ -1,0 +1,406 @@
+## Synthetic respondents research library
+
+Published research on AI-simulated survey participants, measurement and validation. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-09` [Epistemic Displacement Theory: Understanding the Transformation of Consumer Knowledge in the Age of Synthetic Respondents](https://doi.org/10.1177/02761467261483227) — Journal of Macromarketing
+- `2026-09-09` [Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models](https://doi.org/10.48550/arxiv.2609.10280) — arXiv (Cornell University)
+- `2026-09-07` [Development of a Predictive Model for Tuberculosis (TB) in a Small Town Like Kapurthala, Punjab Using AI](https://doi.org/10.70917/ijcisim-2026-5563) — International Journal of Computer Information Systems and Industrial Management Applicati…
+- `2026-09-07` [Marginal Fidelity Does Not Establish User Simulation in Demographic Synthetic Survey Panels: Response Contracts, Support Collapse and Conditioning Failure](https://doi.org/10.48550/arxiv.2609.07305) — arXiv (Cornell University)
+- `2026-09-07` [Can AI-Generated Data Mirror Real Responses? A Population-Level Fidelity Assessment of LLM-Generated Synthetic Likert Data Against Real Teacher Occupational Self-Efficacy Responses](https://doi.org/10.5281/zenodo.22643830) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Can AI-Generated Data Mirror Real Responses? A Population-Level Fidelity Assessment of LLM-Generated Synthetic Likert Data Against Real Teacher Occupational Self-Efficacy Responses](https://doi.org/10.5281/zenodo.22643831) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-06` [Ordinary, Reasonable Chatbots: Do AI Models Track Human Legal Judgments?](https://doi.org/10.48550/arxiv.2609.06769) — arXiv (Cornell University)
+- `2026-09-06` [Synthetic Confirmation: AI, Evidential Independence, and the Drift from Empirical Constraint](https://doi.org/10.5281/zenodo.22426866) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-06` [Synthetic Confirmation: AI, Evidential Independence, and the Drift from Empirical Constraint](https://doi.org/10.5281/zenodo.22426867) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_23)](https://doi.org/10.5281/zenodo.22307422) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_23)](https://doi.org/10.5281/zenodo.22307423) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_23)](https://doi.org/10.5281/zenodo.22307424) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_23)](https://doi.org/10.5281/zenodo.22307425) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Do LLMs Get The Treatment? Testing the Limits of Synthetic Respondents in Survey Experiments](https://doi.org/10.5281/zenodo.22249567) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Do LLMs Get The Treatment? Testing the Limits of Synthetic Respondents in Survey Experiments](https://doi.org/10.5281/zenodo.22249566) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_11)](https://doi.org/10.5281/zenodo.22246407) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_11)](https://doi.org/10.5281/zenodo.22246406) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_22)](https://doi.org/10.5281/zenodo.22247520) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_22)](https://doi.org/10.5281/zenodo.22247519) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_11)](https://doi.org/10.5281/zenodo.22246409) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_11)](https://doi.org/10.5281/zenodo.22246408) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_22)](https://doi.org/10.5281/zenodo.22247524) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_22)](https://doi.org/10.5281/zenodo.22247523) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 expert-agent submission: direct ATE forecasts from an LLM prompted as a social-science expert (team_15, secondary-2)](https://doi.org/10.5281/zenodo.22220125) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 expert-agent submission: direct ATE forecasts from an LLM prompted as a social-science expert (team_15, secondary-2)](https://doi.org/10.5281/zenodo.22169615) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Team 29 / Tier 2 / primary](https://doi.org/10.5281/zenodo.22227441) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Team 29 / Tier 2 / primary](https://doi.org/10.5281/zenodo.22227440) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_19)](https://doi.org/10.5281/zenodo.22220955) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_19)](https://doi.org/10.5281/zenodo.22220956) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_4)](https://doi.org/10.5281/zenodo.22215373) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) primary consensus submission (team_16)](https://doi.org/10.5281/zenodo.22214284) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Replication Data for: Investigating the Utility of LLM-Based ‘Silicon Samples’ in Political Science Conjoint Experiments](https://doi.org/10.7910/dvn/2lvyoo) — Harvard Dataverse
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) primary consensus submission (team_16)](https://doi.org/10.5281/zenodo.22216268) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) secondary-2 Claude submission (team_16)](https://doi.org/10.5281/zenodo.22214769) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) secondary-2 Claude submission (team_16)](https://doi.org/10.5281/zenodo.22216527) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) secondary-1 Gemini submission (team_16)](https://doi.org/10.5281/zenodo.22216284) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) secondary-1 Gemini submission (team_16)](https://doi.org/10.5281/zenodo.22216387) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 interview-agent submission: LLM personas conditioned on life-story interviews (team_15, primary entry)](https://doi.org/10.5281/zenodo.22220905) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 interview-agent submission: LLM personas conditioned on life-story interviews (team_15, primary entry)](https://doi.org/10.5281/zenodo.22220904) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 survey-agent submission: LLM personas conditioned on climate survey data (team_15, secondary-1 entry)](https://doi.org/10.5281/zenodo.22220661) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Silicon Sample Benchmark — Tier 1 survey-agent submission: LLM personas conditioned on climate survey data (team_15, secondary-1 entry)](https://doi.org/10.5281/zenodo.22220660) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Surveys and artificial intelligence: a new challenge for non-market economic valuation](https://doi.org/10.1016/j.knosys.2026.116982) — Knowledge-Based Systems
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)](https://doi.org/10.5281/zenodo.22193877) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)](https://doi.org/10.5281/zenodo.22194454) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Ecological validity as a foundation for service research rigor](https://doi.org/10.1080/02642069.2026.2726207) — Service Industries Journal
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203761) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203742) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203762) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203741) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)](https://doi.org/10.5281/zenodo.22194879) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)](https://doi.org/10.5281/zenodo.22195216) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203716) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_7)](https://doi.org/10.5281/zenodo.22203715) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark team_32 — raw LLM output logs](https://doi.org/10.5281/zenodo.22215053) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark team_32 — raw LLM output logs](https://doi.org/10.5281/zenodo.22215054) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_10)](https://doi.org/10.5281/zenodo.22208840) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213296) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_31)](https://doi.org/10.5281/zenodo.22214721) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211595) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_27)](https://doi.org/10.5281/zenodo.22210617) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211467) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_3)](https://doi.org/10.5281/zenodo.22208818) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_27)](https://doi.org/10.5281/zenodo.22210703) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213554) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_31)](https://doi.org/10.5281/zenodo.22214720) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [tobihol/silicon-sample-submission: team_31 deposit snapshot (2026-08-31)](https://doi.org/10.5281/zenodo.22214503) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_3)](https://doi.org/10.5281/zenodo.22208823) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213304) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [tobihol/silicon-sample-submission: team_31 deposit snapshot (2026-08-31)](https://doi.org/10.5281/zenodo.22214502) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_10)](https://doi.org/10.5281/zenodo.22208839) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211677) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_3)](https://doi.org/10.5281/zenodo.22208822) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_31)](https://doi.org/10.5281/zenodo.22214712) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213305) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211625) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_3)](https://doi.org/10.5281/zenodo.22208817) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_27)](https://doi.org/10.5281/zenodo.22210616) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_4)](https://doi.org/10.5281/zenodo.22215374) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211715) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211468) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_31)](https://doi.org/10.5281/zenodo.22214711) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213297) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211676) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211596) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_17)](https://doi.org/10.5281/zenodo.22213560) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_27)](https://doi.org/10.5281/zenodo.22210704) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_28)](https://doi.org/10.5281/zenodo.22211550) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214890) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212782) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213308) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212922) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213310) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22211912) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213563) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_33)](https://doi.org/10.5281/zenodo.22209798) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214894) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212781) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_3)](https://doi.org/10.5281/zenodo.22208814) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213564) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212776) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212930) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214889) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213285) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212291) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22211939) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214893) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214892) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213557) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213300) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22211911) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213309) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213311) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_33)](https://doi.org/10.5281/zenodo.22209799) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_33)](https://doi.org/10.5281/zenodo.22209793) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22211938) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_32)](https://doi.org/10.5281/zenodo.22214891) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212290) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_27)](https://doi.org/10.5281/zenodo.22210379) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_17)](https://doi.org/10.5281/zenodo.22213301) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213553) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_33)](https://doi.org/10.5281/zenodo.22209792) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_17)](https://doi.org/10.5281/zenodo.22213286) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_3)](https://doi.org/10.5281/zenodo.22208813) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_28)](https://doi.org/10.5281/zenodo.22212916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_27)](https://doi.org/10.5281/zenodo.22210378) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [team_31 Silicon Sample Benchmark: primary entry (idea_03): raw agent logs (escrow, class B)](https://doi.org/10.5281/zenodo.22214549) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [team_31 Silicon Sample Benchmark: primary entry (idea_03): raw agent logs (escrow, class B)](https://doi.org/10.5281/zenodo.22214550) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 primary entry (team_28): raw generation logs, Qwen3.6-27B](https://doi.org/10.5281/zenodo.22208788) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 primary entry (team_28): raw generation logs, Qwen3.6-27B](https://doi.org/10.5281/zenodo.22208789) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Possibilities and Limitations of Korean Silicon Sampling : Algorithmic Fidelity, Variance, and Bias in AI-Based Public Opinion Simulation](https://doi.org/10.20879/kjjcs.2026.70.4.001) — Korean Journal of Journalism & Communication Studies
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 secondary-4 entry (team_28): raw generation logs, Llama 3.3 70B](https://doi.org/10.5281/zenodo.22209902) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Silicon Sample Benchmark — Tier 1 secondary-4 entry (team_28): raw generation logs, Llama 3.3 70B](https://doi.org/10.5281/zenodo.22209901) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177080) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177081) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_15)](https://doi.org/10.5281/zenodo.22169616) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 2 (Tier 1)](https://doi.org/10.5281/zenodo.22167763) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177071) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 1 (Tier 3)](https://doi.org/10.5281/zenodo.22167574) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 3 (Tier 2)](https://doi.org/10.5281/zenodo.22167764) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 2 (Tier 1)](https://doi.org/10.5281/zenodo.22167762) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177070) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177078) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 3 (Tier 2)](https://doi.org/10.5281/zenodo.22167765) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Team 8 Silicon Sample Benchmark Submission 1 (Tier 3)](https://doi.org/10.5281/zenodo.22167573) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team_21)](https://doi.org/10.5281/zenodo.22177077) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 2 group-level submission (Team 9)](https://doi.org/10.5281/zenodo.22169003) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_30)](https://doi.org/10.5281/zenodo.22178663) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 3 treatment-effect submission (Team 9)](https://doi.org/10.5281/zenodo.22169021) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 3 treatment-effect submission (Team 9)](https://doi.org/10.5281/zenodo.22178847) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_30)](https://doi.org/10.5281/zenodo.22179279) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 2 group-level submission (Team 9)](https://doi.org/10.5281/zenodo.22169004) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_30)](https://doi.org/10.5281/zenodo.22178664) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 2 group-level submission (Team 9)](https://doi.org/10.5281/zenodo.22178875) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 3 treatment-effect submission (Team 9)](https://doi.org/10.5281/zenodo.22169022) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_30)](https://doi.org/10.5281/zenodo.22179278) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [K2_archive_LLM_calls_responses_team_30_primary](https://doi.org/10.5281/zenodo.22178746) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-30` [K2_archive_LLM_calls_responses_team_30_primary](https://doi.org/10.5281/zenodo.22178747) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [THE SIMULATED CITIZEN](https://doi.org/10.5281/zenodo.22161553) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [THE SIMULATED CITIZEN](https://doi.org/10.5281/zenodo.22161552) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [alperozpinar/ascend: ASCEND v1.0.0](https://doi.org/10.5281/zenodo.22158471) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [alperozpinar/ascend: ASCEND v1.0.0](https://doi.org/10.5281/zenodo.22158472) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [kristinagligoric/silicon-sample-submission: Primary submission](https://doi.org/10.5281/zenodo.22166522) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-29` [kristinagligoric/silicon-sample-submission: Primary submission](https://doi.org/10.5281/zenodo.22166523) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 1 (individual simulation) submission (team team_5)](https://doi.org/10.5281/zenodo.22142267) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 1 (individual simulation) submission (team team_5)](https://doi.org/10.5281/zenodo.22142268) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team 20)](https://doi.org/10.5281/zenodo.22145080) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team 20)](https://doi.org/10.5281/zenodo.22145081) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark Raw Data team_7](https://doi.org/10.5281/zenodo.22142392) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark Raw Data team_7](https://doi.org/10.5281/zenodo.22142391) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141968) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141912) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141829) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141967) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_9)](https://doi.org/10.5281/zenodo.22150648) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141913) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_6)](https://doi.org/10.5281/zenodo.22141828) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_9)](https://doi.org/10.5281/zenodo.22150649) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_6)](https://doi.org/10.5281/zenodo.22141728) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 2 (group-level reasoning) submission (team team_6)](https://doi.org/10.5281/zenodo.22141727) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Escrowed Reproducibility Materials for Team 9's Tier 1 Silicon Sample Benchmark Submission](https://doi.org/10.5281/zenodo.22150315) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Escrowed Reproducibility Materials for Team 9's Tier 1 Silicon Sample Benchmark Submission](https://doi.org/10.5281/zenodo.22150314) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 3 (direct effect forecast) submission (team team_5)](https://doi.org/10.5281/zenodo.22142316) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 3 (direct effect forecast) submission (team team_5)](https://doi.org/10.5281/zenodo.22142310) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 2 (group-level reasoning) submission (team team_5)](https://doi.org/10.5281/zenodo.22142275) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 3 (direct effect forecast) submission (team team_5)](https://doi.org/10.5281/zenodo.22142317) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 3 (direct effect forecast) submission (team team_5)](https://doi.org/10.5281/zenodo.22142311) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark <80><94> Tier 2 (group-level reasoning) submission (team team_5)](https://doi.org/10.5281/zenodo.22142276) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (per-respondent simulation) submission (team 20): raw model output logs](https://doi.org/10.5281/zenodo.22144665) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Silicon Sample Benchmark — Tier 1 (per-respondent simulation) submission (team 20): raw model output logs](https://doi.org/10.5281/zenodo.22144664) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Particle swarm optimization of Rutherford backscattering spectra](https://doi.org/10.1063/5.0328443) — Journal of Applied Physics
+- `2026-08-27` [Output of T2 runs for silicon sampling benchmark](https://doi.org/10.5281/zenodo.22124448) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Output of T2 runs for silicon sampling benchmark](https://doi.org/10.5281/zenodo.22124447) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Dataset of 'Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization'](https://doi.org/10.57745/h3ybng) — Recherche Data Gouv France
+- `2026-08-24` [Replication Package: The Illusion of Cognitive Sovereignty / Die Illusion kognitiver Souveränität?](https://doi.org/10.5281/zenodo.22081909) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [Replication Package: The Illusion of Cognitive Sovereignty / Die Illusion kognitiver Souveränität?](https://doi.org/10.5281/zenodo.22081910) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [Large language models simulate intersectional synthetic identities with a budget of one to two dimensions](https://doi.org/10.48550/arxiv.2608.23005) — arXiv (Cornell University)
+- `2026-08-24` [BRAS-9: Meta-prompts and platform for generating Brazilian synthetic survey respondents](https://doi.org/10.5281/zenodo.22083242) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [BRAS-9: Meta-prompts and platform for generating Brazilian synthetic survey respondents](https://doi.org/10.5281/zenodo.22083241) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-23` [When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing](https://doi.org/10.48550/arxiv.2608.22438) — arXiv (Cornell University)
+- `2026-08-23` [silicon-htr: a silicon-sampling audit framework for hard-to-reach survey populations](https://doi.org/10.5281/zenodo.22069380) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-23` [silicon-htr: a silicon-sampling audit framework for hard-to-reach survey populations](https://doi.org/10.5281/zenodo.22069381) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Signal Origin Substitution: Reproducibility Package for Synthetic Discrepancy-Formation Model Recovery](https://doi.org/10.5281/zenodo.22058160) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Signal Origin Substitution: Reproducibility Package for Synthetic Discrepancy-Formation Model Recovery](https://doi.org/10.5281/zenodo.22058159) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_12)](https://doi.org/10.5281/zenodo.22047533) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_12)](https://doi.org/10.5281/zenodo.22047422) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_12)](https://doi.org/10.5281/zenodo.22047532) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Silicon Sample Benchmark — Tier 3 (direct effect forecast) submission (team team_12)](https://doi.org/10.5281/zenodo.22047423) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Human and Artificial Agents in Social Decision-Making: Experimental, Computational, and Neurobiological Evidence](https://doi.org/10.7907/vahk-8h11) — Caltech Library
+- `2026-08-17` [Point cloud calorimeter shower datasets for multi-geometry pre-training: SimpleBox and LEMURS](https://doi.org/10.25592/uhhfdm.19103) — Universität Hamburg
+- `2026-08-17` [Point cloud calorimeter shower datasets for multi-geometry pre-training: SimpleBox and LEMURS](https://doi.org/10.25592/uhhfdm.19102) — Universität Hamburg
+- `2026-08-15` [janpfander/llm_predictions_megastudy: Benchmark Preregistration](https://doi.org/10.5281/zenodo.21952682) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-15` [janpfander/llm_predictions_megastudy: Benchmark Preregistration](https://doi.org/10.5281/zenodo.20169087) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Use of LLMs for Generating Synthetic ARDs to Make Estimates in Electoral Processes](https://doi.org/10.21203/rs.3.rs-10534310/v1) — Research Square
+- `2026-08-14` [The conditional superiority of fast silicon sampling](https://doi.org/10.48550/arxiv.2608.14079) — arXiv (Cornell University)
+- `2026-08-14` [Vicarian: inspectable LLM-simulated survey respondents](https://doi.org/10.5281/zenodo.21934867) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Vicarian: inspectable LLM-simulated survey respondents](https://doi.org/10.5281/zenodo.21934868) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments](https://doi.org/10.48550/arxiv.2609.04243) — arXiv (Cornell University)
+- `2026-08-13` [From human panels to silicon samples: a research agenda for synthetic data in marketing research](https://doi.org/10.1057/s41270-026-00531-w) — Journal of Marketing Analytics
+- `2026-08-12` [Beyond Mean Ratings: Cross-Linguistic Human-LLM Alignment in Sensorimotor Norms](https://osf.io/36mqt) — OSF Preprints (OSF Preprints)
+- `2026-08-12` [EduFusionFormer: A Multimodal Transformer Framework for Analyzing Educational Administrative Behavior Using Simulated Institutional Data](https://doi.org/10.5281/zenodo.21898569) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-12` [EduFusionFormer: A Multimodal Transformer Framework for Analyzing Educational Administrative Behavior Using Simulated Institutional Data](https://doi.org/10.5281/zenodo.21898568) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-11` [Does a Culturally-Native LLM Improve Silicon-Sampling Fidelity?](https://doi.org/10.17605/osf.io/q5rxa) —
+- `2026-08-06` [Calibrated Population Diversity: Closing the Loop Between Survey Fidelity and Agentic Behavior in Synthetic Respondents](https://doi.org/10.5281/zenodo.21829124) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-06` [Marginal Alignment Does Not Guarantee Joint-Distribution Fidelity: An Official-Reference Audit of Nemotron-Personas-Korea with Cross-Locale Replication](https://doi.org/10.21203/rs.3.rs-9727324/v1) — Research Square
+- `2026-08-02` [A Psychometric-Statistical Framework for Silicon Samples](https://osf.io/tvu4d) — OSF Preprints (OSF Preprints)
+- `2026-07-31` [Believable Is Not Valid: A preregistered severe test of LLM student avatars as a substitute for human pilot data in assessment development](https://doi.org/10.17605/osf.io/7k2u3) — Open Science Framework
+- `2026-07-31` [Structural and Electrical Properties of n- and p-type Silicon and Tellurium-doped Silicon after 2 MeV Electron Irradiation](https://doi.org/10.1134/s1063782626601032) — Semiconductors
+- `2026-07-30` [Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating](https://doi.org/10.48550/arxiv.2607.28550) — arXiv (Cornell University)
+- `2026-07-30` [Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating](https://arxiv.org/pdf/2607.28550) — arXiv (Cornell University)
+- `2026-07-30` [Code and Data for "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating"](https://doi.org/10.5281/zenodo.21706986) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Code and Data for "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating"](https://doi.org/10.5281/zenodo.21706513) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Code and Data for "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating"](https://doi.org/10.5281/zenodo.21706514) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Study planning is better served by Monte Carlo simulation than AI-generated participants](https://doi.org/10.31234/osf.io/jw9gz_v1) —
+- `2026-07-30` [Agentic Vehicle Acceptance: Alignment-Gate Registration, Code, and Synthetic Data](https://doi.org/10.17605/osf.io/egnsr) —
+- `2026-07-28` [Can Synthetic Participants Reproduce Human Experimental Results? Evidence from Fischer et al.'s (2008) Selective Exposure and Information Quantity Paradigm](https://doi.org/10.17605/osf.io/m7c6y) — Open Science Framework
+- `2026-07-28` [Evaluating 10B- and 11B-implanted standards for the analysis of boron in silicon with ultralow energy SIMS](https://doi.org/10.1116/6.0005611) — Journal of Vacuum Science & Technology A Vacuum Surfaces and Films
+- `2026-07-28` [Vertical Interconnects Using Magnetically Aligned Anisotropic Conductive Adhesive for RF Packaging](https://doi.org/10.4071/001c.165914) — IMAPSource Proceedings
+- `2026-07-28` [Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe](https://doi.org/10.48550/arxiv.2607.25292) — arXiv (Cornell University)
+- `2026-07-28` [Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe](https://arxiv.org/pdf/2607.25292) — arXiv (Cornell University)
+- `2026-07-27` [Synthetic survey participants cannot substitute for sample diversity in policy](https://doi.org/10.31234/osf.io/8x37h_v1) —
+- `2026-07-27` [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](https://doi.org/10.48550/arxiv.2607.24649) — arXiv (Cornell University)
+- `2026-07-27` [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](https://arxiv.org/pdf/2607.24649) — arXiv (Cornell University)
+- `2026-07-25` [Silicon sampling em pacientes psiquiátricos: replicação metodológica de Fisher 2017](https://doi.org/10.17605/osf.io/6k9hr) —
+- `2026-07-24` [The Relationship Between Environmental Awareness and Waste Segregation Practices Among Students of Gaudencio Abordo Memorial National High School in Barangay Bangcal, Agutaya, Palawan](https://doi.org/10.63941/dit.adsimrj.2026.2.3.04) — DIT ADS International Multidisciplinary Research Journal
+- `2026-07-23` [Impact of mechanical scratches on the structural, thermal, and electronic properties of monocrystalline silicon](https://doi.org/10.1063/5.0324667) — Journal of Applied Physics
+- `2026-07-16` [Synthetic Participants for Real Interventions: Augmenting Behavioral RCTs with Fine-Tuned LLMs](https://osf.io/2hgjb) — OSF Preprints (OSF Preprints)
+- `2026-07-15` [Can Large Language Model Synthetic Respondents Anticipate Human Preferences? An Out-of-Sample Test in a Preregistered Discrete Choice Experiment](https://doi.org/10.17605/osf.io/mygp7) —
+- `2026-07-15` [Substitutability and Complementarity of Ecolabels in the Presence of Conflicting Brand Messaging: A Discrete Choice Experiment with Process-Tracing Measures](https://doi.org/10.17605/osf.io/y8su6) —
+- `2026-07-14` [Community Perceptions of the Impact of Coastal Development on Mangrove Ecosystem Sustainability in the Municipality of Pilar, Bataan](https://doi.org/10.63941/dit.adsimrj.2026.2.3.03) — DIT ADS International Multidisciplinary Research Journal
+- `2026-07-14` [Scenario-based sample-size requirements for stable hierarchical AHP rankings: A computational simulation and empirically anchored framework](https://doi.org/10.1016/j.orp.2026.100408) — Operations Research Perspectives
+- `2026-07-13` [WarehouseGame Dataset: Behavioral Telemetry from Gamified Logistics Training](https://doi.org/10.5281/zenodo.20629259) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-13` [WarehouseGame Dataset: Behavioral Telemetry from Gamified Logistics Training](https://doi.org/10.5281/zenodo.21341304) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-13` [Simulating Sensitivity: A Simpson’s Paradox in Large Language Model-Based Creative Practitioner Modeling](https://doi.org/10.1145/3803784.3816848) — Advanced Institute of Industrial Technology
+- `2026-07-09` [2 µm wavelength nanosecond laser welding of silicon](https://doi.org/10.1364/ome.606379) — Optical Materials Express
+- `2026-07-06` [Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents](https://doi.org/10.48550/arxiv.2608.14606) — arXiv (Cornell University)
+- `2026-07-03` [Evaluation Criteria for Synthetic Respondents in Qualitative Research: Limits of Applicability](https://doi.org/10.19181/inter.2026.18.2.5) — Inter
+- `2026-07-03` [Silicon Sampling via Cross-Survey Transfer](https://arxiv.org/pdf/2607.03091) — arXiv (Cornell University)
+- `2026-07-03` [Who Is Missing from the Silicon Sample? Deafness, Sign Language, and the Epistemic Architecture of Trained Models](https://doi.org/10.31235/osf.io/5xedj_v1) —
+- `2026-07-02` [Can LLM-driven synthetic participants help user research? A case study in designing augmented reality for education](https://doi.org/10.1017/pds.2026.10618) — Proceedings of the Design Society
+- `2026-07-02` [Who Is Missing from the Silicon Sample? Deafness, Sign Language, and the Epistemic Architecture of Trained Models](https://osf.io/5xedj) — SocArXiv (OSF Preprints)
+- `2026-07-01` [Large Language Models as Surrogate Respondents in Capturing Tacit, Experience-Embedded Knowledge](https://doi.org/10.5465/amproc.2026.18374abstract) — Academy of Management Proceedings
+- `2026-07-01` [Silicon Sampling via Cross-Survey Transfer](https://doi.org/10.1109/iri69576.2026.00070) — National Sun Yat-sen University
+- `2026-07-01` [The Threat of Analytic Flexibility in Using Large Language Models to Simulate Human Data](https://doi.org/10.1177/25152459261461505) — Advances in Methods and Practices in Psychological Science
+- `2026-07-01` [Principles of Carbon Scaffold Selection for Silicon/Carbon Composite Battery Anodes](https://doi.org/10.1021/acs.chemmater.6c01011) — Chemistry of Materials
+- `2026-07-01` [PFIB-Based Sample Preparation Workflow for a MEMS Tensile Platform Enabling Correlative In-Situ SEM and TEM Studies](https://doi.org/10.1093/mam/ozag053.122) — Microscopy and Microanalysis
+- `2026-07-01` [The Hydrogen Effect: Probing Silicon Bonding and Barrier Integrity in MEMS via STEM–EELS](https://doi.org/10.1093/mam/ozag053.543) — Microscopy and Microanalysis
+- `2026-06-30` [tikhomirno/silicon-sample-submission: v1](https://doi.org/10.5281/zenodo.21060861) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [tikhomirno/silicon-sample-submission: v1](https://doi.org/10.5281/zenodo.21060860) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Визначення впливу електрогідравлічного методу на дроблення металургійного кремнію](https://journals.uran.ua/eejet/article/view/365569) — The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Serie…
+- `2026-06-30` [Determination of the effect of the electrohydraulic method on the crushing of metallurgical silicon](https://doi.org/10.15587/1729-4061.2026.365569) — Eastern-European Journal of Enterprise Technologies
+- `2026-06-30` [Structural and electrical properties of PSi/CNT junction](https://doi.org/10.3897/j.moem.12.2.181662) — Modern Electronic Materials
+- `2026-06-29` [Designing, Evaluating, and Using Synthetic Participants in Behavioural Public Policy: The PATH Checklist](https://osf.io/a7nq8) — PsyArXiv (OSF Preprints)
+- `2026-06-29` [Designing, Evaluating, and Using Synthetic Participants in Behavioural Public Policy: The PATH Checklist](https://doi.org/10.31234/osf.io/a7nq8_v1) —
+- `2026-06-29` [Tastes without distinction: silicon samples and the synthetic construction of tastes](https://doi.org/10.48550/arxiv.2606.30085) — arXiv (Cornell University)
+- `2026-06-29` [Tastes without distinction: silicon samples and the synthetic construction of tastes](https://arxiv.org/pdf/2606.30085) — arXiv (Cornell University)
+- `2026-06-28` [Synthetic Participants for Real Interventions: Augmenting Behavioral RCTs with Fine-Tuned LLMs](https://doi.org/10.17605/osf.io/68jfq) — University of Oxford
+- `2026-06-26` [Revealing the Hidden Stress Field and Its Thermal Input Dependence in Femtosecond Laser–Processed Silicon Photonic Chip Substrates via Weak Measurement](https://doi.org/10.1002/nap2.70176) — Nanophotonics
+- `2026-06-24` [Data for Evaluating Large Language Models as Artificial Patients: A Multilingual Silicon Sampling Study in Oncology Decision-Making](https://doi.org/10.7910/dvn/0tza5f) — Harvard Dataverse
+- `2026-06-23` [The Collapse of Heterogeneity in Silicon Philosophers](https://doi.org/10.1145/3805689.3806760) — Adobe Systems (United States)
+- `2026-06-19` [Is generative AI WEIRD? Considerations on the use of silicon samples in sensory and consumer research](https://doi.org/10.1016/j.foodqual.2026.106024) — Food Quality and Preference
+- `2026-06-15` [Is Llm-Based Synthetic Data Research In Information Systems Replicable?](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1136&context=treos_ecis2026) — Journal of the Association for Information Systems
+- `2026-06-15` [A comparison of human and LLM-simulated participants in a writing style task](https://arxiv.org/pdf/2606.16778) — arXiv (Cornell University)
+- `2026-06-15` [A comparison of human and LLM-simulated participants in a writing style task](https://doi.org/10.48550/arxiv.2606.16778) — arXiv (Cornell University)
+- `2026-06-12` [When Synthetic Respondents Reverse Your Findings](https://osf.io/cqf8e) — OSF Preprints (OSF Preprints)
+- `2026-06-12` ["Higher-Education Governance Dataset: Organizational Justice, Academic Freedom, Organizational Silence, Administrative Power ..."](https://doi.org/10.21227/mkck-k860) — IEEE DataPort
+- `2026-06-12` ["HEGov-172K: A Higher-Education Governance Dataset for Organizational Behavior and Governance Research"](https://doi.org/10.21227/th3y-sr53) — IEEE DataPort
+- `2026-06-11` [Valid Inference with Synthetic Data via Task Exchangeability](https://doi.org/10.48550/arxiv.2606.13629) — arXiv (Cornell University)
+- `2026-06-10` [WarehouseGame Dataset: Behavioral Telemetry from Gamified Logistics Training](https://doi.org/10.5281/zenodo.20629456) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-10` [WarehouseGame Dataset: Behavioral Telemetry from Gamified Logistics Training](https://doi.org/10.5281/zenodo.20629260) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-10` [Structural and Phase States of Rhodium Doped Silicon Monocrystals](https://doi.org/10.26565/2312-4334-2026-2-41) — East European Journal of Physics
+- `2026-06-09` [One Year of Outdoor Performance of Perovskite/Perovskite/Silicon Triple‐Junction Solar Cell](https://doi.org/10.1002/solr.70390) — Solar RRL
+- `2026-06-08` [Detection of processing depth and penetration based on recoil force induced by laser ablation](https://doi.org/10.1016/j.optlastec.2026.115604) — Optics & Laser Technology
+- `2026-05-31` [Simulating Lay Health-Seeking Behavior with LLM Personas and Illness Vignettes: Reproducibility, Prompt Sensitivity, and Slice Dependence](https://doi.org/10.32388/be0zbc.3) — Qeios
+- `2026-05-30` [tkhk405/Do-LLMs-Learn-Belief-Networks: v1.0.0: PLOS ONE submission version](https://doi.org/10.5281/zenodo.19726746) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [tkhk405/Do-LLMs-Learn-Belief-Networks: v1.0.0: PLOS ONE submission version](https://doi.org/10.5281/zenodo.20455783) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [The Jury Methods Package: Synthetic Survey Respondents on Pew ATP Wave 158](https://doi.org/10.5281/zenodo.20455072) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [The Jury Methods Package: Synthetic Survey Respondents on Pew ATP Wave 158](https://doi.org/10.5281/zenodo.20455073) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents](https://doi.org/10.1145/3774905.3795477) — University of Pisa
+- `2026-05-25` [Ableism, Disablism, and other Ability Judgment terms: Mapping out the Academic Literature to support ability judgment justice research, teaching and advocacy](https://doi.org/10.11575/prism/51496) —
+- `2026-05-21` [Impact of illumination on the effective diffusivity of hydrogen in n- and p-type crystalline silicon](https://doi.org/10.1016/j.solmat.2026.114446) — Solar Energy Materials and Solar Cells
+- `2026-05-19` [Probing Political Ideology in Large Language Models: How Latent Political Representations Generalize Across Task and Modality](https://doi.org/10.6082/zjxv7-veq20) — University of Chicago
+- `2026-05-19` [Probing Political Ideology in Large Language Models: How Latent Political Representations Generalize Across Task and Modality](https://doi.org/10.6082/uchicago.17309) — Knowledge@UChicago (University of Chicago)
+- `2026-05-18` [What Would GPT Click: Practical Effects of Human-AI Behavioral Misalignment and the Cost of Synthetic Participants in User Experience](https://arxiv.org/pdf/2605.18302) — arXiv (Cornell University)
+- `2026-05-18` [What Would GPT Click: Practical Effects of Human-AI Behavioral Misalignment and the Cost of Synthetic Participants in User Experience](https://doi.org/10.48550/arxiv.2605.18302) — arXiv (Cornell University)
+- `2026-05-17` [The Synthetic Mind Charter: Developmental Agency-Span Safety and Substrate-Invariant Agency Structure](https://doi.org/10.5281/zenodo.20261444) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-17` [The Synthetic Mind Charter: Developmental Agency-Span Safety and Substrate-Invariant Agency Structure](https://doi.org/10.5281/zenodo.20261443) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-17` [tkhk405/Do-LLMs-Learn-Belief-Networks: v0.2.1: Fix baseline temperature to match paper](https://doi.org/10.5281/zenodo.20253565) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-16` [P-SCA: Prompt Specification Curve Analysis](https://doi.org/10.5281/zenodo.20245930) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-16` [P-SCA: Prompt Specification Curve Analysis](https://doi.org/10.5281/zenodo.20196037) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [P-SCA: Prompt Specification Curve Analysis](https://doi.org/10.5281/zenodo.20196038) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-15` [Marginal Alignment Does Not Guarantee Joint-Distribution Fidelity: An Official-Reference Audit of Nemotron-Personas-Korea with Cross-Locale Replication](https://arxiv.org/pdf/2606.12433) — arXiv (Cornell University)
+- `2026-05-15` [Marginal Alignment Does Not Guarantee Joint-Distribution Fidelity: An Official-Reference Audit of Nemotron-Personas-Korea with Cross-Locale Replication](https://doi.org/10.48550/arxiv.2606.12433) — arXiv (Cornell University)
+- `2026-05-08` [Hierarchy of Personas: Investigating Variation in Synthetic LGBTQ-Related Survey Responses by Persona-Prompted Large Language Models](https://doi.org/10.31235/osf.io/cd53z_v1) —
+- `2026-05-08` [Can Synthetic Participants Reproduce Human Experimental Results? Evidence from Fischer et al.'s (2008) Selective Exposure and Information Quantity Paradigm](https://doi.org/10.17605/osf.io/ekwzd) —
+- `2026-05-07` [Review of: "Simulating Lay Health-Seeking Behavior with LLM Personas and Illness Vignettes: Reproducibility, Prompt Sensitivity, and Slice Dependence"](https://doi.org/10.32388/rt5yld) — Universidade Luterana do Brasil
+- `2026-05-05` [AI and Research Methods](https://doi.org/10.33774/apsa-2026-h59kk) — New York University
+- `2026-05-01` [Multimodal Large Language Models as Synthetic Participants in Video-Based Studies: An Evaluation](https://arxiv.org/pdf/2606.07541) — arXiv (Cornell University)
+- `2026-05-01` [Multimodal Large Language Models as Synthetic Participants in Video-Based Studies: An Evaluation](https://doi.org/10.48550/arxiv.2606.07541) — arXiv (Cornell University)
+- `2026-05-01` [Electrophysical and Photoelectric Properties, and Elemental Composition of Silicon Doped with Selenium Impurity Atoms](https://doi.org/10.52577/eom.2026.62.2.61) — Elektronnaya Obrabotka Materialov
+- `2026-05-01` [Adiabatic Photonic Nanotapers reveal black silicon anti-reflection properties](https://doi.org/10.60893/figshare.jap.c.8418003) — AIP Publishing
+- `2026-05-01` [Adiabatic Photonic Nanotapers reveal black silicon anti-reflection properties](https://doi.org/10.60893/figshare.jap.c.8418003.v1) — AIP Publishing
+- `2026-05-01` [Metallisation-associated degradation of silicon coated with thin dielectric layers](https://doi.org/10.1088/1361-6641/ae66aa) — Semiconductor Science and Technology
+- `2026-05-01` [Adiabatic photonic nanotapers reveal black silicon antireflection properties](https://doi.org/10.1063/5.0325427) — Journal of Applied Physics
+- `2026-04-27` [A Practical Guide to PsycSim: Simulating Pilot Studies with AI for Experimental Research](https://repository.usfca.edu/context/jips/article/1128/viewcontent/FINAL___JIPS_vol_10_article_7__Team_1___Cromwell_and_Azam__JRC_.pdf) — USF Scholarship Repository (University of San Francisco)
+- `2026-04-26` [Can large language models recover economic survey responses?](https://aaltodoc.aalto.fi/bitstreams/4f73eb70-ccb7-47d3-b777-1836f7c7ba4b/download) — Aaltodoc (Aalto University)
+- `2026-04-26` [The Collapse of Heterogeneity in Silicon Philosophers](https://doi.org/10.48550/arxiv.2604.23575) — arXiv (Cornell University)
+- `2026-04-26` [The Collapse of Heterogeneity in Silicon Philosophers](https://arxiv.org/pdf/2604.23575) — arXiv (Cornell University)
+- `2026-04-25` [Thermal desorption spectroscopy studies of xenon implanted into germanium](https://doi.org/10.12913/22998624/217161) — Advances in Science and Technology – Research Journal
+- `2026-04-24` [Replication Data for: When Wording Becomes Variance: Prompt Specification Error in LLM-Based Consumer Surveys](https://doi.org/10.7910/dvn/uehul1) — Harvard Dataverse
+- `2026-04-24` [Experimental study on the effects of nanosecond green laser on silicon micromachining parameters](https://doi.org/10.1016/j.optlastec.2026.115332) — Optics & Laser Technology
+- `2026-04-17` [Where do synthetic respondents take consumer research?](https://doi.org/10.5281/zenodo.19629965) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-17` [Where do synthetic respondents take consumer research?](https://doi.org/10.5281/zenodo.19629966) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-16` [Data for Metallisation-associated degradation of silicon coated with thin dielectric layers](https://wrap.warwick.ac.uk/id/eprint/200012/2/PL%20images%20for%20WRAP.zip) — Warwick Research Archive Portal (University of Warwick)
+- `2026-04-09` [Boundaries of understanding for synthetic respondents: a new knowledge-production framework, methodological risks, and data validation standards](https://doi.org/10.33693/2223-0092-2026-16-1-179-186) — Sociopolitical sciences
+- `2026-04-08` [Leaving Insight to Digital Twins? Promise, Progress and Limits of Synthetic Respondents](https://doi.org/10.2478/nimmir-2026-0008) — NIM Marketing Intelligence Review
+- `2026-04-08` [Your Next Respondent Might Be an LLM: Guidelines for Using Silicon Samples in Marketing Research](https://doi.org/10.2478/nimmir-2026-0004) — NIM Marketing Intelligence Review
+- `2026-04-08` [Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach](https://arxiv.org/pdf/2604.06663) — arXiv (Cornell University)
+- `2026-04-08` [Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach](https://doi.org/10.48550/arxiv.2604.06663) — arXiv (Cornell University)
+- `2026-04-03` [Using large language models as a source of human behavioral data in social science experiments](https://doi.org/10.31235/osf.io/y74mu_v1) —
+- `2026-04-02` [BEHAVIORAL ECONOMICS MEETS AI: EVALUATING LLMS AS SYNTHETIC PARTICIPANTS IN SAVINGS TEMPORAL FRAMING EXPERIMENT](https://doi.org/10.7298/yq35-nr38) — eCommons (Cornell University)
+- `2026-04-01` [AI Agent Prevalence and Data Quality Across Multiple Online Sample Providers](https://doi.org/10.31234/osf.io/pvdjr_v1) —
+- `2026-04-01` [AI Agent Prevalence and Data Quality Across Multiple Online Sample Providers](https://osf.io/pvdjr) — PsyArXiv (OSF Preprints)
+- `2026-04-01` [AI Agent Prevalence and Data Quality Across Multiple Online Sample Providers](https://doi.org/10.31234/osf.io/pvdjr_v2) —
+- `2026-04-01` [Questionnaire Survey on Perceived Flood Risk](https://doi.org/10.5281/zenodo.19368525) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-01` [Questionnaire Survey on Perceived Flood Risk](https://doi.org/10.5281/zenodo.19368526) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-01` [Time-resolved non-contact THz diagnostics of impurity state in different sulfur-implanted/laser-annealed silicon samples](https://doi.org/10.1063/5.0304765) — The Journal of Chemical Physics
+- `2026-04-01` [Time-resolved non-contact THz diagnostics of impurity state in different sulfur-implanted/laser-annealed silicon samples](https://doi.org/10.60893/figshare.jcp.c.8380288.v1) — AIP Publishing
+- `2026-04-01` [Time-resolved non-contact THz diagnostics of impurity state in different sulfur-implanted/laser-annealed silicon samples](https://doi.org/10.60893/figshare.jcp.c.8380288) — AIP Publishing
+- `2026-03-31` [Exploring Business Models for Metaverse-Based Korean Language Education Industry: A Multi-Stakeholder Analysis Using the Synthetic Respondent Methodology](https://doi.org/10.35174/jkci.2026.03.26.1.1) — Journal of Korea Culture Industry
+- `2026-03-30` [Integration of Artificial Intelligence-Based Marketing Technologies into the Strategic Management System of a Company](https://doi.org/10.26794/2304-022x-2026-16-1-116-125) — Management Sciences
+- `2026-03-29` [Simulating Lay Health-Seeking Behavior with LLM Personas and Illness Vignettes: Reproducibility, Prompt Sensitivity, and Slice Dependence](https://doi.org/10.32388/be0zbc.2) — Qeios
+- `2026-03-27` [Beyond linearity: reimagining AI as a participant in circular bioeconomies](https://doi.org/10.1186/s13036-026-00672-7) — Journal of Biological Engineering
+- `2026-03-25` [OKKA.AI Expanded Intelligence Series: A Study in Individual Sovereignty, Cognitive Expansion, and Collective Governance](https://doi.org/10.5281/zenodo.19221731) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-25` [OKKA.AI Expanded Intelligence Series: A Study in Individual Sovereignty, Cognitive Expansion, and Collective Governance](https://doi.org/10.5281/zenodo.19221732) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-24` [The Mindsets of Amazon Shoppers: A Mind Genomics and AI-Based Behavioral Backgrounder](https://doi.org/10.67735/sccr.2026.02.0034) — Scholastic Case Reports
+- `2026-03-21` [A scale for detecting LLM-generated responses in online survey research](https://doi.org/10.31234/osf.io/4p7ns_v5) —
+- `2026-03-21` [A scale for detecting LLM-generated responses in online survey research](https://osf.io/4p7ns) — PsyArXiv (OSF Preprints)
+- `2026-03-20` [Visualising Collective Reasoning in Synthetic Times: The Bard and Institutional Memory](https://doi.org/10.5281/zenodo.19126335) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-20` [Visualising Collective Reasoning in Synthetic Times: The Bard and Institutional Memory](https://doi.org/10.5281/zenodo.19126336) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-17` [Call for Papers: Generative Artificial Intelligence, Synthetic Data, and Synthetic Respondents in Marketing and Market Research](https://doi.org/10.5281/zenodo.19066396) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-17` [Call for Papers: Generative Artificial Intelligence, Synthetic Data, and Synthetic Respondents in Marketing and Market Research](https://doi.org/10.5281/zenodo.19066397) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-16` [A scale for detecting LLM-generated responses in online survey research](https://doi.org/10.31234/osf.io/4p7ns_v4) —
+- `2026-03-14` [A scale for detecting LLM-generated responses in online survey research](https://doi.org/10.31234/osf.io/4p7ns_v3) —
+- `2026-03-14` [Study of the Formation of Radiation Defects in Irradiated Silicon Samples, Doped with Chromium Atoms](https://doi.org/10.26565/2312-4334-2026-1-24) — East European Journal of Physics
+- `2026-03-14` [Effect of Impurity Clusters on Optical Properties of Nickel and Copper Doped Single-Crystal Silicon](https://doi.org/10.26565/2312-4334-2026-1-20) — East European Journal of Physics
+- `2026-03-12` [A scale for detecting LLM-generated responses in online survey research](https://doi.org/10.31234/osf.io/4p7ns_v2) —
+- `2026-03-11` [A scale for detecting LLM-generated responses in online survey research](https://doi.org/10.31234/osf.io/4p7ns_v1) —
+- `2026-03-10` [Synthetic Participants Generated by Large Language Models: A Systematic Literature Review](https://doi.org/10.21203/rs.3.rs-9057643/v1) — Research Square
+- `2026-03-10` [Comparison of biaxial mechanical and microstructural properties between human femoral arteries and surrogate models for stent development](https://doi.org/10.1016/j.jmbbm.2026.107384) — Journal of the mechanical behavior of biomedical materials/Journal of mechanical behavior…
+- `2026-03-06` [The threat of synthetic respondents extends to clinical mental health screening](https://doi.org/10.31234/osf.io/7ebmy_v1) —
+- `2026-03-06` [Electron-irradiation effects on Raman and infrared spectra of Te-doped n- and p-type silicon](https://doi.org/10.1016/j.physb.2026.418496) — Physica B Condensed Matter
+- `2026-03-04` [Which AI for silicon sampling? A comparative evaluation of generative and neuro-symbolic approaches](https://doi.org/10.5281/zenodo.18868619) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-04` [The Accuracy of Silicon Samples in Market Research: Can AI Respondents Replace Humans?](https://doi.org/10.5281/zenodo.18868156) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-03` [Supplementary Information](https://doi.org/10.60893/figshare.rsi.31361719.v1) — AIP Publishing
+- `2026-03-03` [Supplementary Information](https://doi.org/10.60893/figshare.rsi.31361719) — AIP Publishing
+- `2026-03-02` [Generative AI in Participatory Urban Planning: Synthetic Inhabitants and Experts](https://doi.org/10.3390/land15030407) — Land
+- `2026-03-02` [Synthetic personas distort the structure of human belief systems](https://osf.io/n7fq8) — SocArXiv (OSF Preprints)
+- `2026-03-01` [Obtaining Silicon Samples with Different Crystallographic Directions Diffusion-Doped with Impurity Manganese Atoms](https://doi.org/10.52577/eom.2026.62.1.62) — Elektronnaya Obrabotka Materialov
+- `2026-03-01` [Raman Spectoroscopy of Silicon Single Crystals, Doped with Palladium and Irradiated by GammaRays](https://doi.org/10.15251/jor.2026.221.1) — Journal of Ovonic Research
+- `2026-03-01` [Improvement of PN photodiode performance through the optimization of black silicon nanostructure geometry using FDTD simulation](https://doi.org/10.1016/j.rio.2026.101096) — Results in Optics
+- `2026-02-27` [Simulating Lay Health-Seeking Behavior with LLM Personas and Illness Vignettes: Reproducibility, Prompt Sensitivity, and Slice Dependence](https://doi.org/10.32388/be0zbc) — Qeios
+- `2026-02-26` [Beyond human proxies: The roles and usefulness of large language models in user research for mobility service development](https://doi.org/10.1016/j.trip.2026.101917) — Transportation Research Interdisciplinary Perspectives
+- `2026-02-26` [Synthetic personas distort the structure of human belief systems](https://doi.org/10.31235/osf.io/n7fq8_v1) —
+- `2026-02-19` [In silico reads mixture of 100 Angiosperms353 target capture arrays for testing species identification](https://doi.org/10.5061/dryad.f4qrfj799) — DRYAD
+- `2026-02-18` [Understanding Parent Perspectives on Vedic Principles of Digestion and Modern Gut-Brain Science: A Mind Genomics Exploration Using Synthetic Respondents](https://doi.org/10.55162/mcms.10.342) —
+- `2026-02-17` [This human study did not involve human subjects: Validating LLM simulations as behavioral evidence](https://doi.org/10.48550/arxiv.2602.15785) — arXiv (Cornell University)
+- `2026-02-17` [This human study did not involve human subjects: Validating LLM simulations as behavioral evidence](https://arxiv.org/pdf/2602.15785) — arXiv (Cornell University)
+- `2026-02-16` [Large Language Models as Synthetic Respondents for Economic Preferences: A Global Audit](https://doi.org/10.21203/rs.3.rs-8775326/v1) — Research Square
+- `2026-02-10` [Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data](https://doi.org/10.48550/arxiv.2603.00059) — arXiv (Cornell University)
+- `2026-02-10` [Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data](https://arxiv.org/pdf/2603.00059) — arXiv (Cornell University)
+- `2026-02-06` [Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents](https://arxiv.org/pdf/2602.18462) — arXiv (Cornell University)
+- `2026-02-06` [Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents](https://doi.org/10.48550/arxiv.2602.18462) — arXiv (Cornell University)
+- `2026-01-28` [Robust Spectral Signal Processing-Based Framework for Infrared Interferometry-Driven SiC Epitaxial Thickness Estimation](https://doi.org/10.1109/icpege67691.2026.11451559) — Northwestern Polytechnical University
+- `2026-01-16` [Large Language Models as Simulative Agents for Neurodivergent Adult Psychometric Profiles](https://arxiv.org/pdf/2601.15319) — arXiv (Cornell University)
+- `2026-01-16` [Large Language Models as Simulative Agents for Neurodivergent Adult Psychometric Profiles](https://doi.org/10.48550/arxiv.2601.15319) — arXiv (Cornell University)
+- `2026-01-16` [Influence of SnO2 Prepared by Rosemary Extract to Improve Porous Silicon for Photodetector Applications](https://doi.org/10.5281/zenodo.21578538) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-01-16` [Influence of SnO2 Prepared by Rosemary Extract to Improve Porous Silicon for Photodetector Applications](https://doi.org/10.5281/zenodo.21578537) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-01-14` [Can AI Conduct Research: A Pragmatic Experiment](https://doi.org/10.35542/osf.io/2vuxp_v1) —
+- `2026-01-13` [Automatic selection of dispersion models in spectroscopic ellipsometry using a hierarchical genetic algorithm](https://doi.org/10.1051/epjap/2025032/pdf) — Springer Link (Chiba Institute of Technology)
+- `2026-01-11` [Synthetic Policymaking: Using LLM-Generated Personas to Predict Public Views on Existing and Prospective Policies in non-WEIRD Countries](https://osf.io/yjudk) — PsyArXiv (OSF Preprints)

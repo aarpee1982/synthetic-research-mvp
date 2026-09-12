@@ -1,0 +1,406 @@
+## Synthetic market research research library
+
+Published research on synthetic market research, conjoint analysis and choice experiments. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-11` [Flexible workers’ preferences for basic medical insurance for employees: a discrete choice experiment](https://doi.org/10.1186/s12889-026-29349-y) — BMC Public Health
+- `2026-09-10` [Comprehensive market research and theoretical India → Nepal import model](https://doi.org/10.13140/rg.2.2.18863.29603) —
+- `2026-09-09` [Crafter preferences for alligator leather in an online hypothetical and real discrete choice experiment](https://doi.org/10.1002/jaa2.70048) — Journal of the Agricultural and Applied Economics Association
+- `2026-09-08` [Terapage Advances AI Market Research with Pulse for Predictive Consumer Insights](https://doi.org/10.5281/zenodo.22655073) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Terapage Advances AI Market Research with Pulse for Predictive Consumer Insights](https://doi.org/10.5281/zenodo.22655074) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [LEBGen: An LLM-Enhanced Bayesian Network Framework for Few-Shot Travel Survey Data Generation](https://doi.org/10.48550/arxiv.2609.08288) — arXiv (Cornell University)
+- `2026-09-07` [SAC INSTITUTIONAL: Burger Market Research Framework](https://doi.org/10.13140/rg.2.2.21912.35841) —
+- `2026-09-07` [6 Steps to Build an AI Study Assistant (Research Chatbot) on Terapage: A Complete Guide for Modern Market Researchers](https://doi.org/10.5281/zenodo.22636481) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [6 Steps to Build an AI Study Assistant (Research Chatbot) on Terapage: A Complete Guide for Modern Market Researchers](https://doi.org/10.5281/zenodo.22636482) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-06` [Value of Knowing the Risk of Developing a Neurodegenerative Disease: A Discrete Choice Experiment](https://doi.org/10.1007/s40273-026-01655-8) — PharmacoEconomics
+- `2026-09-04` [Research Support Chatbots: The Future of Market Research](https://doi.org/10.13140/rg.2.2.21656.76805) —
+- `2026-09-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22297704) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22298004) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22297705) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22298005) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [การบรณาการสภาพแวดลอมสรรคสรางกบความปลอดภยทางถนนสำหรบกลมคนเดนเทา](https://doi.org/10.14457/tu.the.2025.812) — NRCT Data Center
+- `2026-09-03` [Market Research and Consumer Insight](https://doi.org/10.4324/9781003627722) —
+- `2026-09-03` [Key market research, insight and data analytics techniques](https://doi.org/10.4324/9781003627722-7) —
+- `2026-09-03` [The future Enhancing customer experience through traditional market research and digital data analysis](https://doi.org/10.4324/9781003627722-11) —
+- `2026-09-03` [Measuring The Impact Of Marketing And Communications Campaigns](https://doi.org/10.4324/9781003627722-9) —
+- `2026-09-02` [The Market Research Workflow: Evidence from 105 Current Vacancies](https://doi.org/10.5281/zenodo.22254954) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [The Market Research Workflow: Evidence from 105 Current Vacancies](https://doi.org/10.5281/zenodo.22254955) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-02` [A Conjoint Analysis of Gen Z Preferences for HIV Prevention Campaigns in Davao City](https://doi.org/10.55927/ijsmr.v4i8.71) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [Understanding Gen Z's Preferences for Chocolate Bar Packaging Design: A Conjoint Analysis in Davao City](https://doi.org/10.55927/ijsmr.v4i8.73) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [The Value of Design: A Conjoint Analysis of Physical Design Attributes in the District 1, Davao City Coworking Market](https://doi.org/10.55927/ijsmr.v4i8.70) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [A Conjoint Analysis of Preferred Chocolate Product Attributes for Local Chocolatiers Among Gen Z College Students in the First District of Davao City](https://doi.org/10.55927/ijsmr.v4i8.72) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [Creating Notable Pop-Up Photobooth Experiences: An Analysis of Gen Z's Sensory Preferences in Davao City](https://doi.org/10.55927/ijsmr.v4i8.69) — International Journal of Scientific Multidisciplinary Research
+- `2026-09-02` [Leveraging discrete choice experiments to increase participant diversity in future clinical trials](https://doi.org/10.7910/dvn/snrilp) — Harvard Dataverse
+- `2026-09-01` [Extrapolative Expectations and Behavioral Latency in Indian Capital Markets — Research Data](https://doi.org/10.17632/9t84x9y7bz) — Mendeley Data
+- `2026-09-01` [From LinkedIn to Labor Statistics: Using Revelio Microdata for Labor Market Research in Developing Economies](https://doi.org/10.1016/j.jdeveco.2026.103922) — Journal of Development Economics
+- `2026-09-01` [Terapage Redefines Computer-Assisted Telephone Interviewing with End-to-End AI Automation for Global Market Research](https://doi.org/10.5281/zenodo.22230505) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Terapage Redefines Computer-Assisted Telephone Interviewing with End-to-End AI Automation for Global Market Research](https://doi.org/10.5281/zenodo.22230506) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Balancing Growth and Impact: A Conjoint Analysis of Public Preferences for Data Center Policy](https://doi.org/10.1111/ssqu.70196) — Social Science Quarterly
+- `2026-09-01` [Conjoint analysis-based optimisation of a fortified synbiotic beverage for type 2 diabetes: Ingredient preferences and sensory validation](https://doi.org/10.33545/26174693.2026.v10.i9sd.9839) — International Journal of Advanced Biochemistry Research
+- `2026-09-01` [Identifying Key Intervention Attributes Driving Acceptability of Spouse/Partner-Centered HIV Interventions in Vietnam Using Conjoint Analysis](https://doi.org/10.2147/ppa.s635620) — Patient Preference and Adherence
+- `2026-09-01` [Corrigendum to “What matters most in upcycled foods? A conjoint analysis of consumer preferences across indulgent and healthy foods” (Future Foods 14 (2026) 1-10/101107)](https://doi.org/10.1016/j.fufo.2026.101183) — Future Foods
+- `2026-09-01` [Factors influence customers' choice in fish restaurants: evidence from Maharashtra, India](https://doi.org/10.56093/jifsi.v57i3.2025.174589) — Journal of the Inland Fisheries Society of India
+- `2026-08-31` [แบบจำลองความชอบและคณลกษณะของลกชนเตาหไกทพงประสงคของผบรโภค ในจงหวดชลบร : การประยกตใชการวเคราะหองคประกอบรวม (A consumer preference model and desirable attributes of chicken tofu meatballs in Chonburi pr…](https://doi.org/10.69598/sujthai.46.4.288399) — Silpakorn University e-Journal (Social Sciences Humanities and Arts)
+- `2026-08-31` [User-generated photos and videos in nature-based tourism marketing: a conceptual model for harnessing their impact on social media](https://doi.org/10.1080/0965254x.2026.2726171) — Journal of Strategic Marketing
+- `2026-08-31` [Public preferences for preventative dental care: a discrete choice experiment in China](https://doi.org/10.3389/fpubh.2026.1886047) — Frontiers in Public Health
+- `2026-08-31` [Food basket choice experiment to analyse income-based meat substitutions in France](https://doi.org/10.17605/osf.io/ngtw4) — OSF Preprints (OSF Preprints)
+- `2026-08-28` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22146125) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22145841) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22146126) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22145842) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Bride Price and Sexual Coercion in Intimate Relationships: A Study Based on Perceived Investment and Male Sexual Entitlement](https://doi.org/10.17605/osf.io/d5pqn) —
+- `2026-08-28` [nickinimlos/choice-experiment-analysis-R: Choice experiment survey analysis in R](https://doi.org/10.5281/zenodo.22150646) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [nickinimlos/choice-experiment-analysis-R: Choice experiment survey analysis in R](https://doi.org/10.5281/zenodo.22150647) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Discrete Choice Experiment on Ecological Attributes in the Luxury Sector](https://doi.org/10.1257/rct.19479-1.0) — AEA Randomized Controlled Trials
+- `2026-08-28` [Discrete Choice Experiment on Ecological Attributes in the Luxury Sector](https://doi.org/10.1257/rct.19479) — AEA Randomized Controlled Trials
+- `2026-08-27` [Willingness to Pay for Solar Home Systems in Faisalabad: An Application of Multitier Framework for Choice Experiment](https://doi.org/10.54938/ijemdss.2026.05.3.762) — International Journal of Emerging Multidisciplinaries Social Science
+- `2026-08-26` ['Market Research'](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1862&context=raw) — DigitalCommons - CalPoly (California State Polytechnic University)
+- `2026-08-26` [A Conceptual Framework for Economic Intelligence, Market Research, and Policy Decision-Making in Financial Services](https://doi.org/10.56201/ijefm.v10.no9.2025.pg310.326) — INTERNATIONAL JOURNAL OF ECONOMICS AND FINANCIAL MANAGEMENT
+- `2026-08-26` [Sustainable Competitive Advantage in Fast Fashion MSMEs: Evidence from Tanah Abang Market](https://doi.org/10.5281/zenodo.21186690) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-26` [Sustainable Competitive Advantage in Fast Fashion MSMEs: Evidence from Tanah Abang Market](https://doi.org/10.5281/zenodo.21186689) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-26` [Designing the Search Generative Experience: A Conjoint Analysis of User Preferences and Willingness to Pay](https://doi.org/10.17605/osf.io/3snzf) —
+- `2026-08-26` [EXPRESS: Toward Optimal Biophilic Booth Design: A Stress Recovery Theory Perspective](https://doi.org/10.1177/10963480261484954) — Journal of Hospitality & Tourism Research
+- `2026-08-25` [Extrapolative Expectations and Behavioral Latency in Indian Capital Markets — Research Data](https://doi.org/10.17632/9t84x9y7bz.1) — Mendeley Data
+- `2026-08-24` [The Future of Market Research: How AI Research Chatbots Create More Engaging Participant Experiences](https://doi.org/10.5281/zenodo.22075092) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [The Future of Market Research: How AI Research Chatbots Create More Engaging Participant Experiences](https://doi.org/10.5281/zenodo.22075091) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [Transcriptome and metabolite conjoint analysis reveals that exogenous methyl jasmonate regulates terpenoid synthesis in Dryopteris fragrans](https://doi.org/10.1186/s12870-026-09723-z) — BMC Plant Biology
+- `2026-08-24` [Discrete choice experiment dataset on job preferences among family physicians in Vietnam](https://doi.org/10.17632/crms22hkt4) — Mendeley Data
+- `2026-08-24` [Discrete choice experiment dataset on job preferences among family physicians in Vietnam](https://doi.org/10.17632/crms22hkt4.1) — Mendeley Data
+- `2026-08-24` [Understanding consumer preferences for allied health telehealth services in Australia: a discrete choice experiment](https://doi.org/10.1016/j.healthpol.2026.105746) — Health Policy
+- `2026-08-23` [Global World Development Indicators for Market Research and Geomarketing: MarketLens Harmonized Extract, 1970–2024](https://doi.org/10.3886/icpsr310791) — ICPSR Data Holdings
+- `2026-08-23` [Global World Development Indicators for Market Research and Geomarketing: MarketLens Harmonized Extract, 1970–2024](https://doi.org/10.3886/icpsr310791.v1) — ICPSR Data Holdings
+- `2026-08-23` [Consensus-based ranking of determinants for frontline therapy selection in chronic lymphocytic leukemia: A conjoint analysis](https://doi.org/10.1016/j.critrevonc.2026.105559) — Critical Reviews in Oncology/Hematology
+- `2026-08-23` [Assessing Prosocial Values in Initial Career Choice: The SVO Slider as a Behavioral Predictor of CSR Attribute Preferences](https://doi.org/10.1177/10690727261480365) — Journal of Career Assessment
+- `2026-08-23` [Twin_Transition_Combined_Quantitative_Qualitative_Data_Package](https://doi.org/10.17632/strjhtwbcg) — Mendeley Data
+- `2026-08-23` [Environmental management preferences data in the GBR region - Discrete Choice Experiments data](https://doi.org/10.25946/33317952.v1) — Central Queensland University
+- `2026-08-23` [DISCRETE CHOICE EXPERIMENT DATASET ON JOB PREFERENCES AMONG FAMILY PHYSICIANS IN VIETNAM](https://doi.org/10.5281/zenodo.22070297) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-23` [Environmental management preferences data in the GBR region - Discrete Choice Experiments data](https://doi.org/10.25946/33317952) — Central Queensland University
+- `2026-08-23` [DISCRETE CHOICE EXPERIMENT DATASET ON JOB PREFERENCES AMONG FAMILY PHYSICIANS IN VIETNAM](https://doi.org/10.5281/zenodo.22070298) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [STUDENT PREFERENCE FOR ONLINE LEARNING MEDIA IN PRACTICAL COURSES FLIPPED LEARNING](https://doi.org/10.36987/jes.v13i4.9038) — JURNAL EDUSCIENCE
+- `2026-08-21` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22037804) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22037641) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22037640) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.22037805) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Understanding agroforestry tree preferences in Kenya using a Discrete Choice Experiment](https://doi.org/10.5281/zenodo.22048303) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Understanding agroforestry tree preferences in Kenya using a Discrete Choice Experiment](https://doi.org/10.5281/zenodo.22048304) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-20` [Conjoint Analysis](https://doi.org/10.4324/9781003713548-7) —
+- `2026-08-20` [User Valuation of Conversational AI Tutors: A Conjoint Analysis of Preferences and Willingness to Pay](https://doi.org/10.17605/osf.io/g269v) —
+- `2026-08-20` [Pricing Analytics](https://doi.org/10.4324/9781003713548) — Rutgers, The State University of New Jersey
+- `2026-08-20` [Evacuation behaviors of electric vehicle drivers: route and charging choice experiments](https://doi.org/10.1016/j.trc.2026.105915) — Transportation Research Part C Emerging Technologies
+- `2026-08-18` [The Anchor Shift: Reconstructing Global Exchange Rate Determination—The China-U.S. Yield Spread as a Regime Variable, with Systematic Alternatives to Interest Rate Parity, the Mundell-Fleming Model,…](https://doi.org/10.5281/zenodo.21098055) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-18` [Understanding Tourist Preferences for Destination Attributes of Lombok Island Using a Conjoint Analysis Approach](https://doi.org/10.33506/sl.v15i3.5849) — SENTRALISASI
+- `2026-08-18` [Consumer Valuation of AR-Enabled Indoor Navigation in Shopping Malls: A Choice-Based Conjoint Analysis](https://doi.org/10.17605/osf.io/g9raf) —
+- `2026-08-18` [Evaluating Flood Insurance as a Climate Adaptation Using A Discrete Choice Experiment](https://doi.org/10.21203/rs.3.rs-10674054/v1) — Research Square
+- `2026-08-17` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21977112) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21976925) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21977113) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21976926) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-15` [Financial Risk Management Practices in a State-Owned Energy Enterprise: A Process-Based Case Study of Market Research Operations at PT Pertamina (Persero)](https://osf.io/5jxw6) — SocArXiv (OSF Preprints)
+- `2026-08-15` [Financial Risk Management Practices in a State-Owned Energy Enterprise: A Process-Based Case Study of Market Research Operations at PT Pertamina (Persero)](https://doi.org/10.31235/osf.io/5jxw6_v1) —
+- `2026-08-15` [Preferensi Masyarakat Kota Surakarta Terhadap Kebijakan Insentif Kendaraan Listrik Berdasarkan Metode Conjoint Analysis](https://eprints.ums.ac.id/147602/3/NASKAH_PUBLIKASI_TA_LUTHFI_RIZALDY_D100220233%20%281%29%20%281%29.pdf) — UMS Library Center of Academic Activities (Universitas Surakarta)
+- `2026-08-15` [Designing Complementary AI Teammates: A KSAO-Based Configuration Framework](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1128&context=amcis2026) — Journal of the Association for Information Systems
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21928033) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21931738) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21928032) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21932008) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21931737) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21932009) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21928215) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21928216) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [Quantifying welfare impairment from respiratory disease in fattening pigs using adaptive conjoint analysis](https://doi.org/10.1186/s40813-026-00533-1) — Porcine Health Management
+- `2026-08-14` [Policy Consequentiality in Tourism Discrete Choice Experiments](https://doi.org/10.1177/00472875261476285) — Journal of Travel Research
+- `2026-08-13` [Outsiders Hiring Decisions Dataset](https://doi.org/10.6084/m9.figshare.33250050.v1) — Figshare
+- `2026-08-13` [Outsiders Hiring Decisions Dataset](https://doi.org/10.6084/m9.figshare.33250050) — Figshare
+- `2026-08-12` [Combining Large Language Models with Named Entity Recognition to Automate Market Research Interview Transcription and Customer Journey Mapping – Empirical Feedback by Business Professionals](https://doi.org/10.1007/978-3-032-35043-5_21) — Lecture notes in business information processing
+- `2026-08-12` [Twin_Transition_Combined_Quantitative_Qualitative_Data_Package](https://doi.org/10.17632/strjhtwbcg.1) — Mendeley Data
+- `2026-08-12` [International Student Mobility and Retention: Evidence from Discrete Choice Experiments](https://doi.org/10.5281/zenodo.20957620) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-12` [International Student Mobility and Retention: Evidence from Discrete Choice Experiments](https://doi.org/10.5281/zenodo.21904934) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-12` [A Unified Quantum Interferometric Framework for Interaction-Free Measurement and Delayed-Choice Experiments](https://doi.org/10.48550/arxiv.2608.12268) — arXiv (Cornell University)
+- `2026-08-11` [Sales of Unauthorized E-Cigarettes in the United States, December 2025](https://doi.org/10.1056/evidpha2600137) — NEJM Evidence
+- `2026-08-11` [Sensory Driven Conjoint Analysis: How experiencing sensory stimuli differs from simply imagining them](https://doi.org/10.1016/j.foodqual.2026.106078) — Food Quality and Preference
+- `2026-08-11` [Survey-robust uncertainty quantification in generalised additive models for location, scale, and shape](https://doi.org/10.48550/arxiv.2608.10727) — arXiv (Cornell University)
+- `2026-08-11` [A design-of-designs survey framework to analyze information processing strategies in choice experiments](https://doi.org/10.1016/j.tra.2026.105200) — Transportation Research Part A Policy and Practice
+- `2026-08-11` [Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment](https://doi.org/10.48550/arxiv.2608.11371) — arXiv (Cornell University)
+- `2026-08-10` [What Are Video Surveys? Benefits, Use Cases, and How Terapage Speeds Up Market Research](https://doi.org/10.5281/zenodo.21972777) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [What Are Video Surveys? Benefits, Use Cases, and How Terapage Speeds Up Market Research](https://doi.org/10.5281/zenodo.21972776) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [Patient preferences for prurigo nodularis treatment: a discrete choice experiment](https://doi.org/10.1080/09546634.2026.2710949) — Journal of Dermatological Treatment
+- `2026-08-10` [Patient preferences for prurigo nodularis treatment: a discrete choice experiment](https://doi.org/10.6084/m9.figshare.33197607.v1) — Figshare
+- `2026-08-10` [Patient preferences for prurigo nodularis treatment: a discrete choice experiment](https://doi.org/10.6084/m9.figshare.33197607) — Figshare
+- `2026-08-09` [Supplementary Data for the Hardware and Software Interface Conjoint Analyses](https://doi.org/10.5281/zenodo.21863572) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-09` [Supplementary Data for the Hardware and Software Interface Conjoint Analyses](https://doi.org/10.5281/zenodo.21863571) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-08` [Patient Preferences for Biologic Therapies in Chronic Disease: A Systematic Review of Discrete Choice Experiments](https://osf.io/g4c7e) — OSF Preprints (OSF Preprints)
+- `2026-08-07` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21832412) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21832411) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [GenAI Was Here: Detecting Synthetic Voices in Survey Data](https://doi.org/10.24908/pceea.2026.21508) — Proceedings of the Canadian Engineering Education Association (CEEA)
+- `2026-08-06` [From simple to complex: A revealed preference test of discrete choice experiment designs](https://doi.org/10.1086/743453) — Journal of the Association of Environmental and Resource Economists
+- `2026-08-05` [A strategic analysis of the performance of the telephone banking channel](https://doi.org/10.26192/9xxv6) — University of Southern Queensland ePrints (University of Southern Queensland)
+- `2026-08-05` [Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis](https://osf.io/7fc6g) — OSF Preprints (OSF Preprints)
+- `2026-08-05` [AN ANALYSIS OF FACTORS AFFECTING THE ADOPTION OF DIGITAL TERRESTRIAL TELEVISION SERVICES IN THAILAND](https://doi.org/10.5281/zenodo.21800943) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [AN ANALYSIS OF FACTORS AFFECTING THE ADOPTION OF DIGITAL TERRESTRIAL TELEVISION SERVICES IN THAILAND](https://doi.org/10.5281/zenodo.21800944) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21783782) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21783962) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21783783) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Anthropology in Market Research and Artificial Intelligence: Crossroads of Opportunity or Forthcoming Pitfalls?](https://doi.org/10.22439/jba.v15i1.7810) — Journal of Business Anthropology
+- `2026-08-04` [Data-Driven Product Development: Balancing Customer Feedback with Market Research](https://doi.org/10.5281/zenodo.21783961) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-03` [Understanding the early exposure and potential impact of alcohol health warning labels in Ireland: results from a cross-sectional survey](https://doi.org/10.1016/j.drugpo.2026.105443) — International Journal of Drug Policy
+- `2026-08-03` [The price of protest: a conjoint analysis of public support and backlash to athlete activism](https://doi.org/10.1080/16184742.2026.2706803) — European Sport Management Quarterly
+- `2026-08-03` [Skewness seeking in a dynamic portfolio choice experiment](https://doi.org/10.1016/j.socec.2026.102633) — Journal of Behavioral and Experimental Economics
+- `2026-08-02` [Perception and Willingness to Pay for Mitigation of Tree Risk in a Peri-Urban Park in Central Mexico](https://doi.org/10.1080/10549811.2026.2710673) — Journal of Sustainable Forestry
+- `2026-08-01` [A Multi-Objective Humanitarian Aid Distribution Problem with Experts' Preferences](https://doi.org/10.1016/j.ijpe.2026.110175) — International Journal of Production Economics
+- `2026-08-01` [PATIENT PREFERENCES FOR PCSK9 INHIBITORS: A DISCRETE CHOICE EXPERIMENT](https://doi.org/10.1016/j.atherosclerosis.2026.121477) — Atherosclerosis
+- `2026-08-01` [Balancing the rota: registered nurses’ preferences for shift patterns – a discrete choice experiment](https://doi.org/10.1136/bmjopen-2026-116968) — BMJ Open
+- `2026-08-01` [Preferences for characteristics of contraceptive methods: a large, multi-country discrete choice experiment](https://doi.org/10.1136/bmjgh-2025-023196) — BMJ Global Health
+- `2026-07-31` [AI-use preferences among metropolitan tourism students in the Philippines: a choice experiment study](https://doi.org/10.1080/15313220.2026.2713534) — Journal of Teaching in Travel & Tourism
+- `2026-07-31` [Preferences of Stroke Survivors for Mental Health Service: A Discrete Choice Experiment](https://doi.org/10.1111/jocn.70422) — Journal of Clinical Nursing
+- `2026-07-31` [Willingness to pay for student housing attributes: a discrete choice experiment in Trieste, Italy](https://doi.org/10.21203/rs.3.rs-10214183/v1) — Research Square
+- `2026-07-30` [INFORMATION TOUCHPOINTS AND CONSUMER SHARING INTENTION OF HERBAL HEALTH DRINKS AMONG COLLEGE STUDENTS BASED ON CONJOINT ANALYSIS AND SEM](https://doi.org/10.61784/wjebr3120) — World journal of economics and business research.
+- `2026-07-29` [Investigating purchasing preferences of cannabis products on social media: conjoint analysis and online survey](https://doi.org/10.1186/s42238-026-00478-w) — Journal of Cannabis Research
+- `2026-07-28` [OpenMarket: A Synchronized Polymarket-Binance Dataset for High-Frequency Prediction-Market Research](https://arxiv.org/pdf/2607.26245) — arXiv (Cornell University)
+- `2026-07-28` [OpenMarket: A Synchronized Polymarket-Binance Dataset for High-Frequency Prediction-Market Research](https://doi.org/10.48550/arxiv.2607.26245) — arXiv (Cornell University)
+- `2026-07-28` [Analysis of Customer Preferences in Choosing Animal Health Care Facilities in The City of Surabaya Using Conjoint Analysis](https://doi.org/10.59141/jrssem.v5i12.1627) — Journal Research of Social Science Economics and Management
+- `2026-07-26` [Integrating Quantitative and Qualitative Market Research Methods in Design Economics.](https://doi.org/10.21608/idj.2026.504460.1617) — التصميم الدولية
+- `2026-07-24` [Analisis Preferensi Masyarakat Di Indonesia Terhadap Pemilihan Bahan Bakar Kendaraan Bermotor Non Subsidi Menggunakan Metode Conjoint Analysis](https://doi.org/10.25124/jibr.v4i1.10920) — Journal of Indonesia Business Research (JIBR)
+- `2026-07-24` [Open insurance: consumer preferences, trust, and willingness to pay](https://doi.org/10.1057/s41288-026-00391-6) — The Geneva Papers on Risk and Insurance Issues and Practice
+- `2026-07-23` [Guest editorial: Taking hybridity seriously in drug market research](https://doi.org/10.1108/dhs-07-2026-078) — Drugs Habits and Social Policy
+- `2026-07-22` [Validate Your Side Hustle Idea in 10 Minutes: A ChatGPT Prompt Chain for Market Research, Cost Projections, and Risk Analysis](https://doi.org/10.5281/zenodo.21489458) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-22` [Validate Your Side Hustle Idea in 10 Minutes: A ChatGPT Prompt Chain for Market Research, Cost Projections, and Risk Analysis](https://doi.org/10.5281/zenodo.21489457) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-22` [Preferences of MBA Graduates for Attributes of a Hypothetical Doctorate in Business Programme: A Conjoint Analysis in Digos City, Philippines](https://doi.org/10.9734/ajess/2026/v52i73219) — Asian Journal of Education and Social Studies
+- `2026-07-22` [Preferences of MBA Graduates for Attributes of a Hypothetical Doctorate in Business Programme: A Conjoint Analysis in Digos City, Philippines](https://hal.science/hal-05701792) — INRIA a CCSD electronic archive server
+- `2026-07-22` [A new model proposal for measuring interface effectiveness of mobile applications](https://doi.org/10.1007/s10660-026-10173-w) — Electronic Commerce Research
+- `2026-07-21` [Beyond transparency: How do financiers evaluate competing signals in supply chain carbon finance involving SMEs?](https://doi.org/10.1108/ijlm-11-2025-0775) — The International Journal of Logistics Management
+- `2026-07-20` [Understanding Demand for Children: A Discrete Choice Experiment](https://doi.org/10.1257/rct.19209) — AEA Randomized Controlled Trials
+- `2026-07-20` [Understanding Demand for Children: A Discrete Choice Experiment](https://doi.org/10.1257/rct.19209-1.0) — AEA Randomized Controlled Trials
+- `2026-07-20` [Understanding Demand for Children: A Discrete Choice Experiment](https://doi.org/10.1257/rct.19209-1.1) — AEA Randomized Controlled Trials
+- `2026-07-19` [Patient Information and Surgery Decisions: A Discrete Choice Experiment](https://doi.org/10.1002/hec.70135) — Health Economics
+- `2026-07-16` [The Basics of Market Research and Healthcare](https://doi.org/10.4324/9781003731726-1) — Productivity Press eBooks
+- `2026-07-16` [CONSUMER PREFERENCES FOR SUSTAINABLE LAST-MILE DELIVERY : A DISCRETE CHOICE EXPERIMENT](https://doi.org/10.15444/gfmc2026.03.05.02) — Global Fashion Management Conference
+- `2026-07-16` [Treatment preferences in Waldenström macroglobulinemia: an international discrete choice experiment in 1455 patients](https://doi.org/10.1016/j.bneo.2026.100271) — Blood Neoplasia
+- `2026-07-15` [Novel mechanisms in pancreatic cancer progression: TAF5L promotes metastatic capacity of pancreatic cancer cells by strengthening PIM1/glycolysis axis](https://doi.org/10.11588/heidok.00038634) —
+- `2026-07-14` [People Prefer Zero Inflation: Evidence from Conjoint Analysis on InflationUnemployment Trade-offs](https://doi.org/10.1257/rct.19157-1.0) — AEA Randomized Controlled Trials
+- `2026-07-14` [People Prefer Zero Inflation: Evidence from Conjoint Analysis on InflationUnemployment Trade-offs](https://doi.org/10.1257/rct.19157) — AEA Randomized Controlled Trials
+- `2026-07-13` [Feasibility Evaluation of Bet Well, a digital tool to enhance informed betting, on a market research sample](https://osf.io/52g7f) — OSF Preprints (OSF Preprints)
+- `2026-07-13` [Patient Information and Surgery Decisions:A Discrete Choice Experiment](https://research-information.bris.ac.uk/en/publications/1d4ec83a-f105-48ee-acf1-e4935d6b5de2) — Bristol Research (University of Bristol)
+- `2026-07-12` [CHOICE EXPERIMENTS AND ALTERNATIVE ELICITATION PROCEDURES](https://doi.org/10.22004/ag.econ.404722) — AgEcon Search (University of Minnesota, USA)
+- `2026-07-12` [The Impact of Sustainability Labels on Food Choices: Integrating Discrete Choice Experiments and Neuroeconomics](https://doi.org/10.22004/ag.econ.404520) — AgEcon Search (University of Minnesota, USA)
+- `2026-07-12` [Valuing Sustainability in China's Pork Market: Evidence from a Discrete Choice Experiment](https://doi.org/10.22004/ag.econ.404463) — AgEcon Search (University of Minnesota, USA)
+- `2026-07-10` [Reflexive AI: A human-centred AI tool for context-preserving qualitative data analysis in market research](https://doi.org/10.13140/rg.2.2.14216.99842) —
+- `2026-07-10` [What Makes People Worry About Vector-Borne Diseases? Using Conjoint Analysis to Unpack Public Risk Perception](https://osf.io/he7tc) — OSF Preprints (OSF Preprints)
+- `2026-07-10` [Preference Structures in Child Sexual Abuse Material: A Choice-Based Conjoint Analysis of Individual Selection Decisions Among Convicted Consumers](https://doi.org/10.17605/osf.io/79thj) —
+- `2026-07-10` [Consumer Preferences in Purchasing Broiler Chicken Meat at Tanjung Anyar Traditional Market Mojokerto City](https://doi.org/10.23960/jipt.v14i2.p482-493) — JURNAL ILMIAH PETERNAKAN TERPADU
+- `2026-07-10` [Clicking Through the Profile: An Accordion Conjoint Design for Measuring Information Search and Correcting Selective Attention Bias](https://osf.io/v8dj6) — OSF Preprints (OSF Preprints)
+- `2026-07-10` [Clicking Through the Profile: An Accordion Conjoint Design for Measuring Information Search and Correcting Selective Attention Bias](https://doi.org/10.17605/osf.io/r87s2) — Open Science Framework
+- `2026-07-09` [Consumer Preference-Based Redesign of Vanish Detergent Packaging Using Conjoint Analysis](https://doi.org/10.56127/juit.v5i2.2847) — Jurnal Ilmiah Teknik
+- `2026-07-09` [Attraction with an asterisk: A conjoint analysis of desirability, bias, and political judgments toward transgender women in relationship decision-making.](https://doi.org/10.1037/sgd0000948) — Psychology of Sexual Orientation and Gender Diversity
+- `2026-07-09` [Risk-Aware Assessment Framework for Industrial Renewable Energy Integration Using ISO 50001, a Digital-Twin-Ready Architecture, and Conditional Value-at-Risk](https://doi.org/10.3390/en19143239) — Energies
+- `2026-07-08` [Conjoint Analysis of Sheep Microbiome, Metabolome, and Transcriptome Revealed the Effect Mechanisms of Feeding with Broccoli Extract](https://doi.org/10.3390/vetsci13070663) — Veterinary Sciences
+- `2026-07-08` [Applying Conjoint Analysis to Assess Ergonomists' Preferences for Range of Motion Categories and Associated Ergonomic Risk Levels in Posture Evaluation](https://doi.org/10.1201/9781003582014-24) —
+- `2026-07-08` [Passenger Satisfaction and Airport Service Quality: A Systematic Literature Review of Statistical Models and Analytical Methodology with Focus on Indian Airports](https://doi.org/10.21275/sr26705144238) — International Journal of Science and Research (IJSR)
+- `2026-07-07` [Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/pdf/2607.05761) — arXiv (Cornell University)
+- `2026-07-07` [Synthetic Consumer Insight Generation with Large Language Models](https://doi.org/10.48550/arxiv.2607.05761) — arXiv (Cornell University)
+- `2026-07-07` [Bundling Fertilizer-Reduction Practices Into Agri-Environmental Payment Design: A Choice Experiment with Rice Farmers’ Preferences](https://doi.org/10.3390/agriculture16131482) — Agriculture
+- `2026-07-07` [Implementing the mail ballot: gauging voter preferences using a discrete choice experiment](https://doi.org/10.6084/m9.figshare.32927839) — Figshare
+- `2026-07-07` [Implementing the mail ballot: gauging voter preferences using a discrete choice experiment](https://doi.org/10.6084/m9.figshare.32927839.v1) — Figshare
+- `2026-07-07` [Implementing the mail ballot: gauging voter preferences using a discrete choice experiment](https://doi.org/10.1080/17457289.2026.2699987) — Journal of Elections Public Opinion and Parties
+- `2026-07-04` [Synthetic survey data in renewable energy acceptance research: A validity audit using PLS-SEM](https://doi.org/10.1016/j.esd.2026.102075) — Energy Sustainable Development/Energy for sustainable development
+- `2026-07-03` [In Their Own Words: How Undocumented Californians Are Navigating Medi-Cal Changes and Immigration Enforcement](https://doi.org/10.13140/rg.2.2.19933.37605) — eScholarship (California Digital Library)
+- `2026-07-03` [Μέτρηση προτιμήσεων των millennials και της Γενιάς Ζ σχετικά με προϊόντα Οίνου στην Ελληνική αγορά](https://doi.org/10.26233/heallink.tuc.105639) — Technical University of Crete
+- `2026-07-02` [Market research and development of buffalo milk yogurt in Rio Grande do Sul, Brazil](https://doi.org/10.22004/ag.econ.404236) — AgEcon Search (University of Minnesota, USA)
+- `2026-07-02` [Walkability in European Cities from a Tourist Perspective: A Comparative Study of Thessaloniki and Lyon using Choice-based Conjoint Analysis](https://doi.org/10.2174/0126671212479214260619111731) — The Open Transportation Journal
+- `2026-07-02` [Acceptance and likelihood of purchasing vitamin D-fortified foods among Irish adults aged 18–65 years: A consumer study with conjoint analysis](https://doi.org/10.1016/j.foodqual.2026.106038) — Food Quality and Preference
+- `2026-07-01` [Conjoint Analysis of Urban Readiness for Sustainable Waste Management Systems in Indonesia](https://doi.org/10.1088/1755-1315/1648/1/012009) — IOP Conference Series Earth and Environmental Science
+- `2026-07-01` [Patient preferences for treatment attributes in osteoarthritis: protocol for a systematic review of stated preference studies](https://doi.org/10.1136/bmjopen-2026-119054) — BMJ Open
+- `2026-07-01` [Attributes and Trade-Offs Impacting Contraceptive Choice: A Discrete Choice Experiment](https://doi.org/10.2147/ppa.s634397) — Patient Preference and Adherence
+- `2026-07-01` [Young People’s Valuations of Managing Compromised Molars: A Discrete Choice Experiment](https://doi.org/10.1177/23800844261452554) — JDR Clinical & Translational Research
+- `2026-07-01` [What Weighs into a Clinician’s Decision to Request an Interpreter? A Discrete Choice Experiment](https://doi.org/10.1016/j.jcjq.2026.07.005) — The Joint Commission Journal on Quality and Patient Safety
+- `2026-07-01` [Trading pay for pensions: Evidence from a discrete choice experiment in the United Kingdom](https://doi.org/10.1016/j.labeco.2026.102932) — Labour Economics
+- `2026-07-01` [L26/P-572 What women want in IVF, a discrete choice experiment](https://doi.org/10.1093/humrep/deag083.905) — Human Reproduction
+- `2026-07-01` [Willingness to Pay for Sustainable Rice Attributes: Evidence From a Discrete Choice Experiment](https://doi.org/10.5465/amproc.2026.17018poster) — Academy of Management Proceedings
+- `2026-06-30` [Ethical issues in market research](https://doi.org/10.69645/lfdt1479) — The business & management collection.
+- `2026-06-30` [Cognitive Biases in the Metaverse and Their Impact on the Effectiveness of Market Research: Toward a New Integrative Framework](https://doi.org/10.34118/djei.v17i2.4669) — Dirassat Journal Economic Issue
+- `2026-06-30` [From Static Reports to Real-Time Intelligence: How Pulse by Terapage Is Changing Market Research](https://doi.org/10.5281/zenodo.21534796) —
+- `2026-06-30` [A Holistic Market Research Analysis of Carbon-Negative Fuel Systems embedding Decision-Making Procedures](https://doi.org/10.5281/zenodo.20508557) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [A Holistic Market Research Analysis of Carbon-Negative Fuel Systems embedding Decision-Making Procedures](https://doi.org/10.5281/zenodo.20508556) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [From Static Reports to Real-Time Intelligence: How Pulse by Terapage Is Changing Market Research](https://doi.org/10.5281/zenodo.21534795) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [The Consumer Preferences for Apple and Samsung Flagship Smartphones in Surabaya Using Choice-Based Conjoint Analysis](https://doi.org/10.55681/economina.v5i6.2739) — JURNAL ECONOMINA
+- `2026-06-30` [Ανάλυση καταναλωτικών προτιμήσεων για υβριδικά και ηλεκτρικά αυτοκίνητα με τη μέθοδο Choice Based Conjoint Analysis](https://doi.org/10.26233/heallink.tuc.105607) — Technical University of Crete
+- `2026-06-30` [Design Priorities of Digital Transformation Support Policies for Older Small Business Owners: Evidence from a Choice-Based Conjoint Analysis and Willingness-to-Pay Estimation](https://doi.org/10.36491/apjsb.48.2.5) — 중소기업연구
+- `2026-06-30` [Analisis Preferensi Konsumen terhadap Keputusan Pembelian Pie Brownies di Kabupaten Subang](https://doi.org/10.33019/jia.v8i1.6175) — Journal of Integrated Agribusiness
+- `2026-06-30` [Factors influencing implementation decisions in health care: A discrete choice experiment of intervention adoption](https://doi.org/10.1016/j.hjdsi.2026.100786) — Healthcare
+- `2026-06-29` [Construct Tables Excel with Prompts PDF, synthetic survey responses, robustness tests and prompts](https://doi.org/10.5281/zenodo.18782557) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [Construct Tables Excel with Prompts PDF, synthetic survey responses, robustness tests and prompts](https://doi.org/10.5281/zenodo.21027317) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [Academic Stress and Subjective Well-Being among Chinese and American Adolescents: A Cross-Cultural Analysis Using LLM-Generated Synthetic Data](https://doi.org/10.54691/s75e5s91) — Scientific Journal of Intelligent Systems Research
+- `2026-06-29` [DISCRETE CHOICE EXPERIMENT FOR STATE ISLAMIC UNIVERSITY QUALITY IMPROVEMENT](https://doi.org/10.20473/jebis.v12i1.85016) — Jurnal Ekonomi dan Bisnis Islam (Journal of Islamic Economics and Business)
+- `2026-06-27` [Consumer Preferences for Repair Subsidy Design: Insights from an Adaptive Choice-Based Conjoint Analysis](https://doi.org/10.55845/joce-2026-41360) — Circular Economy
+- `2026-06-27` [Consumer Preferences for Attribute Selection of White Organic Rice Products in Pontianak City](https://doi.org/10.20961/agrisema.v5i1.110698) — Agricultural Socio-Economic Empowerment and Agribusiness Journal
+- `2026-06-26` [What matters most in upcycled foods? A conjoint analysis of consumer preferences across indulgent and healthy foods](https://doi.org/10.1016/j.fufo.2026.101107) — Future Foods
+- `2026-06-26` [Probabilistic Attribute Presentation in Discrete Choice Experiments: A Scoping Review of Current Practice](https://doi.org/10.1007/s40271-026-00825-2) — Patient
+- `2026-06-25` [International student mobility and retention: evidence from discrete choice experiments](https://doi.org/10.1080/03075079.2026.2692621) — Studies in Higher Education
+- `2026-06-24` [K23232323/synthetic-survey-eval: v1.0.0](https://doi.org/10.5281/zenodo.20837122) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-24` [K23232323/synthetic-survey-eval: v1.0.0](https://doi.org/10.5281/zenodo.20837121) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-24` [Assessing smoking cessation preferences in Germany: a discrete choice experiment](https://doi.org/10.1093/ntr/ntag142) — Nicotine & Tobacco Research
+- `2026-06-24` [Consumers’ preferences for energy efficiency in refrigerators: a choice experiment in South Korea](https://doi.org/10.1007/s12053-026-10451-4) — Energy Efficiency
+- `2026-06-23` [Data Science in Market Research: Emerging Trends, Methodologies, and Important Applications for Business Intelligence](https://doi.org/10.5281/zenodo.20807178) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-23` [Data Science in Market Research: Emerging Trends, Methodologies, and Important Applications for Business Intelligence](https://doi.org/10.5281/zenodo.20807179) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-23` [Crafting the wearable computer: Design process and user experience](https://doi.org/10.17869/enu.236998) — Research Output (Edinburgh Napier University)
+- `2026-06-22` [Brand Identity, Market Research, and Trend Forecasting](https://doi.org/10.4324/9781003566960-5) —
+- `2026-06-22` [Data for Electricity, Carbon Allowance, and Green Certificate Markets Research](https://doi.org/10.17632/3m7r874sw9) — Mendeley Data
+- `2026-06-22` [Data for Electricity, Carbon Allowance, and Green Certificate Markets Research](https://doi.org/10.17632/3m7r874sw9.2) — Mendeley Data
+- `2026-06-22` [Building Cross-Disciplinary Market Research Projects as Experiential Learning: A Model Pairing Animal Science and Agricultural Economics](https://doi.org/10.56103/nactaj.v69itt.392) — NACTA Journal
+- `2026-06-22` [Swedish consumers’ preferences for tofu sustainability characteristics: A choice experiment with information treatments](https://osf.io/a986e) — OSF Preprints (OSF Preprints)
+- `2026-06-21` [What Makes People Worry About Vector-Borne Diseases? Using Conjoint Analysis to Unpack Public Risk Perception](https://doi.org/10.17605/osf.io/he7tc) — Open Science Framework
+- `2026-06-20` [Generating Public Health Responses using Survey-Augmented Large Language Models](https://doi.org/10.48550/arxiv.2606.21820) — arXiv (Cornell University)
+- `2026-06-20` [Generating Public Health Responses using Survey-Augmented Large Language Models](https://arxiv.org/pdf/2606.21820) — arXiv (Cornell University)
+- `2026-06-20` [Quantum Erasure and the Photon Helix: A KuiQuark Sea Interpretation of Delayed-Choice Experiments](https://doi.org/10.5281/zenodo.20768743) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [What drives family physicians to rural practice? A discrete choice experiment in Vietnam](https://doi.org/10.1016/j.hpopen.2026.100175) — Health Policy OPEN
+- `2026-06-20` [Quantum Erasure and the Photon Helix: A KuiQuark Sea Interpretation of Delayed-Choice Experiments](https://doi.org/10.5281/zenodo.20768742) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Synthetic Contingent Valuation Using Large Language Models – Replication Data and Code](https://doi.org/10.5281/zenodo.20754918) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Synthetic Contingent Valuation Using Large Language Models – Replication Data and Code](https://doi.org/10.5281/zenodo.20754919) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Student Preferences and School Choice: A Discrete Choice Experiment](https://doi.org/10.1257/rct.18811) — AEA Randomized Controlled Trials
+- `2026-06-19` [Student Preferences and School Choice: A Discrete Choice Experiment](https://doi.org/10.1257/rct.18811-1.0) — AEA Randomized Controlled Trials
+- `2026-06-19` [Preferences for rapid implementation science: a real-time discrete choice experiment](https://doi.org/10.1186/s43058-026-00986-z) — Implementation Science Communications
+- `2026-06-17` [Treatment Priorities in Patients With a History of Laryngeal Cancer: A Conjoint Analysis](https://doi.org/10.1002/ohn.70286) — Otolaryngology
+- `2026-06-17` [ANALYZING ATTRIBUTES THAT AFFECT CONSUMER PREFERENCE ON BOARDING HOUSE SELECTION AMONG WORKERS IN WIYUNG, SURABAYA: A CONJOINT ANALYSIS APPROACH](https://doi.org/10.5281/zenodo.20724334) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [ANALYZING ATTRIBUTES THAT AFFECT CONSUMER PREFERENCE ON BOARDING HOUSE SELECTION AMONG WORKERS IN WIYUNG, SURABAYA: A CONJOINT ANALYSIS APPROACH](https://doi.org/10.5281/zenodo.20724333) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [Decoding patient preferences: key drivers in selecting thyroid cancer surgery- a discrete choice experiment](https://doi.org/10.3389/fendo.2026.1705391) — Frontiers in Endocrinology
+- `2026-06-16` [Preference for supplementary voluntary health insurance and heterogeneity in China: a discrete choice experiment](https://doi.org/10.1093/heapol/czag080) — Health Policy and Planning
+- `2026-06-15` [Uzbekistan Company Registry API: Entity Search and Director Lookup](https://doi.org/10.5281/zenodo.20705876) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Central Asia Business Entity Verification Platform 2026](https://doi.org/10.5281/zenodo.20705867) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan Corporate Registry Data: Company Profiles API 2026](https://doi.org/10.5281/zenodo.20705916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan Corporate Registry Data: Company Profiles API 2026](https://doi.org/10.5281/zenodo.20705861) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Uzbekistan Company Registry API: Entity Search and Director Lookup](https://doi.org/10.5281/zenodo.20705922) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan Corporate Registry Data: Company Profiles API 2026](https://doi.org/10.5281/zenodo.20705915) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Central Asia Business Entity Verification Platform 2026](https://doi.org/10.5281/zenodo.20705868) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Central Asia Business Entity Verification Platform 2026](https://doi.org/10.5281/zenodo.20705917) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan AML and Sanctions Screening Data for Financial Institutions](https://doi.org/10.5281/zenodo.20705919) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan Corporate Registry Data: Company Profiles API 2026](https://doi.org/10.5281/zenodo.20705862) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan AML and Sanctions Screening Data for Financial Institutions](https://doi.org/10.5281/zenodo.20705920) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Uzbekistan Company Registry API: Entity Search and Director Lookup](https://doi.org/10.5281/zenodo.20705921) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan AML and Sanctions Screening Data for Financial Institutions](https://doi.org/10.5281/zenodo.20705872) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Uzbekistan Company Registry API: Entity Search and Director Lookup](https://doi.org/10.5281/zenodo.20705875) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Kazakhstan AML and Sanctions Screening Data for Financial Institutions](https://doi.org/10.5281/zenodo.20705871) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Central Asia Business Entity Verification Platform 2026](https://doi.org/10.5281/zenodo.20705918) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [Beyond classification metrics: a psychometric-aware benchmark for data augmentation in imbalanced student mental health surveys](https://doi.org/10.3389/fdgth.2026.1865324) — Frontiers in Digital Health
+- `2026-06-14` [Market Microstructure Intelligence Framework (MMIF): A Decision-Centric Research Architecture for Strategic Alpha Discovery in Quantitative and High-Frequency Trading Firms](https://doi.org/10.5281/zenodo.20691836) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Market Microstructure Intelligence Framework (MMIF): A Decision-Centric Research Architecture for Strategic Alpha Discovery in Quantitative and High-Frequency Trading Firms](https://doi.org/10.5281/zenodo.20691837) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Regulatory Compliance Data: Central Asia Business Verification](https://doi.org/10.5281/zenodo.20691411) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Corporate Registry API: Kazakhstan and Uzbekistan Company Data](https://doi.org/10.5281/zenodo.20691414) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Regulatory Compliance Data: Central Asia Business Verification](https://doi.org/10.5281/zenodo.20691412) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Business Entity Lookup Tool: Kazakhstan Company Search 2026](https://doi.org/10.5281/zenodo.20691409) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Corporate Registry API: Kazakhstan and Uzbekistan Company Data](https://doi.org/10.5281/zenodo.20691413) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Business Entity Lookup Tool: Kazakhstan Company Search 2026](https://doi.org/10.5281/zenodo.20691410) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-14` [Discrete Choice and Competitive Reactions: End-to-End Simulation with the R Package cash](https://arxiv.org/pdf/2606.15593) — arXiv (Cornell University)
+- `2026-06-14` [Discrete Choice and Competitive Reactions: End-to-End Simulation with the R Package cash](https://doi.org/10.48550/arxiv.2606.15593) — arXiv (Cornell University)
+- `2026-06-13` [An analytical solution to the hotel pricing model for the equilibrium choice-based conjoint analysis approach](https://doi.org/10.1057/s41272-026-00599-0) — Journal of Revenue and Pricing Management
+- `2026-06-12` [Cognitive Weighting of Constraints on Exercise Participation: A Conjoint Analysis](https://doi.org/10.3390/bs16060976) — Behavioral Sciences
+- `2026-06-12` [Back to the future? Consumer preferences for bundling news with other content](https://doi.org/10.1080/16522354.2026.2679885) — Journal of Media Business Studies
+- `2026-06-12` [How the “high in sodium” warning and information about emerging technologies on burger labels influence consumer purchase decisions](https://doi.org/10.1016/j.meatsci.2026.110156) — Meat Science
+- `2026-06-11` [From Prompts to Preferences: An Open-Source Platform for Generative AI-Enhanced Conjoint Analysis](https://doi.org/10.48550/arxiv.2606.12972) — arXiv (Cornell University)
+- `2026-06-11` [From Prompts to Preferences: An Open-Source Platform for Generative AI-Enhanced Conjoint Analysis](https://arxiv.org/pdf/2606.12972) — arXiv (Cornell University)
+- `2026-06-10` [Preferred park features for maximising park visitation, physical activity and social interaction among adults: A conjoint analysis](https://doi.org/10.26187/deakin.32621853) — Deakin Research Online (Deakin University)
+- `2026-06-10` [Valuing cultural heritage: a PRISMA review of choice experiment studies](https://doi.org/10.1007/s43545-026-01526-1) — SN Social Sciences
+- `2026-06-10` [Caregiver Preferences for AI-Supported Telemedicine in Pediatric Palliative Care: A Discrete Choice Experiment](https://doi.org/10.1177/08258597261458091) — Journal of Palliative Care
+- `2026-06-09` [Communicating digital responsibility: how trust signals shape consumer responses in tourism platforms](https://doi.org/10.3389/fcomm.2026.1837842) — Frontiers in Communication
+- `2026-06-09` [cash: Discrete Choice and Competitive Reactions: End-to-End Simulation](https://doi.org/10.32614/cran.package.cash) —
+- `2026-06-08` [Kazakhstan Corporate Debt Markets: Company Data Reference](https://doi.org/10.5281/zenodo.20599751) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [Kazakhstan Corporate Debt Markets: Company Data Reference](https://doi.org/10.5281/zenodo.20599750) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-07` [Consumer Preference Analysis of Turmeric Simplisia Attributes Using the Conjoint Analysis Method at PT CAN Herbs Indonesia](https://doi.org/10.58184/jfsa.v4i2.954) — Journal of Food Security and Agroindustry
+- `2026-06-06` [PrefAnalyst: An LLM-based multi-agent system for customer preference identification and recommendation in the apparel industry](https://doi.org/10.1016/j.aei.2026.104888) — Advanced Engineering Informatics
+- `2026-06-05` [Public knowledge of ultra-processed foods: Insights from a national survey of Australian adults](https://doi.org/10.1186/s12937-026-01345-3) — Nutrition Journal
+- `2026-06-05` [A comparative choice experiment on naming effects for cellular agriculture meat products](https://doi.org/10.1016/j.foodqual.2026.105999) — Food Quality and Preference
+- `2026-06-04` [Data for Electricity, Carbon Allowance, and Green Certificate Markets Research](https://doi.org/10.17632/3m7r874sw9.1) — Mendeley Data
+- `2026-06-04` [Mastering Conjoint Analysis](https://osf.io/k347f) — OSF Preprints (OSF Preprints)
+- `2026-06-04` [The Hiring Value of Digital Micro-Credentials. Evidence from a Discrete Choice Experiment in Germany](https://doi.org/10.31235/osf.io/8a7h6_v1) —
+- `2026-06-02` [Investment Preference of Professionals in City of Mati, Davao Oriental: A Conjoint Analysis](https://doi.org/10.36948/ijfmr.2026.v08i03.79973) — International Journal For Multidisciplinary Research
+- `2026-06-01` [Market Research on Educational Tourism Marketing](https://doi.org/10.1142/9789819824663_0008) — WORLD SCIENTIFIC eBooks
+- `2026-06-01` [EFFECTS OF MARKET RESEARCH QUALITY IN THE SERVICES CONTRACT LIFE CYCLE](https://hdl.handle.net/10945/75693) — Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School)
+- `2026-06-01` [MARKET RESEARCH ANALYSIS OF RETAIL FASHION COSTUMES & APPAREL USING LLM—A QUALITATIVE STUDY](https://doi.org/10.62441/actainnovations.v60i.710) — Acta Innovations
+- `2026-06-01` [From Knowledge to Action: Campaign and Market Research Insights on LDL Cholesterol Management Among U.S. Adults and Survivors of Heart Attacks and Strokes](https://doi.org/10.1016/j.jacl.2026.05.202) — Journal of clinical lipidology
+- `2026-06-01` [Mapping Tourist Preferences for Sustainable Urban Transport: A Conjoint Analysis Approach](https://doi.org/10.1088/1755-1315/1638/1/012036) — IOP Conference Series Earth and Environmental Science
+- `2026-06-01` [Farmers' preferences for papaya varieties and key attributes in north-eastern Karnataka: insights from conjoint analysis](https://doi.org/10.33545/26180723.2026.v9.i6n.3820) — International Journal of Agriculture Extension and Social Development
+- `2026-06-01` [Patient Preferences for Lipid-Lowering Agents in Hypercholesterolemia: A Discrete Choice Experiment](https://doi.org/10.1016/j.vhri.2026.101662) — Value in Health Regional Issues
+- `2026-06-01` [Preferences for hospital in the home for COVID-19: a discrete choice experiment study](https://doi.org/10.1186/s13561-026-00798-w) — Health Economics Review
+- `2026-05-31` [Customer-oriented approach to business management in the consumer market](https://doi.org/10.36887/2415-8453-2026-2-38) — Ukrainian Journal of Applied Economics and Technology
+- `2026-05-31` [Securitised Faith and Dissolving Moorings: Religious Persecution Perception and Skilled Emigration Intention in Pakistan (Dataset 2025-2026)](https://doi.org/10.5281/zenodo.20478304) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [Securitised Faith and Dissolving Moorings: Religious Persecution Perception and Skilled Emigration Intention in Pakistan (Dataset 2025-2026)](https://doi.org/10.5281/zenodo.20478305) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Golem and the AI Agent Market: Cascade Market Research (Draft)](https://doi.org/10.5281/zenodo.20464432) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Golem and the AI Agent Market: Cascade Market Research (Draft)](https://doi.org/10.5281/zenodo.20464433) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Understanding HPV vaccine preferences among sexual minority men living with HIV in Abuja, Nigeria using a discrete choice experiment](https://doi.org/10.1016/j.vaccine.2026.128771) — Vaccine
+- `2026-05-30` [Delayed-Choice Experiments and Basin-Dependent Temporal Reconstruction](https://doi.org/10.5281/zenodo.20453895) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Delayed-Choice Experiments and Basin-Dependent Temporal Reconstruction](https://doi.org/10.5281/zenodo.20453894) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [Strategic Market Management and Digital Literacy in Preventing Business Failures Among Indonesian Migrant Workers](https://doi.org/10.17358/jabm.12.2.503) — Jurnal Aplikasi Bisnis dan Manajemen
+- `2026-05-29` [Preferred park features for maximising park visitation, physical activity and social interaction among adults: A conjoint analysis](https://doi.org/10.1016/j.cities.2026.107249) — Cities
+- `2026-05-29` [Consumer Preferences for Digital Marketing Attributes in Gluten-Free Products: a Case Study of Cookly](https://doi.org/10.17358/jabm.12.2.398) — Jurnal Aplikasi Bisnis dan Manajemen
+- `2026-05-29` [Inovatyvaus biologinės kilmės produkto kūrimas iš obuolių išspaudų](https://hdl.handle.net/20.500.12259/316559) — Vytautas Magnus University
+- `2026-05-28` [Cultural factors in market research](https://doi.org/10.69645/acek6297) — The business & management collection.
+- `2026-05-28` [Pengaruh Strategi Merek, Identitas Visual, dan Riset Pasar terhadap Ekuitas Merek melalui Persepsi Konsumen pada PT Solusi Teknologi Aplikasi Yasha di Jakarta Selatan](https://doi.org/10.35870/emt.v10i3.6312) — Jurnal EMT KITA
+- `2026-05-28` [Systematic Review of Preferences for Preexposure Prophylaxis Among Persons Assigned Male at Birth in the United States](https://doi.org/10.1097/jnc.0000000000000655) — Journal of the Association of Nurses in AIDS Care
+- `2026-05-28` [TMD: The Delayed‑Choice Experiment as a Consequence of the Non‑Unitary Triadic A–B–C Wave](https://doi.org/10.5281/zenodo.20433623) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-27` [Societal Preferences for Assessment Pathways of Rare Disease Drugs: A Discrete Choice Experiment](https://doi.org/10.1007/s40258-026-01047-1) — Applied Health Economics and Health Policy
+- `2026-05-26` [Consumer evaluation of digital product passport information: Evidence from a conjoint analysis in Japan](https://doi.org/10.1016/j.telpol.2026.103249) — Telecommunications Policy
+- `2026-05-26` [What Catches the Eye? A Conjoint Study of Infographic Design Preferences](https://doi.org/10.48550/arxiv.2605.27554) — arXiv (Cornell University)
+- `2026-05-26` [What Catches the Eye? A Conjoint Study of Infographic Design Preferences](https://arxiv.org/pdf/2605.27554) — arXiv (Cornell University)
+- `2026-05-25` [Using neuroimaging (fNIRS) and choice experiments to explore female preferences for male attributes](https://doi.org/10.1016/j.jneumeth.2026.110803) — Journal of Neuroscience Methods
+- `2026-05-23` [Enhancing Airline Marketing Strategies through In-depth Market Research: A Comprehensive Guide](https://doi.org/10.24108/preprints-3115313) — Tarbiat Modares University
+- `2026-05-23` [Stated preferences in the Iranian health system: a systematic review of discrete choice experiments and conjoint analysis](https://doi.org/10.6084/m9.figshare.c.8504124) — Figshare
+- `2026-05-23` [Stated preferences in the Iranian health system: a systematic review of discrete choice experiments and conjoint analysis](https://doi.org/10.1186/s13561-026-00795-z) — Health Economics Review
+- `2026-05-23` [Stated preferences in the Iranian health system: a systematic review of discrete choice experiments and conjoint analysis](https://doi.org/10.6084/m9.figshare.c.8504124.v1) — Figshare
+- `2026-05-23` [Additional file 1 of Stated preferences in the Iranian health system: a systematic review of discrete choice experiments and conjoint analysis](https://doi.org/10.6084/m9.figshare.32494386.v1) — Figshare
+- `2026-05-23` [Additional file 1 of Stated preferences in the Iranian health system: a systematic review of discrete choice experiments and conjoint analysis](https://doi.org/10.6084/m9.figshare.32494386) — Figshare
+- `2026-05-22` [Women's labor participation in the Mexican fitness sector: a longitudinal study based on the National Survey of Fitness Trends (ACSM)](https://doi.org/10.1108/ijsms-10-2025-0510) — International Journal of Sports Marketing and Sponsorship
+- `2026-05-22` [Customer Preference on Banking Services in the City of Mati](https://doi.org/10.36948/ijfmr.2026.v08i03.79090) — International Journal For Multidisciplinary Research
+- `2026-05-22` [Dataset for "Dual-host choice experiments reveal inconsistent seasonal blood-feeding preference in Argentinean](https://doi.org/10.6084/m9.figshare.32347485) — Figshare
+- `2026-05-22` [Systematic Development of Discrete Choice Experiment Attributes to Assess PrEP Preferences Among MSM and Transgender Women in Baltimore: A Qualitative Study](https://doi.org/10.1097/jnc.0000000000000653) — Journal of the Association of Nurses in AIDS Care
+- `2026-05-21` [Analyzing Consumer Preferences For Mie Gacoan Product Attributes Through Conjoint Analysis In Surabaya](https://doi.org/10.29165/ajarcde.v10i2.1072) — AJARCDE (Asian Journal of Applied Research for Community Development and Empowerment)
+- `2026-05-21` [Early consumer response to electric buses in urban areas: Evidence from a discrete choice experiment](https://doi.org/10.1016/j.eneco.2026.109392) — Energy Economics
+- `2026-05-21` [Preferences for Cancer Information and Support Services—A Discrete Choice Experiment](https://doi.org/10.21203/rs.3.rs-9605886/v1) — Research Square
+- `2026-05-21` [A neurobehavioral study of bus crowding valuations in picture-based and immersive choice experiments](https://doi.org/10.1016/j.trc.2026.105762) — Transportation Research Part C Emerging Technologies
+- `2026-05-21` [Women’s preferences for breast cancer risk-reducing medications: a discrete choice experiment study](https://doi.org/10.1038/s41523-026-00972-7) — npj Breast Cancer
+- `2026-05-20` [Consumer Demand for Contemporary Beverages in Semi-Urban Markets](https://doi.org/10.46851/245) — Journal of Business and Political Economy Biannual Review of The Indonesian Economy
+- `2026-05-20` [Discrete Choice Experiment on Access, Use, and Preferences for Contraceptive Methods in Colombia](https://doi.org/10.1257/rct.18692-1.0) — AEA Randomized Controlled Trials
+- `2026-05-20` [Discrete Choice Experiment on Access, Use, and Preferences for Contraceptive Methods in Colombia](https://doi.org/10.1257/rct.18692) — AEA Randomized Controlled Trials
+- `2026-05-19` [Energy justice and citizens' willingness to participate: A discrete choice experiment in a Mexico-United States cross-border region](https://doi.org/10.1016/j.erss.2026.104770) — Energy Research & Social Science
+- `2026-05-18` [Understanding Synthetic Users and Synthetic Data: The Future of AI-Powered Market Research](https://doi.org/10.5281/zenodo.20271449) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-18` [Understanding Synthetic Users and Synthetic Data: The Future of AI-Powered Market Research](https://doi.org/10.5281/zenodo.20271450) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-18` [Strategic innovation in operations management to enhance SME performance](https://doi.org/10.1108/mbe-06-2025-0127) — Measuring Business Excellence
+- `2026-05-18` [PREFERENSI KONSUMEN TERHADAP PEMBELIAN SAYURAN SEGAR BAYAM (AMARANTHUS Sp) DI PASAR TRADISIONAL FLAMBOYAN KOTA PONTIANAK](https://doi.org/10.31602/zmip.v51i2.23194) — ZIRAA AH MAJALAH ILMIAH PERTANIAN
+- `2026-05-16` [An Integrated Statistical Methodology Approach to Enrollment Management](https://doi.org/10.1111/hequ.70138) — Higher Education Quarterly
+- `2026-05-15` [Taxpayers’ Willingness to Pay for Global Decarbonization via Renewable Energy Official Development Assistance: A Discrete Choice Experiment in South Korea](https://doi.org/10.3390/en19102371) — Energies
+- `2026-05-14` [Developing a three-dimensional function evaluation model integrating scenario, function, and user requirements for intelligent child safety seat design](https://doi.org/10.1016/j.ijadr.2026.04.001) — Advanced Design Research
+- `2026-05-14` [Willingness-to-pay towards hedonic and utilitarian ancillaries in developing countries: evidence for pricing decisions across travel-time, destination, and carrier type](https://doi.org/10.1057/s41272-026-00593-6) — Journal of Revenue and Pricing Management
+- `2026-05-13` [Understanding Synthetic Users and Synthetic Data: The Future of AI-Powered Market Research](https://doi.org/10.5281/zenodo.20157103) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-13` [Understanding Synthetic Users and Synthetic Data: The Future of AI-Powered Market Research](https://doi.org/10.5281/zenodo.20157102) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-13` [Health-related quality of life: Discrete choice experiment](https://hdl.handle.net/10467/183711) — Czech Technical University Digital Library (Czech Technical University in Prague)
+- `2026-05-13` [Factors Affecting Patient Preferences in Ophthalmology: A Discrete Choice Experiment (DCE) Analysis](https://hdl.handle.net/10467/183810) — Czech Technical University Digital Library (Czech Technical University in Prague)
+- `2026-05-12` [What are Insight Communities? A Practical Guide to the Modern Market Researchers](https://doi.org/10.5281/zenodo.20137024) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [What are Insight Communities? A Practical Guide to the Modern Market Researchers](https://doi.org/10.5281/zenodo.20137025) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [What is Synthetic Data? Features, Benefits, and Why It Matters in the Modern Market Research](https://doi.org/10.5281/zenodo.20132845) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-12` [What is Synthetic Data? Features, Benefits, and Why It Matters in the Modern Market Research](https://doi.org/10.5281/zenodo.20132846) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-11` [The Objective-Authority Gap: When Practice Authority Overrides Product Accountability](https://doi.org/10.5281/zenodo.20121726) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-11` [The Objective-Authority Gap: When Practice Authority Overrides Product Accountability](https://doi.org/10.5281/zenodo.20121725) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-11` [Best-Worst Scaling (BWS) and Discrete Choice Experiment (DCE) U.S.-studies](https://osf.io/ac6kr) — OSF Preprints (OSF Preprints)
+- `2026-05-10` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20103230) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-10` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20064423) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-10` [More Is Not More: What Matters for Diversity in LLM Opinions?](https://doi.org/10.48550/arxiv.2607.20429) — arXiv (Cornell University)
+- `2026-05-10` [More Is Not More: What Matters for Diversity in LLM Opinions?](https://arxiv.org/pdf/2607.20429) — arXiv (Cornell University)
+- `2026-05-09` [Assessing Natural Health Product-Drug Interactions and Coding Feasibility: Analysis of a New Zealand General Population Dataset from an Online Market Research Panel](https://doi.org/10.1007/s40264-026-01667-5) — Drug Safety
+- `2026-05-09` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20098389) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-09` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20098844) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-08` [Home Intelligence, Morale, and Market Research](https://doi.org/10.1093/9780191933301.003.0009) —
+- `2026-05-08` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20086305) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-08` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20079566) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-08` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20078670) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-08` [Consumer preferences for local food characteristics in grocery shopping apps: a multi-country discrete choice experiment](https://doi.org/10.1007/s10660-026-10144-1) — Electronic Commerce Research
+- `2026-05-07` [7 Essential Capabilities Insight Teams Need in a Modern Market Research Platform](https://doi.org/10.5281/zenodo.20084501) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-07` [7 Essential Capabilities Insight Teams Need in a Modern Market Research Platform](https://doi.org/10.5281/zenodo.20084500) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-07` [Asian Ideals Of The Asian Nose: A Conjoint Analysis](https://doi.org/10.5281/zenodo.20064424) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-07` [Discrete Choice Experiments in Management Research](https://doi.org/10.1177/10944281261428690) — Organizational Research Methods
+- `2026-05-07` [Patients’ Preferences for Surgical Procedures in Hidradenitis Suppurativa: A Discrete Choice Experiment](https://doi.org/10.17615/q6gn-ws65) — Carolina Digital Repository (University of North Carolina at Chapel Hill)
+- `2026-05-06` [Causal inference in conjoint analysis: Logit models vs. potential outcomes](https://doi.org/10.1016/j.jocm.2026.100610) — Journal of Choice Modelling
+- `2026-05-06` [Examining Employers’ Perceptions of Online Credentials: A Discrete Choice Experiment](https://doi.org/10.18665/sr.325531) —
+- `2026-05-05` [Replication data for "svy: A Python Package for Complex Survey Design and Analysis"](https://doi.org/10.5281/zenodo.20039375) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-05` [Replication data for "svy: A Python Package for Complex Survey Design and Analysis"](https://doi.org/10.5281/zenodo.20039376) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-04` [APPLICATION OF MODEL CONTEXT PROTOCOL FOR CREATING INTELLIGENT MARKETING ANALYTICS AGENTS: ARCHITECTURE OF ADAPTIVE CONTEXTUALIZATION IN MARKET RESEARCH SYSTEMS](https://doi.org/10.64007/conferencearticle_69f88838a740b4.60159103) —
+- `2026-05-04` [Patient Preferences for Treatment of Intermediate-risk Prostate Cancer: A Discrete Choice Experiment](https://doi.org/10.1016/j.urology.2026.03.031) — Urology
+- `2026-05-03` [From Prompts to Preferences: An Open-Source Platform for Generative AI-Enhanced Conjoint Analysis (demo study on robot design features for ambient assisted living)](https://doi.org/10.17605/osf.io/6cqhx) —
+- `2026-05-01` [Entrepreneurship model in start-ups on a pathway to achieving sustainable development goal (SDG) 8](https://doi.org/10.1016/j.joitmc.2026.100780) — Journal of Open Innovation Technology Market and Complexity

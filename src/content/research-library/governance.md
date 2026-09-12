@@ -1,0 +1,406 @@
+## Governance and privacy research library
+
+Published research on governance, regulation and privacy-enhancing technology. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-08` [Data Layer](https://doi.org/10.1201/9781003748472-3) —
+- `2026-09-07` [Enhancing Privacy, Neglecting Harms: An Analysis of Real-World Digital Privacy Incidents](https://doi.org/10.48550/arxiv.2609.07217) — arXiv (Cornell University)
+- `2026-09-05` [Delayed Marriage, Falling Fertility, Rising Male Suicide: 5 Structural Forces Reshaping Indian Families](https://doi.org/10.5281/zenodo.22349120) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [Delayed Marriage, Falling Fertility, Rising Male Suicide: 5 Structural Forces Reshaping Indian Families](https://doi.org/10.5281/zenodo.22349121) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [A PRIVACY-PRESERVING APPROACH TO SECURE CASHLESS FINANCIAL ECOSYSTEMS](https://doi.org/10.5281/zenodo.22318291) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-05` [A PRIVACY-PRESERVING APPROACH TO SECURE CASHLESS FINANCIAL ECOSYSTEMS](https://doi.org/10.5281/zenodo.22318292) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Quantum Key Distribution Protocols and the Fusion with Privacy Enhancing Technologies](https://doi.org/10.5281/zenodo.22292280) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Quantum Key Distribution Protocols and the Fusion with Privacy Enhancing Technologies](https://doi.org/10.5281/zenodo.22292279) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [MobilityNet 2026 NSF CSSI Poster](https://doi.org/10.6084/m9.figshare.33438493.v1) — Figshare
+- `2026-09-04` [MobilityNet 2026 NSF CSSI Poster](https://doi.org/10.6084/m9.figshare.33438493) — Figshare
+- `2026-09-03` [Privacy and Intelligence: Implications of Emerging Privacy Enhancing Technologies for UK Surveillance Policy](https://doi.org/10.83162/turing.69) — Alan Turing Institute Research Outputs
+- `2026-09-03` [Privacy and Intelligence: Implications of Emerging Privacy Enhancing Technologies for UK Surveillance Policy](https://doi.org/10.83162/turing.19) — Alan Turing Institute Research Outputs
+- `2026-09-01` [Weighting a census as a non-probability sample: A doubly robust framework for differential undercoverage and the institutional capacity of national statistical offices (Uruguay's 2023 census)](https://doi.org/10.1177/18747655261483350) — Statistical Journal of the IAOS
+- `2026-09-01` [Occupational Inequality and Household Consumption Behaviour in Odisha: An Empirical Analysis](https://doi.org/10.5281/zenodo.22232917) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Occupational Inequality and Household Consumption Behaviour in Odisha: An Empirical Analysis](https://doi.org/10.5281/zenodo.22232916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-01` [Privacy-Preserving AI Through Blockchain and Federated Learning](https://doi.org/10.1201/9781003658597-13) —
+- `2026-08-28` [Papua New Guinea food price bulletin: August 2026](https://hdl.handle.net/10568/185260) — CGSPace A Repository of Agricultural Research Outputs (Consultative Group for Internation…
+- `2026-08-27` [Beyond Classification: Task-Dependent Learnability under Privacy-Motivated Image Transformations](https://doi.org/10.48550/arxiv.2608.27066) — arXiv (Cornell University)
+- `2026-08-25` [Childhood cancer incidence, survival and mortality patterns in Argentina, 2000–2022: from the Argentine Oncopediatric Registry (ROHA)](https://doi.org/10.3389/fcacs.2026.1844383) — Frontiers in Cancer Control and Society
+- `2026-08-25` [What makes you trust digital data wallets? Antecedents of trust formation](https://doi.org/10.1108/jeim-12-2025-1258) — Journal of Enterprise Information Management
+- `2026-08-24` [Development of metabolic syndrome identification model by integrating Korea national health and nutrition examination survey data with regional particulate matter, air pollutants, and green environme…](https://doi.org/10.1186/s12889-026-29087-1) — BMC Public Health
+- `2026-08-23` [Empirical Evaluation of Confidentiality-Protecting Technologies for Industrial Data Collaboration](https://doi.org/10.1007/978-3-032-37218-5_2) — Lecture notes in computer science
+- `2026-08-21` [Exploring influential factors on settlement intentions of the floating population in the Bangkok metropolitan region: A contextual analysis of spatial variation](https://doi.org/10.1016/j.ssaho.2026.103405) — Social Sciences & Humanities Open
+- `2026-08-20` [Blockchain-Based Data Sharing for National Statistics Offices: A Survey and Privacy Governance Evaluated with the Five Safes Framework](https://doi.org/10.3390/math14163009) — Mathematics
+- `2026-08-19` [Securing the Biopharmaceutical Frontier](https://doi.org/10.4018/979-8-2600-1990-0.ch007) — Advances in computational intelligence and robotics book series
+- `2026-08-19` [Resilience in the Algorithmic Age](https://doi.org/10.4018/979-8-2600-1990-0.ch001) — Advances in computational intelligence and robotics book series
+- `2026-08-19` [Ontology-Driven Compliance and Privacy-Enhancing Capability in the Modern ICT Ecosystem](https://doi.org/10.4018/979-8-2600-1990-0.ch004) — Advances in computational intelligence and robotics book series
+- `2026-08-17` [Purchasing Power for Alcoholic Beverage Consumption in Thailand](https://doi.org/10.5281/zenodo.21976112) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Purchasing Power for Alcoholic Beverage Consumption in Thailand](https://doi.org/10.5281/zenodo.21976338) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Purchasing Power for Alcoholic Beverage Consumption in Thailand](https://doi.org/10.5281/zenodo.21976113) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [What Drives Privacy-Enhancing Technology Choice? A Scenario - and Context-Based Interview Study in Germany](https://doi.org/10.1007/978-3-032-35586-7_30) — Lecture notes in computer science
+- `2026-08-17` [Safeguarding biomedical AI: a critical scoping review of privacy-enhancing technologies, hybrid approaches, and deployment models](https://doi.org/10.3389/fdgth.2026.1726771) — Frontiers in Digital Health
+- `2026-08-15` [FAMILY STRUCTURE, GENDERED CARE ROLES, AND INTERGENERATIONAL SUPPORT IN ELDERLY CARE: A SOCIOLOGICAL ANALYSIS OF HOUSEHOLDS IN LUCKNOW CITY](https://doi.org/10.5281/zenodo.22297584) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-15` [FAMILY STRUCTURE, GENDERED CARE ROLES, AND INTERGENERATIONAL SUPPORT IN ELDERLY CARE: A SOCIOLOGICAL ANALYSIS OF HOUSEHOLDS IN LUCKNOW CITY](https://doi.org/10.5281/zenodo.22297583) — International Education and Research Journal
+- `2026-08-13` [Privacy-Enhancing Technologies and Privacy-By-Design for Medical AI](https://doi.org/10.1163/15718093-bja10176) — European Journal of Health Law
+- `2026-08-12` [Data-Centric Project Portfolio Management for Urban Transformation: Synthetic Data as an Enabler of Digital Leadership](https://doi.org/10.1007/978-3-032-24048-4_18) — Lecture notes on data engineering and communications technologies
+- `2026-08-10` [Replacing Organizational Trust with Technical Guarantees – Privacy-enhancing technologies for dynamic industrial value networks](https://doi.org/10.30844/i4se.26.4.8) — Industry 4 0 Science
+- `2026-08-10` [Technische Garantien statt Vertrauen – Technologien zum Schutz der Privatsphäre in industriellen Wertschöpfungsnetzwerken](https://doi.org/10.30844/i4sd.26.4.8) — Industry 4 0 Science
+- `2026-08-04` [Understanding Household Financial Behaviour in India: An Empirical Analysis](https://doi.org/10.21203/rs.3.rs-10397537/v1) — Research Square
+- `2026-08-04` [E-Finance Systems for Secure and Trustworthy Online Shopping: Integrating Security, Privacy and User Experience](https://doi.org/10.59256/indjcst.20260502107) — Indian Journal of Computer Science and Technology
+- `2026-08-02` [Assessing Risks and Privacy Challenges in the Artificial Intelligence Era](https://doi.org/10.1007/978-3-032-28097-8_3) — Lecture notes in networks and systems
+- `2026-08-02` [Quantum ZKPs and digital inequality: Rethinking privacy governance in the post-quantum era](https://doi.org/10.69554/gqyu3457) — Journal of data protection & privacy.
+- `2026-08-01` [Assessing educational resource management for student satisfaction in rural India](https://doi.org/10.22271/allresearch.2026.v12.i8b.13992) — International journal of applied research
+- `2026-08-01` [A secure system for electric vehicles using privacy enhancing technology](https://doi.org/10.1007/s10586-026-06465-3) — Cluster Computing
+- `2026-08-01` [Supporting the Adoption of Privacy-Enhancing Technologies Through Requirements Engineering](https://doi.org/10.1109/re68928.2026.00032) — Blekinge Institute of Technology
+- `2026-08-01` [An OWL-based decision support framework for PET trade-offs in MaaS data sharing](https://doi.org/10.1049/icp.2026.2567) — IET conference proceedings.
+- `2026-07-28` [Capitalization of Data in The Indian National Accounts](https://doi.org/10.56093/jisas.v80i1.3) — Journal of the Indian Society of Agricultural Statistics
+- `2026-07-27` [Not Employed, Market Participant (NEMP): A Harmonised Variable Specification, with Field Test Results from Three National Statistical Systems](https://doi.org/10.5281/zenodo.22072916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-27` [Not Employed, Market Participant (NEMP): A Harmonised Variable Specification, with Field Test Results from Three National Statistical Systems](https://doi.org/10.5281/zenodo.22072915) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-23` [Spatial Distribution of Inadequate Apparent Intake of Protein, Lysine, and Tryptophan among Malawi’s Households with Children Aged <5 y: Evidence from the 2019–2020 Integrated Household Survey](https://doi.org/10.1016/j.cdnut.2026.109448) — Current Developments in Nutrition
+- `2026-07-22` [ANALYZING AND CLUSTERING THAILAND’S MULTIDIMENSIONAL POVERTY DATA USING AN IMPROVED K-MEANS ALGORITHM](https://doi.org/10.55766/sujst11738) — Suranaree Journal of Science and Technology
+- `2026-07-22` [MULTILEVEL ARCHITECTURE OF POST-QUANTUM DATA PROTECTION BASED ON BIOMETRIC AUTHENTICATION OF HANDWRITTEN SIGNATURE, STEGANOGRAPHY AND PRIVACY-ENHANCING TECHNOLOGIES](https://doi.org/10.5281/zenodo.21498751) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-22` [MULTILEVEL ARCHITECTURE OF POST-QUANTUM DATA PROTECTION BASED ON BIOMETRIC AUTHENTICATION OF HANDWRITTEN SIGNATURE, STEGANOGRAPHY AND PRIVACY-ENHANCING TECHNOLOGIES](https://doi.org/10.5281/zenodo.21498752) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Harmonization Crosswalks and Code for India's ASUSE/UNAE Non-Farm Unincorporated Enterprise Survey Series (2010-11 to 2025)](https://doi.org/10.17632/ywfnt85zbk) — Mendeley Data
+- `2026-07-21` [Harmonization Crosswalks and Code for India's ASUSE/UNAE Non-Farm Unincorporated Enterprise Survey Series (2010-11 to 2025)](https://doi.org/10.17632/ywfnt85zbk.1) — Mendeley Data
+- `2026-07-21` [SoK: Outsourced Private Set Intersection](https://doi.org/10.1007/978-3-032-32560-0_18) — Lecture notes in computer science
+- `2026-07-17` [Code for "Opening Doors to Inclusion: A Bayesian Hierarchical Model of Access and Barriers to Buildings for Persons with Disabilities in India"](https://doi.org/10.5281/zenodo.21412142) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-17` [Code for "Opening Doors to Inclusion: A Bayesian Hierarchical Model of Access and Barriers to Buildings for Persons with Disabilities in India"](https://doi.org/10.5281/zenodo.21412143) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-16` [A dataset for material-specific packaging volumes in Finland in 2020](https://doi.org/10.1016/j.dib.2026.113082) — Data in Brief
+- `2026-07-14` [The PET Paradox: How Amazon Instrumentalises PETs in Sidewalk to Entrench Its Infrastructural Power](https://doi.org/10.56553/popets-2026-0163) — Proceedings on Privacy Enhancing Technologies
+- `2026-07-14` [Poison to Detect: Detection of Targeted Overfitting in Federated Learning](https://doi.org/10.56553/popets-2026-0131) — Proceedings on Privacy Enhancing Technologies
+- `2026-07-14` [EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR](https://doi.org/10.56553/popets-2026-0153) — Proceedings on Privacy Enhancing Technologies
+- `2026-07-14` [Privacy Pass is Anamorphic: Practical Consequences and Attacks in the Black-box Model](https://doi.org/10.56553/popets-2026-0135) — Proceedings on Privacy Enhancing Technologies
+- `2026-07-13` [ReUse-Telco: Turning Regulatory Compliance into Data Value](https://doi.org/10.1007/978-3-032-30507-7_17) — IFIP advances in information and communication technology
+- `2026-07-09` [E-commerce Data Security and Privacy: Innovative AI and ML Strategies](https://doi.org/10.2174/97988988167801260101) — BENTHAM SCIENCE PUBLISHERS eBooks
+- `2026-07-09` [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](https://arxiv.org/pdf/2607.08867) — arXiv (Cornell University)
+- `2026-07-09` [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](https://doi.org/10.13016/m2o5bk-3xow) —
+- `2026-07-09` [AI-Enabled Data Privacy Technologies in the Global E-Commerce Industry: Opportunities and Challenges](https://doi.org/10.2174/9798898816780126010012) — BENTHAM SCIENCE PUBLISHERS eBooks
+- `2026-07-06` [Privacy-Enhancing Technologies: Unlocking Responsible Cross-Border Data Research](https://doi.org/10.23889/ijpds.v11i5.3615) — International Journal for Population Data Science
+- `2026-07-06` [Data Governance Transformation: Now is the time to revisit Data Governance Policy](https://doi.org/10.23889/ijpds.v11i5.3468) — International Journal for Population Data Science
+- `2026-07-03` [Cybersecurity vulnerabilities of collaborative robots in Industry 5.0: implications of IoT networks for productivity](https://doi.org/10.1108/jeim-01-2026-0111) — Journal of Enterprise Information Management
+- `2026-07-02` [GST REFORMS AND STRUCTURAL CHANGES IN MSME COST, PRICING AND COMPETITIVENESS](https://doi.org/10.5281/zenodo.21127323) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-02` [GST REFORMS AND STRUCTURAL CHANGES IN MSME COST, PRICING AND COMPETITIVENESS](https://doi.org/10.5281/zenodo.21127324) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-01` [Extent of wage inequality in India: A cross-sectional analysis using PLFS 2023-24](https://doi.org/10.33545/26175754.2026.v9.i7a.841) — International Journal of Research in Finance and Management
+- `2026-07-01` [Labour Law Reforms In India: An Analysis Of The New Labour Codes](https://doi.org/10.5281/zenodo.21112653) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-01` [Labour Law Reforms In India: An Analysis Of The New Labour Codes](https://doi.org/10.5281/zenodo.21110663) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-01` [Labour Law Reforms In India: An Analysis Of The New Labour Codes](https://doi.org/10.5281/zenodo.21110662) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-01` [Labour Law Reforms In India: An Analysis Of The New Labour Codes](https://doi.org/10.5281/zenodo.21112652) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-01` [Trend Analysis of GDP and Its Impact on Growth of Indian Industries](https://doi.org/10.56975/ijvra.v4i7.708735) — International Journal of Versatile Research and Analysis
+- `2026-07-01` [Contextual Intent: Activists' Privacy Considerations for Collaborative Technology in U.S. Social Movement Groups](https://doi.org/10.56553/popets-2026-0092) — Proceedings on Privacy Enhancing Technologies
+- `2026-06-30` [Does access to credit influence smallholder farmers’ maize productivity and food security in Malawi? A panel conditional mixed process analysis](https://doi.org/10.53936/afjare.2025.21(2).8) — African Journal of Agricultural and Resource Economics
+- `2026-06-30` [Growth And Development of The Tourism Industry in India: An Economic Analysis](https://doi.org/10.5281/zenodo.21872757) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Growth And Development of The Tourism Industry in India: An Economic Analysis](https://doi.org/10.5281/zenodo.21872758) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Role Of Chhath Puja in Promoting Rural Tourism in Bihar](https://doi.org/10.5281/zenodo.21870167) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Digital Transformation and Changing Human Behaviour: A Socio-Economic Study of Karnataka](https://doi.org/10.5281/zenodo.21321639) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Digital Transformation and Changing Human Behaviour: A Socio-Economic Study of Karnataka](https://doi.org/10.5281/zenodo.21321640) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [Role Of Chhath Puja in Promoting Rural Tourism in Bihar](https://doi.org/10.5281/zenodo.21870168) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [A transdisciplinary assessment of age-friendly cities and communities in Bengaluru Urban, India: Towards a healthy aging framework](https://doi.org/10.1097/hmr.0000000000000485) — Health Care Management Review
+- `2026-06-30` [Privacy Law Challenges in Environmental Data Sharing: A Phenomenological Study of Stakeholder Views](https://doi.org/10.64907/xkmf.v5i2.jopr.2) — Journal of Policies and Recommendations
+- `2026-06-30` [Biometric Fusion Strategies for Enhancing Access Control in Critical Infrastructures](https://doi.org/10.47000/tjmcs.1826864) — Turkish Journal of Mathematics and Computer Science
+- `2026-06-29` [Access to finance, human capital, and the performance of women-owned informal enterprises in India](https://doi.org/10.1080/26437015.2026.2691391) — Journal of the International Council for Small Business
+- `2026-06-26` [Privacy Enhancing Technologies at a Global Scale](https://doi.org/10.82286/5j41-y373) — CFI-FCI
+- `2026-06-26` [High-capacity Distributed Privacy Enhancing Technologies](https://doi.org/10.82286/jcqd-3875) — CFI-FCI
+- `2026-06-26` [Rethinking consumer data management under end-user privacy-enhancing technologies](https://doi.org/10.6084/m9.figshare.32799029) — Figshare
+- `2026-06-26` [Rethinking consumer data management under end-user privacy-enhancing technologies](https://doi.org/10.6084/m9.figshare.32799029.v1) — Figshare
+- `2026-06-25` [Post-Access Barriers to Digital Market Reach: Motivational and Capability Non-Adoption in Thailand’s Near-Saturated Digital Economy](https://doi.org/10.3390/jtaer21070199) — Journal of theoretical and applied electronic commerce research
+- `2026-06-25` [VALUE ADDED TAX ADMINISTRATION AND ECONOMIC DEVELOPMENT: EVIDENCE FROM TANZANIA](https://doi.org/10.63725/majaf.v7.i1.02) — Malete Journal of Accounting and Finance
+- `2026-06-25` [Rethinking consumer data management under end-user privacy-enhancing technologies](https://doi.org/10.1080/0960085x.2026.2689145) — European Journal of Information Systems
+- `2026-06-24` [Longitudinal Adoption and Deprecation of the Privacy Sandbox Web APIs](https://arxiv.org/pdf/2606.26390) — arXiv (Cornell University)
+- `2026-06-24` [Longitudinal Adoption and Deprecation of the Privacy Sandbox Web APIs](https://doi.org/10.48550/arxiv.2606.26390) — arXiv (Cornell University)
+- `2026-06-23` [Data Trusts in Smart Cities: Secure and Redacted Data Sharing](https://doi.org/10.1007/s13222-026-00540-0) — Datenbank-Spektrum
+- `2026-06-21` [Privacy Preserving Systems — API Gateway, AI Routing, Distributed Systems, Sovereign AI, and Post-Cloud Architecture (Api-Oss-Fixed)](https://doi.org/10.5281/zenodo.20782161) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-21` [Privacy Preserving Systems — API Gateway, AI Routing, Distributed Systems, Sovereign AI, and Post-Cloud Architecture (Api-Oss-Fixed)](https://doi.org/10.5281/zenodo.20782162) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [Privacy Preserving Systems — API Gateway, AI Routing, Distributed Systems, Sovereign AI, and Post-Cloud Architecture (Api-Oss-Fixed)](https://doi.org/10.5281/zenodo.20775814) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [Privacy Preserving Systems — API Gateway, AI Routing, Distributed Systems, Sovereign AI, and Post-Cloud Architecture (Api-Oss-Fixed)](https://doi.org/10.5281/zenodo.20775815) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [deZent: Decentralized z-Anonymity with Privacy-Preserving Coordination](https://doi.org/10.1145/3765611.3815143) — Technische Universität Dresden
+- `2026-06-16` [Supporting the Adoption of Privacy-Enhancing Technologies through Requirements Engineering](https://arxiv.org/pdf/2606.17387) — arXiv (Cornell University)
+- `2026-06-16` [SECURING THE BLACK BOX: A TECHNO-DIPLOMATIC FRAMEWORK FOR AI INTEGRATION IN MODERN DEFENCE ALLIANCES](https://doi.org/10.53477/3045-2309-26-14) — STRATEGIES XXI The Complex and Dynamic Nature of the Security Environment
+- `2026-06-15` [Privacy-Preserving Identity Management and Software Bill of Materials Vulnerability Detection: Practical Use Cases from the PRIVIDEMA Project](https://doi.org/10.1007/978-3-032-28957-5_19) — Communications in computer and information science
+- `2026-06-15` [Recent innovations in cyber security: Emerging challenges, potential opportunities, and future governance perspectives](https://doi.org/10.1080/07366981.2026.2684706) — EDPACS
+- `2026-06-14` ["I Like It, But I Don't Want To Walk Around." A Comparison Between 2D and Augmented Reality Visualizations In IOT Sensing For Privacy Fatigue Reduction](https://aisel.aisnet.org/ecis2026/security/security/15) — Journal of the Association for Information Systems
+- `2026-06-13` [Determinants of Access to Smartphone App-based Digital Agricultural Extension Services in India: Evidence from NSSO 77th Round](https://doi.org/10.9734/ajaees/2026/v44i62959) — Asian Journal of Agricultural Extension Economics & Sociology
+- `2026-06-12` [Developing and Implementing Privacy Preserving Security Protocols for User Data Protection in the Decentralized Metaverse Ecosystem](https://doi.org/10.1002/9781394392636.ch6) — Motilal Nehru National Institute of Technology
+- `2026-06-11` [LAU1 dataset](https://doi.org/10.5281/zenodo.6165135) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [LAU1 dataset](https://doi.org/10.5281/zenodo.20638076) — Comenius University Bratislava
+- `2026-06-10` [Cryptographic Foundations for Securing the Metaverse](https://doi.org/10.4018/979-8-3373-8157-2.ch008) — University College Cork
+- `2026-06-09` [From Transactions to Records: Reconceptualizing Blockchain Systems through a Lifecycle Lens](https://arxiv.org/pdf/2606.10631) — arXiv (Cornell University)
+- `2026-06-09` [From Transactions to Records: Reconceptualizing Blockchain Systems through a Lifecycle Lens](https://doi.org/10.48550/arxiv.2606.10631) — arXiv (Cornell University)
+- `2026-06-08` [PRIVACY-PRESERVING TECHNOLOGIES FOR CASHLESS FINANCIAL ECOSYSTEMS](https://doi.org/10.5281/zenodo.20593984) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [PRIVACY-PRESERVING TECHNOLOGIES FOR CASHLESS FINANCIAL ECOSYSTEMS](https://doi.org/10.5281/zenodo.20593983) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [Value-Sensitive Design for Responsible Data Sharing in Governmental Ecosystems](https://doi.org/10.18690/um.fov.4.2026.75) — Open University of the Netherlands
+- `2026-06-05` [COcyber White Paper - From Strategy to Implementation: National Cybersecurity Action Plan in Hungary](https://doi.org/10.5281/zenodo.20555273) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-05` [COcyber White Paper - From Strategy to Implementation: National Cybersecurity Action Plan in Hungary](https://doi.org/10.5281/zenodo.20555272) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Thailand's child health shelf is becoming a prevention-first retail category](https://doi.org/10.5281/zenodo.20537487) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Thailand's child health shelf is becoming a prevention-first retail category](https://doi.org/10.5281/zenodo.20537488) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-03` [Privacy Analytics in Accounting Information Systems](https://doi.org/10.21203/rs.3.rs-9870931/v1) — Research Square
+- `2026-06-02` [Training TFHE-Based Neural Networks with Approximated Floating-Point Arithmetic](https://doi.org/10.5281/zenodo.20510845) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-02` [Training TFHE-Based Neural Networks with Approximated Floating-Point Arithmetic](https://doi.org/10.5281/zenodo.20510846) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [DRIVERS OF INFORMAL EMPLOYMENT IN INDIA: THE ROLE OF HOUSEHOLD AND INDIVIDUAL HARACTERISTICS](https://doi.org/10.58532/nbennur3207c4) —
+- `2026-06-01` [Privacy-Enhancing Technologies for GDPR-Compliant Data Processing](https://doi.org/10.5281/zenodo.20485605) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Privacy-Enhancing Technologies for GDPR-Compliant Data Processing](https://doi.org/10.5281/zenodo.20485606) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Network-Aware Differential Privacy](https://doi.org/10.1109/dsn-s70715.2026.00047) — University of California, Irvine
+- `2026-06-01` [Revealing privacy needs during life’s significant transitions](https://strathprints.strath.ac.uk/95310/13/Gibson-etal-IC-2026-Revealing-privacy-needs-during-lifes-significant-transitions.pdf) — Strathprints: The University of Strathclyde institutional repository (University of Strat…
+- `2026-06-01` [Overcoming Language Barriers: Multilingual Analysis of the 2023 Swiss Privacy Law's Impact](https://doi.org/10.5281/zenodo.20794417) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Overcoming Language Barriers: Multilingual Analysis of the 2023 Swiss Privacy Law's Impact](https://doi.org/10.5281/zenodo.20512191) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [Balancing privacy and explainability in AI: Differential privacy and graph theory as governance tools](https://doi.org/10.69554/ppbz4287) — Journal of data protection & privacy.
+- `2026-05-31` [Regulatory Overlaps in the Secondary Use of Health Data and Their Implications for Companies Offering Anonymisation Services in Finland](https://aaltodoc.aalto.fi/handle/123456789/147364) — Aaltodoc (Aalto University)
+- `2026-05-29` [The Mutual Information Neural Network for Personal Data Information Protection Under IM-PrivacyNet Model From a Legal Perspective](https://doi.org/10.4018/ijitsa.411222) — International Journal of Information Technologies and Systems Approach
+- `2026-05-29` [The Control of Privacy](https://doi.org/10.4324/9780429024566-8) —
+- `2026-05-29` [Personalisation‐Privacy Paradox: Systematic Review and Survey Evidence on Personal Data Stores](https://doi.org/10.1111/exsy.70314) — Expert Systems
+- `2026-05-27` [EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR](https://arxiv.org/pdf/2605.29177) — arXiv (Cornell University)
+- `2026-05-27` [EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR](https://doi.org/10.48550/arxiv.2605.29177) — arXiv (Cornell University)
+- `2026-05-22` [Preliminary Results from a Real-World Trial of a Privacy-Preserving Crowd-Flow Sensor Network in Freiburg, Germany](https://doi.org/10.59297/gezk6290) — Proceedings of the ... International ISCRAM Conference
+- `2026-05-22` [SLVR: Securely Leveraging Client Validation for Robust Federated Learning](https://doi.org/10.1145/3803630.3809167) — University of Wisconsin–Madison
+- `2026-05-21` [A Maturity Model for the Enforcement of PETs in Federated Settings](https://doi.org/10.3233/shti260487) — Studies in health technology and informatics
+- `2026-05-21` [Enabling Privacy-Preserving Federated Learning in Healthcare: The FLAME Architecture and Policy Framework](https://doi.org/10.3233/shti260485) — Studies in health technology and informatics
+- `2026-05-20` [Healthcare data security research in the digital age (1995–2025): a bibliometric study](https://doi.org/10.1016/j.ssci.2026.107293) — Safety Science
+- `2026-05-18` [Sustainable agricultural practices among older women farmers in flood prone areas of Thailand](https://doi.org/10.1007/s43621-026-03479-0) — Discover Sustainability
+- `2026-05-15` [Defending Against Model Inversion Attacks for Biomedical Images via Learnable Data Perturbation](https://doi.org/10.1109/jiot.2026.3693688) — IEEE Internet of Things Journal
+- `2026-05-08` [On the (Privacy) Harms of the European Digital Identity Framework](https://doi.org/10.60882/cispa.32779635.v1) — CISPA Helmholtz Center
+- `2026-05-08` [On the (Privacy) Harms of the European Digital Identity Framework](https://doi.org/10.60882/cispa.32779635) — CISPA Helmholtz Center
+- `2026-05-06` [Replication data](https://doi.org/10.5281/zenodo.20049762) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-06` [Replication data](https://doi.org/10.5281/zenodo.20049763) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-05` [Operationalizing the Ottawa Charter for Health Promotion in Thailand: the role of ThaiHealth](https://doi.org/10.1093/heapro/daag068) — Health Promotion International
+- `2026-05-05` [Privacy-Enhancing Technologies in Digital Public Services: Bridging Legal Demands and Sociotechnical Design](https://doi.org/10.5753/sbsi.2026.248552) — Universitas Nusa Bangsa
+- `2026-05-05` [Can privacy technologies replace cookies? Ad revenue in a field experiment](https://doi.org/10.1073/pnas.2603752123) — Proceedings of the National Academy of Sciences
+- `2026-05-01` [Market-Driven Investment in Privacy-Enhancing Technologies in Personalized Digital Services](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1015&context=asac2026) — Journal of the Association for Information Systems
+- `2026-05-01` [Information Security and Privacy Protection in the Age of Explainable and Generative AI](https://doi.org/10.4018/979-8-3373-7852-7.ch002) — Advances in computational intelligence and robotics book series
+- `2026-05-01` [PRIVACY-PRESERVING, ON-DEVICE DATA MININGS](https://doi.org/10.58532/nbennurtaca4) —
+- `2026-05-01` [From Strategy to Implementation: National Cybersecurity Action Plan in Hungary](https://doi.org/10.5281/zenodo.20429267) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-01` [From Strategy to Implementation: National Cybersecurity Action Plan in Hungary](https://doi.org/10.5281/zenodo.20429266) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-30` [Spatial association and modeling of road traffic deaths in Thailand, 2022](https://doi.org/10.1186/s12963-026-00462-9) — Population Health Metrics
+- `2026-04-30` [Digital Financial Inclusion in India: A Systematic Review of Evidence and Future Research Directions](https://doi.org/10.5281/zenodo.19730378) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-30` [Digital Financial Inclusion in India: A Systematic Review of Evidence and Future Research Directions](https://doi.org/10.5281/zenodo.19730379) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-30` [Exploring Perceptions of Federated Learning in Self-Tracking Apps: A Qualitative Study with Mostly Female Students](https://doi.org/10.1145/3809162) — ACM Transactions on Computer-Human Interaction
+- `2026-04-30` [Privacy Engineering: A Systematic Literature Review](https://arxiv.org/pdf/2606.23696) — arXiv (Cornell University)
+- `2026-04-30` [Privacy Engineering: A Systematic Literature Review](https://doi.org/10.48550/arxiv.2606.23696) — arXiv (Cornell University)
+- `2026-04-30` [Privacy-Preserving Federated Learning via Differential Privacy and Homomorphic Encryption for Cardiovascular Disease Risk Modeling](https://doi.org/10.48550/arxiv.2604.27598) — arXiv (Cornell University)
+- `2026-04-27` [Artificial Intelligence and Data Privacy: Protecting Information in the Digital Age](https://doi.org/10.55041/isjem06819) — International Scientific Journal of Engineering and Management
+- `2026-04-24` [DEANONYMIZATION PROBLEMS AND LEGAL LIMITATIONS IN CRIMES RELATED TO CRYPTO-ASSETS](https://doi.org/10.5281/zenodo.19722525) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-24` [DEANONYMIZATION PROBLEMS AND LEGAL LIMITATIONS IN CRIMES RELATED TO CRYPTO-ASSETS](https://doi.org/10.5281/zenodo.19722526) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-22` [Open-Source Media and Marketing Mix Modeling: Practice-Oriented Overview, Challenges, Opportunities](https://doi.org/10.1007/s40547-026-00161-4) — Customer Needs and Solutions
+- `2026-04-21` [Blockchain and the Tracing of Illicit Financial Flows: On-Chain Analysis, Off-Chain Attribution, and Asset Recovery](https://doi.org/10.31219/osf.io/k5n7a_v1) —
+- `2026-04-21` [Cryptocurrency and Financial Crime: Opportunities and Challenges for Regulation](https://doi.org/10.1108/978-1-83708-170-720261024) — School of Planning and Architecture Delhi
+- `2026-04-16` [The Cryptographic Crossroads](https://doi.org/10.4018/979-8-3373-7189-4.ch001) — Sharda University
+- `2026-04-15` [Appraisal of Land Fragmentation and Crop Production in the Western Terai of Nepal](https://doi.org/10.3126/ps.v24i1.92751) — Pragnya Sarathi प्रज्ञा-सारथि
+- `2026-04-14` [QDaria/quantum-certified-anonymization: v1.0.2 — neutral preprint banner](https://doi.org/10.5281/zenodo.19582483) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-13` [Data Privacy Engineering in Cloud-Native Environments: Integrating DevPrivOps, Risk Modeling, and Privacy-Enhancing Technologies](https://doi.org/10.5281/zenodo.21514107) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-13` [Data Privacy Engineering in Cloud-Native Environments: Integrating DevPrivOps, Risk Modeling, and Privacy-Enhancing Technologies](https://doi.org/10.5281/zenodo.21514106) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-13` [See Me If You Can: A Multi-Layer Protocol for Bystander Privacy with Consent-Based Restoration](https://doi.org/10.1145/3772318.3790394) — Lahore University of Management Sciences
+- `2026-04-13` [Mind the Gap: Mapping Wearer–Bystander Privacy Tensions and Context-Adaptive Pathways for Camera Glasses](https://doi.org/10.1145/3772318.3791848) — Tsinghua University
+- `2026-04-13` [The Impact of Cybersecurity Regulations on Innovation in Startups](https://doi.org/10.14741/ijmcr/v.14.2.17) — International Journal of Multidisciplinary and Current Research
+- `2026-04-13` [Guidance on the AI auditing framework](https://doi.org/10.5281/zenodo.19552367) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-13` [Guidance on the AI auditing framework](https://doi.org/10.5281/zenodo.19552368) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-12` [Mitigating Cumulative Privacy Risk in Continual Information Sharing: A Dynamic Stackelberg Game Approach](https://doi.org/10.1145/3774904.3792390) — China University of Petroleum, Beijing
+- `2026-04-11` [BEYOND THE TRUST-UTILITY TRADE-OFF: HARMONIZING LARGE-SCALE SMPC PROTOCOLS WITH DECENTRALIZED DATA GOVERNANCE FRAMEWORKS](https://doi.org/10.5281/zenodo.20132782) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-11` [BEYOND THE TRUST-UTILITY TRADE-OFF: HARMONIZING LARGE-SCALE SMPC PROTOCOLS WITH DECENTRALIZED DATA GOVERNANCE FRAMEWORKS](https://doi.org/10.5281/zenodo.20132781) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-04-07` [Privacy–Encryption Trade-Offs in Social Media Platforms: A Review](https://doi.org/10.1109/csnt69054.2026.11502526) — Community College of Qatar
+- `2026-04-06` [Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues](https://doi.org/10.48550/arxiv.2604.04572) — arXiv (Cornell University)
+- `2026-04-06` [Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues](https://arxiv.org/pdf/2604.04572) — arXiv (Cornell University)
+- `2026-04-05` [Survey of privacy preserving federated tree-based learning](https://doi.org/10.1007/s10462-026-11555-0) — Artificial Intelligence Review
+- `2026-04-02` [Capital Market Development as a Driver of Economic Growth: The Case of Mongolia](https://doi.org/10.47703/2789-8253-2026-1-36-55) — Eurasian Journal of Economic and Business Studies
+- `2026-04-01` [GENDER DIMENSIONS OF PAID AND UNPAID WORK IN INDIA: AN ANALYTICAL STUDY BASED ON TIME USE SURVEYS 2019 AND 2024](https://doi.org/10.58532/nbennurwfcas15) —
+- `2026-04-01` [Positioning synthetic data under EU data protection law](https://doi.org/10.1016/j.clsr.2026.106310) — Computer law & security review
+- `2026-04-01` [Research on the Mechanism and Dynamic Trade-Offs of the Personal Information Protection Law on Marketing Compliance and Performance of Small and Medium-Sized Internet Enterprises under Digital Econom…](https://doi.org/10.62517/jbm.202609204) — Journal of business and marketing.
+- `2026-03-31` [Time use patterns and activity sequences among older adults in India: socio-demographic correlates from time use survey](https://doi.org/10.1186/s12889-026-27169-8) — BMC Public Health
+- `2026-03-31` [Building Trustworthy Federated Learning Models Using Privacy Enhancing Technologies](https://doi.org/10.55041/ijsrem58693) — INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT
+- `2026-03-31` [Adaptive Data Pipeline Architectures for Evolving Fraud Patterns Using Graph ML](https://doi.org/10.56830/ijsie202603) — International Journal of Sustainability and Innovation in Engineering
+- `2026-03-29` [https://www.gao.gov/products/gao-26-107681](https://doi.org/10.5281/zenodo.19318792) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-29` [https://www.gao.gov/products/gao-26-107681](https://doi.org/10.5281/zenodo.19318793) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-27` [Economic changes and public health resources associated with satisfaction toward the state health service system among older adults under the Universal Coverage Scheme across 77 provinces in Thailand…](https://doi.org/10.1186/s12939-026-02820-3) — International Journal for Equity in Health
+- `2026-03-26` [Data Privacy and Confidentiality in Medical Internet of Things (MIoT)](https://doi.org/10.1201/9781003676812-17) —
+- `2026-03-25` [Editorial: Privacy enhancing technology: a top 10 emerging technology to revolutionize healthcare](https://doi.org/10.3389/fdgth.2026.1782663) — Frontiers in Digital Health
+- `2026-03-24` [A Quantitative Comparative Study on the Quality of Life in Hohhot and Ulaanbaatar: Two Resource - Based Cities in China and Mongolia](https://doi.org/10.53469/jssh.2026.8(03).08) — Journal of Social Science and Humanities
+- `2026-03-24` [The IoMT Security Trilemma: A Systematic Review of Privacy, Utility, and Resource Efficiency in Federated Edge Learning](https://doi.org/10.1109/satc69565.2026.11542558) — Grand Valley State University
+- `2026-03-18` [Perceived accessibility of transport systems in Italy: a statistical analysis using “Aspect of daily life” survey](https://doi.org/10.71014/sieds.v80i4.539) — Rivista italiana di economia, demografia e statistica
+- `2026-03-18` [Sensory impairments and caregiver burden: a population-based study of older adults in Thailand](https://doi.org/10.1186/s12877-026-07352-7) — BMC Geriatrics
+- `2026-03-18` [Taiwan Healthcare Cybersecurity Market: Securing the Digital Health Future](https://doi.org/10.5281/zenodo.19090527) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-18` [Taiwan Healthcare Cybersecurity Market: Securing the Digital Health Future](https://doi.org/10.5281/zenodo.19090526) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-17` [Systematization of Knowledge: The Design Space of Digital Payment Systems with Potential for CBDC](https://arxiv.org/pdf/2603.16320) — arXiv (Cornell University)
+- `2026-03-17` [Systematization of Knowledge: The Design Space of Digital Payment Systems with Potential for CBDC](https://doi.org/10.48550/arxiv.2603.16320) — arXiv (Cornell University)
+- `2026-03-14` [ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping](https://doi.org/10.1609/aaai.v40i29.39670) — Proceedings of the AAAI Conference on Artificial Intelligence
+- `2026-03-14` [Graph-Conditional Flow Matching for Relational Data Generation](https://doi.org/10.1609/aaai.v40i30.39712) — Proceedings of the AAAI Conference on Artificial Intelligence
+- `2026-03-14` [Conceptualisation and Implementation of Human-centric Privacy Preserving Framework for Explainable AI](https://doi.org/10.1609/aaai.v40i48.42140) — Proceedings of the AAAI Conference on Artificial Intelligence
+- `2026-03-14` [ANONY‑MED: Anonymisierte Daten für die digitalisierte Medizin der Zukunft; Teilvorhaben: "Privacy‑bewahrende Analyse‑ und Synthesemethoden"; Forschungsnetzwerk Anonymisierung für eine sichere Datennu…](https://doi.org/10.34657/31700) — TIB Repositorium
+- `2026-03-13` [Technical Case Study of Privacy-Enhancing Technologies (PETs) for Public Health](https://arxiv.org/pdf/2603.13444) — arXiv (Cornell University)
+- `2026-03-13` [Technical Case Study of Privacy-Enhancing Technologies (PETs) for Public Health](https://doi.org/10.48550/arxiv.2603.13444) — arXiv (Cornell University)
+- `2026-03-12` [Balancing the trilemma: a survey of federated anomaly detection for secure cyber-physical systems](https://doi.org/10.1186/s42400-026-00567-6) — Cybersecurity
+- `2026-03-12` [ATLAS - Datentreuhänder für anonymisierte Analysen in kommunalen Datenräumen](https://doi.org/10.34657/31691) — TIB Repositorium
+- `2026-03-11` [Sampling techniques in the CPI measurement](https://doi.org/10.59139/stattrans-2026-002) — Statistics in Transition New Series
+- `2026-03-11` [Enhancing Web Privacy through Fine-Grained Program Analysis of Tracking JavaScript](https://vtechworks.lib.vt.edu/bitstreams/32e6e90b-3f55-479d-abb9-bb363c53fa71/download) — VTechWorks (Virginia Tech)
+- `2026-03-11` [A Survey on Scalability and Privacy in Public Blockchains](https://doi.org/10.2174/0126662558400434251210081051) — Recent Advances in Computer Science and Communications
+- `2026-03-09` [DeZent: Decentralized z-Anonymity with Privacy-Preserving Coordination](https://arxiv.org/pdf/2603.08854) — arXiv (Cornell University)
+- `2026-03-09` [DeZent: Decentralized z-Anonymity with Privacy-Preserving Coordination](https://doi.org/10.48550/arxiv.2603.08854) — arXiv (Cornell University)
+- `2026-03-08` [The COVID-19 pandemic could worsen the psychological well-being of people with disabilities in Cambodia](https://doi.org/10.1038/s41598-026-43087-6) — Scientific Reports
+- `2026-03-06` [Blockchain-Governed Consent Infrastructure for Cross-Border Digital Youth Protection in AI-Driven CDPs](https://doi.org/10.1109/imed68921.2026.11484161) — Houston Independent School District
+- `2026-03-06` [Secure and Privacy-Preserving Federated Learning for Healthcare Time Series Data: A Comprehensive Review](https://doi.org/10.1109/imed68921.2026.11484225) — University of Engineering & Management
+- `2026-03-05` [A Structured knowledge model linking healthcare privacy risks to privacy-enhancing technologies for AI-enabled health systems](https://doi.org/10.34961/19524) — University of Limerick Institutional Repository (University of Limerick)
+- `2026-03-05` [Mind the Gap: Mapping Wearer-Bystander Privacy Tensions and Context-Adaptive Pathways for Camera Glasses](https://doi.org/10.48550/arxiv.2603.04930) — arXiv (Cornell University)
+- `2026-03-05` [Navigating the Fragmented Landscape of Global Data Protection](https://doi.org/10.30574/ijsra.2026.18.3.0195) — International Journal of Science and Research Archive
+- `2026-03-04` [Understanding and responding to complex online harms: misinformation, fake news, and young adults](https://doi.org/10.3389/fcomp.2026.1655186) — Frontiers in Computer Science
+- `2026-03-04` [Education, E-Governance, and Inclusive Digital Ecosystems](https://doi.org/10.4018/979-8-3373-9968-3.ch007) — Poornima University
+- `2026-03-04` [ENSURING THE RIGHT TO PRIVACY AND DATA PROTECTION IN THE ERA OF ARTIFICIAL INTELLIGENCE](https://doi.org/10.5281/zenodo.18859024) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-04` [ENSURING THE RIGHT TO PRIVACY AND DATA PROTECTION IN THE ERA OF ARTIFICIAL INTELLIGENCE](https://doi.org/10.5281/zenodo.18859025) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-03-02` [Privacy-Preserving Cloud-Based Genomic Analysis for Precision Medicine and Biotechnological Innovation](https://doi.org/10.26434/chemrxiv.15000538/v1) — ChemRxiv
+- `2026-02-28` [Public Expenditure on Education and Health as Catalysts of Human Capital Formation and Economic Growth in India Author Details](https://doi.org/10.5281/zenodo.19217387) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-28` [Public Expenditure on Education and Health as Catalysts of Human Capital Formation and Economic Growth in India Author Details](https://doi.org/10.5281/zenodo.19217388) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-27` [Central Bank Digital Currencies: Where is the Privacy, Technology, and Anonymity?](https://doi.org/10.48550/arxiv.2602.23659) — arXiv (Cornell University)
+- `2026-02-27` [Central Bank Digital Currencies: Where is the Privacy, Technology, and Anonymity?](https://arxiv.org/pdf/2602.23659) — arXiv (Cornell University)
+- `2026-02-27` [QST-Fed: Quantum-Secure Spatiotemporal Federated Learning for Cross-Region 5G Traffic Forecasting](https://doi.org/10.1109/tce.2026.3669043) — IEEE Transactions on Consumer Electronics
+- `2026-02-26` [AVATAR - Teilprojekt Privacy Enhancing Technologies und Dataspace-Konnektoren](https://doi.org/10.34657/30776) — Fraunhofer-Publica (Fraunhofer-Gesellschaft)
+- `2026-02-26` [Building cross-border federated infrastructures for secure and private AI: an overview of privacy enhancing technologies and their challenges](https://doi.org/10.5281/zenodo.18788360) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-26` [Privacy Enhancing Technologies in the EU Digital Omnibus Proposal : Clarifying the Role of PETs in the Definition of Personal Data under the GDPR](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100941139) — Tokyo Tech Research Repository (Tokyo Institute of Technology)
+- `2026-02-25` [Governance at the Edge: Agent-Driven Privacy Mediation for Mobile and IoT Data](https://doi.org/10.1145/3789514.3792035) — University of Helsinki
+- `2026-02-25` [(TRUMPET) HNC Use Case](https://doi.org/10.5281/zenodo.18770025) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-25` [(TRUMPET) HNC Use Case](https://doi.org/10.5281/zenodo.18770026) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-24` [Cross-regional data protection: a synergistic framework integrating encryption, access control, and privacy-enhancing technologies](https://doi.org/10.1117/12.3104389) — Geely (China)
+- `2026-02-23` [(TRUMPET) NSCLC Use Case](https://doi.org/10.5281/zenodo.18744601) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-23` [(TRUMPET) NSCLC Use Case](https://doi.org/10.5281/zenodo.18744600) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-20` [Papua New Guinea food price bulletin: February 2026](https://hdl.handle.net/10568/181789) — CGSPace A Repository of Agricultural Research Outputs (Consultative Group for Internation…
+- `2026-02-20` [AVATAR - Teilprojekt Privacy Enhancing Technologies und Dataspace-Konnektoren](https://doi.org/10.34657/30113) — TIB Repositorium
+- `2026-02-19` [Navigating the Nexus in Southeast Asia: Legal Frameworks for Digital-Green Public-Private Partnerships in ASEAN’s Twin Transition Era](https://doi.org/10.36128/nymhx852) — PRAWO i WIĘŹ
+- `2026-02-18` [MOZAIK: A Privacy-Preserving Analytics Platform for IoT Data Using MPC and FHE](https://doi.org/10.1007/s10922-025-10021-6) — Journal of Network and Systems Management
+- `2026-02-17` [SECURITY CHALLENGES IN CLOUD-AI CONVERGED SYSTEMS AND INTELLIGENT DEFENSE MECHANISMS](https://doi.org/10.5281/zenodo.18672472) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-17` [SECURITY CHALLENGES IN CLOUD-AI CONVERGED SYSTEMS AND INTELLIGENT DEFENSE MECHANISMS](https://doi.org/10.5281/zenodo.18672471) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-17` [A Novel Framework for Semantic-Preserving Non-Reversible Data Transformation for Quantum-Resilient Security and Innate Compliance](https://doi.org/10.5281/zenodo.18671761) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-15` [Impacts of COVID-19 on household food insecurity in Malawi](https://doi.org/10.1007/s43621-026-02770-4) — Discover Sustainability
+- `2026-02-12` [Preserving privacy in the era of blockchain and IoT integration](https://doi.org/10.1201/9781003742098-3) —
+- `2026-02-12` [Navigating the complexities of international data transfer law to advance brain health research](https://doi.org/10.5281/zenodo.18619965) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-12` [Navigating the complexities of international data transfer law to advance brain health research](https://doi.org/10.5281/zenodo.18619964) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-11` [Addressing Memorization and Aggregation Risks in AI: A Knowledge Graph Approach to Privacy](https://doi.org/10.3390/app16041796) — Applied Sciences
+- `2026-02-09` [Federated learning for teacher data privacy protection: a study in the context of the PIPL](https://doi.org/10.3389/fdata.2026.1681382) — Frontiers in Big Data
+- `2026-02-06` [LAU1 dataset](https://doi.org/10.5281/zenodo.17549749) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-05` [Ethics and Compliance](https://doi.org/10.4018/979-8-3373-5238-1.ch012) — Advances in computational intelligence and robotics book series
+- `2026-02-05` [Heterogeneous Multi-Domain Dataset Synthesis to Facilitate Privacy and Risk Assessments in Smart City IoT](https://doi.org/10.3390/electronics15030692) — Electronics
+- `2026-02-04` [A Systematic Review of Privacy-Enhancing Technologies (PETs) for Securing Personally Identifiable Information in Public Cloud Architectures](https://doi.org/10.20944/preprints202602.0303.v1) — Preprints.org
+- `2026-02-03` [AI-driven RegTech and Crypto Laundering: The Dilemmas Between Financial Crime Prevention and Privacy Law](https://doi.org/10.1177/02601079261417007) — Journal of Interdisciplinary Economics
+- `2026-02-01` [Privacy-Enhancing Technologies for Information Security in Edge-Cloud Applications](https://doi.org/10.5281/zenodo.18935507) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-01` [Privacy-Enhancing Technologies for Information Security in Edge-Cloud Applications](https://doi.org/10.5281/zenodo.18935506) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-01` [Privacy-Enhancing-Technologies für die Informationssicherheit in Edge-Cloud-Anwendungen](https://doi.org/10.5281/zenodo.20393495) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-01` [Privacy-Enhancing-Technologies für die Informationssicherheit in Edge-Cloud-Anwendungen](https://doi.org/10.34657/40279) — TIB Repositorium
+- `2026-02-01` [Privacy-Enhancing-Technologies für die Informationssicherheit in Edge-Cloud-Anwendungen](https://doi.org/10.5281/zenodo.20393496) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-02-01` [Marketing Analytics Without Personal Identifiers: Federated Learning And DP](https://doi.org/10.37547/tajiir/volume08issue02-06) — The American Journal of Interdisciplinary Innovations and Research
+- `2026-02-01` [Institutional evolution, practical features, and implications for China of Australia's personal information protection governance](https://doi.org/10.3724/j.issn.1671-4342.20260019) — Modern Science
+- `2026-01-31` [Artificial Intelligence Breakthroughs and Data Futures: A Retrospective and Prospective Review](https://doi.org/10.21541/apjess.1705042) — Academic Platform Journal of Engineering and Smart Systems
+- `2026-01-31` [DPF-PIR: a scheme of feasible two-server keyword PIR with logarithmic communication](https://doi.org/10.1007/s11704-025-41120-x) — Frontiers of Computer Science
+- `2026-01-30` [Legal Protection of Personal Data in the Digital Era: Challenges and Regulatory Framework in Indonesia](https://doi.org/10.67171/mnrwww36) — Journal of Lex et Justitia
+- `2026-01-28` [Data Security and Privacy Preservation in Edge Computing: A Multi-Layered Synergistic Approach](https://doi.org/10.1109/icoecit68303.2026.11497514) — Jawaharlal Nehru Technological University, Hyderabad
+- `2026-01-27` [Veri-SFL: Privacy-Preserving Verification of Resource Allocation and Data Trustworthiness in Sustainable Federated Learning](https://doi.org/10.1109/tsusc.2026.3653218) — IEEE Transactions on Sustainable Computing
+- `2026-01-26` [A mathematical framework for literacy, agriculture, and poverty dynamics in Malawi](https://doi.org/10.3389/fsufs.2026.1665539) — Frontiers in Sustainable Food Systems
+- `2026-01-26` [Health Data Circulation in France: Between Public Interest and Privacy Enhancing Technologies](https://doi.org/10.3217/978-3-99161-062-5-016) — HAL (Le Centre pour la Communication Scientifique Directe)
+- `2026-01-21` [Harmonized food consumption dataset by food category and acquisition source for Sub-Saharan African countries](https://doi.org/10.1038/s41597-026-06548-1) — Scientific Data
+- `2026-01-21` [Homomorphic encryption for secure and scalable predictive healthcare analytics: a review and case study](https://doi.org/10.1007/s41872-025-00389-4) — Life Cycle Reliability and Safety Engineering
+- `2026-01-21` [Educational Administration: Theory and Practice](https://doi.org/10.53555//kuey.v30i11.11411) — Jagannath University
+- `2026-01-20` [Anonymization in healthcare AI under GDPR: measurable privacy protection and global implications](https://doi.org/10.1093/idpl/ipag002) — International Data Privacy Law
+- `2026-01-20` [Data Privacy, Regulatory Compliance, and Security Measures in AI-Driven Marketing Strategies](https://doi.org/10.1201/9781003560104-9) —
+- `2026-01-16` [Trustworthiness in Resource-Constrained IoT: Review and Taxonomy of Privacy-Enhancing Technologies and Anomaly Detection](https://doi.org/10.3390/telecom7010010) — Telecom
+- `2026-01-16` [Legal Safeguards for Digital Socio-Public Health Equity: Ensuring Privacy, Consent, and Justice in a Connected Age](https://doi.org/10.5772/intechopen.1014204) — IntechOpen eBooks
+- `2026-01-15` [A Study on Household Savings in India Since Reform Period](https://doi.org/10.31305/rrijm.2026.v11.n01.028) — RESEARCH REVIEW International Journal of Multidisciplinary
+- `2026-01-15` [Organizing privacy: cultural and structural constraints on activist use of privacy enhancing technologies](https://doi.org/10.1080/1369118x.2026.2616766) — Information Communication & Society
+- `2026-01-15` [Revealing privacy needs during life’s significant transitions](https://doi.org/10.1093/iwc/iwag002) — Interacting with Computers
+- `2026-01-13` [Privacy-preserving federated learning for securing the IoT-based edge devices in human-computer interaction applications](https://doi.org/10.1201/9781003559931-5) —
+- `2026-01-11` [Federated learning with homomorphic encryption for secure real time ECG anomaly detection: A multi institutional privacy preserving framework](https://doi.org/10.1016/j.bspc.2026.109557) — Biomedical Signal Processing and Control
+- `2026-01-09` [A Unified Lightweight Benchmark for Privacy-Preserving Federated Learning in Cyber-Physical Systems (Fashion-MNIST Case Study)](https://doi.org/10.1109/ccnc65079.2026.11366332) — Texas A&M University
+- `2026-01-08` [How Users Consider Web Tracking When Seeking Health Information Online](https://arxiv.org/pdf/2601.04485) — arXiv (Cornell University)
+- `2026-01-08` [How Users Consider Web Tracking When Seeking Health Information Online](https://doi.org/10.48550/arxiv.2601.04485) — arXiv (Cornell University)
+- `2026-01-07` [Privacy at Scale in Networked Healthcare](https://arxiv.org/pdf/2601.04298) — arXiv (Cornell University)
+- `2026-01-07` [Privacy at Scale in Networked Healthcare](https://doi.org/10.48550/arxiv.2601.04298) — arXiv (Cornell University)
+- `2026-01-07` [Graph-Conditional Flow Matching for Relational Data Generation](https://doi.org/10.48448/qn6a-jr60) — Underline Science Inc.
+- `2026-01-06` [PRISM: A Hybrid LibOS–TEE Framework for Continuous Runtime Privacy in Embodied AI](https://doi.org/10.48448/vh41-ne84) — Underline Science Inc.
+- `2026-01-05` [MOZAIK: A Privacy-Preserving Analytics Platform for IoT Data Using MPC and FHE](https://doi.org/10.48550/arxiv.2601.02245) — arXiv (Cornell University)
+- `2026-01-05` [MOZAIK: A Privacy-Preserving Analytics Platform for IoT Data Using MPC and FHE](https://arxiv.org/pdf/2601.02245) — arXiv (Cornell University)
+- `2026-01-01` [Enhancing Credit Risk Management and Organizational Adaptation in Thai Agricultural Cooperatives](https://doi.org/10.51847/pqqttkwesl) — Journal Of Organizational Behavior Research
+- `2026-01-01` [Harmonized food consumption dataset by food category and acquisition source for Sub-Saharan African countries](https://doi.org/10.6084/m9.figshare.29874011) — Figshare
+- `2026-01-01` [Regional Perspective on Educational inequality in India: Progress and challenges](https://doi.org/10.56975/jetir.v13i3.576919) — Journal of Emerging Technologies and Innovative Research
+- `2026-01-01` [Harmonized food consumption dataset by food category and acquisition source for Sub-Saharan African countries](https://doi.org/10.6084/m9.figshare.29874011.v1) — Figshare
+- `2026-01-01` [Economic Constraints, Beliefs, and Distancing Compliance During COVID-19 in Malawi](https://doi.org/10.17605/osf.io/rmtcy) —
+- `2026-01-01` [Economic Constraints, Beliefs, and Distancing Compliance During COVID-19 in Malawi](https://doi.org/10.17605/osf.io/7894k) — Open Science Framework
+- `2026-01-01` [From Demographic Dividend to Silver Society: Lessons from Kerala and Japan’s Demographic Transition](https://doi.org/10.46609/ijsser.2026.v11i08.001) — International Journal of Social Science and Economic Research
+- `2026-01-01` [Digital Transformation and Economic Growth in India: An Empirical Study](https://doi.org/10.37648/ijps.v21i01.001) — INTERNATIONAL JOURNAL OF PROFESSIONAL STUDIES
+- `2026-01-01` [The Decline Of Household Savings In India: Causes, Consequences, And Policy Pathways](https://doi.org/10.2139/ssrn.6897518) — SSRN Electronic Journal
+- `2026-01-01` [Two Indias, One GDP: How Billionaire Wealth is Masking the Middle Class Crisis](https://doi.org/10.2139/ssrn.7008858) — SSRN Electronic Journal
+- `2026-01-01` [LABOR MARKET CONDITIONS AND ACCOUNTING GRADUATES IN THAILAND: AN ANALYSIS OF COUNTERCYCLICAL ENROLLMENT PATTERNS, 1999–2023](https://doi.org/10.2139/ssrn.6891018) — SSRN Electronic Journal
+- `2026-01-01` [Digital Financial Inclusion, Banking Sector Development and Economic Growth in India: A Panel Data Analysis of Indian States (2015–2025)](https://doi.org/10.5281/zenodo.21918764) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-01-01` [Digital Financial Inclusion, Banking Sector Development and Economic Growth in India: A Panel Data Analysis of Indian States (2015–2025)](https://doi.org/10.5281/zenodo.21918763) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-01-01` [Tax Buoyancy and Tax Elasticity of Central Government Taxes: Evidence from India](https://doi.org/10.5958/2278-4853.2026.00030.9) — Asian Journal of Multidimensional Research
+- `2026-01-01` [Two Sides of the Coin: The Interlocking Burden of Income Poverty and Time Deprivation](https://doi.org/10.2139/ssrn.7362838) — SSRN Electronic Journal
+- `2026-01-01` [India Economic Transition in the Post-Pandemic Era: Emerging Trends in Employment, Consumption, and Investment](https://doi.org/10.21863/anwesh/2026.11.1.007) — ANWESH International Journal of Management & Information Technology
+- `2026-01-01` [Correlates of Child Multidimensional Poverty in Malawi](https://doi.org/10.1007/978-3-030-68127-2_590-2) — University of Malawi
+- `2026-01-01` [Between Promise and Practice: Challenges and Misperceptions of Applying Privacy Enhancing Technologies in Business Contexts](https://doi.org/10.24251/hicss.2026.744) — Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedi…
+- `2026-01-01` [Enabling Equitable Global Health AI with Privacy-Enhancing Technologies](https://doi.org/10.2139/ssrn.6792160) — SSRN Electronic Journal
+- `2026-01-01` [Privacy-enhancing technologies for user-centric smart energy platforms](https://doi.org/10.1049/icp.2025.4647) — IET conference proceedings.
+- `2026-01-01` [Lessons from a Robotaxi: Challenges in Selecting Privacy-Enhancing Technologies](https://doi.org/10.1007/978-3-032-16089-8_11) — Lecture notes in computer science
+- `2026-01-01` [PETs in Context: An Exploration of Privacy-enhancing Technologies for Everyday Internet use](https://doi.org/10.2139/ssrn.6627740) — SSRN Electronic Journal
+- `2026-01-01` [Anonymisation Versus Encryption: A Comprehensive Evaluation of Privacy-Enhancing Technologies for Machine Learning](https://doi.org/10.1007/978-3-032-28964-3_3) — Lecture notes in networks and systems
+- `2026-01-01` [Organizing privacy: cultural and structural constraints on activist use of privacy enhancing technologies](https://doi.org/10.6084/m9.figshare.31120290.v1) — Figshare
+- `2026-01-01` [Organizing privacy: cultural and structural constraints on activist use of privacy enhancing technologies](https://doi.org/10.6084/m9.figshare.31120290) — Figshare
+- `2026-01-01` [Editorial: Privacy enhancing technology: a top 10 emerging technology to revolutionize healthcare](https://publications.tno.nl/publication/34646423/Mg8wZmnZ/Gemert-Pijnen-2026-Privacy-enhancing.pdf) — TNO Repository
+- `2026-01-01` [Toward Scalable Privacy in Omics Research: A Scoping Review of Privacy-Enhancing Technologies](https://doi.org/10.2139/ssrn.7164458) — SSRN Electronic Journal
+- `2026-01-01` [End-to-End Privacy in Brain–Computer Interfaces: A Survey of Vulnerabilities, Privacy-Enhancing Technologies, and Governance](https://doi.org/10.2139/ssrn.7089882) — SSRN Electronic Journal
+- `2026-01-01` [End-to-End Privacy in Brain-Computer Interfaces: A Survey of Vulnerabilities, Privacy-Enhancing Technologies, and Governance](https://doi.org/10.2139/ssrn.6962840) — SSRN Electronic Journal
+- `2026-01-01` [Protecting the ‘Privacy’ in Privacy-Enhancing Technologies: Lessons from Apple’s NeuralHash Detection Proposal and Google’s Privacy Sandbox](https://doi.org/10.2139/ssrn.6393979) — SSRN Electronic Journal
+- `2026-01-01` [Protecting the 'Privacy' in Privacy-Enhancing Technologies: Lessons from Apple's NeuralHash Detection Proposal and Google's Privacy Sandbox](https://doi.org/10.13140/rg.2.2.33465.02409) —
+- `2026-01-01` [A Structured Knowledge Model Linking Healthcare Privacy Risks to Privacy-Enhancing Technologies for AI-Enabled Health Systems](https://doi.org/10.5220/0014715600004052) — Science Foundation Ireland
+- `2026-01-01` [Privacy Enhancing Technologies in the EU Digital Omnibus Proposal: Clarifying the Role of PETs in the Definition of Personal Data under the GDPR](https://doi.org/10.1007/978-981-92-1527-0_6) — Lecture notes in computer science
+- `2026-01-01` [Privacy Enhancing Technologies in the EU Digital Omnibus Proposal : Clarifying the Role of PETs in the Definition of Personal Data under the GDPR](https://doi.org/10.2139/ssrn.6247239) — SSRN Electronic Journal
+- `2026-01-01` [SovAI for 6G: Towards the Future of AI-Native Networks](https://doi.org/10.1109/mcomstd.2026.3689995) — IEEE Communications Standards Magazine
+- `2026-01-01` [Privacy Threat Modeling for Federated Learning](https://doi.org/10.1007/978-981-95-2196-8_13) — Lecture notes in electrical engineering
+- `2026-01-01` [Privacy-Preserving Techniques in Data Anonymization and Masking: Trends and Challenges](https://doi.org/10.2139/ssrn.6277961) — SSRN Electronic Journal
+- `2026-01-01` [Legal and Ethical Considerations for Translating Federated Learning into Cross-Border Healthcare Innovation](https://doi.org/10.1109/jbhi.2026.3677593) — IEEE Journal of Biomedical and Health Informatics
+- `2026-01-01` [An Efficient and Secure Smart Parking System With Conditional Preservation of Citizens Privacy for Smart Cities](https://doi.org/10.1109/tnsm.2026.3673982) — IEEE Transactions on Network and Service Management
+- `2026-01-01` [Secure and Sustainable AI-Driven Virtual Healthcare Assistants: Privacy-Preserving NLP for Future-Ready Patient Care](https://doi.org/10.1007/978-3-032-13177-5_20) — Lecture notes in networks and systems
+- `2026-01-01` [Tensions Between Data Minimisation and Legal Proof Obligations: Zero-Knowledge Proofs in the EUDI Wallet](https://doi.org/10.18420/oid2026_09) — Gesellschaft für Informatik (GI)
+- `2026-01-01` [Real Privacy Impact of Mobile Applications: Checks Through Static Analysis](https://doi.org/10.1007/978-3-032-16995-2_41) — Lecture notes in networks and systems
+- `2026-01-01` [User Perceptions and Attitudes Toward Untraceability in Messaging Platforms](https://doi.org/10.56553/popets-2026-0007) — Proceedings on Privacy Enhancing Technologies
+- `2026-01-01` [Illicit Search Behavior and Responses to Filtering and Deterrence on Tor: Evidence from Ahmia](https://doi.org/10.2139/ssrn.6329359) — SSRN Electronic Journal
+- `2026-01-01` [A Layered Architecture for Large-Scale Data Space Federation using a Common Carrier Layer](https://publications.tno.nl/publication/34646512/VcArfV55/TNO-2026-16717.pdf) — TNO Repository
+- `2026-01-01` [Building Privacy-Preserving Technologies of Societal Impact (Dagstuhl Seminar 25312)](https://doi.org/10.4230/dagrep.15.7.280) — DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)
+- `2026-01-01` [Privacy and ethics](https://doi.org/10.1016/b978-0-443-36322-1.00011-0) — Elsevier eBooks
+- `2026-01-01` [Data-Driven Insights and Recommendations for Improving Cybercrime Awareness and Mitigation Strategies](https://doi.org/10.1007/978-981-95-2680-2_52) — Lecture notes in electrical engineering
+- `2026-01-01` [Podcast Nicpet: Besluitvorming met PETs](https://resolver.tno.nl/uuid:6792f8a7-03df-4608-886a-14d2584e6b59) — TNO Repository
+- `2026-01-01` [PhD Proposal: Ontologies and Artificial Intelligence for Privacy Assessment in the Internet of Everything](https://doi.org/10.1007/978-3-032-16992-1_39) — Lecture notes in networks and systems
+- `2026-01-01` [The Pillars of Trust in Life Science AI](https://doi.org/10.1007/978-3-032-14222-1_8) — Lawrence Berkeley National Laboratory
+- `2026-01-01` [CBDCs vs. Cryptocurrencies: Comparative Analysis of Privacy Approaches Using NLP](https://doi.org/10.2139/ssrn.6217638) — SSRN Electronic Journal
+- `2026-01-01` [Content Leakage: Privacy, Exposure and the Athlete in the Public Eye](https://doi.org/10.1007/978-3-032-17822-0_3) — Teesside University
+- `2026-01-01` [Cross-border data flow](https://doi.org/10.1016/b978-0-443-36322-1.00005-5) — Elsevier eBooks
+- `2026-01-01` [Combating Digital Personhood in the Age of Synthetic Identity Crime](https://doi.org/10.20944/preprints202608.2271.v1) — Preprints.org
+- `2026-01-01` [Designing Privacy-Preserving Smart Home Intrusion Detection Through User Acceptance Criteria: An Action Design Research Study](https://doi.org/10.1007/978-3-032-35899-8_5) — Lecture notes in computer science
+- `2026-01-01` [Blockchain for secure data sharing by integration with artificial intelligence driven robotics](https://doi.org/10.1016/b978-0-443-27783-2.00011-9) — Elsevier eBooks
+- `2026-01-01` [Open-Source Media and Marketing Mix Modeling: Practice-Oriented Overview, Challenges, Opportunities](https://doi.org/10.2139/ssrn.6317979) — SSRN Electronic Journal
+- `2026-01-01` [Innovation und Digitale Souveränität müssen kein Widerspruch sein](https://doi.org/10.1007/978-3-658-51795-3_5) — Edition HMD
+- `2026-01-01` [Basic Science, Innovation, and Policy](https://doi.org/10.1007/978-981-95-7020-1_8) — The University of Tokyo
+- `2026-01-01` [The Privacy-Utility Trade-Off in Artificial Intelligence Contexts - A Systematic Literature Review](https://doi.org/10.18420/oid2026_12) — Gesellschaft für Informatik (GI)
+- `2026-01-01` [Privacy-Preserving Video Motion Detection Based on Transfer Learning](https://doi.org/10.1007/978-981-95-5758-5_4) — Lecture notes in computer science
+- `2026-01-01` [Revealing Power Imbalances in Data Privacy: A Privacy Privilege Model](https://doi.org/10.1007/978-3-032-27993-4_35) — IFIP advances in information and communication technology
+- `2026-01-01` [Comparative Analysis of Existing:CBDC Architectures and:Development of a Decentralized,:Privacy-Respecting Reference Model:Balancing State Control and Citizen Autonomy in Central Bank Digital:Currenc…](https://resolver.obvsg.at/urn:nbn:at:at-fhj:1-59212) — FH JOANNEUM ePUB
+- `2026-01-01` [Blockchain and the Tracing of Illicit Financial Flows: On-Chain Analysis, Off-Chain Attribution, and Asset Recovery](https://doi.org/10.2139/ssrn.6577318) — SSRN Electronic Journal
+- `2026-01-01` [Ensuring Security and Privacy in Cloud Data Storage and Processing](https://doi.org/10.2139/ssrn.5852942) — SSRN Electronic Journal
+- `2026-01-01` [Transparency and Intervenability in Privacy Engineering: From Research Gap to GDPR Challenge](https://doi.org/10.1007/978-3-032-35899-8_12) — Lecture notes in computer science
+- `2026-01-01` [FairDP-GNN: Graph Neural Network with Group Fairness and Differential Privacy](https://doi.org/10.1007/978-981-95-3827-0_25) — Lecture notes in computer science
+- `2026-01-01` [The EU Digital Omnibus: Simplification, Competitiveness, and the Challenge of Integrated Governance](https://doi.org/10.2139/ssrn.6514138) — SSRN Electronic Journal
+- `2026-01-01` [Social Sensing Privacy: A Review of Regulatory and Technical Solutions](https://doi.org/10.1007/978-3-032-27705-3_26) — Lecture notes in networks and systems
+- `2026-01-01` [The Missing Pillar of Canada's AI Strategy: Data Supply Chains](https://doi.org/10.2139/ssrn.6257798) — SSRN Electronic Journal
+- `2026-01-01` [Energy Consumption of TLS, Searchable Encryption and Fully Homomorphic Encryption](https://doi.org/10.1007/978-3-032-20026-6_18) — Lecture notes in computer science
+- `2026-01-01` [Sovereignty as Code, Law as Contract: Transfer Impact Assessments and the Governance of Digital Borders](https://doi.org/10.1007/978-3-032-21524-6_25) — Springer proceedings in complexity
+- `2026-01-01` [Decentralized, Secure and Privacy-Preserving Sharing of Health Data: A Survey and Future Directions](https://doi.org/10.2139/ssrn.7345361) — SSRN Electronic Journal
+- `2026-01-01` [Trustable LLM Applications with Privacy-preserving Computations and Decentralized Tech Stacks](https://doi.org/10.2139/ssrn.6866720) — SSRN Electronic Journal
+- `2026-01-01` [Ethical AI and Data Protection in the Era of Industry 5.0](https://doi.org/10.37591/ijise.v04i02.246448) — International Journal of Information Security Engineering
+- `2026-01-01` [A Survey on Privacy Enhancement Techniques for Federated Learning in Resource-ConstrainedInternet of Medical Things Devices](https://doi.org/10.2139/ssrn.7073204) — SSRN Electronic Journal
+- `2026-01-01` [Datentreuhandmodell für einen horizontalen Geodatenraum](https://doi.org/10.34657/40641) — TIB Repositorium
+- `2026-01-01` [From Jurisprudential Deduction to Computational Logic: A Circulation Mechanism for Industrial Vision Data Property Rights under the Separation of Three Rights](https://doi.org/10.2139/ssrn.6866161) — SSRN Electronic Journal
+- `2025-12-31` [Proposing a person-centred health data ecosystem framework to optimise digital innovation and artificial intelligence for dementia prevention and cognitive longevity](https://doi.org/10.1080/30653495.2025.2570721) — Longevity
+- `2025-12-31` [Partnerspezifischer Schlussbericht des Fraunhofer AISEC zum Projekt "Automatisierter Transport zwischen Logistikzentren auf Schnellstraßen im Level 4 (ATLAS-L4)", Teilvorhaben "Security-Umfänge"](https://doi.org/10.34657/28745) — TIB Repositorium
+- `2025-12-30` [The Impact of Startup Difficulties on Business Performance of Small Business Owners](https://doi.org/10.48033/jss.10.4.10) —
+- `2025-12-30` [Privacy-Aware Architectures for Cloud-Native Applications: A Systematic Review](https://doi.org/10.5281/zenodo.18206342) — Zenodo (CERN European Organization for Nuclear Research)
+- `2025-12-30` [Privacy-Aware Architectures for Cloud-Native Applications: A Systematic Review](https://doi.org/10.5281/zenodo.18206341) — Zenodo (CERN European Organization for Nuclear Research)
+- `2025-12-29` [Dataset Package: Official National-Level Statistics on the Music Industry in Bulgaria](https://doi.org/10.5281/zenodo.18089808) — Zenodo (CERN European Organization for Nuclear Research)
+- `2025-12-29` [Dataset Package: Official National-Level Statistics on the Music Industry in Bulgaria](https://doi.org/10.5281/zenodo.18089807) — Zenodo (CERN European Organization for Nuclear Research)
+- `2025-12-28` [BLOCKCHAIN AND DATA PRIVACY IN NIGERIA: RECONCILING INNOVATION WITH THE NIGERIA DATA PROTECTION ACT 2023](https://doi.org/10.15837/aijjs.v19i2.7372) — Agora International Journal of Juridical Sciences
+- `2025-12-28` [An Exploration of User-level Privacy-Preserving Federated Learning Technique: A Machine Learning Perspective on Classification, Threat Mitigations, and Exploring Federated Learning and Beyond](https://doi.org/10.62019/5n05ms49) — The Asian Bulletin of Big Data Management
+- `2025-12-27` [Privacy as institutional design: A legal-technological analysis of CBDC governance and compliance](https://doi.org/10.1016/j.clsr.2025.106258) — Computer law & security review
+- `2025-12-25` [Towards integration of privacy enhancing technologies in explainable artificial intelligence](https://doi.org/10.1016/j.knosys.2025.115235) — Knowledge-Based Systems
+- `2025-12-25` [Integrating Blockchain and File System for Data Privacy](https://doi.org/10.35596/1729-7648-2025-23-6-80-86) — Doklady BGUIR
+- `2025-12-22` [Crypto in the Shadows: Why Global Tax Systems Struggle to Regulate Digital Asset Conversions](https://doi.org/10.51483/ijccr.5.2.2025.113-135) — International Journal of Cryptocurrency Research
+- `2025-12-19` [Blockchain Technology: A Comprehensive Review of Architecture, Consensus Mechanisms, Security, Scalability Solutions, and Real-World Applications for Distributed Systems](https://doi.org/10.36227/techrxiv.176617589.93522339/v1) — Green University of Bangladesh
+- `2025-12-17` [Navigating the Complexities of Tourism Statistics in Sub-Saharan Africa: Insights from Malawi](https://doi.org/10.46222/ajhtl.19770720.710) — African Journal of Hospitality Tourism and Leisure
+- `2025-12-15` [Architecting Dependable Mobile Health Systems for Managing Anxiety and Depression Across Oncopatology Stages: A Review of Security, Privacy, and Usability Frameworks](https://doi.org/10.51983/ijiss-2025.ijiss.15.4.01) — Indian Journal of Information Sources and Services
+- `2025-12-15` [Datenschutz durch statistische Analyse und Adaptive Anonymisierung von personenbezogenen Daten für KMU (DA3KMU)](https://doi.org/10.34657/26913) — Fraunhofer-Publica (Fraunhofer-Gesellschaft)
+- `2025-12-15` [The Convergence of Shadow and Silicon: Advanced Forensic Methodologies for Decentralized Webs, Generative AI, and Darknet Infrastructure](https://doi.org/10.53573/rhimrj.2025.v12n12.004) — RESEARCH HUB International Multidisciplinary Research Journal
+- `2025-12-14` [HOW CAN PRIVACY-ENHANCING TECHNOLOGIES PROMOTE THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE WITHOUT COMPROMISING PRIVACY? A POLICY PROPOSAL FOR TÜRKİYE](https://dergipark.org.tr/en/pub/kvkd/article/1842109) — DergiPark (Istanbul University)

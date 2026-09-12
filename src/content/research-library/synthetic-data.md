@@ -1,0 +1,406 @@
+## Synthetic data research library
+
+Published research on synthetic data, privacy, disclosure control and official statistics. This library supports the corresponding section of SMR's industry guide and is provided for readers who want to explore the underlying work in more depth.
+
+## Sources
+
+- `2026-09-10` [Site Readiness Index v0.1: assessed clinical research staff known to CRLN, by country](https://doi.org/10.5281/zenodo.22690958) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-10` [Site Readiness Index v0.1: assessed clinical research staff known to CRLN, by country](https://doi.org/10.5281/zenodo.22690959) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-09` [Weightflow: Reproducible, recipe-aware survey weighting for official statistics in R](https://doi.org/10.1177/18747655261484262) — Statistical Journal of the IAOS
+- `2026-09-08` [Sarkodie1/at-risk-student-prediction-knust: v1.1.1 — B-TabPFN closeout evidence](https://doi.org/10.5281/zenodo.21709992) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Sarkodie1/at-risk-student-prediction-knust: v1.1.1 — B-TabPFN closeout evidence](https://doi.org/10.5281/zenodo.22657401) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Reimbursed Use of GLP-1 Receptor Agonists in France, 2019–2025](https://doi.org/10.5281/zenodo.22658978) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Reimbursed Use of GLP-1 Receptor Agonists in France, 2019–2025](https://doi.org/10.5281/zenodo.22658977) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Reproducible analysis code for the ICU Day-7 renal/nonrenal phenotype study](https://doi.org/10.5281/zenodo.22663198) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Reproducible analysis code for the ICU Day-7 renal/nonrenal phenotype study](https://doi.org/10.5281/zenodo.22663197) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-08` [Perception bias: how official statistics shape attitudes towards immigrants](https://doi.org/10.1080/1369183x.2026.2725423) — Journal of Ethnic and Migration Studies
+- `2026-09-08` [War-Driven Transformation of Stationary Air Pollutant and Greenhouse Gas Emissions in Ukraine: Evidence from Official Statistics and Implications for CBAM and the National Emissions Trading System](https://doi.org/10.3390/pollutants6030050) — Pollutants
+- `2026-09-07` [GSP — Generative Synthetic Populations: a reproducible pipeline for synthetic populations of Italian municipalities](https://doi.org/10.5281/zenodo.22127409) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Animarium — synthetic populations of 245 Italian municipalities (release-v2.0)](https://doi.org/10.5281/zenodo.22647403) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Animarium — synthetic populations of 245 Italian municipalities (release-v2.0)](https://doi.org/10.5281/zenodo.22647404) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Animarium — a browser viewer for GSP synthetic populations of Italian municipalities](https://doi.org/10.5281/zenodo.22127472) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Synthetic Comparative Analysis of Cardiovascular Disease Profiles Using Quantum Information Measures in Indian and Global Populations](https://doi.org/10.3390/diagnostics16172878) — Diagnostics
+- `2026-09-07` [Contextual Multi-Armed Bandits with Geo-Fencing Triggers for Dynamic Incentive Personalization in Mobile Networks](https://doi.org/10.5281/zenodo.22647514) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Contextual Multi-Armed Bandits with Geo-Fencing Triggers for Dynamic Incentive Personalization in Mobile Networks](https://doi.org/10.5281/zenodo.22647515) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-07` [Data, data science, and official statistics](https://doi.org/10.1177/18747655261485655) — Statistical Journal of the IAOS
+- `2026-09-07` [PathShift: Relational trip reconstruction from passive mobility data for official-statistics-like mobility products](https://doi.org/10.1177/18747655261484308) — Statistical Journal of the IAOS
+- `2026-09-06` [From News to Index: A Practitioner’s Guide to a Deployable Sentiment Pipeline for Official Statistics](https://doi.org/10.1177/0282423x261477606) — Journal of Official Statistics
+- `2026-09-04` [Demographic and Regional Determinants of Health Literacy Levels in Turkey: A Secondary Data Analysis of the 2023 Official Statistics](https://doi.org/10.58830/ozgur.pub1405.c5670) — Özgür Yayınları eBooks
+- `2026-09-04` [Google Search Trends as a Proxy for the Dutch Labour Market: Comparing Search Interest with Official Statistics and Assessing Measurement and Coverage Error](https://doi.org/10.5281/zenodo.22304699) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-04` [Google Search Trends as a Proxy for the Dutch Labour Market: Comparing Search Interest with Official Statistics and Assessing Measurement and Coverage Error](https://doi.org/10.5281/zenodo.22304698) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-03` [Basic psychological needs, achievement goals and well-being among Polish higher-education students: a cross-sectional dataset (N = 699)](https://doi.org/10.17632/fxrsdd6wd8) — Mendeley Data
+- `2026-09-03` [Basic psychological needs, achievement goals and well-being among Polish higher-education students: a cross-sectional dataset (N = 699)](https://doi.org/10.17632/fxrsdd6wd8.1) — Mendeley Data
+- `2026-09-03` [BreastCancerCare-Inequities-Colombia](https://doi.org/10.5281/zenodo.22261948) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-03` [BreastCancerCare-Inequities-Colombia](https://doi.org/10.5281/zenodo.22261949) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-03` [ENVESOME ABM](https://doi.org/10.5281/zenodo.22267759) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-03` [ENVESOME ABM](https://doi.org/10.5281/zenodo.22267760) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-09-03` [Probability-based web panels for official statistics](https://repozitorij.uni-lj.si/Dokument.php?id=245965&dn=) — Repository of the University of Ljubljana (University of Ljubljana)
+- `2026-09-03` [statfidelity: Audit Statistical Fidelity of AI-Mediated Official Statistics](https://doi.org/10.32614/cran.package.statfidelity) —
+- `2026-09-03` [Verify and protect before you trust: A practical protocol for AI and algorithmic adoption in methodology development for national statistical offices](https://doi.org/10.1177/18747655261484908) — Statistical Journal of the IAOS
+- `2026-09-01` [Credit ratings and financial soundness in public financial discourse: Evidence from the Sicilian regional government](https://doi.org/10.1080/09540962.2026.2723351) — Public Money & Management
+- `2026-09-01` [The IACOB project. XIX. Revisiting massive-star evolution with empirical TAMS constraints: Updated models, overshoot calibration, and the population of blue supergiants](https://doi.org/10.1051/0004-6361/202661561) — Astronomy and Astrophysics
+- `2026-09-01` [Binary-boosted dark matter](https://doi.org/10.1088/1475-7516/2026/09/056) — Journal of Cosmology and Astroparticle Physics
+- `2026-09-01` [iDatos: A metadata-driven production infrastructure for large-scale record linkage and master data integration in official statistics](https://doi.org/10.1016/j.array.2026.101209) — Array
+- `2026-09-01` [Enacting indigenous data governance in official statistics: A rights-based framework for settler-colonial and comparative statistical systems](https://doi.org/10.1177/18747655261480644) — Statistical Journal of the IAOS
+- `2026-08-31` [Digital Asset Insolvency in the Blockchain Era: A Framework for Bankruptcy Law](https://doi.org/10.59261/jlsp.v4i4.173) — Journal of Law and Social Politics
+- `2026-08-31` [SpiralHelios: A Deterministic Non-Training Artificial Intelligence Architecture for Source-Governed Reasoning and Public-Safe Validation](https://doi.org/10.5281/zenodo.22214397) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [SpiralHelios: A Deterministic Non-Training Artificial Intelligence Architecture for Source-Governed Reasoning and Public-Safe Validation](https://doi.org/10.5281/zenodo.22214396) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Synthetic population housing and person records for the United States](https://doi.org/10.3886/e100274) — ICPSR Data Holdings
+- `2026-08-31` [A novel approach using synthetic population models to assess how urban vegetation alters health inequalities in PM2.5 exposure](https://doi.org/10.1016/j.ufug.2026.129665) — Urban forestry & urban greening
+- `2026-08-31` [Integrating citizen data into official statistics: Policy framework for data co-production](https://doi.org/10.1177/18747655261483979) — Statistical Journal of the IAOS
+- `2026-08-31` [Measuring gender equality through official statistics: An integrated multi-criteria assessment of European countries](https://doi.org/10.1177/18747655261483873) — Statistical Journal of the IAOS
+- `2026-08-31` [Interpretive Limitations and Reporting Improvements of Aggregate Esports Industry Size Indicators: Growth Contribution Decomposition and Account Reclassification Based on Official Statistics for 2023…](https://doi.org/10.37408/kjls.2026.17.3.73) —
+- `2026-08-31` [Synthetic Data Evaluation Metrics in Life Sciences An ELIXIR Scoping Review](https://doi.org/10.5281/zenodo.22641751) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Synthetic Data Evaluation Metrics in Life Sciences An ELIXIR Scoping Review](https://doi.org/10.5281/zenodo.22641752) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-31` [Enhancing disease surveillance in Nigeria through machine learning: opportunities, challenges and strategic recommendations](https://doi.org/10.1186/s44398-026-00036-7) — BMC Artificial Intelligence
+- `2026-08-29` [Ten-Year Panel of Japanese Municipal Finance from the Local Government Financial Settlement Survey](https://doi.org/10.5281/zenodo.22144642) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-28` [Parameterized Complexity of Connected Network Microaggregation: The Role of Cluster Size](https://doi.org/10.48550/arxiv.2608.28920) — arXiv (Cornell University)
+- `2026-08-28` [No need, or no category? Recording refusal of generative AI in European official statistics](https://doi.org/10.21203/rs.3.rs-10694433/v1) — Research Square
+- `2026-08-28` [Beyond Aggregation Bias: The Importance of Consistency with Official Statistics in MRIO-Based Carbon Footprints](https://doi.org/10.21203/rs.3.rs-10445915/v1) — Research Square
+- `2026-08-27` [Frozen analysis code for the Day-7 joint kidney-organ-support recovery phenotype after early acute kidney injury](https://doi.org/10.5281/zenodo.22129411) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Frozen analysis code for the Day-7 joint kidney-organ-support recovery phenotype after early acute kidney injury](https://doi.org/10.5281/zenodo.22129412) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Structure of the Discretized Complete Blood Count Profile Space: analysis code and aggregate data](https://doi.org/10.5281/zenodo.22124596) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [GSP — Generative Synthetic Populations: a reproducible pipeline for synthetic populations of Italian municipalities](https://doi.org/10.5281/zenodo.22127410) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Animarium synthetic population dataset — technical report v1.0](https://doi.org/10.5281/zenodo.22127580) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Animarium synthetic population dataset — technical report v1.0](https://doi.org/10.5281/zenodo.22127581) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Animarium — a browser viewer for GSP synthetic populations of Italian municipalities](https://doi.org/10.5281/zenodo.22127473) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-27` [Animarium: an open, reproducible pipeline for synthetic populations of Italian cities, from ISTAT sources to open data (Tech Report v1)](https://doi.org/10.48550/arxiv.2608.27111) — arXiv (Cornell University)
+- `2026-08-27` [Net utilization of the energy and the protein in the chain “fodder – produced milk” in sheep from theynthetic population “Bulgarian Dairy”](https://doi.org/10.61308/wab5ck19) — Bulgarian Journal of Agricultural Science
+- `2026-08-27` [CepalStatR: Reproducible access to Latin American official statistics from CEPALSTAT in R](https://doi.org/10.1016/j.softx.2026.102973) — SoftwareX
+- `2026-08-26` [Dataset: Multi-Type Public Spaces](https://doi.org/10.5281/zenodo.22114439) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-26` [Dataset: Multi-Type Public Spaces](https://doi.org/10.5281/zenodo.22114440) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-26` [Population synthesis of active galactic nuclei based on the radiation-regulated unification model](https://doi.org/10.1051/0004-6361/202660252) — Astronomy and Astrophysics
+- `2026-08-26` [Reply on RC2](https://doi.org/10.5194/egusphere-2026-992-ac2) —
+- `2026-08-26` [Reply on RC1](https://doi.org/10.5194/egusphere-2026-992-ac1) —
+- `2026-08-25` [Automated Appreciation versus Success Confirmation: Delayed Editing under Reconstructed Wikipedia Hash Designations](https://doi.org/10.5281/zenodo.22092456) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-25` [Automated Appreciation versus Success Confirmation: Delayed Editing under Reconstructed Wikipedia Hash Designations](https://doi.org/10.5281/zenodo.22092455) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-25` [replica: Create Synthetic Populations For Use In Mental Health Economic Models](https://doi.org/10.5281/zenodo.22088407) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-25` [replica: Create Synthetic Populations For Use In Mental Health Economic Models](https://doi.org/10.5281/zenodo.22088406) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-25` [Trusted Data for Prosperity and Human Rights: The Canadian Experience](https://doi.org/10.5281/zenodo.22149065) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-25` [Trusted Data for Prosperity and Human Rights: The Canadian Experience](https://doi.org/10.5281/zenodo.22149064) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-24` [IMPROVING OFFICIAL STATISTICS WITH AI, AND AI WITH OFFICIAL STATISTICS](https://doi.org/10.22364/bnu.2026.01) — Ludwig-Maximilians-Universität München
+- `2026-08-24` [FAIRsharing record for: Office for National Statistics](https://doi.org/10.25504/fairsharing.d8f883) — FAIRsharing.org
+- `2026-08-23` [MOT Risk Index Evidence Capsule: Great Britain vehicle-family and defect-group aggregates, 2024](https://doi.org/10.5281/zenodo.22071425) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-23` [MOT Risk Index Evidence Capsule: Great Britain vehicle-family and defect-group aggregates, 2024](https://doi.org/10.5281/zenodo.22071424) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [A Privacy-Preserved Multi-Level Dataset of User Roles and System Deployment in a Geofencing-Enabled Oil Palm Harvest Management System](https://doi.org/10.5281/zenodo.22062207) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [A Privacy-Preserved Multi-Level Dataset of User Roles and System Deployment in a Geofencing-Enabled Oil Palm Harvest Management System](https://doi.org/10.5281/zenodo.22062208) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [A Privacy-Preserved Multi-Level Dataset of User Roles and System Deployment in a Geofencing-Enabled Oil Palm Harvest Management System](https://doi.org/10.5281/zenodo.22062367) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [A Privacy-Preserved Multi-Level Dataset of User Roles and System Deployment in a Geofencing-Enabled Oil Palm Harvest Management System](https://doi.org/10.5281/zenodo.22062366) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-22` [Evaluating the Guessability of 6-Digit PINs under User Bias and Date-of-Birth Leakage](https://doi.org/10.54654/isj.v2i28.6411) — Journal of Science and Technology on Information security
+- `2026-08-21` [Replication package for "The Rent Cap Official Statistics Cannot See: All-Tenant Rent Indices and Renewal Ceilings in Metropolitan Housing Markets"](https://doi.org/10.5281/zenodo.22043515) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Replication package for "The Rent Cap Official Statistics Cannot See: All-Tenant Rent Indices and Renewal Ceilings in Metropolitan Housing Markets"](https://doi.org/10.5281/zenodo.22043516) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-21` [Investigating Contrastive Learning for Conditional Variational Autoencoders in Network Intrusion Detection](https://doi.org/10.3390/app16168323) — Applied Sciences
+- `2026-08-20` [Beyond methodology: A thick description of public trust in official statistics in a low-income data ecosystem — evidence from Uganda during the COVID-19 pandemic](https://doi.org/10.1177/18747655261468481) — Statistical Journal of the IAOS
+- `2026-08-19` [SynthPopCan](https://doi.org/10.5281/zenodo.22017599) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-19` [SynthPopCan](https://doi.org/10.5281/zenodo.21461463) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-19` [Accounting for intra-household joint travel in agent-based transport simulations](https://doi.org/10.48550/arxiv.2608.18657) — arXiv (Cornell University)
+- `2026-08-18` [Preregistration v1.0 - Public Snapshot](https://osf.io/28kgn) — OSF Preprints (OSF Preprints)
+- `2026-08-18` [Preregistration v1.0 - Public Snapshot](https://doi.org/10.17605/osf.io/8juxw) —
+- `2026-08-18` [COMPASS – an open-source software package for creating multi-level representative nested synthetic populations for small areas](https://eprints.gla.ac.uk/392853/1/392853.pdf) — ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)
+- `2026-08-18` [generative-structure/inverse-score-lenses: inverse-score-lenses-v1](https://doi.org/10.5281/zenodo.21994412) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-18` [generative-structure/inverse-score-lenses: inverse-score-lenses-v1](https://doi.org/10.5281/zenodo.21994413) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-18` [Bridging evaluation and official statistics through GenAI](https://doi.org/10.4324/9781003799139-29) —
+- `2026-08-17` [Adoption Telemetry: Measuring Enterprise AI Adoption from Production Signals](https://doi.org/10.5281/zenodo.21943954) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-17` [Experiments of Quasi-Randomization Estimation for Official Statistics Based on Aggregated Mobile Network Operator Data](https://doi.org/10.1177/0282423x261460497) — Journal of Official Statistics
+- `2026-08-16` [Feasible and Novel Synthetic Population Generation with Tabular and Sequential Travel Attributes](https://doi.org/10.48550/arxiv.2608.15867) — arXiv (Cornell University)
+- `2026-08-16` [SynthPopCan](https://doi.org/10.5281/zenodo.21961301) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-15` [Adoption Telemetry: Measuring Enterprise AI Adoption from Production Signals](https://doi.org/10.48550/arxiv.2608.23617) — arXiv (Cornell University)
+- `2026-08-14` [UnitedSim of America: How to Build 303 Million Fake AI-mericans for Unethical Research](https://doi.org/10.5281/zenodo.21935228) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-14` [UnitedSim of America: How to Build 303 Million Fake AI-mericans for Unethical Research](https://doi.org/10.5281/zenodo.21935227) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [Measuring Otherness Between Political Communities: Decomposition, Bidirectionality and Distance](https://doi.org/10.5281/zenodo.21922671) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [Measuring Otherness Between Political Communities: Decomposition, Bidirectionality and Distance](https://doi.org/10.5281/zenodo.21922672) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-13` [A Generative Framework for the Creation of Multi-Attribute Geographically-Explicit Synthetic Population](https://doi.org/10.48550/arxiv.2608.12768) — arXiv (Cornell University)
+- `2026-08-12` [Early implementation of radiofrequency ablation for breast cancer in Japan: What national claims data reveal and obscure](https://doi.org/10.1016/j.jcpo.2026.100796) — Journal of Cancer Policy
+- `2026-08-12` [Replication materials for "weightflow: reproducible, recipe-aware survey weighting for official statistics in R"](https://doi.org/10.5281/zenodo.21897368) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-12` [Replication materials for "weightflow: reproducible, recipe-aware survey weighting for official statistics in R"](https://doi.org/10.5281/zenodo.21897367) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-11` [SynthEquity: A Privacy-Preserving Computational Framework for Identifying and Mitigating Medical Deserts Using Generative AI](https://doi.org/10.1007/978-3-032-35387-0_25) — Lecture notes in computer science
+- `2026-08-10` [From Synthetic Populations to Pre-Legislative Evidence: A Gated Sim-to-Real Protocol for Regulatory Stress Testing in Argentina](https://doi.org/10.5281/zenodo.21876359) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [From Synthetic Populations to Pre-Legislative Evidence: A Gated Sim-to-Real Protocol for Regulatory Stress Testing in Argentina](https://doi.org/10.5281/zenodo.21876358) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [SynthPopCan](https://doi.org/10.5281/zenodo.21876960) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-10` [Examining racial/ethnic and socioeconomic disparities in access to California’s electric vehicle charging infrastructure](https://doi.org/10.1038/s44458-026-00133-8) — Communications Sustainability
+- `2026-08-10` [Using Linked Micromaps to Explore Complex Structures in Official Statistics](https://doi.org/10.1007/s42519-026-00613-z) — Journal of Statistical Theory and Practice
+- `2026-08-08` [A lightweight computational method for monitoring lexical response convergence in LLM-based synthetic populations](https://doi.org/10.12688/openreseurope.24356.2) — Open Research Europe
+- `2026-08-07` [ARGIRA v1.3.0-alpha: Three Layer Uncertainty Communication Prototype for Automatic Alt-Text Accessibility Pilot Release](https://doi.org/10.5281/zenodo.21843103) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [ARGIRA v1.2: Three-Layer Uncertainty Communication Prototype for Automatic Alt-Text](https://doi.org/10.5281/zenodo.21839157) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-07` [SynthPopCan](https://doi.org/10.5281/zenodo.21841986) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-06` [DEMOS. I. A Bayesian inference framework to constrain disc evolution from observed demographics](https://doi.org/10.1051/0004-6361/202661479) — Astronomy and Astrophysics
+- `2026-08-06` [An Infectious Disease Spread Simulation Based on Large Language Model Decision Making](https://doi.org/10.1145/3770855.3818983) — King Mongkut's University of Technology North Bangkok
+- `2026-08-06` [Analysis of Grain-Anthocyanins in a Population of Maize Zea mays L. “Elotes Occidentales” Selected to Stabilize Color and Increase Anthocyanin Content](https://doi.org/10.48162/rev.39.222) — Revista de la Facultad de Ciencias Agrarias UNCuyo
+- `2026-08-05` [From Disclosure Controls to Statutory Enforcement: Regulating Corporate Greenwashing through Forensic Accounting and a Comparative Analysis of HK SFC and UK FCA Regimes](https://doi.org/10.5281/zenodo.21797178) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [From Disclosure Controls to Statutory Enforcement: Regulating Corporate Greenwashing through Forensic Accounting and a Comparative Analysis of HK SFC and UK FCA Regimes](https://doi.org/10.5281/zenodo.21782597) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [Restricted-access survey datasets: antimicrobial access, literacy and practices among the Baiga tribal community, Chhattisgarh, India](https://doi.org/10.5281/zenodo.21827302) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [Restricted-access survey datasets: antimicrobial access, literacy and practices among the Baiga tribal community, Chhattisgarh, India](https://doi.org/10.5281/zenodo.21827301) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [Replication Data for: Policy Packaging and Public Acceptance: How Size, Combinations, and Context Shape Support](https://doi.org/10.7910/dvn/f15yqx) — Harvard Dataverse
+- `2026-08-05` [Characterizing human exposure to traffic-related air pollution through daily activities using an agent-based framework](https://doi.org/10.1016/j.envint.2026.110435) — Environment International
+- `2026-08-05` [Rethinking Official Statistics Beyond Averages: Centering Lived Experience](https://doi.org/10.5281/zenodo.21811783) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-05` [Rethinking Official Statistics Beyond Averages: Centering Lived Experience](https://doi.org/10.5281/zenodo.21811782) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Synthetic supply networks](https://arxiv.org/pdf/2608.03716) — arXiv (Cornell University)
+- `2026-08-04` [Synthetic supply networks](https://doi.org/10.48550/arxiv.2608.03716) — arXiv (Cornell University)
+- `2026-08-04` [Beyond the Stitching Assumption: A Unified Framework for Multimodal Synthetic Data Evaluation via Semantic Quantization](https://doi.org/10.5281/zenodo.21786626) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Beyond the Stitching Assumption: A Unified Framework for Multimodal Synthetic Data Evaluation via Semantic Quantization](https://doi.org/10.5281/zenodo.21156485) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-04` [Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation](https://arxiv.org/pdf/2608.03990) — arXiv (Cornell University)
+- `2026-08-04` [Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation](https://doi.org/10.48550/arxiv.2608.03990) — arXiv (Cornell University)
+- `2026-08-03` [MNC: Scope-Bound Semantic Declassification for Private LLM-Agent Communication](https://arxiv.org/pdf/2608.01719) — arXiv (Cornell University)
+- `2026-08-03` [MNC: Scope-Bound Semantic Declassification for Private LLM-Agent Communication](https://doi.org/10.48550/arxiv.2608.01719) — arXiv (Cornell University)
+- `2026-08-02` [RAG-LegalAI Data Compliance Benchmark and Study Materials](https://doi.org/10.5281/zenodo.21757683) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-02` [RAG-LegalAI Data Compliance Benchmark and Study Materials](https://doi.org/10.5281/zenodo.21757682) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-01` [Return to Play and Performance After Hand and Wrist Fractures in NBA Players: Aggregate Data Tables](https://doi.org/10.5281/zenodo.21729006) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-01` [Return to Play and Performance After Hand and Wrist Fractures in NBA Players: Aggregate Data Tables](https://doi.org/10.5281/zenodo.21729007) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-01` [Impact of temporal patterns in working contacts on epidemic spread](https://doi.org/10.1038/s41598-026-64555-z) — Scientific Reports
+- `2026-08-01` [SynthPopCan](https://doi.org/10.5281/zenodo.21743129) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-08-01` [Context Engineering for AI ‐Assisted Pharmacometrics: A Practical Tutorial](https://doi.org/10.1002/psp4.70317) — CPT Pharmacometrics & Systems Pharmacology
+- `2026-08-01` [Verifiable official statistics: A blockchain-based approach](https://doi.org/10.1177/18747655261472240) — Statistical Journal of the IAOS
+- `2026-08-01` [Bayesian comparison of Langevin dynamics for cell motility from positional observation](https://arxiv.org/pdf/2608.00846) — arXiv (Cornell University)
+- `2026-08-01` [Bayesian comparison of Langevin dynamics for cell motility from positional observation](https://doi.org/10.48550/arxiv.2608.00846) — arXiv (Cornell University)
+- `2026-07-31` [SynthPopCan](https://doi.org/10.5281/zenodo.21723802) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-31` [Within-host immunology to age-of-infection epidemiology via a virtual cohort](https://doi.org/10.5281/zenodo.21718530) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-31` [Within-host immunology to age-of-infection epidemiology via a virtual cohort](https://doi.org/10.5281/zenodo.21718529) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-31` [Frailty-Related Care Needs and Labour Supply among Older Adults in Thailand: an Ecological Analysis of Province-Level Official Statistics](https://doi.org/10.1007/s12062-026-09582-4) — Journal of Population Ageing
+- `2026-07-30` [Replication package for: Distinct Dimensions of AI Readiness in Hungarian SMEs](https://doi.org/10.5281/zenodo.21710298) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Replication package for: Distinct Dimensions of AI Readiness in Hungarian SMEs](https://doi.org/10.5281/zenodo.21710297) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-30` [Exit, Exclusion, or Survival? Why Firms Stay Informal](https://doi.org/10.17605/osf.io/5q8pn) —
+- `2026-07-29` [SUMO-demand2traffic](https://doi.org/10.5281/zenodo.21680615) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [SUMO-demand2traffic](https://doi.org/10.5281/zenodo.21680614) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [Verified Factual Reference Base and instrument registry of the Cognitive Warfare Information Analysis Laboratory No. 1](https://doi.org/10.5281/zenodo.22277183) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [Recursive Digital Echopraxia](https://doi.org/10.5281/zenodo.21221795) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [Recursive Digital Echopraxia](https://doi.org/10.5281/zenodo.21674286) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-29` [Metadata-Based Methods to Generate Synthetic Health Data: A Scoping Review](https://doi.org/10.20944/preprints202608.1328.v1) — Preprints.org
+- `2026-07-28` [Privacy Implications on Record Linkage](https://doi.org/10.1007/978-3-032-21932-9_7) — Advances in information security
+- `2026-07-28` [AI Accountability Infrastructure: Cryptographically Verifiable Decision Provenance for High-Stakes AI Systems](https://doi.org/10.21203/rs.3.rs-10498693/v1) — Research Square
+- `2026-07-28` [Lives and Livelihoods of Floating Laborers in Dhaka City: Survey Dataset, 2025-2026](https://doi.org/10.7910/dvn/s0mqcp) — Harvard Dataverse
+- `2026-07-28` [Bayesian Finite Population Inference Data and Code Repository](https://doi.org/10.5281/zenodo.21651900) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-28` [Bayesian Finite Population Inference Data and Code Repository](https://doi.org/10.5281/zenodo.21651901) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-28` [Recursive Digital Echopraxia](https://doi.org/10.5281/zenodo.21639224) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-28` [Recursive Digital Echopraxia](https://doi.org/10.5281/zenodo.21634613) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-27` [Synthetic Population Thurgau - MATSim15](https://doi.org/10.5281/zenodo.21616200) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-27` [Synthetic Population Thurgau - MATSim15](https://doi.org/10.5281/zenodo.21616199) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-27` [SynthPopCan](https://doi.org/10.5281/zenodo.21628609) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-25` [Protocol RDS: Quantum Deflection — Prospective Post-Quantum Migration Architecture for Decentralized Ledgers](https://doi.org/10.5281/zenodo.21541793) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-25` [Protocol RDS: Quantum Deflection — Prospective Post-Quantum Migration Architecture for Decentralized Ledgers](https://doi.org/10.5281/zenodo.21541794) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-25` [The clinical utility of carrier screening](https://doi.org/10.1038/s41525-026-00601-z) — npj Genomic Medicine
+- `2026-07-24` [Agroecological knowledge sources among smallholder farmers in Busia and Siaya counties, western Kenya](https://doi.org/10.5281/zenodo.21531518) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-24` [Agroecological knowledge sources among smallholder farmers in Busia and Siaya counties, western Kenya](https://doi.org/10.5281/zenodo.21531517) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-23` [Comment on egusphere-2026-992](https://doi.org/10.5194/egusphere-2026-992-rc2) —
+- `2026-07-22` [Survey dataset: Smallholder preferences and willingness to pay for a digital agroecological information tool, Siaya County, Kenya, 2024](https://doi.org/10.5281/zenodo.21487078) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-22` [Survey dataset: Smallholder preferences and willingness to pay for a digital agroecological information tool, Siaya County, Kenya, 2024](https://doi.org/10.5281/zenodo.21487079) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Peer Review Report For: A lightweight computational method for monitoring response convergence in LLM-based synthetic populations (version 1; peer review: 1 approved with reservations)](https://doi.org/10.21956/openreseurope.26377.r76768) —
+- `2026-07-21` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21473805) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21478208) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21419195) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21473675) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-21` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21477787) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-20` [SynthPopCan](https://doi.org/10.5281/zenodo.21461464) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-20` [The 2024 Open Unemployment Rate Across Java](https://doi.org/10.6084/m9.figshare.33040421.v1) — Figshare
+- `2026-07-20` [The 2024 Open Unemployment Rate Across Java](https://doi.org/10.6084/m9.figshare.33040421) — Figshare
+- `2026-07-19` [Data and Supplementary Materials for "The Complexity–Capability Paradox: How Decision-Making Capacity Conditions Claim Management Performance"](https://doi.org/10.5281/zenodo.21444447) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [Data and Supplementary Materials for "The Complexity–Capability Paradox: How Decision-Making Capacity Conditions Claim Management Performance"](https://doi.org/10.5281/zenodo.21444448) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [Deep Learning for the Production of Official Statistics: Density Ratio Estimation Using Biased Transaction Data for Japanese Labor Statistics](https://doi.org/10.20965/jaciii.2026.p1265) — Journal of Advanced Computational Intelligence and Intelligent Informatics
+- `2026-07-19` [Strengthening Digital Survey Implementation for Official Statistics Using Text Mining: Evidence from Feedback Dataset of the Digital Domestic Tourism Survey 2024](https://doi.org/10.1177/0282423x261463684) — Journal of Official Statistics
+- `2026-07-19` [PIP outcomes for ADHD: published award-rate figures, two source tiers (July 2026 edition)](https://doi.org/10.5281/zenodo.21445118) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [PIP outcomes for ADHD: published award-rate figures, two source tiers (July 2026 edition)](https://doi.org/10.5281/zenodo.21445119) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21442608) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-19` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21441622) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-18` [NetEventSimulator: A C++ tool for generating synthetic Mobile network event data for official statistics](https://doi.org/10.1016/j.softx.2026.102890) — SoftwareX
+- `2026-07-18` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21425326) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-18` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21427760) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-18` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21428107) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-17` [Referral and diagnosis of anxiety, stress and depression among children and young people in England, 2016–2022: a population-level analysis](https://doi.org/10.17605/osf.io/dfsuw) —
+- `2026-07-17` [Robust Dependence Detection in Official Statistics: A Data Based Methodology](https://doi.org/10.21203/rs.3.rs-10377089/v1) — Research Square
+- `2026-07-17` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21419780) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-17` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21419196) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-17` [Tekmeris: reproducible construction and auditing of social accounting matrices (edikit)](https://doi.org/10.5281/zenodo.21420120) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-16` [iLBA: An R package for confidentially disseminating aggregated frequency tables](https://doi.org/10.1016/j.softx.2026.102880) — SoftwareX
+- `2026-07-16` [Why HTML-to-LLM Scraping Fails: A Production Analysis](https://doi.org/10.5281/zenodo.21797856) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-16` [Why HTML-to-LLM Scraping Fails: A Production Analysis](https://doi.org/10.5281/zenodo.21797855) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-16` [A Multinomial Logit Framework for Secondary Location Choice with Attractiveness and Joint Mode Selection](https://doi.org/10.3929/ethz-c-000803133) —
+- `2026-07-16` [Application of Swarm Reasoning Architecture and Synthetic Data Evaluation in TCM Medical Record Data Synthesis](https://doi.org/10.1007/978-981-92-3417-2_23) — Lecture notes in computer science
+- `2026-07-14` [Assessing individual level power outage vulnerability through synthetic populations](https://doi.org/10.1016/j.ijdrr.2026.106318) — International Journal of Disaster Risk Reduction
+- `2026-07-13` [Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework](https://doi.org/10.48550/arxiv.2607.11269) — arXiv (Cornell University)
+- `2026-07-13` [Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework](https://arxiv.org/pdf/2607.11269) — arXiv (Cornell University)
+- `2026-07-10` [Redacted Report Template: Disclosure Control and Release Audit](https://doi.org/10.5281/zenodo.21298890) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Redacted Report Template: Disclosure Control and Release Audit](https://doi.org/10.5281/zenodo.21298891) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Longitudinal Synthetic Population Framework](https://doi.org/10.5281/zenodo.21293242) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-10` [Longitudinal Synthetic Population Framework](https://doi.org/10.5281/zenodo.21293241) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [AI, Work & Human Identity 2025 (Dataset, n=504)](https://doi.org/10.5281/zenodo.21230463) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [AI, Work & Human Identity 2025 (Dataset, n=504)](https://doi.org/10.5281/zenodo.17604671) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Digital Life 2025 (Dataset, n = 1,003)](https://doi.org/10.5281/zenodo.21230296) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Digital Trust 2025 (Dataset, n = 505)](https://doi.org/10.5281/zenodo.21231085) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Emotion, Identity & Creativity in the Age of AI (Dataset, n = 507)](https://doi.org/10.5281/zenodo.21230738) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Emotion, Identity & Creativity in the Age of AI (Dataset, n = 507)](https://doi.org/10.5281/zenodo.17653906) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Digital Trust 2025 (Dataset, n = 505)](https://doi.org/10.5281/zenodo.17717450) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Cognitive Load, Fatigue & Decision Offloading 2025 (Dataset, n = 503)](https://doi.org/10.5281/zenodo.17636370) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Cognitive Load, Fatigue & Decision Offloading 2025 (Dataset, n = 503)](https://doi.org/10.5281/zenodo.21230586) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Human Values, Purpose & Meaning 2025 (Dataset, n = 507)](https://doi.org/10.5281/zenodo.17705733) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [Human Values, Purpose & Meaning 2025 (Dataset, n = 507)](https://doi.org/10.5281/zenodo.21230890) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [An EHDS-Compliant Health Data Pipeline Combining LLM/MCP-Mediated Parameter Derivation with Privacy Enhancing Technologies](https://doi.org/10.5281/zenodo.21236715) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [An EHDS-Compliant Health Data Pipeline Combining LLM/MCP-Mediated Parameter Derivation with Privacy Enhancing Technologies](https://doi.org/10.5281/zenodo.21236714) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-07` [SDG monitoring in the AI era: renewing official statistics for people, trust and sovereignty](https://doi.org/10.18356/9789211547351c003) — The Sustainable development goals report
+- `2026-07-06` [How to safely RELEASE-AI models: a lifecycle framework for Trusted Research Environments](https://doi.org/10.23889/ijpds.v11i5.3646) — International Journal for Population Data Science
+- `2026-07-06` [Focus and Distraction 2025 (Dataset, n = 790)](https://doi.org/10.5281/zenodo.21229604) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-06` [Privacy-preserving Aggregation of Distributed Summary-Level Data (PARADISE)](https://doi.org/10.23889/ijpds.v11i5.3583) — International Journal for Population Data Science
+- `2026-07-06` [Advancing Population-Scale Data Linkage: Shared Learning from Austria and Wales](https://doi.org/10.23889/ijpds.v11i5.3810) — International Journal for Population Data Science
+- `2026-07-06` [A synthetic population for agent-based modelling in Amsterdam](https://doi.org/10.23889/ijpds.v11i5.3619) — International Journal for Population Data Science
+- `2026-07-06` [Record Linkage for Official Statistics: Establishment Level Matching in Portuguese Administrative Data](https://hdl.handle.net/10216/175283) — Open Repository of the University of Porto (University of Porto)
+- `2026-07-05` [Generative AI as Mediator of Interpersonal Communication: Effects on Social Dynamics, Linguistic Norms, and Relational Authenticity](https://doi.org/10.31875/2979-1081.2026.02.09) — Journal of AI-Driven Communication Engineering
+- `2026-07-04` [TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data](https://doi.org/10.48550/arxiv.2607.03926) — arXiv (Cornell University)
+- `2026-07-04` [TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data](https://arxiv.org/pdf/2607.03926) — arXiv (Cornell University)
+- `2026-07-03` [Beyond the Stitching Assumption: A Unified Framework for Multimodal Synthetic Data Evaluation via Semantic Quantization](https://doi.org/10.5281/zenodo.21156486) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-07-02` [Influence of origin and arrangement of components in hybridization nursery on the performance of a synthetic population of alfalfa (Medicago varia Martyn.)](https://uknowledge.uky.edu/igc/1977/sess2/38) — UKnowledge (University of Kentucky)
+- `2026-07-01` [Calibrating the Instrument: Controllability of an LLM-Driven Synthetic Population](https://arxiv.org/pdf/2607.00910) — arXiv (Cornell University)
+- `2026-07-01` [Calibrating the Instrument: Controllability of an LLM-Driven Synthetic Population](https://doi.org/10.48550/arxiv.2607.00910) — arXiv (Cornell University)
+- `2026-07-01` [Small-area inequalities in weight excess and obesity among adults in Belo Horizonte, Brazil: a repeated cross-sectional ecological study using Vigitel and synthetic populations](https://doi.org/10.21203/rs.3.rs-9888682/v1) — Research Square
+- `2026-07-01` [Federated Learning for Official Statistics: Architectural Solutions and Privacy Challenges](https://doi.org/10.1109/ficloud70576.2026.00069) — University of Bahrain
+- `2026-06-30` [A lightweight computational method for monitoring response convergence in LLM-based synthetic populations](https://doi.org/10.12688/openreseurope.24356.1) — Open Research Europe
+- `2026-06-30` [Quantifying isochrone-based age uncertainties for rapidly rotating A-type stars](https://doi.org/10.1093/mnras/stag1237) — Monthly Notices of the Royal Astronomical Society
+- `2026-06-30` [A framework for using mobile phone data in population synthesis for agent-based modeling](https://doi.org/10.5445/ir/1000194761) — Repository KITopen (Karlsruhe Institute of Technology)
+- `2026-06-30` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Methodology: Mortality attributable to wildfire-related PM2.5](https://doi.org/10.5281/zenodo.21071888) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [TOURISM IN UTTARAKHAND, INDIA: COSTS AND POLICY RESPONSES FOR SUSTAINABLE DEVELOPMENT](https://doi.org/10.30892/gtg.662spl11-1772) — GeoJournal of Tourism and Geosites
+- `2026-06-30` [Understanding Short-Term Rental Monitoring for Sustainable Data-Driven Destination Management](https://doi.org/10.1007/978-3-032-30533-6_30) — Lecture notes in computer science
+- `2026-06-30` [NFDI4Earth Community and Target Groups (NFDI4Earth Report)](https://doi.org/10.5281/zenodo.18551032) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-30` [NFDI4Earth Community and Target Groups (NFDI4Earth Report)](https://doi.org/10.5281/zenodo.21067237) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-29` [National Buildings Database: Non-Domestic Building Synthetic Population, 2023](https://doi.org/10.5255/ukda-sn-858479) — UK Data Archive
+- `2026-06-29` [Uncovering Salience-Driven Dynamics in Consumer Confidence with Generative Social Simulation](https://doi.org/10.48550/arxiv.2606.30395) — arXiv (Cornell University)
+- `2026-06-27` [The Impact of Adopting Accounting Measurement Standards for Sustainable Development on Improving the Transparency of Financial Reports](https://doi.org/10.70146/ebmv03i02.008) — IFR journal of economics and business management.
+- `2026-06-27` [LLM-aided representation of human commuting patterns in 42 Chinese cities with open data](https://doi.org/10.1016/j.jtrangeo.2026.104749) — Journal of Transport Geography
+- `2026-06-26` [Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy](https://doi.org/10.48550/arxiv.2606.27936) — arXiv (Cornell University)
+- `2026-06-26` [Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy](https://arxiv.org/pdf/2606.27936) — arXiv (Cornell University)
+- `2026-06-25` [Simulation of electric power demand of electric vehicles based on detailed transport models](https://doi.org/10.26233/heallink.tuc.105586) — Technical University of Crete
+- `2026-06-25` [Generating the Modal Worker: A Cross-Model Audit of Race and Gender in LLM-Generated Personas Across 41 Occupations](https://doi.org/10.1145/3805689.3812221) — Santa Clara University
+- `2026-06-24` [Resolution-limit-based determination of sample size for large-scale particle image analysis](https://doi.org/10.1016/j.powtec.2026.122851) — Powder Technology
+- `2026-06-23` [Evaluating synthetic population approaches for Italian municipal-level microdata](https://doi.org/10.1016/j.seps.2026.102547) — Socio-Economic Planning Sciences
+- `2026-06-23` [Integration of Remote Sensing Data and Official Statistics: Spatial Analysis of Environmental, Social, And Basic Access Dimensions on Infant Mortality in Eastern Indonesia, 2022](http://ejurnal.poltekkes-tjk.ac.id/index.php/JKESLING/article/download/5551/2491) — Jurnal Kesehatan at Poltekkes Tanjungkarang (Poltekkes Kemenkes Tanjungkarang)
+- `2026-06-20` [Balancing Privacy, Utility, and Accountability in Microdata Anonymization: A Comprehensive Analysis of Techniques, Risks, and Regulatory Frameworks](https://doi.org/10.55041/ijcope.v2i6.266) — International Journal of Creative and Open Research in Engineering and Management
+- `2026-06-20` [The Art of Strategic Neighboring](https://doi.org/10.5281/zenodo.20778055) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [The Art of Strategic Neighboring](https://doi.org/10.5281/zenodo.20778056) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-20` [Simulating Public Transit Fare Policies in NYC: An Efficient, Socioeconomic-Aware Framework](https://arxiv.org/pdf/2606.21897) — arXiv (Cornell University)
+- `2026-06-20` [Simulating Public Transit Fare Policies in NYC: An Efficient, Socioeconomic-Aware Framework](https://doi.org/10.48550/arxiv.2606.21897) — arXiv (Cornell University)
+- `2026-06-19` [PersonalHealthChain: Vitality-aware consensus and knowledge-graph-based semantic disclosure for decentralized health data sovereignty](https://doi.org/10.1016/j.knosys.2026.116493) — Knowledge-Based Systems
+- `2026-06-19` [A Census-Consistent Synthetic Population Pipeline for Urban Energy Systems Research](https://doi.org/10.1145/3744256.3812586) — Concordia University
+- `2026-06-19` [NFDI4Earth Community and Target Groups (NFDI4Earth Report)](https://doi.org/10.5281/zenodo.20761625) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Nursing Workforce Trends in Kazakhstan, 2003-2024: Data and Analysis Code](https://doi.org/10.5281/zenodo.20757110) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-19` [Nursing Workforce Trends in Kazakhstan, 2003-2024: Data and Analysis Code](https://doi.org/10.5281/zenodo.20757109) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [Janus EHR Privacy Model Simulation](https://doi.org/10.5281/zenodo.20736503) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [Janus EHR Privacy Model Simulation](https://doi.org/10.5281/zenodo.20736504) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-17` [Federalism and the quality of official statistics: Comparative lessons from Argentina, Canada, Germany, India, Nigeria, Switzerland and the United States](https://doi.org/10.1177/18747655261455431) — Statistical Journal of the IAOS
+- `2026-06-16` [Uncovering Indonesia’s Hidden Unemployment Through Google Trends: A Nowcasting-Oriented Mixed-Frequency Modeling](https://doi.org/10.20473/jde.v11i1.76834) — Journal of Developing Economies
+- `2026-06-16` [Synthetic Data Benchmark for Small-Sample Parkinson's Disease Rehabilitation Trials](https://doi.org/10.5281/zenodo.20721502) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-16` [Synthetic Data Benchmark for Small-Sample Parkinson's Disease Rehabilitation Trials](https://doi.org/10.5281/zenodo.20721501) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-15` [The Influence of Digital Literacy on Consumer Purchasing Decisions in E-Commerce Platforms: A Monte Carlo Simulation Study Based on an Indonesian Synthetic Population](https://doi.org/10.66084/ebmj.v3i02.636) — Economics And Business Management Journal ( EBMJ )
+- `2026-06-13` [Preface to the GeoFM 2026 Workshop Proceedings: Geography According to Foundation Models](https://doi.org/10.5281/zenodo.20666985) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-13` [Preface to the GeoFM 2026 Workshop Proceedings: Geography According to Foundation Models](https://doi.org/10.5281/zenodo.20677035) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [From Diversity to Validity: The Statistical Fidelity of LLM-Generated Synthetic Populations](https://doi.org/10.5281/zenodo.20666767) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [From Diversity to Validity: The Statistical Fidelity of LLM-Generated Synthetic Populations](https://doi.org/10.5281/zenodo.20666768) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [Preface to the GeoFM 2026 Workshop Proceedings: Geography According to Foundation Models](https://doi.org/10.5281/zenodo.20666986) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-12` [USER ASPECTS OF DATA VISUALIZATION IN OFFICIAL STATISTICS](https://repozitorij.uni-lj.si/Dokument.php?id=235398&dn=) — Repository of the University of Ljubljana (University of Ljubljana)
+- `2026-06-11` [oissyntheticdata: profile-based synthetic data for secure research](https://doi.org/10.5281/zenodo.20648874) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [oissyntheticdata: profile-based synthetic data for secure research](https://doi.org/10.5281/zenodo.20642823) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [oissyntheticdata: profile-based synthetic data for secure research](https://doi.org/10.5281/zenodo.20632932) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-11` [Machine-learning clustering of close-in exoplanet populations: links to pebble accretion](https://doi.org/10.1051/0004-6361/202659961) — Astronomy and Astrophysics
+- `2026-06-11` [How Should We Measure Empirical Risk when Synthesizing Population Data?](https://arxiv.org/pdf/2606.13902) — arXiv (Cornell University)
+- `2026-06-11` [How Should We Measure Empirical Risk when Synthesizing Population Data?](https://doi.org/10.48550/arxiv.2606.13902) — arXiv (Cornell University)
+- `2026-06-11` [Global Trends: Forced Displacement in 2025](https://doi.org/10.18356/9789211550603) — UNHCR Global Trends
+- `2026-06-10` [SD-RAG: A framework for secure selective disclosure in retrieval-augmented generation against single-turn prompt-leaking attacks](https://doi.org/10.1016/j.eswa.2026.133154) — Expert Systems with Applications
+- `2026-06-10` [Machine-learning clustering of close-in exoplanet populations: links to pebble accretion](https://arxiv.org/pdf/2606.11737) — arXiv (Cornell University)
+- `2026-06-10` [Machine-learning clustering of close-in exoplanet populations: links to pebble accretion](https://doi.org/10.48550/arxiv.2606.11737) — arXiv (Cornell University)
+- `2026-06-10` [Deep learning four decades of human migration](https://doi.org/10.1038/s41586-026-10611-7) — Nature
+- `2026-06-09` [Standards for Official Statistics on Climate-Health Interactions: Statistical Framework Report](https://doi.org/10.5281/zenodo.20488108) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-09` [Standards for Official Statistics on Climate-Health Interactions: Statistical Framework Report](https://doi.org/10.5281/zenodo.20488109) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [From Real to Synthetic: Using CTGAN to Model Socio-Spatial Populations for AI and Policy](https://doi.org/10.5281/zenodo.20596359) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [From Real to Synthetic: Using CTGAN to Model Socio-Spatial Populations for AI and Policy](https://doi.org/10.5281/zenodo.20596358) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-08` [Quantifying isochrone-based age uncertainties for rapidly rotating A-type stars](https://doi.org/10.48550/arxiv.2606.09485) — arXiv (Cornell University)
+- `2026-06-08` [Quantifying isochrone-based age uncertainties for rapidly rotating A-type stars](https://arxiv.org/pdf/2606.09485) — arXiv (Cornell University)
+- `2026-06-07` [Komang and Ketut: an ex-ante analysis of Bali’s pro-natalist policy](https://doi.org/10.1080/17441730.2026.2680864) — Asian Population Studies
+- `2026-06-07` [The potentials of “new data” in border studies: A scoping review](https://doi.org/10.1016/j.rspp.2026.100324) — Regional Science Policy & Practice
+- `2026-06-06` [Direct domain estimation via regression-tree-assisted estimators in the production of official statistics](https://doi.org/10.48550/arxiv.2606.08289) — arXiv (Cornell University)
+- `2026-06-06` [Direct domain estimation via regression-tree-assisted estimators in the production of official statistics](https://arxiv.org/pdf/2606.08289) — arXiv (Cornell University)
+- `2026-06-04` [synthetic-response-metrics: lightweight response-convergence metrics for LLM-based synthetic populations](https://doi.org/10.5281/zenodo.20537552) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [synthetic-response-metrics: lightweight response-convergence metrics for LLM-based synthetic populations](https://doi.org/10.5281/zenodo.20440939) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [An Infectious Disease Spread Simulation Based on Large Language Model Decision Making](https://doi.org/10.48550/arxiv.2606.06360) — arXiv (Cornell University)
+- `2026-06-04` [An Infectious Disease Spread Simulation Based on Large Language Model Decision Making](https://arxiv.org/pdf/2606.06360) — arXiv (Cornell University)
+- `2026-06-04` [China's Housing-Service Revision: Reconciling Official Statistics and International Productivity Databases](https://doi.org/10.5281/zenodo.20534701) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [China's Housing-Service Revision: Reconciling Official Statistics and International Productivity Databases](https://doi.org/10.5281/zenodo.20534702) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Methodology: Mortality attributable to wildfire-related PM2.5](https://doi.org/10.5281/zenodo.20446387) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Metadata Sheet: Mortality attributable to wildfire-related PM2.5](https://doi.org/10.5281/zenodo.20446781) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-04` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Topic Introduction: Health effects of extreme weather events (Wildfire-related PM2.5)](https://doi.org/10.5281/zenodo.20446180) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-03` [The How and Why of Generative AI: The Effect of AI Disclosure Policies on the Perceived Trustworthiness and Financial Value of Automated News](https://doi.org/10.1080/15205436.2026.2679456) — Mass Communication & Society
+- `2026-06-03` [Foundations for digital twins: spatially disaggregated synthetic populations of refugee and internally displaced people settlements from national census data](https://doi.org/10.1098/rsos.251315) — Royal Society Open Science
+- `2026-06-03` [Sky-Plane Velocity Distributions of Interstellar Objects and Implications for Their Detection](https://doi.org/10.48550/arxiv.2606.05344) — arXiv (Cornell University)
+- `2026-06-03` [Sky-Plane Velocity Distributions of Interstellar Objects and Implications for Their Detection](https://arxiv.org/pdf/2606.05344) — arXiv (Cornell University)
+- `2026-06-03` [The Role of International Investments in the Postwar Reconstruction of Ukraine’s Economy](https://doi.org/10.32983/2222-4459-2026-4-95-101) — Business Inform
+- `2026-06-03` [Explain the Synth: Interpretable Evaluation of LLM Data Synthesis](https://doi.org/10.48448/wnfv-d120) — Underline Science Inc.
+- `2026-06-02` [A large language model framework for sample-free population synthesis](https://doi.org/10.1371/journal.pone.0341704) — PLoS ONE
+- `2026-06-02` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Case Study Report: climate impacts on healthcare systems and infrastructure in Ghana.](https://doi.org/10.5281/zenodo.20427471) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-02` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Case Study Report: climate impacts on healthcare systems and infrastructure in Ghana.](https://doi.org/10.5281/zenodo.20427472) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [opencesp: Generation and Evaluation of Synthetic Tabular Datasets](https://doi.org/10.32614/cran.package.opencesp) — Centre de recherche en Epidémiologie et Santé des Populations
+- `2026-06-01` [It does what it says on the tin: safe synthetic data from coarsened margins](https://doi.org/10.48550/arxiv.2606.02101) — arXiv (Cornell University)
+- `2026-06-01` [It does what it says on the tin: safe synthetic data from coarsened margins](https://arxiv.org/pdf/2606.02101) — arXiv (Cornell University)
+- `2026-06-01` [Households Below Average Income, 1994/95-2024/25](https://doi.org/10.5255/ukda-sn-5828-21) — UK Data Archive
+- `2026-06-01` [Scalable Generation of High-fidelity Synthetic Population Ensembles](https://doi.org/10.1016/j.future.2026.108619) — Future Generation Computer Systems
+- `2026-06-01` [Integrating Synthetic Populations and Activity Chains for Individual Emission Assessment in SUMO](https://doi.org/10.5281/zenodo.21676912) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Integrating Synthetic Populations and Activity Chains for Individual Emission Assessment in SUMO](https://doi.org/10.5281/zenodo.21676913) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-06-01` [Synthetic population, census and cadastral data - La Unión (Spain) (Dataset)](https://doi.org/10.82432/10317/24323) — Universidad Politécnica de Cartagena
+- `2026-06-01` [Bi-atrial synthetic populations with geometry-conditioned conduction velocity for atrial fibrillation simulations](https://doi.org/10.1093/europace/euag105.1227) — EP Europace
+- `2026-06-01` [EPH186 ESTIMATING STATE- AND COUNTY-LEVEL CHRONIC DISEASE AND RISK FACTOR PREVALENCE: VALIDATING A SYNTHETIC POPULATION APPROACH USING NATIONALLY REPRESENTATIVE SURVEY DATA](https://doi.org/10.1016/j.jval.2026.03.1018) — Value in Health
+- `2026-06-01` [Estimating the health impacts of climate change for policy decision-support: a systematic review of spatial microsimulation methods](https://doi.org/10.1088/2752-5295/ae7598) — Environmental Research Climate
+- `2026-06-01` [Socio-Economic Analysis of the Southern Region of the Republic of Moldova based on Official Statistics and Population Perceptions](https://doi.org/10.53486/econ.2026.135.19) — Economica
+- `2026-05-31` [Certificate-to-Database Risk in Junior Mining Disclosure: A Source-Constrained Case Study of Red Pine / RPX Gold](https://doi.org/10.5281/zenodo.20046903) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [SynPop-DE: Synthetic population of 40 million German households using generative neural networks](https://doi.org/10.5281/zenodo.20439915) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [SynPop-DE: Synthetic population of 40 million German households using generative neural networks](https://doi.org/10.5281/zenodo.20439916) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [Direct domain estimation via regression-tree-assisted estimators in the production of official statistics](https://doi.org/10.5281/zenodo.20470161) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-31` [Direct domain estimation via regression-tree-assisted estimators in the production of official statistics](https://doi.org/10.5281/zenodo.20470162) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-30` [Artificial Intelligence-Enabled Business-to-Business Digital Selling: A Mechanism-Based Framework for Entrepreneurial Business Development](https://doi.org/10.29138/ijebd.v9i3.3556) — IJEBD (International Journal Of Entrepreneurship And Business Development)
+- `2026-05-30` [Do simulated agents move like real people?](https://arxiv.org/pdf/2606.00733) — arXiv (Cornell University)
+- `2026-05-30` [Do simulated agents move like real people?](https://doi.org/10.48550/arxiv.2606.00733) — arXiv (Cornell University)
+- `2026-05-30` [Uneven Visibility of Copyright Institutionalized Disputes in the Cultural Arts Field: An Analysis of Official Statistics and Public Counseling Cases, 2013-2024](https://doi.org/10.52564/jamp.2026.78.273) —
+- `2026-05-29` [Use of synthetic populations in research on chronic non-communicable diseases: a scoping review](https://osf.io/dqf4y) — OSF Preprints (OSF Preprints)
+- `2026-05-29` [synthetic-response-metrics: lightweight response-convergence metrics for LLM-based synthetic populations](https://doi.org/10.5281/zenodo.20443340) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [synthetic-response-metrics: lightweight response-convergence metrics for LLM-based synthetic populations](https://doi.org/10.5281/zenodo.20440940) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [synthetic-response-metrics: lightweight response-convergence metrics for LLM-based synthetic populations](https://doi.org/10.5281/zenodo.20441314) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-29` [Synthetic Data Generation With Incomplete Survey Data Under Informative Sampling](https://doi.org/10.48550/arxiv.2605.31440) — arXiv (Cornell University)
+- `2026-05-29` [Synthetic Data Generation With Incomplete Survey Data Under Informative Sampling](https://arxiv.org/pdf/2605.31440) — arXiv (Cornell University)
+- `2026-05-28` [Multi-Attribute Geographically Explicit Synthetic Population for the United States](https://osf.io/e7wp8) — OSF Preprints (OSF Preprints)
+- `2026-05-28` [Probability-Based Web Panels for Official Statistics: Basic Insights and Analysis of the Bias of Survey Estimates](https://doi.org/10.54694/stat.2025.28) — Statistika Statistics and Economy Journal
+- `2026-05-28` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Methodology: Mortality attributable to short-term exposure to ambient air pollution (PM2.5)](https://doi.org/10.5281/zenodo.20328371) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Metadata Sheet: Mortality attributable to short-term exposure to ambient air pollution (PM2.5)](https://doi.org/10.5281/zenodo.20326122) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [Supplemental Data for ExoLabel](https://doi.org/10.5281/zenodo.20419479) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-28` [Supplemental Data for ExoLabel](https://doi.org/10.5281/zenodo.20419478) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-27` [Synthetic Populations as Institutional Stress Tests: Constitutional Lock-In and Model-Specific Phase Transitions in LLM Synthetic Societies](https://doi.org/10.5281/zenodo.20405440) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-27` [Synthetic Populations as Institutional Stress Tests: Constitutional Lock-In and Model-Specific Phase Transitions in LLM Synthetic Societies](https://doi.org/10.5281/zenodo.20405441) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-27` [TLMM v6.1: Anticipatory Meta-Viability Systems — Toward Predictive Structural Reconfiguration and Collective Intelligence](https://doi.org/10.5281/zenodo.20404303) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-26` [Use of synthetic populations in modeling estimates of non-communicable disease occurrence in small geographic areas: a scoping review](https://doi.org/10.17605/osf.io/t8jhv) —
+- `2026-05-26` [Official Statistics and the Holocaust: Friedrich Burgdörfer, the Reich Statistics Office, and the ‘Jewish Census’ of 1939](https://doi.org/10.1177/00220094261448502) — Journal of Contemporary History
+- `2026-05-26` [Environmental concern as a social indicator: A permutation-based regional analysis using official statistics in Italy](https://doi.org/10.1016/j.ssaho.2026.102895) — Social Sciences & Humanities Open
+- `2026-05-26` [Experiments of quasi-randomisation estimation for official statistics based on aggregated mobile network operator data](https://eprints.soton.ac.uk/513426/1/MNO-QR.pdf) — ePrints Soton (University of Southampton)
+- `2026-05-26` [Challenges of skill shortage and skill mismatch in Türkiye under the shadow of migration: evidence from official statistics and sector representatives](https://doi.org/10.3389/feduc.2026.1738364) — Frontiers in Education
+- `2026-05-26` [Design and Implementation of Mobile Phone Data Initiatives: A Practical Manual](https://doi.org/10.5281/zenodo.20451459) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-26` [Design and Implementation of Mobile Phone Data Initiatives: A Practical Manual](https://doi.org/10.5281/zenodo.20451460) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-26` [Design and Implementation of Mobile Phone Data Initiatives: A Practical Manual](https://doi.org/10.5281/zenodo.20498954) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [SynthEquity: A Computational Epidemiology Framework for Mitigating Medical Deserts via Generative AI (CTGAN)](https://doi.org/10.5281/zenodo.20387207) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [SynthEquity: A Computational Epidemiology Framework for Mitigating Medical Deserts via Generative AI (CTGAN)](https://doi.org/10.5281/zenodo.20387206) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-25` [Between Numbers and Perceptions: Official Statistics and Attitudes toward Immigrants](https://doi.org/10.5281/zenodo.20382292) — Archivio istituzionale della ricerca (Alma Mater Studiorum Università di Bologna)
+- `2026-05-24` [Population Synthesis with Geographic Coordinates](https://doi.org/10.65109/ncot6560) —
+- `2026-05-24` [TEMPO](https://doi.org/10.5281/zenodo.20368891) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-23` [From national statistical office to state data agency: The Lithuanian experience as a test case for NSO-led data governance](https://doi.org/10.1177/18747655261438293) — Statistical Journal of the IAOS
+- `2026-05-21` [Childbirth Mobilities: A Geo-Spatial Simulation Approach](https://doi.org/10.3233/shti260528) — Studies in health technology and informatics
+- `2026-05-21` [Integrating Causal Inference and Agent-Based Modelling to Assess the Impact of Clinicians’ Guideline Adherence in Older Adults Hospitalized with Pneumonia](https://doi.org/10.3233/shti260180) — Studies in health technology and informatics
+- `2026-05-21` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Topic introduction: Mental Health](https://doi.org/10.5281/zenodo.20272102) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-21` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Methodology: Suicides attributable to extreme heat](https://doi.org/10.5281/zenodo.20662364) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-21` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Methodology: Suicides attributable to extreme heat](https://doi.org/10.5281/zenodo.20273271) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-21` [Standards for Official Statistics on Climate-Health Interactions (SOSCHI): Metadata Sheet: Suicides attributable to extreme heat](https://doi.org/10.5281/zenodo.20273489) — Zenodo (CERN European Organization for Nuclear Research)
+- `2026-05-21` [Historical impacts of cultivated land changes on national and regional soybean yields in Japan based on official statistics (1979–2023)](https://doi.org/10.6084/m9.figshare.32348380.v1) — Figshare
+- `2026-05-21` [Historical impacts of cultivated land changes on national and regional soybean yields in Japan based on official statistics (1979–2023)](https://doi.org/10.1080/23311932.2026.2672160) — Cogent Food & Agriculture
+- `2026-05-21` [Historical impacts of cultivated land changes on national and regional soybean yields in Japan based on official statistics (1979–2023)](https://doi.org/10.6084/m9.figshare.32348380) — Figshare
+- `2026-05-21` [A novel approach for precise oil palm mapping in Southeast Asia by integrating Sentinel-1/2 time-series data](https://doi.org/10.1016/j.indcrop.2026.123512) — Industrial Crops and Products
+- `2026-05-21` [Weights for the German Longitudinal Environmental Study (GLEN)](https://osf.io/r5zbm) — SocArXiv (OSF Preprints)
+- `2026-05-21` [Weights for the German Longitudinal Environmental Study (GLEN)](https://doi.org/10.31235/osf.io/r5zbm_v1) —
+- `2026-05-20` [PlanTwin: Privacy-Preserving Planning Abstractions for Cloud-Assisted LLM Agents](https://doi.org/10.1109/tsc.2026.3695494) — IEEE Transactions on Services Computing
+- `2026-05-20` [An Agent-Based Simulation of Staggered K–12 School Start Times in Queens and Brooklyn: Congestion and Equity Effects](https://hdl.handle.net/1813/122962) — eCommons (Cornell University)
+- `2026-05-20` [Democratizing Official Statistics: Insights and Recommendations from the Greek Experience](https://doi.org/10.1177/18747655261450717) — Statistical Journal of the IAOS
+- `2026-05-20` [From paper to platform: digitalising CPI data collection at South Africa’s National Statistics Office](https://doi.org/10.1108/tg-12-2025-0434) — Transforming Government People Process and Policy
+- `2026-05-19` [A hydrodynamical CLONE of the Virgo cluster](https://doi.org/10.1051/0004-6361/202556990) — Astronomy and Astrophysics
+- `2026-05-18` [Extending social penetration theory to online brand communities: The impact of perceived identifiability on relational development and perceived enjoyment](https://doi.org/10.1080/13527266.2026.2673388) — Journal of Marketing Communications
+- `2026-05-18` [From Marginals to Microdata: A cGAN-based Projection for Population Synthesis](https://doi.org/10.17537/2026.21.187) — Mathematical Biology and Bioinformatics
+- `2026-05-17` [Population synthesis of active galactic nuclei based on the radiation-regulated unification model](https://arxiv.org/pdf/2605.17547) — arXiv (Cornell University)
+- `2026-05-16` [Use of synthetic populations in research on chronic non-communicable diseases: a scoping review](https://doi.org/10.17605/osf.io/abnu9) —
+- `2026-05-16` [A Joint Synthetic Housing-Household Inventory](https://doi.org/10.48550/arxiv.2605.17031) — arXiv (Cornell University)
+- `2026-05-16` [A Joint Synthetic Housing-Household Inventory](https://arxiv.org/pdf/2605.17031) — arXiv (Cornell University)
