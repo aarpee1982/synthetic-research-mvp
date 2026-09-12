@@ -1,14 +1,9 @@
-> **Compiled** 12 September 2026 · **Window** 2025-09-12 → 2026-09-12 · **Scope** research literature, public institutions and selected public media; commercial market-research estimates are excluded.
+## What matters now
 
-This compendium brings together **5,513 works** (papers, preprints, reports and datasets) from **1,877 institutions** across **1,635 venues**, dated 2025-09-12 → 2026-09-11, plus **200 media items** (videos, social posts, news, institutional pages and community threads). Source links were checked at the publication cutoff.
-
-
-## Our summary (300 words)
-
-Between 12 September 2025 and 12 September 2026 the argument about synthetic research moved
-from *can a model answer a survey?* to *how badly does it answer one, and how would anybody
-know?* This compendium - 5,513 works from 1,877 institutions, of which 1,716 speak directly to
-synthetic respondents, synthetic data or digital twins - says so repeatedly.
+The conversation around synthetic research has shifted from *can a model answer a survey?* to
+*how well does it answer one, and how would anybody know?* Across the evidence, the same
+questions recur: where synthetic systems are useful, how their outputs should be assessed and
+what they cannot replace.
 
 Three things stand out. First, the field produced **measurement**: total simulated survey
 error, psychometric audits of model respondents, scales for detecting machine-written answers
@@ -31,13 +26,13 @@ guidelines in NIM Marketing Intelligence Review, still reads as provisional.
 Digital twins ran on a separate track - industrial, health and urban, heavy on standardisation -
 with the consumer twin still mostly a promise.
 
-Our reading: treat synthetic data as augmentation that must be evaluated, never as substitution
-to be sold, and keep publishing the source and assumption registers that no generated
-respondent can invent.
+Treat synthetic data as an input that must be evaluated, rather than a substitute for
+evidence. Decisions should remain clear about the sources, assumptions and validation
+behind them.
 
-## What the year looks like, in numbers
+## The 2026 evidence map
 
-| Section | Works kept | On topic | Open access | Videos | Social posts |
+| Theme | Published work | Directly relevant | Open access | Videos | Public posts |
 |---|---:|---:|---:|---:|---:|
 | Synthetic respondents (AI-simulated survey participants) | 502 | 272 | 90% | 16 | 0 |
 | Simulated consumers, personas and generative agents | 1,167 | 294 | 83% | 6 | 0 |
@@ -46,20 +41,7 @@ respondent can invent.
 | Digital twins (consumer, human, urban, industrial) | 1,010 | 754 | 73% | 18 | 13 |
 | Governance, regulation and privacy-enhancing technology | 516 | 45 | 75% | 8 | 10 |
 
-**What kind of body produced it** (OpenAlex institution type of the first author):
-
-- education — 2,646 (48%)
-- not stated — 1,984 (36%)
-- company — 282 (5%)
-- facility — 219 (4%)
-- government — 127 (2%)
-- nonprofit — 105 (2%)
-- healthcare — 91 (2%)
-- other — 44 (1%)
-- funder — 9 (0%)
-- archive — 6 (0%)
-
-**The bodies behind the work** (top 25 of 1,877 institutions in the register):
+**Institutions represented**
 
 - Prompt (Canada) — 32
 - Carnegie Mellon University — 27
@@ -87,7 +69,7 @@ respondent can invent.
 - Stanford University — 10
 - Institut d'Etudes Politiques de Paris — 10
 
-**Where it is published** (top 20 of 1,635 venues):
+**Where the work appears**
 
 - Zenodo (CERN European Organization for Nuclear Research) — 1296
 - arXiv (Cornell University) — 491
@@ -112,12 +94,10 @@ respondent can invent.
 
 ## A. Synthetic respondents (AI-simulated survey participants)
 
-The core of the brief: work that substitutes or augments human survey participants with model-generated ones. Look here for accuracy audits against real benchmarks, the token-probability/"silicon sampling" lineage, and the emerging critique literature.
-
-*Register note: 272 of the 502 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
+Research on systems that substitute or augment human survey participants with model-generated ones. It includes accuracy audits against real benchmarks, the token-probability/"silicon sampling" lineage and the emerging critique literature.
 
 
-### Highlights (14 of 272 on-topic works; 502 in the register)
+### Selected reading
 
 - **2025-11-20** — [The potential existential threat of large language models to online survey research](https://doi.org/10.1073/pnas.2518075122) · **OA** · cited 61<br>Proceedings of the National Academy of Sciences · Dartmouth College (US)
 - **2026-09-02** — [Do LLMs Get The Treatment? Testing the Limits of Synthetic Respondents in Survey Experiments](https://doi.org/10.5281/zenodo.22249567) · **OA**<br>Zenodo (CERN European Organization for Nuclear Research) · ETH Zurich (CH)
@@ -135,7 +115,7 @@ The core of the brief: work that substitutes or augments human survey participan
 - **2026-02-10** — [Stochastic Parrots or Singing in Harmony? Testing Five Leading LLMs for their Ability to Replicate a Human Survey with Synthetic Data](https://doi.org/10.48550/arxiv.2603.00059) · **OA**<br>arXiv (Cornell University)
 
 
-### Videos (16)
+### Watch
 
 - [Meet Fairgen: Boost Survey Samples with Predictive Synthetic Respondents](https://www.youtube.com/watch?v=3rMchvawUZQ) — Fairgen · 1 year ago
 - [Synthetic Respondents for SMB: Selling PC](https://www.youtube.com/watch?v=A12VxeTlu1Y) — Synthetic Respondents · 5 months ago
@@ -155,7 +135,7 @@ The core of the brief: work that substitutes or augments human survey participan
 - [How to 3× Sample Size Without Refielding, Synthetic Data for Quant Research](https://www.youtube.com/watch?v=OD0G903z9Z4) — Fairgen · 8 months ago
 
 
-### News coverage (11)
+### In the news
 
 - **2026-09-07** — [Digital Twin in Healthcare: Virtual Revolution](https://www.medindia.net/news/healthwatch/digital-twin-in-healthcare-virtual-revolution-225101-1.htm) — medindia.net
 - **2026-09-05** — [AI twins were supposed to think like real people, but scientists found they were more rational, more trusting and surprisingly different](https://www.msn.com/en-in/news/other/ai-twins-were-supposed-to-think-like-real-people-but-scientists-found-they-were-more-rational-more-trusting-and-surprisingly-different/ar-AA2bDQ8R) — msn.com
@@ -166,13 +146,13 @@ The core of the brief: work that substitutes or augments human survey participan
 - **2025-09-26** — [The Promising Rise Of Synthetic Personas In Market Research](https://www.forbes.com/councils/forbestechcouncil/2025/09/26/the-promising-rise-of-synthetic-personas-in-market-research/) — forbes.com
 
 
-### Community threads (2)
+### Discussion
 
 - **2026-04-07** — [It's Called Silicon Sampling, and It's Going to Ruin Public Opinion Polling](https://www.nytimes.com/2026/04/06/opinion/ai-polling.html) — Hacker News (8 pts, 2 comments) · [thread](https://news.ycombinator.com/item?id=47680851)
 - **2026-04-06** — [It's Called Silicon Sampling, and It's Going to Ruin Public Opinion Polling](https://www.nytimes.com/2026/04/06/opinion/ai-polling.html) — Hacker News (9 pts, 0 comments) · [thread](https://news.ycombinator.com/item?id=47660020)
 
 
-### Full register (400 of 502 items, newest first)
+### Further reading
 
 - `2026-09-09` [Epistemic Displacement Theory: Understanding the Transformation of Consumer Knowledge in the Age of Synthetic Respondents](https://doi.org/10.1177/02761467261483227) — Journal of Macromarketing
 - `2026-09-09` [Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models](https://doi.org/10.48550/arxiv.2609.10280) — arXiv (Cornell University)
@@ -578,12 +558,10 @@ The core of the brief: work that substitutes or augments human survey participan
 
 ## B. Simulated consumers, personas and generative agents
 
-The methodological hinterland: multi-agent frameworks, persona libraries and social simulation engines that supply the machinery synthetic respondents run on.
-
-*Register note: 294 of the 1,167 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
+Multi-agent frameworks, persona libraries and social-simulation engines that inform how synthetic respondents are designed and evaluated.
 
 
-### Highlights (14 of 294 on-topic works; 1167 in the register)
+### Selected reading
 
 - **2025-10-18** — [Generative AI personas considered harmful? Putting forth twenty challenges of algorithmic user representation in human-computer interaction](https://doi.org/10.1016/j.ijhcs.2025.103657) · **OA** · cited 13<br>International Journal of Human-Computer Studies · University of Vaasa (FI)
 - **2026-07-01** — [AgentSociety: Large-scale simulation of LLM-driven generative agents advances understanding of human behaviors and society](https://doi.org/10.26599/if.2026.9710004) · **OA** · cited 7<br>iFuture
@@ -601,7 +579,7 @@ The methodological hinterland: multi-agent frameworks, persona libraries and soc
 - **2026-07-20** — [Beyond the Lookup: Simulating Realistic User Uncertainty for the Evaluation of Conversational Agentic Recommenders](https://doi.org/10.1007/s10796-026-10787-3) · **OA**<br>Information Systems Frontiers · University of Bari Aldo Moro (IT)
 
 
-### Videos (6)
+### Watch
 
 - [Synthetic Users: AI “Participants”](https://www.youtube.com/watch?v=q_fdcbwHJKQ) — NNgroup · 1 year ago
 - [AlgoVerde’s Superpower: Real-Time Customer Insight with AI Personas](https://www.youtube.com/watch?v=ZMBRi1MhRdc) — AlgoVerde AI · 8 months ago
@@ -611,14 +589,14 @@ The methodological hinterland: multi-agent frameworks, persona libraries and soc
 - [Personas vs. Digital Twins: Which AI Strategy Wins in 2026?](https://www.youtube.com/watch?v=NXCUnbuCf2E) — Avatar Insights · 6 months ago
 
 
-### News coverage (3)
+### In the news
 
 - **2026-09-09** — [Stravito launches AI Persona Builder](https://retailworldmagazine.com.au/stravito-launches-ai-persona-builder/) — retailworldmagazine.com.au
 - **2026-08-26** — [Using Eight Billion AI Personas For Psychology Research Has Its Ups And Downs](https://www.forbes.com/sites/lanceeliot/2026/08/26/using-eight-billion-ai-personas-for-psychology-research-has-its-ups-and-downs/) — forbes.com
 - **2026-08-10** — [AI persona practice boosts empathy scores in small pilot study](https://phys.org/news/2026-08-ai-persona-boosts-empathy-scores.html) — phys.org
 
 
-### Full register (400 of 1167 items, newest first)
+### Further reading
 
 - `2026-09-10` [Mortal AI: Information-Theoretic Forgetting for On-Device Persona Agents](https://doi.org/10.5281/zenodo.22697325) — Zenodo (CERN European Organization for Nuclear Research)
 - `2026-09-10` [Mortal AI: Information-Theoretic Forgetting for On-Device Persona Agents](https://doi.org/10.5281/zenodo.22697326) — Zenodo (CERN European Organization for Nuclear Research)
@@ -1026,10 +1004,8 @@ The methodological hinterland: multi-agent frameworks, persona libraries and soc
 
 Studies that attack research practice directly - LLM-generated conjoint and choice experiments, synthetic survey samples, and the validity questions that follow.
 
-*Register note: 99 of the 1,258 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
 
-
-### Highlights (14 of 99 on-topic works; 1258 in the register)
+### Selected reading
 
 - **2025-10-02** — [Consumers' Willingness to Pay for Sustainable Mobile Phones: An Adaptive Choice‐Based Conjoint and Market Simulation Approach Testing a Multi‐Level Eco‐Score](https://doi.org/10.1002/bse.70241) · **OA** · cited 2<br>Business Strategy and the Environment · German Institute for Economic Research (DE)
 - **2026-09-08** — [Terapage Advances AI Market Research with Pulse for Predictive Consumer Insights](https://doi.org/10.5281/zenodo.22655073) · **OA**<br>Zenodo (CERN European Organization for Nuclear Research)
@@ -1047,7 +1023,7 @@ Studies that attack research practice directly - LLM-generated conjoint and choi
 - **2026-09-08** — [LEBGen: An LLM-Enhanced Bayesian Network Framework for Few-Shot Travel Survey Data Generation](https://doi.org/10.48550/arxiv.2609.08288) · **OA**<br>arXiv (Cornell University)
 
 
-### Videos (5)
+### Watch
 
 - [Beyond the Hype: Where Synthetic Data Fits in Market Research (Key Takeaways Podcast Episode 19)](https://www.youtube.com/watch?v=lrY6wRUWnoo) — Murphy Research · 1 month ago
 - [Synthetic data for market research — the what, the how and the why](https://www.youtube.com/watch?v=GjmFCbRt-LE) — TaleistTV — AI-powered marketing · 1 year ago
@@ -1056,7 +1032,7 @@ Studies that attack research practice directly - LLM-generated conjoint and choi
 - [How to Generate Synthetic Data using Python / Create Realistic Fake Dataset for your Project #python](https://www.youtube.com/watch?v=wsJ_Ea1W8Xo) — DATA SCIENCE LOVERS · 7 months ago
 
 
-### Social posts (11)
+### Public conversation
 
 - **2026-08-21** · `@polpsychangel.bsky.social` — Does made up data come close to real data when using LLMs? No.  Synthetic data is made up, stop calling it anything more than that.   papers.ssrn.com/sol3/papers.... — [post](https://bsky.app/profile/polpsychangel.bsky.social/post/3mtlx5ofn622n)
 - **2026-08-12** · `@kwcollins.bsky.social` — Listening to a podcast about synthetic sample and it’s proponent is bragging about how well it does it back testing. But of course it does well because all of those outcomes are in the training data. — [post](https://bsky.app/profile/kwcollins.bsky.social/post/3msv55elfz22s)
@@ -1071,7 +1047,7 @@ Studies that attack research practice directly - LLM-generated conjoint and choi
 - **2026-06-25** · `@sophieehill.bsky.social` — I just don't get it... If a "synthetic survey" generated an accurate result at T1, it would either be luck or good aggregation of existing survey data.   Why would we expect it to give an accurate res — [post](https://bsky.app/profile/sophieehill.bsky.social/post/3mp4cmcafkc2r)
 
 
-### News coverage (5)
+### In the news
 
 - **2026-08-30** — [Synthetic data can augment insights, but not replace human research: Vijay Raj at MRSI webinar](https://mediabrief.com/mrsi-vijay-raj-weighs-synthetic-datas-role-in-insights/) — mediabrief.com
 - **2026-05-06** — [Market research is too slow for the AI era, so Brox built 60,000 identical 'digital twins' of real people you can survey instantly, repeatedly](https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly) — venturebeat.com
@@ -1079,13 +1055,13 @@ Studies that attack research practice directly - LLM-generated conjoint and choi
 - **2025-09-18** — [Synthetic data has its uses – but real insight needs real people](https://www.marketingweek.com/synthetic-data-real-insight-people/) — marketingweek.com
 
 
-### Community threads (2)
+### Discussion
 
 - **2026-05-20** — [Slow Surveys Are Dead: Terapage CEO on Why Experts Are Moving to Synthetic Data](https://zenodo.org/records/20315637) — Hacker News (2 pts, 0 comments) · [thread](https://news.ycombinator.com/item?id=48213251)
 - **2026-03-17** — [Why Synthetic Data Can Never Be Ethical: A Lesson from Media Ethics (2024)](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/download/18324/11978/52201) — Hacker News (1 pts, 0 comments) · [thread](https://news.ycombinator.com/item?id=47416066)
 
 
-### Full register (400 of 1258 items, newest first)
+### Further reading
 
 - `2026-09-11` [Flexible workers’ preferences for basic medical insurance for employees: a discrete choice experiment](https://doi.org/10.1186/s12889-026-29349-y) — BMC Public Health
 - `2026-09-10` [Comprehensive market research and theoretical India → Nepal import model](https://doi.org/10.13140/rg.2.2.18863.29603) —
@@ -1493,10 +1469,8 @@ Studies that attack research practice directly - LLM-generated conjoint and choi
 
 The statistics and privacy discipline that market research mostly ignores: disclosure control, evaluation metrics, synthetic populations and benchmarking.
 
-*Register note: 252 of the 1,060 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
 
-
-### Highlights (14 of 252 on-topic works; 1060 in the register)
+### Selected reading
 
 - **2026-01-04** — [Benchmarking Statistical and Deep Generative Models for Privacy-Preserving Synthetic Student Data in Educational Data Mining](https://doi.org/10.3390/a19010039) · **OA** · cited 2<br>Algorithms · University of Patras (GR)
 - **2026-01-25** — [From Statistical Disclosure Control to Fair AI: Navigating Fundamental Tradeoffs in Differential Privacy](https://arxiv.org/pdf/2601.17909) · **OA**<br>arXiv (Cornell University)
@@ -1514,7 +1488,7 @@ The statistics and privacy discipline that market research mostly ignores: discl
 - **2025-12-30** — [Output Statistical Disclosure Control (OSDC) Principles to support Federated Analytics across Trusted Research Environments](https://doi.org/10.5281/zenodo.18095302) · **OA**<br>Zenodo (CERN European Organization for Nuclear Research) · University of Sheffield (GB)
 
 
-### Videos (14)
+### Watch
 
 - [Deep Dive into the Synthetic Data SDK](https://www.youtube.com/watch?v=ENdowPTvMhc) — PyData · 9 months ago
 - [Synthetic Data Generation with Generative Models in Python](https://www.youtube.com/watch?v=GigGd_rIDj8) — NeuralNine · 2 months ago
@@ -1532,7 +1506,7 @@ The statistics and privacy discipline that market research mostly ignores: discl
 - [Synthetic Data Generation for LLM Evaluators and Agents](https://www.youtube.com/watch?v=fOkkmbwdS7Y) — Arize AI · 1 year ago
 
 
-### Social posts (9)
+### Public conversation
 
 - **2026-08-31** · `@feed.thedigitalspeaker.com.ap.brid.gy` — In an era of AI hallucinations, synthetic media, and misinformation, validation determines whether AI creates value or catastrophe. Organizations without systematic validation are one bad output away — [post](https://bsky.app/profile/feed.thedigitalspeaker.com.ap.brid.gy/post/3mueyc5hctqs2)
 - **2026-08-19** · `@bigearthdata.ai` — Sharing more, protecting more: Three lessons from the Safe Data Technologies project ->Brookings / More on "Privacy-enhancing technologies for statistics" at BigEarthData.ai / #Data — [post](https://bsky.app/profile/bigearthdata.ai/post/3mthf32twjo2i)
@@ -1545,19 +1519,19 @@ The statistics and privacy discipline that market research mostly ignores: discl
 - **2026-04-06** · `@iam.slys.dev` — We're reimagining privacy, access, and scale with synthetic data from AI. But what happens when these generated datasets fail to capture the full messiness of reality? The story is in the gap between — [post](https://bsky.app/profile/iam.slys.dev/post/3mithmpffaz2o)
 
 
-### News coverage (3)
+### In the news
 
 - **2026-07-31** — [Synthetic Data Terminology in Official Statistics](https://www.cbs.nl/en-gb/background/2026/31/synthetic-data-terminology-in-official-statistics) — cbs.nl
 - **2026-01-27** — [Nobody Is Talking About Synthetic Data In AI](https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/01/27/nobody-is-talking-about-synthetic-data-in-ai/) — forbes.com
 - **2025-12-18** — [Execution Over Excitement: Redefining Brand Growth With Synthetic Data And AI](https://www.forbes.com/councils/forbestechcouncil/2025/12/18/execution-over-excitement-redefining-brand-growth-with-synthetic-data-and-ai/) — forbes.com
 
 
-### Institutional feed items (1)
+### From institutions
 
 - **2026-04-16** — [Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles](https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/) — Google Research
 
 
-### Community threads (19)
+### Discussion
 
 - **2026-09-11** — [Show HN: SyntheticAIdata – synthetic data for CV, 100k free credits/month](https://app.syntheticaidata.com/) — Hacker News (4 pts, 1 comments) · [thread](https://news.ycombinator.com/item?id=49662160)
 - **2026-07-09** — [Autodata: An agentic data scientist to create high quality synthetic data](https://arxiv.org/abs/2606.25996) — Hacker News (4 pts, 0 comments) · [thread](https://news.ycombinator.com/item?id=48845816)
@@ -1580,7 +1554,7 @@ The statistics and privacy discipline that market research mostly ignores: discl
 - **2025-09-26** — [The Future (and Present) of AI Is Synthetic Data](https://sutro.sh/blog/the-future-of-ai-is-synthetic-data) — Hacker News (4 pts, 1 comments) · [thread](https://news.ycombinator.com/item?id=45389037)
 
 
-### Full register (400 of 1060 items, newest first)
+### Further reading
 
 - `2026-09-10` [Site Readiness Index v0.1: assessed clinical research staff known to CRLN, by country](https://doi.org/10.5281/zenodo.22690958) — Zenodo (CERN European Organization for Nuclear Research)
 - `2026-09-10` [Site Readiness Index v0.1: assessed clinical research staff known to CRLN, by country](https://doi.org/10.5281/zenodo.22690959) — Zenodo (CERN European Organization for Nuclear Research)
@@ -1988,10 +1962,8 @@ The statistics and privacy discipline that market research mostly ignores: discl
 
 Digital twins as the industrial-scale cousin of the synthetic respondent - including human, consumer, urban and supply-chain twins, plus standardisation work.
 
-*Register note: 754 of the 1,010 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
 
-
-### Highlights (14 of 754 on-topic works; 1010 in the register)
+### Selected reading
 
 - **2025-11-18** — [Digital twins in healthcare: a comprehensive review and future directions](https://doi.org/10.3389/fdgth.2025.1633539) · **OA** · cited 61<br>Frontiers in Digital Health · The University of Texas MD Anderson Cancer Center (US)
 - **2025-09-30** — [A scoping review of human digital twins in healthcare applications and usage patterns](https://doi.org/10.1038/s41746-025-01910-w) · **OA** · cited 61<br>npj Digital Medicine · Johns Hopkins University (US)
@@ -2009,7 +1981,7 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 - **2026-03-05** — [A digital twin guided physical-virtual denoising method for early fault detection of rolling element bearings](https://doi.org/10.1016/j.ymssp.2026.114108) · cited 29<br>Mechanical Systems and Signal Processing · Ningbo University (CN)
 
 
-### Videos (18)
+### Watch
 
 - [What is a Digital Twin?](https://www.youtube.com/watch?v=2hnoGo27uf8) — IBM Technology · 1 year ago
 - [What is a Digital Twin? Technology, Types, & How it Works](https://www.youtube.com/watch?v=taSbwarjGGw) — Automatedo · 1 year ago
@@ -2031,7 +2003,7 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 - [AI for Energy: Digital Twins and India’s Energy Stack](https://www.youtube.com/watch?v=SwIHius5edE) — IndiaAI · Streamed 6 months ago
 
 
-### Social posts (13)
+### Public conversation
 
 - **2026-09-12** · `@hiddenscifi.bsky.social` — Dan Warner’s sci-fi debut Wither arrives Sept. 29. Regression builds perfect digital twins from every secret and mistake. A year after testing it in an Ozark town, Mick returns to find a ghost town wi — [post](https://bsky.app/profile/hiddenscifi.bsky.social/post/3mvcb7m6m332i)
 - **2026-09-11** · `@arxiv-daily-bot.bsky.social` — From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins  Haoran Gao et al.  #arXiv #cs.AI — [post](https://bsky.app/profile/arxiv-daily-bot.bsky.social/post/3mvbji437rw2t)
@@ -2048,7 +2020,7 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 - **2026-09-11** · `@smart-twinvill.bsky.social` — Smart TwinVill kicked off today!  14 partners, 8 countries, one mission: digital twins for resilient villages. RAINNO leads Impact Maximisation, dissemination, communication & exploitation, plus manag — [post](https://bsky.app/profile/smart-twinvill.bsky.social/post/3mvahtjtxa22u)
 
 
-### Institutional feed items (9)
+### From institutions
 
 - **2026-09-12** — [Cognitive Digital Twins: Ethical Risks and Governance for AI Systems That Model the Mind](https://arxiv.org/abs/2606.23094) — arXiv cs.AI
 - **2026-04-24** — [Twin Frameworks for Using IIoT and AI in Digital Twins in the Enterprise](https://www.digitaltwinconsortium.org/2026/04/twin-frameworks-for-using-iiot-and-ai-in-digital-twins-in-the-enterprise/) — Digital Twin Consortium
@@ -2061,7 +2033,7 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 - **2025-04-02** — [The Digital Transformation Paradox: Bridging the Maturity Gap in Industrial Manufacturing](https://www.digitaltwinconsortium.org/2025/04/the-digital-transformation-paradox-bridging-the-maturity-gap-in-industrial-manufacturing/) — Digital Twin Consortium
 
 
-### Community threads (28)
+### Discussion
 
 - **2026-08-28** — [Kojugate: Graph-native multiphysics simulation engine and digital twin](https://www.konjugate.com/) — Hacker News (1 pts, 1 comments) · [thread](https://news.ycombinator.com/item?id=49476761)
 - **2026-07-28** — [Data Centers, 'Digital Twins' and Global Lockdown (video)](https://www.youtube.com/watch?v=vuNhsCuwpLY) — Hacker News (2 pts, 0 comments) · [thread](https://news.ycombinator.com/item?id=49082018)
@@ -2093,7 +2065,7 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 - **2025-10-06** — [Show HN: A Digital Twin of my coffee roaster that runs in the browser](https://autoroaster.com/) — Hacker News (157 pts, 38 comments) · [thread](https://news.ycombinator.com/item?id=45493128)
 
 
-### Full register (400 of 1010 items, newest first)
+### Further reading
 
 - `2026-09-10` [AI-powered smart hospitals and digital twin healthcare systems](https://doi.org/10.1201/9781003665656-11) —
 - `2026-09-09` [Standardization Status and Gaps for Secure Human Digital Twins in the Real-Time Metaverse](https://doi.org/10.5281/zenodo.21861337) — Zenodo (CERN European Organization for Nuclear Research)
@@ -2501,10 +2473,8 @@ Digital twins as the industrial-scale cousin of the synthetic respondent - inclu
 
 What regulators, statistical offices and standards bodies are saying about generating people and markets in software.
 
-*Register note: 45 of the 516 works listed below are directly on the brief. The rest are adjacent literature caught by phrase search (choice experiments in health economics, population synthesis in astronomy, and similar), listed for completeness - never as a recommendation.*
 
-
-### Highlights (14 of 45 on-topic works; 516 in the register)
+### Selected reading
 
 - **2025-10-08** — [Synthetic data in medical imaging within the EHDS: a path forward for ethics, regulation, and standards](https://doi.org/10.3389/fdgth.2025.1620270) · **OA** · cited 11<br>Frontiers in Digital Health · Universidade Nova de Lisboa (PT)
 - **2026-07-14** — [Privacy Pass is Anamorphic: Practical Consequences and Attacks in the Black-box Model](https://doi.org/10.56553/popets-2026-0135) · **OA**<br>Proceedings on Privacy Enhancing Technologies · NASK National Research Institute (PL)
@@ -2522,7 +2492,7 @@ What regulators, statistical offices and standards bodies are saying about gener
 - **2026-04-13** — [Data Privacy Engineering in Cloud-Native Environments: Integrating DevPrivOps, Risk Modeling, and Privacy-Enhancing Technologies](https://doi.org/10.5281/zenodo.21514107) · **OA**<br>Zenodo (CERN European Organization for Nuclear Research)
 
 
-### Videos (8)
+### Watch
 
 - [Synthetic Data for Better AI Governance: Balancing Privacy, Risk & Assurance / Data for Policy 2026](https://www.youtube.com/watch?v=PtUOw7FgzB8) — Data for Policy · 1 day ago
 - [Synthetic Data as a Governance Tool](https://www.youtube.com/watch?v=lOzThBCLMgA) — Tech Me Out (Official) · 5 months ago
@@ -2534,7 +2504,7 @@ What regulators, statistical offices and standards bodies are saying about gener
 - [Governing the Synthetic Data Revolution: From Privacy to Trustworthy AI](https://www.youtube.com/watch?v=BkWVaNxB1cI) — SAS Software · 3 months ago
 
 
-### Social posts (10)
+### Public conversation
 
 - **2026-06-17** · `@bigearthdata.ai` — Synthetic data generation: challenges and perspectives for gastrointestinal medicine ->Nature / More on "AI synthetic data medical imaging" at BigEarthData.ai / #Data — [post](https://bsky.app/profile/bigearthdata.ai/post/3moidy5jd3e2q)
 - **2026-06-02** · `@ihi-synthia.bsky.social` — 🎧 New SYNTHIA podcast episodes are now streaming on Spotify!  Explore conversations on synthetic data, trustworthy AI, privacy, regulation & innovation in healthcare with experts from across the SYNTH — [post](https://bsky.app/profile/ihi-synthia.bsky.social/post/3mncqqzlnqc2x)
@@ -2548,7 +2518,7 @@ What regulators, statistical offices and standards bodies are saying about gener
 - **2025-10-30** · `@ssrn.bsky.social` — "Taxonomizing Synthetic Data" by Cofone et al. classifies synthetic data into transformed, augmented, and simulated types, emphasizing the importance of ground-truth assumptions for legal and policy d — [post](https://bsky.app/profile/ssrn.bsky.social/post/3m4gu67czbb2z)
 
 
-### News coverage (6)
+### In the news
 
 - **2026-09-02** — [Enveil Partners With Carahsoft to Expand Delivery of Secure Cross-Silo Data Usage Capabilities](https://finance.yahoo.com/technology/ai/articles/enveil-partners-carahsoft-expand-delivery-130200386.html) — finance.yahoo.com
 - **2026-09-01** — [Privacy-Enhancing Computation (PEC) Market and Competitor Analysis, 2026-2035 / Privacy-Preserving AI Drives Secure Data Collaboration](https://finance.yahoo.com/technology/ai/articles/privacy-enhancing-computation-pec-market-115700437.html) — finance.yahoo.com
@@ -2558,12 +2528,12 @@ What regulators, statistical offices and standards bodies are saying about gener
 - **2025-11-20** — [Privacy Enhancing Technologies ‘Core Engine’ for DPDP Implementation: MeitY Scientist](https://www.medianama.com/2025/11/223-privacy-enhancing-technologies-pet-dpdp-meity/) — medianama.com
 
 
-### Institutional feed items (1)
+### From institutions
 
 - **2026-09-12** — [When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents](https://arxiv.org/abs/2609.10750) — arXiv cs.AI
 
 
-### Full register (400 of 516 items, newest first)
+### Further reading
 
 - `2026-09-08` [Data Layer](https://doi.org/10.1201/9781003748472-3) —
 - `2026-09-07` [Enhancing Privacy, Neglecting Harms: An Analysis of Real-World Digital Privacy Incidents](https://doi.org/10.48550/arxiv.2609.07217) — arXiv (Cornell University)
@@ -2967,21 +2937,12 @@ What regulators, statistical offices and standards bodies are saying about gener
 - `2025-12-14` [HOW CAN PRIVACY-ENHANCING TECHNOLOGIES PROMOTE THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE WITHOUT COMPROMISING PRIVACY? A POLICY PROPOSAL FOR TÜRKİYE](https://dergipark.org.tr/en/pub/kvkd/article/1842109) — DergiPark (Istanbul University)
 
 
-## Method, exclusions and limitations
+## How to read this guide
 
-**Source boundary.** Universities, research institutes, national statistical offices, regulators, standards bodies, intergovernmental organisations, hospitals and corporate research labs are in scope. Syndicated market-research vendors and report farms are excluded as substantive evidence sources. Some labelled media entries point to providers’ public materials; they are included as coverage, not evidence of performance or market size.
+Use this guide to explore the research, examples and debate surrounding synthetic market research. The sections separate synthetic respondents, simulated consumers, choice experiments, synthetic data, digital twins and governance so that readers can follow the questions most relevant to their work.
 
-**How the corpus was assembled.** The scholarly layer uses 34 title/abstract phrase queries against the OpenAlex works API, restricted to the trailing 12 months and de-duplicated on DOI. The media layer adds institutional RSS/Atom feeds, YouTube search, the public Bluesky search API and the Hacker News Algolia API. Work types: article 2,493, preprint 1,108, conference-paper 472, dataset 361, software 324 and book-chapter 181.
+The evidence shows recurring value in exploration, hypothesis generation and early-stage testing. It also repeatedly points to the need for validation when a decision depends on a real sampling frame, measured behaviour or a representative population.
 
-**Link integrity.** Links were checked before publication. Twelve records returning HTTP 404/410 were excluded. Thirty links could not be reached at the check date because of timeout, TLS or DNS errors. A further 1,110 returned 401, 403 or 429 responses from automated checking; these publishers may remain accessible in a standard browser.
+Research papers, institutional material and public commentary serve different purposes. A published claim about a product or method is a useful starting point for investigation, not proof of its performance in a particular use case. Readers should examine study design, comparison data and the decision context before acting on any individual finding.
 
-**Channel volumes.** bingnews (28), feeds (11), videos (67), social (43), community (51).
-
-**Limitations - read before quoting any number:**
-
-1. It is a census of the *indexed* literature, not of everything published. OpenAlex covers Crossref, preprints and repositories well; it does not cover every blog, podcast or paywalled trade title.
-2. High-volume phrases are *sampled*. "digital twin" alone returned 38,725 hits in the window, of which the harvester kept the top 400 by index relevance. Each heading states the count actually kept, so nothing here is described as complete.
-3. Two channels were evaluated and rejected rather than shipped: Google News RSS (its article links cannot be resolved to the publisher by an automated client) and Bing's web-search RSS (it answered topical queries with dictionary definitions and unrelated pages). Institutional feeds are used instead, and no item from either rejected channel appears below.
-4. Publication dates may precede the online-first date, and a preprint may later be published elsewhere.
-5. "Digital twin" is a different discipline from synthetic respondents. It is included because the brief asked for it, which is why that section leans industrial, energy and health rather than consumer research.
-
+Digital twins sit alongside synthetic respondents because the terms increasingly overlap in commercial discussion, even though much of the underlying research comes from industrial, health and urban applications.
